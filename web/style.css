@@ -303,6 +303,7 @@ cite { display: block; font-style: normal; margin-top: 3px; font-size: 12px; }
 .qcol { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; min-width: 0; }
 .qbar { width: 70%; background: var(--accent); opacity: 0.75; border-radius: 3px 3px 0 0; }
 .qv, .qm, .ql { font: 10px var(--mono); color: var(--ink-3); white-space: nowrap; }
+.ql { text-align: center; line-height: 1.25; }
 .qv { color: var(--ink-2); font-size: 9px; }
 .qm { color: var(--ink); }
 

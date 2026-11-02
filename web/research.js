@@ -44,19 +44,25 @@ function numbers(n) {
     return `<div class="qcol"><span class="qv">${rev[i] == null ? "" : Math.round(rev[i]).toLocaleString("en-IN")}</span>
       <span class="qbar" style="height:${h.toFixed(0)}px"></span>
       <span class="qm">${margin && margin[i] != null ? margin[i] + "%" : ""}</span>
-      <span class="ql">${esc(p.replace(/^(\w{3}) 20(\d\d)$/, "$1 ’$2"))}</span></div>`;
+      <span class="ql">${esc(p.slice(0, 3))}<br>’${esc(p.slice(-2))}</span></div>`;
   }).join("");
   return `<section><h2>Reported numbers <span>revenue ₹ cr per quarter, ${margin === n.rows["OPM %"] ? "operating margin" : "margin"} below</span></h2>
     <div class="qchart">${cols}</div></section>`;
 }
 
-function check(p) {
-  if (p.verdict_by !== "numbers") return "";
+function target(p) {
   const u = p.unit === "%" ? "%" : ` ${p.unit || ""}`;
   const f = (v) => `${Number(v).toLocaleString("en-IN")}${u}`;
-  const t = p.direction === "within" ? `${f(p.target_low)} to ${f(p.target_high)}`
-    : `${p.direction === "at_most" ? "≤" : "≥"} ${f(p.direction === "at_most" ? (p.target_high ?? p.target_low) : (p.target_low ?? p.target_high))}`;
-  return `<p class="p-check">Target ${esc(t)} · actual ${esc(f(p.actual))}. Verdict set by the numbers${p.model_verdict ? `, not the model (it said “${esc(p.model_verdict)}”)` : ""}.</p>`;
+  const both = p.target_low != null && p.target_high != null;
+  const t = p.direction === "within" && both ? `${f(p.target_low)} to ${f(p.target_high)}`
+    : p.direction === "at_most" ? `≤ ${f(p.target_high ?? p.target_low)}` : `≥ ${f(p.target_low ?? p.target_high)}`;
+  return { t, a: f(p.actual) };
+}
+
+function check(p) {
+  if (p.verdict_by !== "numbers") return "";
+  const { t, a } = target(p);
+  return `<p class="p-check">Target ${esc(t)} · actual ${esc(a)}. Verdict set by the numbers${p.model_verdict ? `, not the model (it said “${esc(p.model_verdict)}”)` : ""}.</p>`;
 }
 
 function promise(p, calls) {
@@ -69,7 +75,11 @@ function promise(p, calls) {
         <span class="pill ${p.verdict}">${VERDICT[p.verdict]}</span>
         <span class="p-text"><b>${esc(p.promise)}</b>
           <span class="p-meta">Said in ${esc(p.made_in.replace(/ call$/, ""))}${p.horizon ? ` · for ${esc(p.horizon)}` : ""}</span>
-          <span class="p-ev">→ ${esc(p.evidence)}</span></span>
+          <span class="p-ev">→ ${p.model_verdict
+            // The model's prose argued for its own verdict; when the numbers
+            // overrule it, show the numbers instead.
+            ? `Actual ${esc(target(p).a)} against ${esc(target(p).t)}.`
+            : esc(p.evidence)}</span></span>
       </summary>
       <div class="p-body">
         ${check(p)}
