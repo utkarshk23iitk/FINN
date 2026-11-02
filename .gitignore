@@ -12,3 +12,6 @@ __pycache__/
 
 # source PDFs are large; the extracted .txt is kept
 data/**/*.pdf
+
+# Vercel link
+.vercel/

@@ -28,6 +28,14 @@ PORTFOLIO = [
     "DEEPAKNTR",   # Chemicals
 ]
 
+SECTORS = {
+    "RELIANCE": "Energy", "HDFCBANK": "Bank", "TCS": "IT", "BHARTIARTL": "Telecom",
+    "ITC": "FMCG", "LT": "Infra", "SUNPHARMA": "Pharma", "MARUTI": "Auto",
+    "TATASTEEL": "Metals", "BAJFINANCE": "NBFC", "TITAN": "Consumer",
+    "ADANIPORTS": "Ports", "HAL": "Defence", "TRENT": "Retail", "DIXON": "Electronics",
+    "POLYCAB": "Cables", "PERSISTENT": "IT", "DEEPAKNTR": "Chemicals",
+}
+
 # Companies for the on-demand ("pull") research demo. Can be outside the portfolio.
 RESEARCH = ["INFY", "ASIANPAINT", "IRCTC", "KAYNES"]
 
@@ -37,6 +45,11 @@ ALERTS = {
     "volume_lookback_days": 20, # "recent average" = previous 20 trading days
     "price_move_pct": 5.0,      # alert if close-to-close move is beyond +/-5%
 }
+
+# Announcement types that count as "material" by default. The user can change
+# this in the app; high-tier items outside it still show, just not as alerts.
+ALERT_CATEGORIES = ["results", "M&A", "management_change", "fund_raise",
+                    "litigation", "credit_rating", "pledging"]
 
 # --- Fetch settings -------------------------------------------------------------
 PRICE_HISTORY_PERIOD = "1y"     # how much EOD history to keep
