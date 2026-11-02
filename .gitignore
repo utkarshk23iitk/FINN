@@ -1,0 +1,14 @@
+# ENAM's material, not ours to publish
+docs/brief.md
+
+# secrets and local env
+.env
+.venv/
+
+# Python / OS junk
+__pycache__/
+*.pyc
+.DS_Store
+
+# source PDFs are large; the extracted .txt is kept
+data/**/*.pdf
