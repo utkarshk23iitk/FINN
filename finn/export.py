@@ -12,7 +12,7 @@ import pandas as pd
 import config
 from finn import announcements, prices, results
 from finn.classify import BASE_PRIORITY, PROMOTE_BONUS, TIER_HIGH, classify
-from finn.storage import data_path, write_json
+from finn.storage import data_path, read_json, write_json
 
 SESSIONS = 22   # about one month of trading days per company
 SPARK_DAYS = 30
@@ -101,3 +101,16 @@ def write_feed(path) -> dict:
     feed = build_feed()
     write_json(path, feed)
     return feed
+
+
+def write_research(folder) -> list:
+    """One JSON per researched company plus an index, for the Research tab."""
+    from pathlib import Path
+    folder = Path(folder)
+    index = []
+    for path in sorted(data_path("research", "x").parent.glob("*/review.json")):
+        r = read_json(path)
+        write_json(folder / f"{r['symbol']}.json", r)
+        index.append({"symbol": r["symbol"], "headline": r["headline"], "counts": r["counts"]})
+    write_json(folder / "index.json", index)
+    return index

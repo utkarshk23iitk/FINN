@@ -1,3 +1,5 @@
+import { renderResearch } from "./research.js";
+
 // FINN push side: a triage queue, not a feed.
 // Everything is computed here from data/feed.json, so changing a rule
 // (what counts as "unusual") re-sorts the queue instantly, with no server.
@@ -377,6 +379,25 @@ sheet.addEventListener("input", (e) => {
 
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") sheet.hidden = true; });
 
+document.addEventListener("submit", (e) => {
+  if (e.target.dataset.form !== "ticker") return;
+  e.preventDefault();
+  const sym = e.target.sym.value.trim().toUpperCase().replace(/\.(NS|BO)$/, "");
+  if (sym) location.hash = `#research/${sym}`;
+});
+
+// Two places, one app: Today (push) and Research (pull).
+function route() {
+  const [tab, sym] = location.hash.replace(/^#/, "").split("/");
+  const research = tab === "research";
+  document.querySelectorAll(".tabbar a").forEach((a) =>
+    a.classList.toggle("on", a.dataset.tab === (research ? "research" : "today")));
+  if (research) renderResearch(app, sym ? decodeURIComponent(sym) : "");
+  else render();
+  window.scrollTo(0, 0);
+}
+window.addEventListener("hashchange", route);
+
 const defaults = () => ({
   volume_multiple: feed.defaults.volume_multiple,
   price_move_pct: feed.defaults.price_move_pct,
@@ -398,7 +419,7 @@ async function main() {
     rules: { ...defaults(), ...store.get("rules", {}) },
     done: new Set(store.get("done", [])),
   };
-  render();
+  route();
 }
 
 main();
