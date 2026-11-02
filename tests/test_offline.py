@@ -216,7 +216,20 @@ class TestResultsCard(unittest.TestCase):
         e["periods"] = [p for p in e["periods"] if p["end_date"] != "2026-06-30"]
         c = build_card(e)
         self.assertFalse(c["ok"])
-        self.assertIn("no last-quarter column", c["issues"])
+        self.assertIn("no last-quarter column", c["missing"])
+        self.assertEqual(c["issues"], [])  # missing is not the same as wrong
+
+    def test_pat_printed_before_associates(self):
+        # Real RELIANCE layout (Q2 FY27): "Profit After Tax 29,250", then
+        # associates 300, then the final 29,550. The final line is PAT.
+        from finn.results import build_card
+        q = lambda d, pbt, tax, assoc: dict(end_date=d, months=3, revenue=100000.0, pbt=pbt, tax=tax,
+                                            pat=pbt - tax, associates_after_tax=assoc)
+        c = build_card({"basis": "consolidated", "unit": "crore", "lender": True, "periods": [
+            q("2026-09-30", 38613.0, 9363.0, 300.0), q("2026-06-30", 30630.0, 7629.0, 195.0),
+            q("2025-09-30", 29124.0, 6978.0, -54.0)]})
+        self.assertEqual(c["issues"], [])
+        self.assertEqual(c["rows"][3]["value"], 29550.0)
 
 
     def test_unit_is_read_from_the_statement(self):

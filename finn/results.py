@@ -173,12 +173,28 @@ def _change(cur, prev):
     return round((cur - prev) / abs(prev) * 100, 1)
 
 
+def _close(a, b) -> bool:
+    # 0.1%: enough for rounding, not for a misread digit (5156 vs 5186).
+    return abs(a - b) <= max(1.0, 0.001 * abs(b))
+
+
+def _final_pat(p: dict) -> dict:
+    """Some statements (RELIANCE) print PAT before associates, then a final
+    line after them. If the model gave the first, use the final one."""
+    p = dict(p)
+    assoc = p.get("associates_after_tax")
+    if assoc and None not in (p.get("pbt"), p.get("tax"), p.get("pat")) \
+            and _close(p["pbt"] - p["tax"], p["pat"]) and not _close(p["pbt"] - p["tax"] + assoc, p["pat"]):
+        p["pat"] = p["pat"] + assoc
+    return p
+
+
 def build_card(ext: dict, unit: str = None) -> dict:
     """Pure function: extracted columns -> card. `unit` is the one printed
     on the statement and wins over the model's. Raises ValueError if the
     filing has no current quarter."""
     scale = TO_CRORE.get(unit or ext.get("unit"), 1)
-    quarters = sorted((p for p in ext.get("periods", []) if p.get("months") == 3 and p.get("end_date")),
+    quarters = sorted((_final_pat(p) for p in ext.get("periods", []) if p.get("months") == 3 and p.get("end_date")),
                       key=lambda p: p["end_date"], reverse=True)
     if not quarters:
         raise ValueError("no quarterly column found")
@@ -186,12 +202,11 @@ def build_card(ext: dict, unit: str = None) -> dict:
     find = lambda gap: next((p for p in quarters[1:] if _months_between(cur["end_date"], p["end_date"]) == gap), None)
     prev_q, prev_y = find(3), find(12)
 
-    issues = [f"no {label} column" for label, p in (("last-quarter", prev_q), ("last-year", prev_y)) if not p]
+    missing = [f"no {label} column" for label, p in (("last-quarter", prev_q), ("last-year", prev_y)) if not p]
+    issues = []
     for label, p in (("this quarter", cur), ("last quarter", prev_q), ("last year", prev_y)):
         if p and None not in (p.get("pbt"), p.get("tax"), p.get("pat")):
-            expected = p["pbt"] - p["tax"] + (p.get("associates_after_tax") or 0)
-            # 0.1%: enough for rounding, not for a misread digit (5156 vs 5186).
-            if abs(expected - p["pat"]) > max(1.0, 0.001 * abs(p["pat"])):
+            if not _close(p["pbt"] - p["tax"] + (p.get("associates_after_tax") or 0), p["pat"]):
                 issues.append(f"PBT − tax ≠ PAT for {label}")
     lender = bool(ext.get("lender"))
     m = {k: _metrics(p, scale, lender) if p else None for k, p in (("cur", cur), ("qoq", prev_q), ("yoy", prev_y))}
@@ -208,7 +223,8 @@ def build_card(ext: dict, unit: str = None) -> dict:
         "basis": ext.get("basis"), "lender": lender, "quarter_end": cur["end_date"],
         "qoq_end": prev_q and prev_q["end_date"], "yoy_end": prev_y and prev_y["end_date"],
         "rows": rows, "ebitda_margin": margin(m["cur"]), "ebitda_margin_yoy": margin(m["yoy"]),
-        "issues": issues, "ok": not issues and prev_q is not None and prev_y is not None
+        "issues": issues, "missing": missing, "notes": [],
+        "ok": not issues and not missing
               and all(r["value"] is not None for r in rows if not (lender and r["metric"] == "ebitda")),
     }
 
@@ -248,6 +264,22 @@ def extract(a: dict) -> dict:
     return out
 
 
+def rebuild() -> int:
+    """Re-run the card rules over saved extractions. Free: no model calls."""
+    n = 0
+    for path in data_path("results", "x").parent.glob("*.json"):
+        r = read_json(path)
+        pdf = data_path("filings", f"{r['id']}.pdf")
+        text = statement_pages(pdf.read_bytes())[0] if pdf.exists() else ""
+        try:
+            r["card"] = build_card(r["extracted"], detect_unit(text))
+        except ValueError as exc:
+            r["card"] = {"ok": False, "issues": [str(exc)]}
+        write_json(path, r)
+        n += 1
+    return n
+
+
 SCREENER_MONTH = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 
@@ -266,12 +298,24 @@ def cross_check(symbol: str, card: dict) -> dict:
     ours = {r["metric"]: r["value"] for r in card["rows"]}
     theirs = {"revenue": (q["rows"].get("Sales") or q["rows"].get("Revenue") or [None] * (i + 1))[i],
               "pat": (q["rows"].get("Net Profit") or [None] * (i + 1))[i]}
-    off = [k for k, v in theirs.items()
-           if v and ours.get(k) and abs(ours[k] - v) > 0.03 * abs(v)]
-    out = {**card, "screener": {"period": label, **theirs, "match": not off}}
-    if off:
+    if not theirs["revenue"] or not theirs["pat"] or not ours.get("revenue") or not ours.get("pat"):
+        return card
+    out = {**card, "screener": {"period": label, **theirs}, "notes": list(card.get("notes", []))}
+    near = lambda a, b: abs(a - b) <= 0.03 * abs(b)
+    # Same power of ten off on both revenue and PAT = a unit slip, not a misread.
+    for k in (10, 100, 1000, 0.1, 0.01, 0.001):
+        if near(ours["revenue"] * k, theirs["revenue"]) and near(ours["pat"] * k, theirs["pat"]):
+            out["rows"] = [{**r, "value": None if r["value"] is None else round(r["value"] * k, 1)} for r in card["rows"]]
+            out["notes"].append("unit corrected using screener.in")
+            ours = {r["metric"]: r["value"] for r in out["rows"]}
+            break
+    if not near(ours["pat"], theirs["pat"]):
         out["ok"] = False
-        out["issues"] = card["issues"] + [f"{k} differs from screener.in ({ours[k]:,.0f} vs {theirs[k]:,.0f})" for k in off]
+        out["issues"] = card["issues"] + [f"PAT differs from screener.in ({ours['pat']:,.0f} vs {theirs['pat']:,.0f})"]
+    elif not near(ours["revenue"], theirs["revenue"]):
+        # PAT agrees, so this is a definition gap (excise duty, interest-only
+        # revenue for banks), not a wrong number. Say so, don't fail.
+        out["notes"].append(f"screener.in shows revenue of {theirs['revenue']:,.0f} (different definition)")
     return out
 
 
