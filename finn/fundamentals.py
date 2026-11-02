@@ -173,7 +173,9 @@ def download_transcripts(symbol: str, concalls: list, n: int = config.TRANSCRIPT
                 print(f"    ! transcript {c['period']}: {exc}")
                 continue
             time.sleep(config.REQUEST_PAUSE_SECONDS)
-        saved.append({"period": c["period"], "pdf": str(pdf_path), "text": str(txt_path),
+        # Paths relative to data/, so the cache works on any machine.
+        rel = lambda p: p.relative_to(config.DATA_DIR).as_posix()
+        saved.append({"period": c["period"], "pdf": rel(pdf_path), "text": rel(txt_path),
                       "source_url": c["transcript"]})
     return saved
 
