@@ -276,6 +276,8 @@ def settle(p: dict) -> dict:
     lo, hi, act, d = p.get("target_low"), p.get("target_high"), p.get("actual"), p.get("direction")
     if act is None or d in (None, "none") or (lo is None and hi is None) or p["verdict"] in ("pending", "dropped"):
         return p
+    if d == "within" and (lo is None or hi is None):  # a band with one edge is a floor or a ceiling
+        d = "at_least" if lo is not None else "at_most"
     lo, hi = (lo if lo is not None else hi), (hi if hi is not None else lo)
     pct = (p.get("unit") or "").strip() in ("%", "percent", "pp")
     tol = 1.0 if pct else 0.10 * max(abs(lo), abs(hi))
@@ -290,6 +292,19 @@ def settle(p: dict) -> dict:
     if verdict != p["verdict"]:
         out.update(verdict=verdict, model_verdict=p["verdict"])
     return out
+
+
+def rescore(symbol: str) -> dict:
+    """Re-apply settle() to a saved review. Free: no model calls."""
+    path = data_path("research", symbol, "review.json")
+    r = read_json(path)
+    r["promises"] = [settle({**p, "verdict": p.get("model_verdict", p["verdict"])}) for p in r["promises"]]
+    for p in r["promises"]:
+        if p.get("model_verdict") == p["verdict"]:
+            p.pop("model_verdict")
+    r["counts"] = {v: sum(1 for p in r["promises"] if p["verdict"] == v) for v in VERDICTS}
+    write_json(path, r)
+    return r
 
 
 def review(symbol: str, refresh: bool = False, transcripts: int = 4) -> dict:

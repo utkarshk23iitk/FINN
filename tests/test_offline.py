@@ -217,6 +217,8 @@ class TestResearch(unittest.TestCase):
         band = {**base, "direction": "within", "target_low": 18, "target_high": 20}
         self.assertEqual(settle({**band, "actual": 19.1})["verdict"], "delivered")
         self.assertEqual(settle({**band, "actual": 16.0})["verdict"], "missed")
+        # Real ASIANPAINT case: "mid-single-digit value growth", one edge given, actual 4.9%.
+        self.assertEqual(settle({**base, "direction": "within", "target_low": 4, "actual": 4.9})["verdict"], "delivered")
         # Timing calls stay with the model.
         self.assertEqual(settle({**base, "verdict": "pending", "target_low": 15, "actual": 2})["verdict"], "pending")
 
