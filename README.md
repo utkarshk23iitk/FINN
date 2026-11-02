@@ -1,4 +1,21 @@
-# FINN data layer
+# FINN
+
+A mobile-first investment agent for Indian equities, built for the ENAM
+AI Engineer challenge. Design choices are in [DECISIONS.md](DECISIONS.md).
+
+## Web app
+
+`web/` is a static page: a triage queue of what changed in an 18-company
+portfolio, with alert rules the user sets. Refresh it with:
+
+```bash
+python fetch_all.py --only prices
+python fetch_all.py --only announcements --days 5
+python export_web.py              # writes web/data/feed.json
+cd web && python -m http.server   # open http://localhost:8000
+```
+
+## Data layer
 
 Fetches and caches the three data sources from the ENAM brief:
 
