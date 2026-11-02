@@ -178,6 +178,64 @@ class TestScreenerParsing(unittest.TestCase):
         self.assertIsNone(d["concalls"][1]["transcript"])
 
 
+class TestTranscriptPick(unittest.TestCase):
+    def test_duplicate_label_does_not_use_a_slot(self):
+        # Real screener.in list for TCS (Oct 2026): "Jul 2026" appears twice,
+        # the second link being the Jul 2025 call. Jan 2026 must still be picked.
+        calls = [{"period": p, "transcript": u} for p, u in [
+            ("Oct 2026", "a.pdf"), ("Jul 2026", "b.pdf"), ("Jul 2026", "tcs-q1-2025-26.pdf"),
+            ("Apr 2026", "c.pdf"), ("Jan 2026", "d.pdf"), ("Oct 2025", None)]]
+        picked = fundamentals.pick_transcripts(calls)
+        self.assertEqual([c["period"] for c in picked][:4], ["Oct 2026", "Jul 2026", "Apr 2026", "Jan 2026"])
+        self.assertEqual(picked[1]["transcript"], "b.pdf")
+
+class TestResearch(unittest.TestCase):
+    def test_call_month_maps_to_the_quarter_it_covers(self):
+        from finn.research import call_quarter
+        self.assertEqual(call_quarter("Oct 2026"), ("Q2 FY27", "2026-09"))
+        self.assertEqual(call_quarter("Jan 2026"), ("Q3 FY26", "2025-12"))
+        self.assertEqual(call_quarter("May 2026"), ("Q4 FY26", "2026-03"))
+        self.assertEqual(call_quarter("Aug 2026"), ("Q1 FY27", "2026-06"))
+
+    def test_fiscal_totals_use_april_to_march(self):
+        from finn.research import fiscal_totals
+        periods = ["Jun 2025", "Sep 2025", "Dec 2025", "Mar 2026", "Jun 2026", "Sep 2026"]
+        t = fiscal_totals(periods, [1160, 1146, 1449, 1460, 1370, 1400])  # IRCTC sales, ₹ cr
+        self.assertEqual(t, {"FY26": 5215, "H1 FY27": 2770})
+
+    def test_numbers_decide_numeric_promises(self):
+        from finn.research import settle
+        base = {"verdict": "delivered", "direction": "at_least", "unit": "%"}
+        # Real IRCTC case: "15% sustainable growth this year", FY26 sales +11.5%.
+        # Flash-Lite said delivered; the numbers say missed.
+        p = settle({**base, "target_low": 15, "actual": 11.5})
+        self.assertEqual((p["verdict"], p["model_verdict"]), ("missed", "delivered"))
+        self.assertEqual(settle({**base, "target_low": 15, "actual": 14.2})["verdict"], "partly")
+        # Real KAYNES case: "cross about INR4,000 crores minimum for FY26", actual 3,626.
+        k = settle({**base, "unit": "₹ crore", "target_low": 4000, "actual": 3626.4, "verdict": "missed"})
+        self.assertEqual(k["verdict"], "partly")
+        band = {**base, "direction": "within", "target_low": 18, "target_high": 20}
+        self.assertEqual(settle({**band, "actual": 19.1})["verdict"], "delivered")
+        self.assertEqual(settle({**band, "actual": 16.0})["verdict"], "missed")
+        # Timing calls stay with the model.
+        self.assertEqual(settle({**base, "verdict": "pending", "target_low": 15, "actual": 2})["verdict"], "pending")
+
+    def test_quote_must_be_in_the_transcript(self):
+        from finn.research import _squash, quote_found
+        # Real TCS transcript text: PDF breaks lines and uses ligatures.
+        source = _squash("Our disciplined approach to margin manage-\nment remains un changed. "
+                         "As growth improves, we expect to beneﬁt from enhanced scale")
+        self.assertTrue(quote_found("we expect to benefit from enhanced scale", source))
+        self.assertFalse(quote_found("we expect margins to expand by 100 bps", source))
+
+    def test_trim_keeps_management_numbers_and_drops_moderator(self):
+        from finn.research import trim
+        text = ("\nModerator: Ladies and gentlemen, welcome to the call, we expect it to run 60 minutes.\n"
+                "Samir Seksaria: Our operating margins remained stable sequentially at 24%. Thank you.\n")
+        out = trim(text)
+        self.assertIn("Samir Seksaria: Our operating margins remained stable sequentially at 24%.", out)
+        self.assertNotIn("Ladies", out)
+
 class TestResultsCard(unittest.TestCase):
     # Real ITC consolidated statement, Q2 FY27 (filed 2 Nov 2026). The filing
     # lists this quarter, then last year, then last quarter.

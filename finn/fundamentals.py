@@ -152,13 +152,32 @@ def _pdf_to_text(pdf_path) -> str:
     return "\n\n".join((page.extract_text() or "") for page in reader.pages)
 
 
+def _slug(period: str) -> str:
+    return re.sub(r"[^A-Za-z0-9]+", "-", period).strip("-") or "unknown"
+
+
+def pick_transcripts(concalls: list) -> list:
+    """Concalls with a transcript, one per period label, newest first.
+    screener.in sometimes lists an older call under a newer label (TCS, Oct
+    2026: a Jul 2025 call shown as "Jul 2026"). The first entry per label is
+    the real one; a duplicate must not use up one of the n slots."""
+    seen, out = set(), []
+    for c in concalls:
+        if c.get("transcript") and _slug(c["period"]) not in seen:
+            seen.add(_slug(c["period"]))
+            out.append(c)
+    return out
+
+
 def download_transcripts(symbol: str, concalls: list, n: int = config.TRANSCRIPTS_PER_COMPANY) -> list:
     """Save the latest n transcripts as PDF + extracted text (the text is what
-    you'll send to the model; extracting once and caching keeps LLM costs down)."""
+    you'll send to the model; extracting once and caching keeps LLM costs down).
+    A failed download moves on to the next quarter, so n are saved if possible."""
     saved = []
-    with_transcript = [c for c in concalls if c.get("transcript")][:n]
-    for c in with_transcript:
-        slug = re.sub(r"[^A-Za-z0-9]+", "-", c["period"]).strip("-") or "unknown"
+    for c in pick_transcripts(concalls):
+        if len(saved) >= n:
+            break
+        slug = _slug(c["period"])
         pdf_path = data_path("fundamentals", symbol, "transcripts", f"{slug}.pdf")
         txt_path = pdf_path.with_suffix(".txt")
         if not txt_path.exists():
