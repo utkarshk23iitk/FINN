@@ -185,24 +185,38 @@ function resultsTable(r) {
   const cell = (v) => `<td class="num ${tone(v)}">${pct(v)}</td>`;
   const rows = r.rows.map((x) => `<tr><th>${name[x.metric]}</th>
     <td class="num">${x.value == null ? "–" : crore.format(x.value)}</td>${cell(x.qoq)}${cell(x.yoy)}</tr>`).join("");
-  const margin = r.ebitda_margin != null
-    ? `EBITDA margin ${r.ebitda_margin}%${r.ebitda_margin_yoy != null ? `, ${r.ebitda_margin_yoy}% a year ago` : ""}. ` : "";
-  const note = r.ok
-    ? `<p class="res-note">${margin}${esc(r.basis)}, ₹ crore. Read from the filing; the arithmetic checks out.</p>`
-    : `<p class="res-note warn">Numbers didn't add up (${esc((r.issues || []).join("; "))}). Check the filing before relying on them.</p>`;
+  const basis = r.basis ? r.basis[0].toUpperCase() + r.basis.slice(1) : "";
+  const notes = (r.notes || []).map((n) => ` ${esc(n[0].toUpperCase() + n.slice(1))}.`).join("");
+  const note = (r.issues || []).length
+    ? `<p class="res-note warn">Numbers didn't add up (${esc(r.issues.join("; "))}). Check the filing before relying on them.</p>`
+    : (r.missing || []).length
+      ? `<p class="res-note">${basis}. This filing has only the current quarter, so no comparisons.${notes}</p>`
+      : `<p class="res-note">${basis}. Checked: PBT − tax = PAT${r.screener ? ", matches screener.in" : ""}.${notes}</p>`;
   return `<table class="results"><thead><tr><th>${fiscalQuarter(r.quarter_end)}</th><th>₹ cr</th><th>QoQ</th><th>YoY</th></tr></thead>
     <tbody>${rows}</tbody></table>${note}`;
 }
 
+// The one line an investor wants from a results card, built from the numbers.
+function resultsLine(r) {
+  const row = Object.fromEntries((r.rows || []).map((x) => [x.metric, x]));
+  if (!row.pat || row.pat.yoy == null || !row.revenue || row.revenue.yoy == null) return null;
+  const delta = r.ebitda_margin != null && r.ebitda_margin_yoy != null ? r.ebitda_margin - r.ebitda_margin_yoy : null;
+  const margin = delta != null && Math.abs(delta) >= 1
+    ? ` · EBITDA margin ${delta > 0 ? "+" : "−"}${Math.abs(delta).toFixed(1)} pts to ${r.ebitda_margin}%` : "";
+  return `PAT ${pct(row.pat.yoy)} YoY on revenue ${pct(row.revenue.yoy)}${margin}`;
+}
+
 function filingCard(g, done) {
   const a = g.lead;
-  const withNumbers = [a, ...g.rest].find((x) => x.results && x.results.rows);
+  // A results day can carry several filings with numbers: prefer a checked one.
+  const all = [a, ...g.rest].filter((x) => x.results && x.results.rows);
+  const withNumbers = all.find((x) => x.results.ok) || all.find((x) => !(x.results.issues || []).length) || all[0];
   const rest = g.rest.length
     ? `<details class="rest"><summary>+${g.rest.length} related filing${g.rest.length > 1 ? "s" : ""}</summary>
         ${g.rest.map((r) => `<p>${esc(r.headline)} ${filingLink(r.url)}</p>`).join("")}</details>` : "";
   return `<article class="card ${done ? "done" : ""}">
     <header>${tag(a.category, true)}${who(a.symbol)}<time>${when(a.time)}</time></header>
-    <p class="headline">${esc(a.headline)}</p>
+    <p class="headline">${esc((withNumbers && resultsLine(withNumbers.results)) || a.headline)}</p>
     ${withNumbers ? resultsTable(withNumbers.results) : ""}
     ${rest}
     ${actions(g, done, a.url)}
