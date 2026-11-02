@@ -58,6 +58,18 @@ Email to `assessment@enam.com`, subject `ENAM - IIT screening - 2027`, with:
 
 Deadline: Tuesday 3 November 2026 (extended from Sunday 1 Nov in the brief).
 
+## Status as of Tue 3 Nov, 03:00
+
+- Own git repo (`main`), not yet pushed to GitHub (`gh` not installed).
+- Push screen live: https://finn-portfolio-gamma.vercel.app (Vercel
+  project `finn-portfolio`, deployed from `web/`). Static; data comes from
+  `web/data/feed.json`, made by `python export_web.py`.
+- Cache refreshed: prices for all 18 companies (to 30 Oct), filings to 2 Nov.
+- Classifier fix: transcripts that name the results rank as earnings_call.
+- Decisions so far are in `DECISIONS.md`.
+- Next: results card (item 2) and promised-vs-delivered (item 3), both
+  need an LLM API key. Transcript label bug below is still open.
+
 ## Status as of Mon 2 Nov (checked in Claude Code)
 
 Deadline extended to Tue 3 Nov, so 3 Nov is the last day to submit.
