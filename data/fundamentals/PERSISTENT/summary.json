@@ -1,0 +1,554 @@
+{
+  "symbol": "PERSISTENT",
+  "source": "screener.in",
+  "quarters": {
+    "periods": [
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        2412.0,
+        2498.0,
+        2591.0,
+        2737.0,
+        2897.0,
+        3062.0,
+        3242.0,
+        3334.0,
+        3581.0,
+        3778.0,
+        4056.0,
+        4303.0,
+        4664.0
+      ],
+      "Expenses": [
+        2007.0,
+        2056.0,
+        2136.0,
+        2282.0,
+        2416.0,
+        2524.0,
+        2658.0,
+        2722.0,
+        2898.0,
+        3045.0,
+        3288.0,
+        3606.0,
+        4030.0
+      ],
+      "Operating Profit": [
+        405.0,
+        442.0,
+        454.0,
+        455.0,
+        481.0,
+        538.0,
+        584.0,
+        612.0,
+        683.0,
+        733.0,
+        768.0,
+        697.0,
+        633.0
+      ],
+      "OPM %": [
+        17.0,
+        18.0,
+        18.0,
+        17.0,
+        17.0,
+        18.0,
+        18.0,
+        18.0,
+        19.0,
+        19.0,
+        19.0,
+        16.0,
+        14.0
+      ],
+      "Other Income": [
+        37.0,
+        38.0,
+        31.0,
+        31.0,
+        47.0,
+        43.0,
+        18.0,
+        55.0,
+        52.0,
+        -49.0,
+        33.0,
+        71.0,
+        24.0
+      ],
+      "Interest": [
+        12.0,
+        12.0,
+        10.0,
+        14.0,
+        18.0,
+        16.0,
+        18.0,
+        17.0,
+        18.0,
+        19.0,
+        19.0,
+        29.0,
+        38.0
+      ],
+      "Depreciation": [
+        74.0,
+        79.0,
+        80.0,
+        71.0,
+        74.0,
+        82.0,
+        79.0,
+        94.0,
+        100.0,
+        101.0,
+        109.0,
+        115.0,
+        167.0
+      ],
+      "Profit before tax": [
+        356.0,
+        389.0,
+        395.0,
+        401.0,
+        435.0,
+        482.0,
+        505.0,
+        555.0,
+        617.0,
+        565.0,
+        674.0,
+        623.0,
+        454.0
+      ],
+      "Tax %": [
+        26.0,
+        26.0,
+        20.0,
+        24.0,
+        25.0,
+        23.0,
+        22.0,
+        23.0,
+        24.0,
+        22.0,
+        21.0,
+        22.0,
+        23.0
+      ],
+      "Net Profit": [
+        263.0,
+        286.0,
+        315.0,
+        306.0,
+        325.0,
+        373.0,
+        396.0,
+        425.0,
+        471.0,
+        439.0,
+        529.0,
+        483.0,
+        352.0
+      ],
+      "EPS in Rs": [
+        17.11,
+        18.59,
+        20.47,
+        19.89,
+        21.02,
+        24.12,
+        25.59,
+        27.17,
+        30.15,
+        27.86,
+        33.55,
+        30.62,
+        22.28
+      ]
+    }
+  },
+  "headline": {
+    "period": "Sep 2026",
+    "vs_qoq": "Jun 2026",
+    "vs_yoy": "Sep 2025",
+    "metrics": {
+      "Revenue": {
+        "value": 4664.0,
+        "qoq_pct": 8.4,
+        "yoy_pct": 30.2
+      },
+      "EBITDA": {
+        "value": 633.0,
+        "qoq_pct": -9.2,
+        "yoy_pct": -7.3
+      },
+      "PBT": {
+        "value": 454.0,
+        "qoq_pct": -27.1,
+        "yoy_pct": -26.4
+      },
+      "PAT": {
+        "value": 352.0,
+        "qoq_pct": -27.1,
+        "yoy_pct": -25.3
+      }
+    }
+  },
+  "concalls": [
+    {
+      "period": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69eb4f2c-1eb5-4654-a500-c7bef33d2f19.pdf",
+      "recording": "https://www.persistent.com/wp-content/uploads/2026/10/Analyst-Call-Audio-Recording-Q2FY27.mp3"
+    },
+    {
+      "period": "Sep 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=05c651aa-b523-490c-bc71-82aa02d579c0.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3b69fe96-720a-48da-9ace-c045c4422419.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2026",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb576c3c-6adf-4f63-9347-4de1b08d8a60.pdf",
+      "recording": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Audio-Recording-Q4FY26.mp3"
+    },
+    {
+      "period": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d9de693b-9b58-4325-a318-8df28405a0d5.pdf",
+      "recording": "https://youtu.be/sxN5Slwfgdk"
+    },
+    {
+      "period": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f38819d8-e17e-417b-960f-c192b4d17af5.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=05654edd-992e-434a-81c1-bac885e32731.pdf",
+      "recording": "https://www.persistent.com/wp-content/uploads/2025/10/Analyst-Call-Audio-Recording-Q2FY26.mp3"
+    },
+    {
+      "period": "Jul 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=35397e08-8726-451b-aa02-a838a82bd45e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59c9a5a3-cb95-4924-a271-acdb12d3ba7e.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ff389fb-4326-4ddd-a072-0589f6034743.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=024634ff-47c6-4b10-a8d5-fe886ef9b5ad.pdf",
+      "recording": "https://www.youtube.com/watch?v=g0V-FDIULls"
+    },
+    {
+      "period": "Jan 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8328b82d-a8f0-4816-a6ec-82bcc209780f.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1115b95a-7aba-42a3-a49b-5784209e469e.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f8f1553-68e9-4e36-8731-cd9ddd4cf043.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f225c33b-4847-4b53-8ba6-b4cd5163be6a.pdf",
+      "recording": "https://www.persistent.com/wp-content/uploads/2024/10/Analyst-Call-Audio-Recording-Q2FY25.mp3"
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=415b3640-c3d9-49ec-863b-e523805521c0.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f537b66d-0962-4341-85b2-3430ecd9c20c.pdf",
+      "recording": "https://www.persistent.com/wp-content/uploads/2024/07/Analyst-Call-Audio-Recording-Q1FY25.mp3"
+    },
+    {
+      "period": "Apr 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12fa9dad-c0b9-4de7-b1ff-6206b03e95e0.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c994b965-0fb1-43ce-8854-3e8ad422cb1c.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2024",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2024/01/Analyst-Call-Transcript-Q3FY24.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=189a422c-128c-48e3-a1c2-8612661958e3.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=40b984ee-d89f-4cab-8400-1984b4a4d335.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b2cb09f2-66ea-42f6-9a80-4b9a3b6c571f.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1432cd28-c5c4-444d-900b-cf95ad58cb91.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a6ffaa04-3eeb-4d26-a273-91050ef40f56.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=078a3f82-1e78-4dfd-bef9-63e5dbdc424d.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d7ad0bb-9125-4edc-8993-15d5f8c97d68.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cac8db3c-1d39-4c1f-82fd-409b93396f6b.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=261b3b89-9752-4c4f-ae7f-41ffed19c29d.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9ad4a79d-b37c-4af1-b5c2-b4e6be0eb93b.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4cd42ced-c22f-4282-bd2b-302ff2ad81f4.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f65ef23e-7899-4e64-b769-4d87e5e79e11.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e03d4e2b-8fa8-4394-825c-902dd409ba4e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d97ff59a-184d-429d-857d-199925331fc6.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=efeee00c-5b26-46cf-9c67-d919ffdb0510.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a044d3d-1364-4d9d-ac47-96df9a88b520.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81ebf03f-7c83-4b0c-a5cb-89418db2c5ac.pdf",
+      "recording": null
+    },
+    {
+      "period": "Mar 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aa02f3af-0f76-4b51-80f7-829d31ffae9e.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf6530ae-9cc1-4757-b88c-fbe94d343b23.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1497dfa3-5c63-4ffc-a22a-6a12df4cd59d.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a849ee0-30b8-4925-a317-2688239be378.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a2e4cf97-2397-413d-9c8a-a4c924ec21bc.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6aed8004-67f2-4b23-81d7-5919ed077ba7.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc4fc795-ba67-4585-8e00-d7b53e819c72.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=622b3cd0-4e30-4799-b0da-9c1533025fde.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2021",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2021/05/analyst-Call-transcript-q4-fy21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9d97189b-cd99-4341-af3f-d76cf985220a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2021",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2021/02/Analyst-Call-Transcript-Q3FY21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5edd4ebd-a93a-4b93-ad36-c01d8873274b.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2020",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2020/11/analyst-call-transcript-q2fy21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6070662e-008a-418b-a6d7-1a530adef477.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2020",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2020/09/analyst-call-transcript-q1-fy21.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "May 2020",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2020/05/analyst-call-transcript-q4fy20.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=df72a57c-8cc8-4c99-afd8-d8eab0381c10.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2020",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2020/02/analyst-call-transcript-q3fy20.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca326539-73eb-4d9b-aa06-40ac219a6cd8.pdf",
+      "recording": null
+    },
+    {
+      "period": "Dec 2019",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2019/11/analyst-call-transcript-q2fy20.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2019",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2020/10/analyst-call-transcript-q1fy20.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2019",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2019/05/analyst-call-transcript-q4-fy19.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2019",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2019/07/analyst-call-transcript-q3fy19.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Nov 2018",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2018/10/analyst-call-transcript-q2fy19.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8562476-f216-4be1-b81b-96c599fcb84e.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2018",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2018/08/analyst-call-transcript-q1fy19.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2018",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2018/05/Analyst-Call-Transcript-Q4FY18.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2018",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2018/02/Analyst-Call-Transcript-Q3FY18.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ddf45e5-12fb-4b58-9892-58dac3657301.pdf",
+      "recording": null
+    }
+  ],
+  "annual_reports": [
+    {
+      "title": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf"
+    },
+    {
+      "title": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/659e0149-a77e-46a1-adab-05e676fe9996.pdf"
+    },
+    {
+      "title": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8419d162-e08b-450a-b37b-660fe25e7e7b.pdf"
+    },
+    {
+      "title": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/65a9cb2d-d65d-4c9e-8e62-ed47cfea9b8f.pdf"
+    },
+    {
+      "title": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/73286533179_13_07_22.pdf"
+    },
+    {
+      "title": "Annual Report 2021",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/68618533179.pdf"
+    },
+    {
+      "title": "Annual Report 2020",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790320.pdf"
+    },
+    {
+      "title": "Annual Report 2019",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790319.pdf"
+    },
+    {
+      "title": "Annual Report 2018",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790318.pdf"
+    },
+    {
+      "title": "Annual Report 2017",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790317.pdf"
+    },
+    {
+      "title": "Annual Report 2016",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790316.pdf"
+    },
+    {
+      "title": "Annual Report 2015",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790315.pdf"
+    },
+    {
+      "title": "Annual Report 2014",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790314.pdf"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/5331790313.pdf"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://archives.nseindia.com/annual_reports/AR_832_PERSISTENT_2012_2013_31072013141442.zip"
+    },
+    {
+      "title": "DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2010/persistent-systems-limited_2401.html"
+    }
+  ],
+  "transcripts_saved": []
+}

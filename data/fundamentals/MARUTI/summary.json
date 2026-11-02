@@ -1,0 +1,532 @@
+{
+  "symbol": "MARUTI",
+  "source": "screener.in",
+  "quarters": {
+    "periods": [
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        37339.0,
+        33513.0,
+        38471.0,
+        35779.0,
+        37449.0,
+        38764.0,
+        40920.0,
+        38605.0,
+        42344.0,
+        49904.0,
+        52462.0,
+        52470.0,
+        53356.0
+      ],
+      "Expenses": [
+        32028.0,
+        29073.0,
+        33250.0,
+        30673.0,
+        32450.0,
+        33688.0,
+        36076.0,
+        33983.0,
+        37258.0,
+        44331.0,
+        46304.0,
+        48156.0,
+        48591.0
+      ],
+      "Operating Profit": [
+        5312.0,
+        4440.0,
+        5221.0,
+        5107.0,
+        4999.0,
+        5076.0,
+        4844.0,
+        4623.0,
+        5086.0,
+        5573.0,
+        6158.0,
+        4313.0,
+        4764.0
+      ],
+      "OPM %": [
+        14.0,
+        13.0,
+        14.0,
+        14.0,
+        13.0,
+        13.0,
+        12.0,
+        12.0,
+        12.0,
+        11.0,
+        12.0,
+        8.0,
+        9.0
+      ],
+      "Other Income": [
+        958.0,
+        1053.0,
+        1261.0,
+        1118.0,
+        1570.0,
+        1125.0,
+        1583.0,
+        1924.0,
+        1014.0,
+        1140.0,
+        581.0,
+        1972.0,
+        483.0
+      ],
+      "Interest": [
+        35.0,
+        36.0,
+        76.0,
+        57.0,
+        43.0,
+        46.0,
+        48.0,
+        47.0,
+        57.0,
+        62.0,
+        73.0,
+        64.0,
+        68.0
+      ],
+      "Depreciation": [
+        1342.0,
+        1302.0,
+        1298.0,
+        1332.0,
+        1386.0,
+        1429.0,
+        1462.0,
+        1556.0,
+        1703.0,
+        1735.0,
+        1748.0,
+        1780.0,
+        1960.0
+      ],
+      "Profit before tax": [
+        4892.0,
+        4156.0,
+        5108.0,
+        4836.0,
+        5141.0,
+        4726.0,
+        4918.0,
+        4944.0,
+        4339.0,
+        4917.0,
+        4918.0,
+        4441.0,
+        3219.0
+      ],
+      "Tax %": [
+        23.0,
+        23.0,
+        23.0,
+        22.0,
+        40.0,
+        21.0,
+        20.0,
+        23.0,
+        23.0,
+        21.0,
+        26.0,
+        22.0,
+        23.0
+      ],
+      "Net Profit": [
+        3786.0,
+        3207.0,
+        3952.0,
+        3760.0,
+        3102.0,
+        3727.0,
+        3911.0,
+        3792.0,
+        3349.0,
+        3879.0,
+        3659.0,
+        3447.0,
+        2466.0
+      ],
+      "EPS in Rs": [
+        125.34,
+        102.0,
+        125.71,
+        119.58,
+        98.68,
+        118.54,
+        124.4,
+        120.62,
+        106.52,
+        123.38,
+        116.38,
+        109.63,
+        78.44
+      ]
+    }
+  },
+  "headline": {
+    "period": "Sep 2026",
+    "vs_qoq": "Jun 2026",
+    "vs_yoy": "Sep 2025",
+    "metrics": {
+      "Revenue": {
+        "value": 53356.0,
+        "qoq_pct": 1.7,
+        "yoy_pct": 26.0
+      },
+      "EBITDA": {
+        "value": 4764.0,
+        "qoq_pct": 10.5,
+        "yoy_pct": -6.3
+      },
+      "PBT": {
+        "value": 3219.0,
+        "qoq_pct": -27.5,
+        "yoy_pct": -25.8
+      },
+      "PAT": {
+        "value": 2466.0,
+        "qoq_pct": -28.5,
+        "yoy_pct": -26.4
+      }
+    }
+  },
+  "concalls": [
+    {
+      "period": "Oct 2026",
+      "transcript": null,
+      "ppt": null,
+      "recording": "https://www.marutisuzuki.com/content/dam/arena-eds/corporate/mp3/company-reports/audio-recording-Q2-FY-2026-27-financial-results-investor-and-analyst-con-call-27th-October-2026.mp3"
+    },
+    {
+      "period": "Jul 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4b7f0db8-b33e-4a14-bb96-542978860d78.pdf",
+      "recording": "https://www.marutisuzuki.com/content/dam/arena-eds/corporate/pdf/company-reports/2026-2027/Audio-Recording-Q1-FY-2026-27-financial-results-investor-and-analyst-con-call-31st-July-2026.mp3"
+    },
+    {
+      "period": "Apr 2026",
+      "transcript": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8ced1ab-d385-4f8c-bcc9-90a186b40275.pdf",
+      "recording": "https://youtu.be/W2x9oyMVzCs"
+    },
+    {
+      "period": "Mar 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e535086-f03f-40be-97bd-e966c116c483.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2026",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q3_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d203cd4-51c6-4795-a58f-b784adfca9a0.pdf",
+      "recording": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Audio-Recording-Q3-FY-2025-26-financial-results-investor-and-analyst-con-call-28th-January-2026.mp3"
+    },
+    {
+      "period": "Oct 2025",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de8ce513-a808-453e-9b3b-94328ebe6e0c.pdf",
+      "recording": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Audio-Recording-Q2-FY-2025-26-financial-results-investor-and-analyst-con-call-31st-October-2025.mp3"
+    },
+    {
+      "period": "Aug 2025",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q1_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb1d3824-d661-4143-b061-9964bf79d1b3.pdf",
+      "recording": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Audio_Recording_Q1_FY_2025_26_financial_results_investor_and_analyst_con_call_31st_July_2025.mp3"
+    },
+    {
+      "period": "May 2025",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_25.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe4b9735-c370-47bc-b884-b16ba0b45689.pdf",
+      "recording": "https://www.youtube.com/watch?v=fuTZjfg2dZM"
+    },
+    {
+      "period": "Jan 2025",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q3_FY_25.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=61a166ec-37a8-42f6-b5d3-5168529c73a3.pdf",
+      "recording": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Audio-Recording-Q3-FY-2024-25-financial-results-investor-and-analyst-con-call-29th-January-2025.mp3?s=08"
+    },
+    {
+      "period": "Oct 2024",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY_25.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=04f99f6b-4fc0-4493-88df-33c93345272f.pdf",
+      "recording": "https://youtu.be/cer6aaSgYH4?si=rZZyZAry6R7pUD5K"
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q1_FY_25.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=759f552a-69ee-4a40-92b6-2bcb6f2690b1.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2024",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_24.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cc92b5fa-9912-4dd5-8649-5a7767b7714b.pdf",
+      "recording": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Audio-Recording-Q4-FY-2023-24-financial-results-investor-and-analyst-con-call-31st-March-2024.mp3"
+    },
+    {
+      "period": "Jan 2024",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q3_FY_24.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e9acec2-5971-42ff-952b-bf5002f0d612.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY24.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=381628ec-6f81-4bb9-a800-fa59cb7f5fbd.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=25fd3811-3e9d-44b1-b62c-44c8e000ea59.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": null,
+      "ppt": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Presentation_Acquisition_of_SMG.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q1_FY24.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1a98a12-592a-4d04-9a62-8448987b030c.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2023",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call-Maruti_Suzuki_Q4_FY23_New.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a90ec056-59e5-4f04-b3dc-49a3807d238b.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2023",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call-Maruti_Suzuki_Q3_FY_23.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d583d26-07f3-4eb5-9cd5-c77db2ee22d5.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2022",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY_23.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0d23816e-08c1-46e5-9b1d-401c456bc690.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2022",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q1_FY23.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2022",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call-Maruti_Suzuki_Q3_FY22.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Aug 2021",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/MSIL_Final_transcript_2021.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call-Maruti_Suzuki_Q1_FY'22.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Mar 2021",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript-earnings-call-Maruti-Suzuki-Q4-FY-21.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2021",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q3_FY'21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7e0eac5e-4341-46c8-9402-4fbe608acabb.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2020",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY'21.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2020",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call-Maruti_Suzuki_Q1FY'21.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "May 2020",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call-Maruti_Suzuki_Q4F_20_and_full_year_FY20.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2019",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti%20Suzuki_Q2FY20_and_H1FY20_Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2019",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Q1FY20_Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2019",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Q4FY19_Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2019",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Q3FY19_Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2018",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Q2FY19_and_H1FY19_Investor_Conference_Call_Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2018",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Q1FY19_Investor_Concall_Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=358b1f48-a0ff-4ee1-9ae4-617f2205db1e.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2018",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Transcript-for-Q3FY18-Concall.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2017",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Q2FY18_Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2017",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Q4FY17-Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2017",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Maruti_Suzuki_Q3FY17_Transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2016",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcription_of_Maruti_Suzuki-Q1_FY_17.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2016",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcription_of_Maruti_Suzuki-26th_April_2016.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2016",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcription_of_Maruti-28th_Jan_2016_final.pdf",
+      "ppt": null,
+      "recording": null
+    }
+  ],
+  "annual_reports": [
+    {
+      "title": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf"
+    },
+    {
+      "title": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6b3feef-628a-443c-9e63-665a5e057547.pdf"
+    },
+    {
+      "title": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b14c577-1d8d-4eb0-a79e-f94640af8a67.pdf"
+    },
+    {
+      "title": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/68f18376-59dd-4bc2-9aee-48e50ec97f27.pdf"
+    },
+    {
+      "title": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/74208532500.pdf"
+    },
+    {
+      "title": "Annual Report 2021",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/69235532500.pdf"
+    },
+    {
+      "title": "Annual Report 2020",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000320.pdf"
+    },
+    {
+      "title": "Annual Report 2019",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000319.pdf"
+    },
+    {
+      "title": "Annual Report 2018",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000318.pdf"
+    },
+    {
+      "title": "Annual Report 2017",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000317.pdf"
+    },
+    {
+      "title": "Annual Report 2016",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000316.pdf"
+    },
+    {
+      "title": "Annual Report 2015",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000315.pdf"
+    },
+    {
+      "title": "Annual Report 2014",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000314.pdf"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://archives.nseindia.com/annual_reports/AR_898_MARUTI_2012_2013_07082013140623.zip"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000313.pdf"
+    }
+  ],
+  "transcripts_saved": []
+}

@@ -1,0 +1,682 @@
+{
+  "symbol": "LT",
+  "source": "screener.in",
+  "quarters": {
+    "periods": [
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        51024.0,
+        55128.0,
+        67079.0,
+        55120.0,
+        61555.0,
+        64668.0,
+        74392.0,
+        63679.0,
+        67984.0,
+        71450.0,
+        82762.0,
+        67942.0,
+        78750.0
+      ],
+      "Expenses": [
+        43984.0,
+        47929.0,
+        58426.0,
+        48074.0,
+        53638.0,
+        56770.0,
+        64516.0,
+        55655.0,
+        59470.0,
+        62259.0,
+        72343.0,
+        59793.0,
+        69936.0
+      ],
+      "Operating Profit": [
+        7040.0,
+        7199.0,
+        8653.0,
+        7046.0,
+        7917.0,
+        7898.0,
+        9876.0,
+        8024.0,
+        8513.0,
+        9190.0,
+        10419.0,
+        8149.0,
+        8814.0
+      ],
+      "OPM %": [
+        14.0,
+        13.0,
+        13.0,
+        13.0,
+        13.0,
+        12.0,
+        13.0,
+        13.0,
+        13.0,
+        13.0,
+        13.0,
+        12.0,
+        11.0
+      ],
+      "Other Income": [
+        1133.0,
+        838.0,
+        1135.0,
+        921.0,
+        1101.0,
+        968.0,
+        1610.0,
+        1357.0,
+        1384.0,
+        -350.0,
+        1647.0,
+        2377.0,
+        2306.0
+      ],
+      "Interest": [
+        2272.0,
+        2344.0,
+        2345.0,
+        2292.0,
+        2439.0,
+        2486.0,
+        2419.0,
+        2488.0,
+        2470.0,
+        2399.0,
+        2488.0,
+        2571.0,
+        2442.0
+      ],
+      "Depreciation": [
+        910.0,
+        921.0,
+        1021.0,
+        998.0,
+        1024.0,
+        1047.0,
+        1052.0,
+        1033.0,
+        1092.0,
+        1072.0,
+        1168.0,
+        1032.0,
+        1037.0
+      ],
+      "Profit before tax": [
+        4991.0,
+        4772.0,
+        6422.0,
+        4677.0,
+        5555.0,
+        5333.0,
+        8014.0,
+        5860.0,
+        6336.0,
+        5370.0,
+        8410.0,
+        6922.0,
+        7641.0
+      ],
+      "Tax %": [
+        23.0,
+        25.0,
+        22.0,
+        26.0,
+        26.0,
+        25.0,
+        23.0,
+        26.0,
+        26.0,
+        29.0,
+        25.0,
+        28.0,
+        23.0
+      ],
+      "Net Profit": [
+        3846.0,
+        3593.0,
+        5013.0,
+        3445.0,
+        4099.0,
+        3974.0,
+        6156.0,
+        4318.0,
+        4678.0,
+        3825.0,
+        6133.0,
+        4988.0,
+        5949.0
+      ],
+      "EPS in Rs": [
+        23.45,
+        21.44,
+        31.98,
+        20.26,
+        24.69,
+        24.43,
+        39.97,
+        26.3,
+        28.54,
+        23.37,
+        38.71,
+        29.97,
+        37.81
+      ]
+    }
+  },
+  "headline": {
+    "period": "Sep 2026",
+    "vs_qoq": "Jun 2026",
+    "vs_yoy": "Sep 2025",
+    "metrics": {
+      "Revenue": {
+        "value": 78750.0,
+        "qoq_pct": 15.9,
+        "yoy_pct": 15.8
+      },
+      "EBITDA": {
+        "value": 8814.0,
+        "qoq_pct": 8.2,
+        "yoy_pct": 3.5
+      },
+      "PBT": {
+        "value": 7641.0,
+        "qoq_pct": 10.4,
+        "yoy_pct": 20.6
+      },
+      "PAT": {
+        "value": 5949.0,
+        "qoq_pct": 19.3,
+        "yoy_pct": 27.2
+      }
+    }
+  },
+  "concalls": [
+    {
+      "period": "Oct 2026",
+      "transcript": null,
+      "ppt": null,
+      "recording": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL%26T-Q2-FY27-Earnings-Call-Audio.mp3"
+    },
+    {
+      "period": "Jul 2026",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a4d1bc4e-1492-4448-b203-5d6041b48a0e.pdf",
+      "recording": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL%26T-Earnings-Call-Audio-Q1-FY27.mp3"
+    },
+    {
+      "period": "May 2026",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2095c57-89e5-4a19-adb3-0d074ac96126.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2026",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d35018aa-6e52-4d2f-a36e-82205456c0de.pdf",
+      "recording": "https://youtu.be/qeM4AZiULHw"
+    },
+    {
+      "period": "Oct 2025",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=79d47adc-e94d-4ae2-9f11-2053b053b389.pdf",
+      "recording": "https://youtu.be/v8w9p4JfVYA"
+    },
+    {
+      "period": "Jul 2025",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Earnings%20Call%20Transcript%20Q1FY26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce24f0b7-3769-4f7f-ba0b-8b700d2de060.pdf",
+      "recording": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T-Earnings-Call-Q1FY26.mp3"
+    },
+    {
+      "period": "May 2025",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2025AnalysttransL&T%20Q4FY25%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4a102eb-f822-40cd-b836-0590ea3f2229.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2025",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2025AnalysttransL&T%20Transcript%20Q3FY25.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5fbd50b-3ef9-4665-a5f4-ac0325850446.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2024",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2025AnalysttransL&T%20Q2FY25%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=427a80aa-8555-4320-ad42-19bcb4a20fca.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2025AnalysttransL&T%20Q1FY25%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cd0c030-882b-489c-a2cc-f24e33f110be.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3eb418-5137-494b-bb0a-e8676c9a6b84.pdf",
+      "recording": "https://investors.larsentoubro.com/upload/Analysttrans/FY2024AnalysttransL&T-Q4FY24-Earnings-Call-Audio.mp3"
+    },
+    {
+      "period": "May 2024",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2024AnalysttransL&T%20Q4FY24%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3eb418-5137-494b-bb0a-e8676c9a6b84.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2024",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2024AnalysttransL&T%20Q3FY24%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72feb753-e6fa-4751-ab8b-4f8114ece0b3.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2024AnalysttransL&T%20Transcript%20Q2FY24.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32966a9f-4ab6-4351-b182-8a448843a5df.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2024AnalysttransL&T%20Q1FY24%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cdba157a-9758-47a7-85a3-a8a6dda8dfe7.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2023",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2023AnalysttransL&T%20Transcript%20Q4FY23.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6cd1a437-a82d-45ac-8c34-e795fb9091e6.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2023",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2023AnalysttransL&T%20Earnings%20Call%20Transcript%20Q3FY23.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b219fbf1-5b20-4897-80d2-d8c5a3debed8.pdf",
+      "recording": "https://investors.larsentoubro.com/upload/Analysttrans/FY2023AnalysttransL&T-Q3FY23-Earnings-Call-Audio.mp3"
+    },
+    {
+      "period": "Nov 2022",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2023AnalysttransL&T%20Earnings%20Call%20Transcript%20-%20Q2FY23.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=84902eb8-05c1-4a4c-9124-f737bbea8bbd.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2022",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2023AnalysttransL&T%20Q1%20FY23%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=90872497-6832-49e7-889f-e996c93a308b.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2022",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2022AnalysttransFY2022AnalysttransL&T%20Q4%20FY22%20Earnings%20Call%20Transcripts.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26c0f2d7-10e3-44c5-90db-d858f713e1a5.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2022",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2022AnalysttransL&T%20Q3%20FY22%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=71cfe780-d6e4-4d91-b2bf-3021f11778a2.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2021",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2022AnalysttransL&T%20Q2FY22%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c4c2641-b0c3-4574-b26e-5f78e9d25171.pdf",
+      "recording": null
+    },
+    {
+      "period": "Sep 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=021bec07-4c1c-4332-8468-556ce18efa21.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2022AnalysttransEarnings%20Call%20transcripts%20Q1%20FY22.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=41e59985-bcbd-4c44-a3db-e69d21d3898a.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c745c5e-203d-4b91-b2dd-be403f808245.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4a327b3-011f-491d-8035-43635cdb4bbe.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2021",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2021AnalysttransEarning%20Call%20Transcript%20Q3FY21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6bbe093d-40ff-48af-a8e3-2e85d6b09786.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e4ee2f5-81dd-4a77-a33d-cafb7172fa16.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e834f04e-a22b-41a4-b1f2-5f2ef0827e2a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6f9b00c7-b67d-4e73-93c8-088e0bb1a9fb.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d75f200a-31cd-48c6-b31d-ac6417e2e3a3.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2020",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2021AnalysttransQ1%20FY21%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d80cbeee-ac3d-4185-be19-8320d38942dc.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2020",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2020AnalysttransQ4%20FY20%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=41ae944e-1ef0-4250-952e-23662eb8dfdd.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ff897f4-69b9-46eb-9144-1675329d8373.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b37245d3-cc23-43d3-be4c-172ffed044c0.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a273b4e1-fd1b-41e0-9a8a-b4172678ade6.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2020",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2020AnalysttransLT-Earnings-Jan22-2020.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5d2f37d-ae3b-417a-9b19-9e047bea4ad0.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b01291dd-8df0-4261-8f05-80e13b89ed78.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2019",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2021AnalysttransQ2%20FY21%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=082b2ce9-db37-44f0-966f-1c4ff1812740.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=61c64299-ec0a-42bb-80b5-d57ce8eadf0a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2019",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2020AnalysttransLT-Transcript-Q1%20FY20.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36bd1295-7d2c-4ecf-bf9b-c4a905dfca04.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2019",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2021AnalysttransEarnings%20Call%20Transripts%20-%20Q4FY21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e8b87df-6865-4d86-b21f-f9b986228f75.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=65dd6f84-0dde-40e5-9c24-d7f813f55f6a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Mar 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08f14ddf-8265-4c86-a77f-d0024168d4be.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9003c0d-5ce4-426a-b078-ce1a71909023.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2019",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2019AnalysttransLNT%20Transcript%20Earnings%20ConCall%2025Jan2019.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0fa2a6b5-74c2-495b-9102-eda717869a3c.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=E466B4B5_2A04_4B1C_8928_921C0B441624_182257.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2018",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2019AnalysttransL&T%20Q2FY19%20Conference%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=101816ec-b7ad-4c02-816b-68a70f2b2027.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2018",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2019AnalysttransQ1FY19%20Transcript%20.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=811a0781-adbb-4a8b-8d1d-c2e2c75dbd75.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e29b7d1c-a197-40c0-822c-d39d35fdc288.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2018",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2018AnalysttransLNT%20Q3FY18%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3eccf809-e838-42b9-bae0-aeed613a0dda.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0f1316f-3a30-4107-a115-bcfe04721924.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2017",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2018AnalysttransEarnings%20call%20transcript-%20Q2%20FY18.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d8bd63f0-7c86-4fb8-a411-f1afee649302.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2017",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2018AnalysttransEarnings%20Call%20Transcript%20Q1%20FY18.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=19b83304-8d22-44c1-b44a-4318bca9cce4.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=833e5838-2898-4577-86a8-515cd07b733f.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=867adc71-dec1-4d56-b0e6-dd56ba5462b9.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29756087-e5e8-4625-b63b-2b295f88f590.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=E5F9C1C0_38B6_4D29_B46A_3795832A165A_165826.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=198F316E_5ACB_42B4_B74A_07D62BF54CDC_163432.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=F3C8FFF5_CC22_4ABC_BE32_9F5AB44BEC23_150656.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26A2F793_4FD5_4BC1_B79A_74C7E6A872D2_164751.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=A38DEA7B_F0A8_431E_83E8_4DA8B7567471_105427.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ACDADBA5_9E25_41B3_9FA0_E343970D5FDD_110003.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=03615AFA_39BC_47FE_B27F_5D42E71100C0_151913.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=726E4141_6C01_4E6E_9C4F_546520BB281D_152236.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=AFAC381D_51D5_4E83_8DE9_C8B38B88D7DE_171456.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2013",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2024AnalysttransL&T%20Transcript%20Q2FY24.pdf",
+      "ppt": null,
+      "recording": null
+    }
+  ],
+  "annual_reports": [
+    {
+      "title": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf"
+    },
+    {
+      "title": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/63959ce8-b641-4bd4-9a62-43ab52301856.pdf"
+    },
+    {
+      "title": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b59765b4-ed42-48bd-afad-7caa4417d85d.pdf"
+    },
+    {
+      "title": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb93406e-57ff-4d53-b6cc-41a58cb89fd1.pdf"
+    },
+    {
+      "title": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/73655500510.pdf"
+    },
+    {
+      "title": "Annual Report 2021",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/68863500510.pdf"
+    },
+    {
+      "title": "Annual Report 2020",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100320.pdf"
+    },
+    {
+      "title": "Annual Report 2019",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100319.pdf"
+    },
+    {
+      "title": "Annual Report 2018",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100318.pdf"
+    },
+    {
+      "title": "Annual Report 2017",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100317.pdf"
+    },
+    {
+      "title": "Annual Report 2016",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100316.pdf"
+    },
+    {
+      "title": "Annual Report 2015",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100315.pdf"
+    },
+    {
+      "title": "Annual Report 2014",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100314.pdf"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100313.pdf"
+    },
+    {
+      "title": "Annual Report 2012",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100312.pdf"
+    }
+  ],
+  "transcripts_saved": []
+}

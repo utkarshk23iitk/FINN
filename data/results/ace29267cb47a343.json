@@ -1,0 +1,102 @@
+{
+  "id": "ace29267cb47a343",
+  "symbol": "DIXON",
+  "url": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160547_Outcome30102026.pdf",
+  "time": "2026-10-30T16:07:23",
+  "source": "text",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4952,
+      "output_tokens": 564
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "crore",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 21793.64,
+        "pbt": 532.35,
+        "pat": 410.87,
+        "depreciation": 110.06,
+        "finance_costs": 25.95,
+        "other_income": 68.73,
+        "pbt_before_exceptional": 532.35,
+        "pre_provision_profit": null,
+        "tax": 121.48,
+        "total_expenses": 21332.83
+      },
+      {
+        "end_date": "2026-06-30",
+        "months": 3,
+        "revenue": 15547.66,
+        "pbt": 868.98,
+        "pat": 717.83,
+        "depreciation": 106.95,
+        "finance_costs": 24.12,
+        "other_income": 528.29,
+        "pbt_before_exceptional": 868.98,
+        "pre_provision_profit": null,
+        "tax": 151.15,
+        "total_expenses": 15215.61
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 14855.04,
+        "pbt": 923.59,
+        "pat": 745.7,
+        "depreciation": 96.28,
+        "finance_costs": 38.35,
+        "other_income": 495.74,
+        "pbt_before_exceptional": 923.59,
+        "pre_provision_profit": null,
+        "tax": 177.89,
+        "total_expenses": 14428.34
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": "2026-06-30",
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 21793.6,
+        "qoq": 40.2,
+        "yoy": 46.7
+      },
+      {
+        "metric": "ebitda",
+        "value": 596.8,
+        "qoq": 28.9,
+        "yoy": 6.3
+      },
+      {
+        "metric": "pbt",
+        "value": 532.4,
+        "qoq": -38.7,
+        "yoy": -42.4
+      },
+      {
+        "metric": "pat",
+        "value": 410.9,
+        "qoq": -42.8,
+        "yoy": -44.9
+      }
+    ],
+    "ebitda_margin": 2.7,
+    "ebitda_margin_yoy": 3.8,
+    "issues": [],
+    "missing": [],
+    "notes": [],
+    "ok": true
+  }
+}

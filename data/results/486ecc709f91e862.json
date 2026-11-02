@@ -1,0 +1,79 @@
+{
+  "id": "486ecc709f91e862",
+  "symbol": "PERSISTENT",
+  "url": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026161221_SEIntimationpressrelease15102026Sd.pdf",
+  "time": "2026-10-15T16:12:31",
+  "source": "pdf",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2743,
+      "output_tokens": 190
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "million",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 46639.0,
+        "pbt": null,
+        "pat": 3515.1,
+        "associates_after_tax": null,
+        "depreciation": null,
+        "finance_costs": null,
+        "impairment": null,
+        "other_income": null,
+        "pbt_before_exceptional": null,
+        "pre_provision_profit": null,
+        "tax": null,
+        "total_expenses": null
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": null,
+    "yoy_end": null,
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 4663.9,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "ebitda",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pbt",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pat",
+        "value": 351.5,
+        "qoq": null,
+        "yoy": null
+      }
+    ],
+    "ebitda_margin": null,
+    "ebitda_margin_yoy": null,
+    "issues": [],
+    "missing": [
+      "no last-quarter column",
+      "no last-year column"
+    ],
+    "notes": [],
+    "ok": false
+  }
+}

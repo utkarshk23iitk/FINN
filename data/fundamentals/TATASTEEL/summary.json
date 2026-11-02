@@ -1,0 +1,674 @@
+{
+  "symbol": "TATASTEEL",
+  "source": "screener.in",
+  "quarters": {
+    "periods": [
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "rows": {
+      "Sales": [
+        59490.0,
+        55682.0,
+        55312.0,
+        58687.0,
+        54771.0,
+        53905.0,
+        53648.0,
+        56218.0,
+        53178.0,
+        58689.0,
+        57002.0,
+        63270.0,
+        60794.0
+      ],
+      "Expenses": [
+        54587.0,
+        51414.0,
+        49048.0,
+        52087.0,
+        48077.0,
+        47789.0,
+        47745.0,
+        49659.0,
+        45751.0,
+        49793.0,
+        48803.0,
+        53441.0,
+        51530.0
+      ],
+      "Operating Profit": [
+        4903.0,
+        4268.0,
+        6264.0,
+        6601.0,
+        6694.0,
+        6116.0,
+        5903.0,
+        6559.0,
+        7428.0,
+        8897.0,
+        8200.0,
+        9829.0,
+        9264.0
+      ],
+      "OPM %": [
+        8.0,
+        8.0,
+        11.0,
+        11.0,
+        12.0,
+        11.0,
+        11.0,
+        12.0,
+        14.0,
+        15.0,
+        14.0,
+        16.0,
+        15.0
+      ],
+      "Other Income": [
+        1190.0,
+        -6568.0,
+        -33.0,
+        -382.0,
+        -6.0,
+        617.0,
+        142.0,
+        149.0,
+        236.0,
+        -6.0,
+        465.0,
+        42.0,
+        -17.0
+      ],
+      "Interest": [
+        1825.0,
+        1959.0,
+        1881.0,
+        1842.0,
+        1777.0,
+        1971.0,
+        1804.0,
+        1789.0,
+        1852.0,
+        1775.0,
+        1747.0,
+        1792.0,
+        1771.0
+      ],
+      "Depreciation": [
+        2412.0,
+        2480.0,
+        2422.0,
+        2568.0,
+        2535.0,
+        2597.0,
+        2569.0,
+        2720.0,
+        2744.0,
+        2893.0,
+        3049.0,
+        3268.0,
+        3640.0
+      ],
+      "Profit before tax": [
+        1855.0,
+        -6739.0,
+        1928.0,
+        1809.0,
+        2377.0,
+        2164.0,
+        1672.0,
+        2200.0,
+        3067.0,
+        4222.0,
+        3869.0,
+        4810.0,
+        3838.0
+      ],
+      "Tax %": [
+        72.0,
+        -3.0,
+        73.0,
+        69.0,
+        61.0,
+        65.0,
+        82.0,
+        45.0,
+        35.0,
+        25.0,
+        29.0,
+        38.0,
+        38.0
+      ],
+      "Net Profit": [
+        525.0,
+        -6511.0,
+        522.0,
+        555.0,
+        919.0,
+        759.0,
+        295.0,
+        1201.0,
+        2007.0,
+        3183.0,
+        2730.0,
+        2965.0,
+        2385.0
+      ],
+      "EPS in Rs": [
+        0.52,
+        -5.07,
+        0.42,
+        0.49,
+        0.77,
+        0.67,
+        0.26,
+        1.04,
+        1.66,
+        2.48,
+        2.15,
+        2.34,
+        1.86
+      ]
+    }
+  },
+  "headline": {
+    "period": "Jun 2026",
+    "vs_qoq": "Mar 2026",
+    "vs_yoy": "Jun 2025",
+    "metrics": {
+      "Revenue": {
+        "value": 60794.0,
+        "qoq_pct": -3.9,
+        "yoy_pct": 14.3
+      },
+      "EBITDA": {
+        "value": 9264.0,
+        "qoq_pct": -5.7,
+        "yoy_pct": 24.7
+      },
+      "PBT": {
+        "value": 3838.0,
+        "qoq_pct": -20.2,
+        "yoy_pct": 25.1
+      },
+      "PAT": {
+        "value": 2385.0,
+        "qoq_pct": -19.6,
+        "yoy_pct": 18.8
+      }
+    }
+  },
+  "concalls": [
+    {
+      "period": "Jul 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63e5dca7-ef35-405c-b2ef-7044e356d873.pdf",
+      "recording": "https://www.youtube.com/watch?v=0049iaS1Twc"
+    },
+    {
+      "period": "Jul 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42e1b521-5f11-46c5-b3b1-bb7c269524e9.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d6e2d40-e300-4aae-94bc-b1dc1136656c.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=33960741-5849-4d90-951d-5733a2d40f46.pdf",
+      "recording": "https://www.youtube.com/watch?v=LRBFf3Uin2g"
+    },
+    {
+      "period": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7e178a2e-ea18-4b55-8e55-56e03dc5bea5.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4390fd0f-eb71-4d34-81f0-615195bb519b.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=816939c9-f6c8-404b-afce-29aee1c980ed.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85350610-bed3-4627-a46d-9471960f8c7d.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=536435e3-b37b-4fca-98bf-d611bc8a4416.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28738faa-17b9-402b-aa1c-a74fc8f01c65.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e0a1ae78-3def-4931-9964-78fccb7b1163.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f425b16-21e6-48ac-bfe7-27a5b6117095.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0fe02ad7-ca57-4b01-94b7-92428b91a3af.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06069496-e5b6-4d6f-bb5a-1ce119eb1e02.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0fb45195-081f-436c-aa0a-909a6306d88e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=80d4f439-4696-4d87-ad35-c1fd2ef766d1.pdf",
+      "recording": "https://youtu.be/OGcpPC3VnWA"
+    },
+    {
+      "period": "Jan 2025",
+      "transcript": null,
+      "ppt": "https://www.tatasteel.com/media/23351/3qfy25-results-presentation.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2024",
+      "transcript": "https://www.tatasteel.com/media/22471/2qfy2025-transcript-v7.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f7411ac9-3bf1-48ca-a89b-41531a4ad064.pdf",
+      "recording": "https://www.youtube.com/live/rXvQ982ielA"
+    },
+    {
+      "period": "Aug 2024",
+      "transcript": "https://www.tatasteel.com/media/21718/1qfy2025-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ab180d0-2ff6-45b3-a6a9-aef99d713c6d.pdf",
+      "recording": "https://www.youtube.com/watch?v=qd6US0MrtQw"
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=79ed35be-7052-40b9-bdf8-a7ddeffe4a5d.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=61e28e39-13d1-443c-bcb6-95090f464f16.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1751901f-3da7-4ef9-9a83-b428601cb3df.pdf",
+      "recording": "https://www.youtube.com/watch?v=124Z8lhzU0w"
+    },
+    {
+      "period": "May 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23dae557-0854-4e52-95dd-dd9c118f59d7.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94c8d5aa-ef6f-4ee6-9389-6fc8e0202c72.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2023",
+      "transcript": "https://www.tatasteel.com/media/19542/2qfy24-transcript-v7.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07a8b2e9-a276-4413-8351-cb22e2618c6f.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": "https://www.tatasteel.com/media/18677/1qfy24-transcript-v7.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5d5f9a0-c179-4c22-844f-e45c78e48bcf.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e1b9e934-cca1-4c1c-9cf9-aef13ca92e0d.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2023",
+      "transcript": "https://www.tatasteel.com/media/18022/4qfy23-and-fy23-transcript-v7.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36716ba4-0e53-4154-a0f8-c00fb5ff1c93.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2023",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8cf79e43-35c1-4c63-9fbc-06ca4f714317.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2023",
+      "transcript": "https://www.tatasteel.com/media/17447/3qfy23-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f7d57f9-77a2-49d6-b990-988d033dea52.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2022",
+      "transcript": "https://www.tatasteel.com/media/16797/2qfy23-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca52d9d2-a495-4f15-9c04-f0b490a86a53.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dd5f2c38-b828-40ef-8de3-42e6865b76b9.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2022",
+      "transcript": "https://www.tatasteel.com/media/16242/1qfy23-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dcd68b32-9a98-46bd-b4c1-cef3cd13e68b.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4519975-0226-4d63-896c-66f463f367ca.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9032eb54-061a-43bf-8193-222dc876b65c.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0cc0f96c-d198-4a94-bbfa-ceb7ddeac40a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fdde7b5d-ecca-42e0-a1cc-474ac3a4fdbe.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1e2a6d4d-20cf-40e9-953b-fd725981d6a9.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92eac8d5-dc42-4565-b4e3-bea0b038ce58.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8001b10-1a8d-4364-ab67-8c37e24c72ea.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=04899d16-d68e-4c4e-ab19-7b76f5756d98.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fadbe349-153f-42ad-a35f-425433b14f79.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=667eeb6e-bbf2-4a0c-b750-25bd9e797f6a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2021",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d9aa73a-b951-4995-8850-a73cb770742a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f25207d3-cb97-4e6a-89e4-8fa0a31fa524.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb5a4e9d-7218-456a-981b-87c7d0c6c60a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b9b2e05-36c9-4dd2-be44-956ac3165664.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3a73c07b-b8c6-437e-bccb-2f75c6da48c6.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2020",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb2a172b-ba81-4d27-9993-aa7b0d3c4c20.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec2ea2d0-16c2-4892-a8f0-6aecb5ed3b68.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6cd176e-c72e-4824-b3fe-6070091fcefe.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11b727f3-3c9f-48f5-9e01-063e30f15602.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fb10ba6-3f39-46fb-b627-908dde74eb4d.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d553f629-a7d2-4381-ba45-282230866c2e.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30ed54d1-7265-4fe5-a1ba-062291fa752f.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48b43b1a-e66a-48e4-8a2e-b0a3a6736a2b.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5bcead84-91b2-4e8d-b234-55700b1d63a3.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6981b75c-7bb8-4fab-8a04-8abe07db3fe1.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2019",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4c7c947-d481-410c-a78d-82dc5e4217ad.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a9454d7-da52-407d-9bdd-d174da2a62ed.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9d2868e-8f22-45c1-b913-cb94a96ff003.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b2752a60-a3c9-4dba-af9a-a37e824a083f.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0e75d74d-f364-4655-af02-fc1ceb60eac2.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c5d8f7d-1e65-497f-935f-86c4ed280100.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=125f8295-a72d-48e9-bb8b-25f2a485616f.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9c300522-5673-4820-85a8-7b1a16f8b031.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b6336cd-8ad7-48d7-ab9b-393b4d574736.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9c79a35-f691-4274-951e-a010d33c7374.pdf",
+      "recording": null
+    },
+    {
+      "period": "Sep 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e870f0dd-df7c-4407-8067-7f473de1cbd6.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d380cc7e-e4fb-4bbf-bc12-ba1ea9d1730a.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1FDB8016_039C_4614_B0A0_0A62D89F7FC9_173346.pdf",
+      "recording": null
+    }
+  ],
+  "annual_reports": [
+    {
+      "title": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5861e02.pdf"
+    },
+    {
+      "title": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8fcf51ce-ba80-4b6a-90cf-1ce556bbf3ed.pdf"
+    },
+    {
+      "title": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4259054b-0c8e-4eaf-950a-56b318b34256.pdf"
+    },
+    {
+      "title": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ceb63cf5-e23c-4a80-8a6b-42d71afc754c.pdf"
+    },
+    {
+      "title": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/73142500470.pdf"
+    },
+    {
+      "title": "Annual Report 2021",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/68536500470.pdf"
+    },
+    {
+      "title": "Annual Report 2020",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700320.pdf"
+    },
+    {
+      "title": "Annual Report 2019",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700319.pdf"
+    },
+    {
+      "title": "Annual Report 2018",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700318.pdf"
+    },
+    {
+      "title": "Annual Report 2017",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700317.pdf"
+    },
+    {
+      "title": "Annual Report 2016",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700316.pdf"
+    },
+    {
+      "title": "Annual Report 2015",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700315.pdf"
+    },
+    {
+      "title": "Annual Report 2014",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700314.pdf"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700313.pdf"
+    },
+    {
+      "title": "Annual Report 2012",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700312.pdf"
+    },
+    {
+      "title": "Right Issue",
+      "url": "https://www.sebi.gov.in/filings/rights-issues/jan-2018/tata-steel-limited_37525.html"
+    }
+  ],
+  "transcripts_saved": []
+}

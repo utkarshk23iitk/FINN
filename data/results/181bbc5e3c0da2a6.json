@@ -1,0 +1,102 @@
+{
+  "id": "181bbc5e3c0da2a6",
+  "symbol": "ADANIPORTS",
+  "url": "https://nsearchives.nseindia.com/corporate/rkbhagia_28102026124014_OutcomeofBoardMeeting.pdf",
+  "time": "2026-10-28T12:41:14",
+  "source": "text",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3774,
+      "output_tokens": 580
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "crore",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 11340.4,
+        "pbt": 4465.76,
+        "pat": 3682.44,
+        "depreciation": 1712.96,
+        "finance_costs": 1006.05,
+        "other_income": 269.37,
+        "pbt_before_exceptional": 4496.52,
+        "pre_provision_profit": null,
+        "tax": 783.32,
+        "total_expenses": 7252.76
+      },
+      {
+        "end_date": "2026-06-30",
+        "months": 3,
+        "revenue": 10820.8,
+        "pbt": 4307.31,
+        "pat": 3649.5,
+        "depreciation": 1711.27,
+        "finance_costs": 1087.17,
+        "other_income": 852.91,
+        "pbt_before_exceptional": 4307.31,
+        "pre_provision_profit": null,
+        "tax": 657.81,
+        "total_expenses": 7078.64
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 9167.46,
+        "pbt": 3690.28,
+        "pat": 3120.2,
+        "depreciation": 1263.52,
+        "finance_costs": 1222.88,
+        "other_income": 836.6,
+        "pbt_before_exceptional": 3690.28,
+        "pre_provision_profit": null,
+        "tax": 570.08,
+        "total_expenses": 6103.59
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": "2026-06-30",
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 11340.4,
+        "qoq": 4.8,
+        "yoy": 23.7
+      },
+      {
+        "metric": "ebitda",
+        "value": 6806.6,
+        "qoq": 4.1,
+        "yoy": 22.6
+      },
+      {
+        "metric": "pbt",
+        "value": 4465.8,
+        "qoq": 3.7,
+        "yoy": 21.0
+      },
+      {
+        "metric": "pat",
+        "value": 3682.4,
+        "qoq": 0.9,
+        "yoy": 18.0
+      }
+    ],
+    "ebitda_margin": 60.0,
+    "ebitda_margin_yoy": 60.5,
+    "issues": [],
+    "missing": [],
+    "notes": [],
+    "ok": true
+  }
+}

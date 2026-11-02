@@ -1,0 +1,76 @@
+{
+  "id": "792553c72b6bc200",
+  "symbol": "ADANIPORTS",
+  "url": "https://nsearchives.nseindia.com/corporate/rkbhagia_28102026124435_IntimationofPRandIP.pdf",
+  "time": "2026-10-28T12:44:45",
+  "source": "pdf",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4324,
+      "output_tokens": 163
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "crore",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 11340,
+        "pbt": null,
+        "pat": 3682
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 9167,
+        "pbt": null,
+        "pat": 3120
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": null,
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 11340,
+        "qoq": null,
+        "yoy": 23.7
+      },
+      {
+        "metric": "ebitda",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pbt",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pat",
+        "value": 3682,
+        "qoq": null,
+        "yoy": 18.0
+      }
+    ],
+    "ebitda_margin": null,
+    "ebitda_margin_yoy": null,
+    "issues": [],
+    "missing": [
+      "no last-quarter column"
+    ],
+    "notes": [],
+    "ok": false
+  }
+}

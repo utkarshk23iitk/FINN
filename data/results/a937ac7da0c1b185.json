@@ -1,0 +1,108 @@
+{
+  "id": "a937ac7da0c1b185",
+  "symbol": "BAJFINANCE",
+  "url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026172017_BMOutcome_19102026.pdf",
+  "time": "2026-10-19T17:20:38",
+  "source": "text",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4299,
+      "output_tokens": 675
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "crore",
+    "lender": true,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 24575.82,
+        "pbt": 8537.2,
+        "pat": 6366.57,
+        "associates_after_tax": 3.73,
+        "depreciation": 321.07,
+        "finance_costs": 8601.73,
+        "impairment": 2166.09,
+        "other_income": 29.45,
+        "pbt_before_exceptional": 8537.2,
+        "pre_provision_profit": null,
+        "tax": 2170.63,
+        "total_expenses": 16042.35
+      },
+      {
+        "end_date": "2026-06-30",
+        "months": 3,
+        "revenue": 23166.42,
+        "pbt": 8149.0,
+        "pat": 6080.6,
+        "associates_after_tax": 5.11,
+        "depreciation": 287.55,
+        "finance_costs": 7942.09,
+        "impairment": 1993.44,
+        "other_income": 0.97,
+        "pbt_before_exceptional": 8149.0,
+        "pre_provision_profit": null,
+        "tax": 2068.4,
+        "total_expenses": 15022.53
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 19992.38,
+        "pbt": 6608.13,
+        "pat": 4947.76,
+        "associates_after_tax": 3.3,
+        "depreciation": 258.06,
+        "finance_costs": 7010.6,
+        "impairment": 2080.36,
+        "other_income": 1.96,
+        "pbt_before_exceptional": 6608.13,
+        "pre_provision_profit": null,
+        "tax": 1660.37,
+        "total_expenses": 13387.55
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": true,
+    "quarter_end": "2026-09-30",
+    "qoq_end": "2026-06-30",
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 24575.8,
+        "qoq": 6.1,
+        "yoy": 22.9
+      },
+      {
+        "metric": "ebitda",
+        "value": 10703.3,
+        "qoq": 5.5,
+        "yoy": 23.2
+      },
+      {
+        "metric": "pbt",
+        "value": 8537.2,
+        "qoq": 4.8,
+        "yoy": 29.2
+      },
+      {
+        "metric": "pat",
+        "value": 6366.6,
+        "qoq": 4.7,
+        "yoy": 28.7
+      }
+    ],
+    "ebitda_margin": 43.6,
+    "ebitda_margin_yoy": 43.5,
+    "issues": [],
+    "missing": [],
+    "notes": [],
+    "ok": true
+  }
+}

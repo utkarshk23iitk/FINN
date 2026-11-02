@@ -1,0 +1,94 @@
+{
+  "id": "c15640637ff05dac",
+  "symbol": "MARUTI",
+  "url": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026153704_STxIntimation_PR_27Oct2026.pdf",
+  "time": "2026-10-27T15:39:59",
+  "source": "pdf",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1195,
+      "output_tokens": 339
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "million",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 506155,
+        "pbt": null,
+        "pat": 24149,
+        "associates_after_tax": null,
+        "depreciation": null,
+        "finance_costs": null,
+        "impairment": null,
+        "other_income": null,
+        "pbt_before_exceptional": null,
+        "pre_provision_profit": null,
+        "tax": null,
+        "total_expenses": null
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 401358,
+        "pbt": null,
+        "pat": 33028,
+        "associates_after_tax": null,
+        "depreciation": null,
+        "finance_costs": null,
+        "impairment": null,
+        "other_income": null,
+        "pbt_before_exceptional": null,
+        "pre_provision_profit": null,
+        "tax": null,
+        "total_expenses": null
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": null,
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 50615.5,
+        "qoq": null,
+        "yoy": 26.1
+      },
+      {
+        "metric": "ebitda",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pbt",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pat",
+        "value": 2414.9,
+        "qoq": null,
+        "yoy": -26.9
+      }
+    ],
+    "ebitda_margin": null,
+    "ebitda_margin_yoy": null,
+    "issues": [],
+    "missing": [
+      "no last-quarter column"
+    ],
+    "notes": [],
+    "ok": false
+  }
+}

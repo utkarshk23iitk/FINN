@@ -1,0 +1,87 @@
+{
+  "id": "5ee9d73b403c6fc3",
+  "symbol": "MARUTI",
+  "url": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026152412_QuickResults_27Oct2026_signed.pdf",
+  "time": "2026-10-27T15:27:51",
+  "source": "text",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2799,
+      "output_tokens": 347
+    }
+  ],
+  "extracted": {
+    "basis": "standalone",
+    "unit": "crore",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 533.402,
+        "pbt": 31.658,
+        "pat": 24.149,
+        "other_income": 4.294,
+        "total_expenses": 506.042
+      },
+      {
+        "end_date": "2026-06-30",
+        "months": 3,
+        "revenue": 524.551,
+        "pbt": 43.413,
+        "pat": 33.521,
+        "other_income": 18.731,
+        "total_expenses": 499.881
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 423.323,
+        "pbt": 42.909,
+        "pat": 33.028,
+        "other_income": 9.661,
+        "total_expenses": 390.075
+      }
+    ]
+  },
+  "card": {
+    "basis": "standalone",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": "2026-06-30",
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 533.4,
+        "qoq": 1.7,
+        "yoy": 26.0
+      },
+      {
+        "metric": "ebitda",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pbt",
+        "value": 31.7,
+        "qoq": -27.1,
+        "yoy": -26.2
+      },
+      {
+        "metric": "pat",
+        "value": 24.1,
+        "qoq": -28.0,
+        "yoy": -26.9
+      }
+    ],
+    "ebitda_margin": null,
+    "ebitda_margin_yoy": null,
+    "issues": [],
+    "missing": [],
+    "notes": [],
+    "ok": false
+  }
+}

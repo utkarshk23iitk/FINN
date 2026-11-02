@@ -1,0 +1,107 @@
+{
+  "id": "e5932746c614c10b",
+  "symbol": "HDFCBANK",
+  "url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
+  "time": "2026-10-17T13:56:22",
+  "source": "text",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4134,
+      "output_tokens": 612
+    },
+    {
+      "model": "gemini-3.5-flash",
+      "input_tokens": 4134,
+      "output_tokens": 611
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "crore",
+    "lender": true,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 129358.69,
+        "pbt": 28662.54,
+        "pat": 21537.09,
+        "depreciation": null,
+        "finance_costs": 50667.43,
+        "other_income": 34227.06,
+        "pbt_before_exceptional": 28662.54,
+        "pre_provision_profit": 32871.54,
+        "tax": 7125.45,
+        "total_expenses": 96487.15
+      },
+      {
+        "end_date": "2026-06-30",
+        "months": 3,
+        "revenue": 133110.36,
+        "pbt": 27193.16,
+        "pat": 20382.69,
+        "depreciation": null,
+        "finance_costs": 47625.63,
+        "other_income": 42535.03,
+        "pbt_before_exceptional": 27193.16,
+        "pre_provision_profit": 30996.0,
+        "tax": 6810.47,
+        "total_expenses": 102114.36
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 118560.63,
+        "pbt": 26658.89,
+        "pat": 20363.77,
+        "depreciation": null,
+        "finance_costs": 46740.86,
+        "other_income": 31566.79,
+        "pbt_before_exceptional": 26658.89,
+        "pre_provision_profit": 30940.72,
+        "tax": 6295.12,
+        "total_expenses": 87619.91
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": true,
+    "quarter_end": "2026-09-30",
+    "qoq_end": "2026-06-30",
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 129358.7,
+        "qoq": -2.8,
+        "yoy": 9.1
+      },
+      {
+        "metric": "ebitda",
+        "value": 32871.5,
+        "qoq": 6.1,
+        "yoy": 6.2
+      },
+      {
+        "metric": "pbt",
+        "value": 28662.5,
+        "qoq": 5.4,
+        "yoy": 7.5
+      },
+      {
+        "metric": "pat",
+        "value": 21537.1,
+        "qoq": 5.7,
+        "yoy": 5.8
+      }
+    ],
+    "ebitda_margin": 25.4,
+    "ebitda_margin_yoy": 26.1,
+    "issues": [],
+    "missing": [],
+    "notes": [],
+    "ok": true
+  }
+}

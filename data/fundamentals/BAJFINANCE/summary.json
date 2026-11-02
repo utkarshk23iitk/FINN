@@ -1,0 +1,632 @@
+{
+  "symbol": "BAJFINANCE",
+  "source": "screener.in",
+  "quarters": {
+    "periods": [
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Revenue": [
+        13382.0,
+        14164.0,
+        14926.0,
+        16100.0,
+        17091.0,
+        18035.0,
+        18294.0,
+        19524.0,
+        19990.0,
+        21013.0,
+        21606.0,
+        23165.0,
+        24546.0
+      ],
+      "Interest": [
+        4537.0,
+        4868.0,
+        5217.0,
+        5684.0,
+        6149.0,
+        6386.0,
+        6551.0,
+        6918.0,
+        7011.0,
+        7339.0,
+        7398.0,
+        7942.0,
+        8602.0
+      ],
+      "Expenses": [
+        3931.0,
+        4229.0,
+        4420.0,
+        4956.0,
+        5338.0,
+        5691.0,
+        5865.0,
+        5992.0,
+        6119.0,
+        7737.0,
+        6553.0,
+        6793.0,
+        7120.0
+      ],
+      "Financing Profit": [
+        4914.0,
+        5066.0,
+        5289.0,
+        5460.0,
+        5604.0,
+        5958.0,
+        5879.0,
+        6614.0,
+        6861.0,
+        5937.0,
+        7654.0,
+        8430.0,
+        8825.0
+      ],
+      "Financing Margin %": [
+        37.0,
+        36.0,
+        35.0,
+        34.0,
+        33.0,
+        33.0,
+        32.0,
+        34.0,
+        34.0,
+        28.0,
+        35.0,
+        36.0,
+        36.0
+      ],
+      "Other Income": [
+        2.0,
+        5.0,
+        9.0,
+        5.0,
+        7.0,
+        26.0,
+        21.0,
+        5.0,
+        5.0,
+        -262.0,
+        11.0,
+        6.0,
+        33.0
+      ],
+      "Depreciation": [
+        159.0,
+        176.0,
+        193.0,
+        200.0,
+        210.0,
+        219.0,
+        252.0,
+        251.0,
+        258.0,
+        244.0,
+        256.0,
+        288.0,
+        321.0
+      ],
+      "Profit before tax": [
+        4758.0,
+        4896.0,
+        5105.0,
+        5265.0,
+        5401.0,
+        5765.0,
+        5647.0,
+        6368.0,
+        6608.0,
+        5431.0,
+        7410.0,
+        8149.0,
+        8537.0
+      ],
+      "Tax %": [
+        25.0,
+        26.0,
+        25.0,
+        26.0,
+        26.0,
+        25.0,
+        20.0,
+        25.0,
+        25.0,
+        25.0,
+        25.0,
+        25.0,
+        25.0
+      ],
+      "Net Profit": [
+        3551.0,
+        3639.0,
+        3825.0,
+        3912.0,
+        4014.0,
+        4308.0,
+        4546.0,
+        4765.0,
+        4948.0,
+        4066.0,
+        5553.0,
+        6081.0,
+        6367.0
+      ],
+      "EPS in Rs": [
+        5.86,
+        5.89,
+        6.18,
+        6.32,
+        6.46,
+        6.86,
+        7.21,
+        7.56,
+        7.84,
+        6.39,
+        8.78,
+        9.61,
+        10.06
+      ],
+      "Gross NPA %": [
+        0.91,
+        0.95,
+        0.85,
+        0.86,
+        1.06,
+        1.12,
+        0.96,
+        1.03,
+        1.24,
+        1.21,
+        1.01,
+        0.96,
+        1.06
+      ],
+      "Net NPA %": [
+        0.31,
+        0.37,
+        0.37,
+        0.38,
+        0.46,
+        0.48,
+        0.44,
+        0.5,
+        0.6,
+        0.47,
+        0.41,
+        0.39,
+        0.42
+      ]
+    }
+  },
+  "headline": {
+    "period": "Sep 2026",
+    "vs_qoq": "Jun 2026",
+    "vs_yoy": "Sep 2025",
+    "metrics": {
+      "Revenue": {
+        "value": 24546.0,
+        "qoq_pct": 6.0,
+        "yoy_pct": 22.8
+      },
+      "EBITDA": {
+        "value": 8825.0,
+        "qoq_pct": 4.7,
+        "yoy_pct": 28.6
+      },
+      "PBT": {
+        "value": 8537.0,
+        "qoq_pct": 4.8,
+        "yoy_pct": 29.2
+      },
+      "PAT": {
+        "value": 6367.0,
+        "qoq_pct": 4.7,
+        "yoy_pct": 28.7
+      }
+    }
+  },
+  "concalls": [
+    {
+      "period": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7c0f169-e396-4a7d-a57d-b1f7c47f6290.pdf",
+      "recording": "https://www.aboutbajajfinserv.com/content/dam/bajajfinserv/web/in/en/global/document/corporate/bfl-new/bfl-investor-relations/investor-presentation/finance-investor-relations-quarterly-earnings-conference-call/quarterly-earnings-call-2026-27/bajaj-finance-q2-fy-27-conference-call-audio-playback.mp3"
+    },
+    {
+      "period": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12138db5-13e0-4417-a325-d6d8bffa5cb2.pdf",
+      "recording": "https://www.aboutbajajfinserv.com/content/dam/bajajfinserv/web/in/en/global/document/corporate/bfl-new/bfl-investor-relations/investor-presentation/finance-investor-relations-quarterly-earnings-conference-call/quarterly-earnings-call-2026-27/bajaj-finance-q1-fy27-conference-call-audio-playback.mp3"
+    },
+    {
+      "period": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2026",
+      "transcript": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be6ffd5d-c69b-4fcf-8214-1a6f302c6794.pdf",
+      "recording": "https://youtu.be/PwitjyTVMWM"
+    },
+    {
+      "period": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6eb34dc2-bde9-4df5-8b93-aad3d461140e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d213b0e9-5f1c-48ab-b21f-664f669f3a95.pdf",
+      "recording": "https://www.aboutbajajfinserv.com/content/dam/bajajfinserv/web/in/en/global/document/corporate/bfl-new/bfl-investor-relations/investor-presentation/finance-investor-relations-quarterly-earnings-conference-call/quarterly-earnings-call-fy24-25/bajaj-finance-q3-fy26-conference-call-audio-playback.mp3"
+    },
+    {
+      "period": "Dec 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=39ea369b-a7b8-42e8-b787-2d1df4efa020.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bd2470ef-968a-4e49-baac-ccf37743161c.pdf",
+      "recording": "https://www.aboutbajajfinserv.com/content/dam/bajajfinserv/web/in/en/global/document/corporate/bfl-new/bfl-investor-relations/investor-presentation/finance-investor-relations-quarterly-earnings-conference-call/quarterly-earnings-call-fy24-25/bajaj-finance-q2-fy26-conference-call-audio-playback.mp3"
+    },
+    {
+      "period": "Nov 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc30b0b8-a3df-4635-9997-5c45cca16f62.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6594e53b-4085-487c-bf57-005b291a8237.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0d891300-4c34-4576-827c-96690f166a26.pdf",
+      "recording": "https://youtu.be/yAlT8SvGzUg?si=EAePSJQ6zvqiEVYZ"
+    },
+    {
+      "period": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b5b2e46c-df69-4427-b981-219268c6c43c.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8beec986-70dd-415a-8ac3-27fecfef2d68.pdf",
+      "recording": "https://www.youtube.com/watch?v=XfpXA7K53Ko"
+    },
+    {
+      "period": "Feb 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69225438-777a-4c06-b91a-37dc58df9c20.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6bc31c67-fcf4-447f-905f-34671a66a602.pdf",
+      "recording": "https://www.youtube.com/watch?v=X225W_iZmmY"
+    },
+    {
+      "period": "Dec 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=002ab6ec-4472-4d30-9664-90692c4119f3.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=868f28ae-7f96-4d37-bfee-eb878fc871f8.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3695c36-cf70-4322-90eb-9bb0786e3e14.pdf",
+      "recording": "https://www.youtube.com/watch?v=jDv79G4Wjes"
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3d167fe-1bf1-4f86-b448-20b4fa3b22b2.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=96547ee4-64d7-40b0-b5e3-6db029396353.pdf",
+      "recording": "https://www.aboutbajajfinserv.com/content/dam/bajajfinserv/web/in/en/global/document/corporate/bfl-new/bfl-investor-relations/investor-presentation/finance-investor-relations-quarterly-earnings-conference-call/quarterly-earnings-call-fy24-25/bajaj-finance-q1-fy25-conference-call-audio-playback.mp3"
+    },
+    {
+      "period": "Apr 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=197038f8-bef4-4c03-9020-6cd12fcb3472.pdf",
+      "ppt": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-investor-presentation-q4-fy24-finalpdf?scl=1&fmt=pdf",
+      "recording": "https://www.aboutbajajfinserv.com/content/dam/bajajfinserv/web/in/en/global/document/corporate/bfl-new/bfl-investor-relations/investor-presentation/finance-investor-relations-quarterly-earnings-conference-call/quarterly-earnings-call-2023-24/bfl-ip-q4-fy24.mp3"
+    },
+    {
+      "period": "Apr 2024",
+      "transcript": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-conference-call-transcript-filepdf?scl=1&fmt=pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e0f1f368-0789-4d62-9fd8-92ac57c452f0.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2024",
+      "transcript": null,
+      "ppt": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_25042024175108_InvestorPresentation.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dc07564c-a89c-4336-bf0a-1b55b14d3f8c.pdf",
+      "ppt": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-investor-presentation-q-3-fy-24-finalpdf?scl=1&fmt=pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2024",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fcbdcc84-f0da-430d-ab4b-5d6f10545a3c.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01bb9206-59b1-494c-845a-c48f419a6267.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dc3a9702-eef3-4bd7-be72-428bf48838da.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=584569c9-6bd8-4581-861e-863cb81c53f4.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/transcript-q1pdf?scl=1&fmt=pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3ccbeca8-e67a-4512-947c-6170e61d73ae.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5d92a755-d1bb-423f-8309-3fdb32a9fa8a.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dc2c9ce5-f0cd-44d5-8d93-da71e8350bd2.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e7ddefe-9c08-4cd0-a639-173cf2f6bc0b.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94e02df1-2076-4d82-bb72-7d9c359e7171.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97669a4e-7b1a-4cb9-861e-255f34583198.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=966d6613-d2b4-4066-b68c-4eace44b5a2a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a22842f2-1744-4d11-bc01-08eb1f938ad4.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2022",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b31bd18e-3ad5-4ef9-99c9-6048be9da633.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2021",
+      "transcript": "https://www.bajajfinserv.in/fy-bajaj-finance-q2-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be56e514-59ae-4e28-8d45-51336b4ecde3.pdf",
+      "recording": null
+    },
+    {
+      "period": "Sep 2021",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-group-call---organised-by-morgan-stanley-on-16-sep-2021.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": "https://www.bajajfinserv.in/fy-bajaj-finance-q1-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=90cc4899-b4f7-4d83-8aad-f8c4166f0686.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2021",
+      "transcript": "https://www.bajajfinserv.in/fy21-bajaj-finance-q4-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f30ac7e-3286-4919-9224-3cb4022c3cac.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2021",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q3-fy21-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12f23c34-c678-4545-ab47-0226eb97bd88.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2020",
+      "transcript": "https://www.bajajfinserv.in/fy21-bajaj-finance-q2-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e13b928c-c1d4-444d-99e1-a2df82d517f0.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2020",
+      "transcript": "https://www.bajajfinserv.in/fy21-bajaj-finance-q1-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cef787c0-a3e4-425d-8ea5-0b398c3fbac3.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2020",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q4-conference-call-transcript-2020.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9158543-a086-4f6e-86c9-c0210e7cdd47.pdf",
+      "recording": null
+    },
+    {
+      "period": "Apr 2020",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=61616afc-c1b3-4663-910d-9cab7896af84.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2020",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q3-conference-call-transcript-new.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ebde80c1-956f-4660-a340-203288e5159c.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2019",
+      "transcript": "https://www.bajajfinserv.in/earnings-call-transcript-q2-fy-20-new.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faf7891b-1c26-4ec3-a436-2d6e50716a2a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2019",
+      "transcript": "https://www.bajajfinserv.in/earnings-call-transcript-q1-fy-20-new.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b7cd902-46b5-4a8d-bff6-1795a08bc19c.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2019",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q4-conference-call-transcript-19.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e10d42a7-2f6a-49db-842d-e09d50547005.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2019",
+      "transcript": "https://www.bajajfinserv.in/q3-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee6f9e88-b94b-41af-95ea-e81a35c65c64.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2018",
+      "transcript": "https://www.bajajfinserv.in/fy19-q2-bajaj-finance-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=906bbfad-6415-4b7e-b272-6e38863f3b08.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2018",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q4-conference-call-transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8486d97e-ab2b-4c8c-98be-b5929ca60a3c.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2018",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95ec0129-8c66-442b-b662-7fd2a6ad1470.PDF",
+      "recording": null
+    },
+    {
+      "period": "Oct 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e3948d5d-9eee-44c4-861a-49b1c54e358d.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2017",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q1-conference-call-transcript.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "May 2017",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q3-conference-call-transcript-2016.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ebe1b5e-fd00-4ed1-a54d-b1a34947cf59.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2017",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55B40265_BA63_4A16_9F8A_6FABAB5549F8_125846.pdf",
+      "recording": null
+    },
+    {
+      "period": "Dec 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8451A43F_4D7C_4EBB_B31C_B98252A54C70_115345.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2016",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q2-conference-call-transcript-2016.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=C37A6A6B_F120_4C39_A2F7_C4D5C13F47B5_140722.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5733913E_B528_4487_A5F5_4ACD62895F90_122225.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2016",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q4-conference-call-transcript-2015.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=D6ECE481_D3EB_4F70_BB28_06049AE9999A_135521.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2016",
+      "transcript": "https://www.bajajfinserv.in/bajaj-finance-q3-conference-call-transcript-2015.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6DB67C16_A422_432D_8218_A1F68B8B840B_141230.pdf",
+      "recording": null
+    }
+  ],
+  "annual_reports": [
+    {
+      "title": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf"
+    },
+    {
+      "title": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0670e08f-bc55-4155-9cbe-89e4637b3b05.pdf"
+    },
+    {
+      "title": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/23ae9a75-9bfa-49c2-89e4-5e1ee7a20f8c.pdf"
+    },
+    {
+      "title": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/46404117-5ed9-40e3-9891-2953ee625245.pdf"
+    },
+    {
+      "title": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/73448500034.pdf"
+    },
+    {
+      "title": "Annual Report 2021",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/68650500034.pdf"
+    },
+    {
+      "title": "Annual Report 2020",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340320.pdf"
+    },
+    {
+      "title": "Annual Report 2019",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340319.pdf"
+    },
+    {
+      "title": "Annual Report 2018",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340318.pdf"
+    },
+    {
+      "title": "Annual Report 2017",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340317.pdf"
+    },
+    {
+      "title": "Annual Report 2016",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340316.pdf"
+    },
+    {
+      "title": "Annual Report 2015",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340315.pdf"
+    },
+    {
+      "title": "Annual Report 2014",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340314.pdf"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340313.pdf"
+    },
+    {
+      "title": "Annual Report 2012",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/5000340312.pdf"
+    },
+    {
+      "title": "Right Issue",
+      "url": "https://www.sebi.gov.in/filings/rights-issues/jan-2013/bajaj-finance-limited_24198.html"
+    }
+  ],
+  "transcripts_saved": []
+}

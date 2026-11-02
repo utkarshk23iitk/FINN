@@ -1,0 +1,77 @@
+{
+  "id": "0c2ef9b0a7132d46",
+  "symbol": "TRENT",
+  "url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026162053_PressReleaseOct2026.pdf",
+  "time": "2026-10-29T16:21:37",
+  "source": "pdf",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2743,
+      "output_tokens": 165
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "crore",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 5873,
+        "pbt": null,
+        "pat": 468,
+        "associates_after_tax": null,
+        "depreciation": null,
+        "finance_costs": null,
+        "other_income": null,
+        "pbt_before_exceptional": null,
+        "tax": null,
+        "total_expenses": null
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": null,
+    "yoy_end": null,
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 5873,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "ebitda",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pbt",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pat",
+        "value": 468,
+        "qoq": null,
+        "yoy": null
+      }
+    ],
+    "ebitda_margin": null,
+    "ebitda_margin_yoy": null,
+    "issues": [],
+    "missing": [
+      "no last-quarter column",
+      "no last-year column"
+    ],
+    "notes": [],
+    "ok": false
+  }
+}

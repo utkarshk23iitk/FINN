@@ -1,0 +1,98 @@
+{
+  "id": "07083ee4e04249cb",
+  "symbol": "RELIANCE",
+  "url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026194315_SE_30102026_MR.pdf",
+  "time": "2026-10-30T19:43:24",
+  "source": "text",
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2232,
+      "output_tokens": 508
+    },
+    {
+      "model": "gemini-3.5-flash",
+      "input_tokens": 2232,
+      "output_tokens": 403
+    }
+  ],
+  "extracted": {
+    "basis": "consolidated",
+    "unit": "crore",
+    "lender": false,
+    "periods": [
+      {
+        "end_date": "2026-09-30",
+        "months": 3,
+        "revenue": 362268,
+        "pbt": 38613,
+        "pat": 29250,
+        "associates_after_tax": 300,
+        "depreciation": 15315,
+        "finance_costs": 8481,
+        "tax": 9363
+      },
+      {
+        "end_date": "2026-06-30",
+        "months": 3,
+        "revenue": 340257,
+        "pbt": 30630,
+        "pat": 23001,
+        "associates_after_tax": 195,
+        "depreciation": 15100,
+        "finance_costs": 8337,
+        "tax": 7629
+      },
+      {
+        "end_date": "2025-09-30",
+        "months": 3,
+        "revenue": 283548,
+        "pbt": 29124,
+        "pat": 22146,
+        "associates_after_tax": -54,
+        "depreciation": 14416,
+        "finance_costs": 6827,
+        "tax": 6978
+      }
+    ]
+  },
+  "card": {
+    "basis": "consolidated",
+    "lender": false,
+    "quarter_end": "2026-09-30",
+    "qoq_end": "2026-06-30",
+    "yoy_end": "2025-09-30",
+    "rows": [
+      {
+        "metric": "revenue",
+        "value": 362268,
+        "qoq": 6.5,
+        "yoy": 27.8
+      },
+      {
+        "metric": "ebitda",
+        "value": null,
+        "qoq": null,
+        "yoy": null
+      },
+      {
+        "metric": "pbt",
+        "value": 38613,
+        "qoq": 26.1,
+        "yoy": 32.6
+      },
+      {
+        "metric": "pat",
+        "value": 29550,
+        "qoq": 27.4,
+        "yoy": 33.8
+      }
+    ],
+    "ebitda_margin": null,
+    "ebitda_margin_yoy": null,
+    "issues": [],
+    "missing": [],
+    "notes": [],
+    "ok": false
+  }
+}

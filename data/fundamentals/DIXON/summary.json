@@ -1,0 +1,494 @@
+{
+  "symbol": "DIXON",
+  "source": "screener.in",
+  "quarters": {
+    "periods": [
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        4943.0,
+        4818.0,
+        4658.0,
+        6580.0,
+        11534.0,
+        10454.0,
+        10293.0,
+        12836.0,
+        14855.0,
+        10672.0,
+        10511.0,
+        15548.0,
+        21794.0
+      ],
+      "Expenses": [
+        4744.0,
+        4634.0,
+        4476.0,
+        6332.0,
+        11108.0,
+        10063.0,
+        9850.0,
+        12353.0,
+        14294.0,
+        10257.0,
+        10102.0,
+        15085.0,
+        21197.0
+      ],
+      "Operating Profit": [
+        199.0,
+        184.0,
+        182.0,
+        248.0,
+        426.0,
+        391.0,
+        443.0,
+        482.0,
+        561.0,
+        414.0,
+        408.0,
+        463.0,
+        597.0
+      ],
+      "OPM %": [
+        4.0,
+        3.8,
+        3.9,
+        3.8,
+        3.7,
+        3.7,
+        4.3,
+        3.8,
+        3.8,
+        3.9,
+        3.9,
+        3.0,
+        2.7
+      ],
+      "Other Income": [
+        3.0,
+        4.0,
+        19.0,
+        16.0,
+        206.0,
+        10.0,
+        265.0,
+        8.0,
+        497.0,
+        139.0,
+        90.0,
+        537.0,
+        72.0
+      ],
+      "Interest": [
+        17.0,
+        22.0,
+        21.0,
+        29.0,
+        38.0,
+        41.0,
+        46.0,
+        33.0,
+        38.0,
+        43.0,
+        24.0,
+        24.0,
+        26.0
+      ],
+      "Depreciation": [
+        36.0,
+        41.0,
+        51.0,
+        55.0,
+        66.0,
+        75.0,
+        86.0,
+        93.0,
+        96.0,
+        99.0,
+        105.0,
+        107.0,
+        110.0
+      ],
+      "Profit before tax": [
+        149.0,
+        126.0,
+        130.0,
+        180.0,
+        529.0,
+        285.0,
+        576.0,
+        366.0,
+        924.0,
+        412.0,
+        370.0,
+        869.0,
+        532.0
+      ],
+      "Tax %": [
+        24.0,
+        23.0,
+        25.0,
+        22.0,
+        22.0,
+        24.0,
+        19.0,
+        23.0,
+        19.0,
+        22.0,
+        19.0,
+        17.0,
+        23.0
+      ],
+      "Net Profit": [
+        113.0,
+        97.0,
+        97.0,
+        140.0,
+        412.0,
+        216.0,
+        465.0,
+        280.0,
+        746.0,
+        321.0,
+        298.0,
+        718.0,
+        411.0
+      ],
+      "EPS in Rs": [
+        18.02,
+        16.12,
+        15.91,
+        22.34,
+        65.15,
+        28.5,
+        66.54,
+        37.2,
+        110.72,
+        47.34,
+        42.17,
+        108.6,
+        56.18
+      ]
+    }
+  },
+  "headline": {
+    "period": "Sep 2026",
+    "vs_qoq": "Jun 2026",
+    "vs_yoy": "Sep 2025",
+    "metrics": {
+      "Revenue": {
+        "value": 21794.0,
+        "qoq_pct": 40.2,
+        "yoy_pct": 46.7
+      },
+      "EBITDA": {
+        "value": 597.0,
+        "qoq_pct": 28.9,
+        "yoy_pct": 6.4
+      },
+      "PBT": {
+        "value": 532.0,
+        "qoq_pct": -38.8,
+        "yoy_pct": -42.4
+      },
+      "PAT": {
+        "value": 411.0,
+        "qoq_pct": -42.8,
+        "yoy_pct": -44.9
+      }
+    }
+  },
+  "concalls": [
+    {
+      "period": "Oct 2026",
+      "transcript": null,
+      "ppt": null,
+      "recording": "https://d1iixm87htyovw.cloudfront.net/uploads/4179985e-dda3-4986-8c85-d283d92db460-Q2FY27EarningsCall.mp3"
+    },
+    {
+      "period": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf",
+      "ppt": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/07150914-1f3b-43ce-82f2-f8543b60027d-EarningPresentation-Q1FY26-27.pdf",
+      "recording": "https://d1iixm87htyovw.cloudfront.net/uploads/c345b9be-6f26-4f35-b4be-f1d186cc2f32-10044882.mp3"
+    },
+    {
+      "period": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf",
+      "ppt": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/355b2e69-f5a3-4a7f-bd0c-21482263cd92-EarningPresentation-Q4FY25-26.pdf",
+      "recording": "https://d1iixm87htyovw.cloudfront.net/uploads/f9f4c8f0-6b2c-44dd-b4c4-364498064b41-10042911.mp3"
+    },
+    {
+      "period": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06b7006d-5602-41a1-b6d2-850217f7af9e.pdf",
+      "recording": "https://youtu.be/ayCeRFeZAuM"
+    },
+    {
+      "period": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3e6d18a8-52fe-461b-b882-baaf90d4f787.pdf",
+      "recording": "https://www.dixoninfo.com/financial-performance"
+    },
+    {
+      "period": "Jul 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe83e870-4ca3-462a-addd-5c85ec513959.pdf",
+      "ppt": "https://nsearchives.nseindia.com/corporate/DIXON_22072025161648_PPTwithOutcome.pdf",
+      "recording": "https://youtu.be/5LXjiE6bA9o?si=rNA-1R4jjfaaBXlt"
+    },
+    {
+      "period": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55e495a0-7626-4311-9f59-0a1b21076ca8.pdf",
+      "ppt": "https://nsearchives.nseindia.com/corporate/DIXON_20052025161223_FinancialwithPPT20052025.pdf",
+      "recording": "https://www.dixoninfo.com/json/dixon/quarterly-result/10032466.mp3"
+    },
+    {
+      "period": "Jan 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=16fce1a1-2a47-4cb2-9e27-89d412bb064b.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e1bc66-a2d8-421f-a83b-4347cb53d14f.pdf",
+      "recording": "https://www.dixoninfo.com/json/dixon/quarterly-result/10028878.mp3"
+    },
+    {
+      "period": "Oct 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4c18ee5b-b6f4-4b8a-97b6-519950a55216.pdf",
+      "ppt": "https://www.dixoninfo.com/json/dixon/quaterly-investor-presentation/Earning%20Presentation-%20Q2%20&%20H1%20-FY24-25.pdf",
+      "recording": "https://www.dixoninfo.com/json/dixon/quarterly-result/ISL1120241024155918.mp3"
+    },
+    {
+      "period": "Aug 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50d490e3-9a86-4edd-ae2e-a276c9a9ea9a.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e81b87af-32ae-4439-a1d5-e34b735f8efe.pdf",
+      "recording": "https://www.dixoninfo.com/json/dixon/quarterly-result/ISL1120240730154441.mp3"
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": null,
+      "ppt": "https://nsearchives.nseindia.com/corporate/DIXON_30072024155833_FinancialswithPresentation30072024.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": null,
+      "ppt": "https://www.dixoninfo.com/json/dixon/quaterly-investor-presentation/Earning%20Presentation-%20Q1,%20FY24-25.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85178a76-e388-468a-8142-27d125947680.pdf",
+      "ppt": "https://www.dixoninfo.com/json/dixon/quaterly-investor-presentation/Earning%20Presentation-%20Q4%20&%20FY23-24.pdf",
+      "recording": "https://www.dixoninfo.com/json/dixon/quarterly-result/ISL1120240515152567.mp3"
+    },
+    {
+      "period": "Feb 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50403c8f-77c5-4ed0-98d9-b449744a7f4d.pdf",
+      "ppt": "https://www.dixoninfo.com/json/dixon/quaterly-investor-presentation/Earnings%20Presentation-%20Q3%209M-FY23-24.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fe59f81-da6c-4088-9bc4-c6d7e9876f45.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0e297428-5887-4547-a084-60f843b9b38a.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2e3d97f-f2d3-4464-9c8a-9a16b74ec739.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=da60673a-fa9b-445a-b2cd-f8d813ef99ca.pdf",
+      "ppt": "https://dixoninfo.com/json/dixon/quaterly-investor-presentation/Earning%20Presentation-%20Q4%20FY22-23.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6fb439ac-3295-417f-964c-d7afaf11e932.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6506d1d7-33a0-4239-bc56-6c53a2536542.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef44c44a-ac97-4e29-8245-06f8d59f0a2a.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Aug 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=da19cbe4-cc4c-4795-b84e-52c10245bd08.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jun 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1204ccfc-334c-4919-91f8-1b47fe7065bd.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b746270-2dea-4339-b648-15e3050e677f.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2022",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Emkay-DixonTechnologiesIndia-Jan282022.docx.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=18d804ab-9554-4d25-8c71-7b12aaa3ea4f.pdf",
+      "recording": null
+    },
+    {
+      "period": "Oct 2021",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Transcription%20of%20Dixon%20Technologies%20call%20held%20on%2029.10.21.%20final.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=755b30c6-5dbf-4e67-85d5-aa8697c2ba8d.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst%20Call%20Transcript%20Q1%20FY%202021-22.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec844832-7038-4cf0-9733-d3d4f46db174.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2021",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Earning%20Call%20Transcript%20Q4FY%202020-21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=88cb4b8d-5bfb-4ff8-994c-15b533675df6.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2021",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/AmbitCap-DixonTech-Feb02-2021_edited.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4bcac5f1-1fc7-425d-a995-b94715ce3286.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2020",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Q2-FY2020-Earnings-Conference-Call.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2020",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst%20Call%20Transcript%20Q2%20FY%202020-21.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Aug 2020",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst%20Call%20Transcript%20Q1%20FY%202020-21.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f71b87f1-b7b3-487a-a201-bef3e44a4632.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jun 2020",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Ambit-DixonTechnologies-June11-2020.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf354349-d89d-484d-9f55-b471f8eec64a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2020",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Q3-FY2020-Earnings-Conference-Call.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Aug 2019",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/IDFC-DixonTech-Aug13-2019.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a29a3de1-ecc9-401a-9a19-99185e79b094.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2019",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/DixonTechnologies-IDFCSecurities-May24-2019.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dc46614a-507b-48e3-b877-e32157fa0cee.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2019",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst-Call-Transcript-Q3-FY-2019-30.01.2019.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1793bb51-30d1-4c3b-9d1b-a8d3a4beee20.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2018",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/IDFC-Dixon-01Nov-2018-converted.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70f99a7c-c5ba-4a76-9de3-76b8a7ea7557.pdf",
+      "recording": null
+    },
+    {
+      "period": "Aug 2018",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst-Call-Transcript-Q1-FY2019_August-2018.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9bae83a2-db6e-44fb-858e-5c042211a5ca.pdf",
+      "recording": null
+    },
+    {
+      "period": "May 2018",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst-Call-Transcript-Q4-FY-2018-Date-28.05.2018.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ec3e82b-2fdd-47e5-a821-c85f8497507b.pdf",
+      "recording": null
+    },
+    {
+      "period": "Feb 2018",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst-Call-Transcript-Q3-FY-2018-Date-Feb-2018.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3184aff8-a35c-4061-ac39-758a7beaabf6.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2017",
+      "transcript": "https://dixoninfo.com/json/dixon/Earning-call/Analyst-Call_Transcript-Q2H1-FY-2018_15.11.2017.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=657e88d9-538e-4d2e-9b0a-eebea527e281.pdf",
+      "recording": null
+    }
+  ],
+  "annual_reports": [
+    {
+      "title": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf"
+    },
+    {
+      "title": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7eabc370-b827-435c-9dd2-8a70553a8062.pdf"
+    },
+    {
+      "title": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/44312065-295c-4d01-ac79-338efd2f98f7.pdf"
+    },
+    {
+      "title": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3d13c3c7-03c7-4af2-b0b6-2a6a1af5d417.pdf"
+    },
+    {
+      "title": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/540699/74024540699.pdf"
+    },
+    {
+      "title": "Annual Report 2021",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/540699/71112540699.pdf"
+    },
+    {
+      "title": "Annual Report 2020",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/540699/65908540699.pdf"
+    },
+    {
+      "title": "Annual Report 2019",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/540699/5406990319.pdf"
+    },
+    {
+      "title": "Annual Report 2018",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/540699/5406990318.pdf"
+    },
+    {
+      "title": "DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2017/dixon-technologies-india-limited_35967.html"
+    }
+  ],
+  "transcripts_saved": []
+}
