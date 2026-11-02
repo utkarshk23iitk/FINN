@@ -66,3 +66,38 @@ Short record of choices that shape FINN, and why. Newest last.
     ₹ million; the model said crore (a 10× error no arithmetic check can
     catch). Revenue and PAT are also compared with screener.in (±3%); a
     mismatch flags the card.
+
+## Promised vs delivered (3 Nov)
+
+15. **Primary sources only, enforced in code.** Inputs are the last four
+    call transcripts and the filed quarterly numbers. Every quote the model
+    returns is matched word for word (letters and digits) against the
+    transcript; a quote that isn't there is dropped, and the page says how
+    many were. The model cannot put words in management's mouth.
+16. **Three steps, priced by difficulty.** Code trims each transcript to
+    forward-looking and number-bearing sentences (about 40% of the text).
+    The cheap model lists guidance and reported results per call (4 calls,
+    in parallel). One stronger call judges promises against outcomes.
+    About 25k tokens per company; cached, so a second look is free.
+17. **Code does the year sums.** Fiscal-year totals and growth (Apr–Mar)
+    are computed from the reported quarters and handed to the model, so
+    "15% growth this year" is judged against 11.5% actual, not guessed.
+18. **Reaffirming is not delivering.** The first run marked INFY 5 of 5
+    "delivered" because targets were repeated in later calls, and kept
+    IRCTC's ended FY26 target "pending". The prompt now says both rules
+    outright, and the latest reported quarter is given.
+19. **Lead with the misses.** The page shows "N of M settled promises
+    delivered", then missed, partly, dropped, delivered, pending. Each
+    promise opens to the exact quote and a link to the transcript.
+20. **Free tier limits shape the routing.** Flash allows 20 requests a
+    day, Pro none. The judging step asks for `gemini-3.8-flash`, falls back
+    to Flash-Lite when it is busy or out of quota, and the page says which
+    model answered. `GEMINI_REASONING_MODEL` switches it.
+21. **Any ticker, on demand.** `/api/research?symbol=X` runs the same
+    pipeline on Vercel (writing to /tmp) and the CDN keeps the answer for a
+    day. Pre-built companies load as static files and cost nothing.
+22. **Numbers settle numeric promises, not the model.** The judge returns
+    target, actual, unit and direction; code decides delivered / partly
+    (within 1 pt, or 10% for amounts) / missed. Real case: IRCTC guided
+    "15% sustainable growth this year", FY26 sales grew 11.5%, Flash-Lite
+    said "delivered". Code says missed, and the page shows both.

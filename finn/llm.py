@@ -16,8 +16,13 @@ import requests
 # or where reasoning is the product (promised vs delivered).
 CHEAP = "gemini-3.5-flash-lite"
 STRONG = "gemini-3.5-flash"
-# When a model is overloaded (503), try an older one before giving up.
-FALLBACK = {STRONG: "gemini-2.5-flash", CHEAP: "gemini-2.5-flash-lite"}
+# Judging promises against outcomes is the one step where reasoning is the
+# product, so it gets the strongest model the key allows, once per company.
+# Pro has no free-tier quota; set GEMINI_REASONING_MODEL to use it.
+REASONING = os.environ.get("GEMINI_REASONING_MODEL", "gemini-3.8-flash")
+# When a model is overloaded (503) or out of quota (429), step down rather
+# than fail: the free tier allows only 20 Flash requests per day.
+FALLBACK = {REASONING: CHEAP, STRONG: CHEAP, CHEAP: "gemini-3.1-flash-lite"}
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 ENV_FILE = Path(__file__).resolve().parents[1] / ".env"
 
@@ -39,7 +44,7 @@ def api_key() -> str:
 
 
 def generate_json(prompt: str, schema: dict, model: str = CHEAP, pdf: bytes = None,
-                  retries: int = 3) -> tuple:
+                  retries: int = 3, timeout: int = 180) -> tuple:
     """Return (parsed JSON, usage dict). `schema` is a Gemini responseSchema."""
     parts = [{"text": prompt}]
     if pdf:
@@ -51,13 +56,19 @@ def generate_json(prompt: str, schema: dict, model: str = CHEAP, pdf: bytes = No
                              "responseSchema": schema},
     }
     for attempt in range(retries):
-        resp = requests.post(API.format(model=model), json=body, timeout=120,
-                             headers={"x-goog-api-key": api_key()})
-        if resp.status_code in (429, 500, 503) and attempt < retries - 1:
+        try:
+            resp = requests.post(API.format(model=model), json=body, timeout=timeout,
+                                 headers={"x-goog-api-key": api_key()})
+        except requests.Timeout:
+            if model in FALLBACK:
+                return generate_json(prompt, schema, FALLBACK[model], pdf)
+            raise
+        daily_cap = resp.status_code == 429 and "PerDay" in resp.text  # waiting won't help
+        if resp.status_code in (429, 500, 503) and attempt < retries - 1 and not daily_cap:
             time.sleep(5 * (attempt + 1))  # free-tier rate limits are per minute
             continue
-        if resp.status_code == 503 and model in FALLBACK:
-            return generate_json(prompt, schema, FALLBACK[model], pdf, retries)
+        if resp.status_code in (429, 503) and model in FALLBACK:
+            return generate_json(prompt, schema, FALLBACK[model], pdf)
         if not resp.ok:
             msg = resp.json().get("error", {}).get("message", "") if resp.content else ""
             raise LLMError(f"{model}: HTTP {resp.status_code} {msg[:200]}")

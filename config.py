@@ -57,4 +57,7 @@ ANNOUNCEMENT_DAYS = 30          # default window for the first announcements fet
 TRANSCRIPTS_PER_COMPANY = 4     # last 4 quarters, for "promised vs delivered"
 REQUEST_PAUSE_SECONDS = 1.0     # be polite to NSE / screener.in
 
-DATA_DIR = Path(__file__).resolve().parent / "data"
+import os  # noqa: E402
+
+# On a serverless host only /tmp is writable, so the path can be overridden.
+DATA_DIR = Path(os.environ.get("FINN_DATA_DIR") or Path(__file__).resolve().parent / "data")
