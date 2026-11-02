@@ -67,8 +67,11 @@ Deadline: Tuesday 3 November 2026 (extended from Sunday 1 Nov in the brief).
 - Cache refreshed: prices for all 18 companies (to 30 Oct), filings to 2 Nov.
 - Classifier fix: transcripts that name the results rank as earnings_call.
 - Decisions so far are in `DECISIONS.md`.
-- Next: results card (item 2) and promised-vs-delivered (item 3), both
-  need an LLM API key. Transcript label bug below is still open.
+- Results card done (item 2): `finn/results.py`, `python fetch_all.py
+  --only results`, then `python export_web.py` and redeploy from `web/`.
+  13 companies; 11 pass all checks. Gemini key is in `.env`.
+- Next: promised-vs-delivered (item 3). Transcript label bug below is
+  still open.
 
 ## Status as of Mon 2 Nov (checked in Claude Code)
 
