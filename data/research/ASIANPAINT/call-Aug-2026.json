@@ -1,0 +1,100 @@
+{
+  "symbol": "ASIANPAINT",
+  "period": "Aug 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+  "chars": {
+    "transcript": 49406,
+    "sent": 17848
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 4592,
+    "output_tokens": 957
+  },
+  "guidance": [
+    {
+      "metric": "PBDIT margin",
+      "claim": "We are maintaining our PBDIT margin guidance at 18-20%.",
+      "quote": "We are still garnering around the guidance of 18-20% of our PBDIT margins holds.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "volume growth",
+      "claim": "We expect full year volume growth to be in the 8-10% band.",
+      "quote": "At the current stage, we are looking at the band of 8-10% for the full FY27.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "pricing growth",
+      "claim": "The weighted average price increase would possibly be in the 8-9% range.",
+      "quote": "Possibly it would be in the range of about 8-9%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "industrial growth",
+      "claim": "Industrial will continue to grow at a higher pitch than decorative.",
+      "quote": "Overall, my belief is that industrial will continue to grow at a higher pitch than decorative as we look ahead.",
+      "quantified": false,
+      "horizon": "medium term",
+      "speaker": "Amit Syngle"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "volume growth",
+      "claim": "Overall volume growth was strong at about 9%.",
+      "quote": "Overall, we are at about a strong 9% volume growth.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "decorative value growth",
+      "claim": "Decorative value grew at about 16.6% on a lower base.",
+      "quote": "If you look at the value, the decorative value has grown at a very good pitch of about 16.6%, albeit on a lower base.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "top line growth",
+      "claim": "Standalone top line growth was about 17%.",
+      "quote": "In summary, if you look at the standalone financials, overall top line growth of about 17%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "PBDIT margin",
+      "claim": "Standalone PBDIT margins stood at a strong 22%.",
+      "quote": "Again, a very strong PBDIT margin of 16 | 22%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "PBDIT margin",
+      "claim": "Consolidated PBDIT margins stood at about 20.6%.",
+      "quote": "PBDIT margins stand at about 20.6%, almost 240 bps higher YoY.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "industrial growth",
+      "claim": "General Industrial business overall growth was 21%.",
+      "quote": "21% is the overall growth of what we have been able to do.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Amit Syngle"
+    }
+  ]
+}

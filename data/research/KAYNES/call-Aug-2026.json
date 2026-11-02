@@ -1,0 +1,116 @@
+{
+  "symbol": "KAYNES",
+  "period": "Aug 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf",
+  "chars": {
+    "transcript": 55696,
+    "sent": 23153
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5915,
+    "output_tokens": 1375
+  },
+  "guidance": [
+    {
+      "metric": "OSAT and PCB operational timeline",
+      "claim": "Both units remain on track to be operational by quarter 3 FY27.",
+      "quote": "Both Kaynes Semicon Unit 2 and Kaynes Circuit Chennai remain on the track to be operational by quarter 3 FY27",
+      "quantified": true,
+      "horizon": "Q3 FY27",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "Cash flow",
+      "claim": "The company will turn cash positive by the end of the financial year.",
+      "quote": "whatever the commitment that we have given to you as a leadership team, that by end of the financial year we'll turn the cash positive, we are pretty confident on that.",
+      "quantified": false,
+      "horizon": "FY27",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "OSAT and PCB revenue",
+      "claim": "Targeting INR450 to INR500 crores for full year revenue between both businesses.",
+      "quote": "we have committed a full year revenue of totally INR500 crores between both, Kaynes Technology India Limited August 08, 2026 INR450 to INR500 crores, which is what we are targeting at this point in time, we are on the target.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Muthukumar"
+    },
+    {
+      "metric": "Capex",
+      "claim": "Consolidated capex guidance for the year is INR300 crores for OSAT, INR300 crores for PCB, and INR250 crores for EMS.",
+      "quote": "We said we will be funding for this capex for this year is about INR300 crores for OSAT, INR300 crores for PCB, and about INR250 crores for EMS business.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Inderjeet Agarwal"
+    },
+    {
+      "metric": "Satellite launch",
+      "claim": "First 3U satellite is expected to be ready to launch in middle of next year.",
+      "quote": "Our first 3U satellite is currently in the prototype development phase, and we expect it to be ready to launch in middle of next year, once the required regulatory testing is complete.",
+      "quantified": true,
+      "horizon": "middle of next year",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "Profitability normalization",
+      "claim": "Profitability is expected to take a couple of quarters to normalize.",
+      "quote": "We expect this could take a couple of quarters for profitability to normalize and return to the levels as we had earlier committed to.",
+      "quantified": false,
+      "horizon": "a couple of quarters",
+      "speaker": "Ramesh Kunhikannan"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "Total revenue",
+      "claim": "Total revenue stood at INR946 crores, reflecting 40% year-on-year growth.",
+      "quote": "Our total revenue stood at INR946 crores, reflecting an year -on-year growth of 40%, which is largely driven by EMS business.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "EBITDA for the quarter was INR147.6 crores with a margin of 15.6%.",
+      "quote": "EBITDA for the quarter was INR147.6 crores, translati ng into an EBITDA margin of 15.6% and 31% year -on-year growth.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "Order book",
+      "claim": "The company has a robust order book of around INR9,000 crores.",
+      "quote": "We have a robust order book of around INR9,000 crores.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "EMS revenue",
+      "claim": "Standalone EMS business grew 53% to INR639 crores.",
+      "quote": "As a stand -alone EMS business if you see, our growth is 53%, from INR480 crores of last year to this year of INR639 crores stand-alone EMS business.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Siddhartha Bera"
+    },
+    {
+      "metric": "Government subsidy",
+      "claim": "Received government subsidy of INR170 crores in OSAT business till July 26.",
+      "quote": "We also received, happy to say that we also received the gover nment subsidy to the tune of INR170 crores in OSAT business till July 26.",
+      "quantified": true,
+      "horizon": "till July 26",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "Effective tax rate",
+      "claim": "The effective tax rate for the company is around 22% and odd.",
+      "quote": "Muthukumar: If you look at the tax rate, the effective tax rate for the company is around 22% and odd.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Muthukumar"
+    }
+  ]
+}

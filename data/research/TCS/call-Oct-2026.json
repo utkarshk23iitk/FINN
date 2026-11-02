@@ -1,0 +1,92 @@
+{
+  "symbol": "TCS",
+  "period": "Oct 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+  "chars": {
+    "transcript": 52273,
+    "sent": 22142
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5382,
+    "output_tokens": 836
+  },
+  "guidance": [
+    {
+      "metric": "margin",
+      "claim": "Long-term margin aspiration remains 26% to 28%.",
+      "quote": "Overall, our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+      "quantified": true,
+      "horizon": "long term",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "margin headwind",
+      "claim": "MHP acquisition is expected to impact margins by about 50 basis points.",
+      "quote": "The acquisition-related dilution, particularly in MHP , is likely to impact by about 50 basis points depending on the timing of closure and when the integration starts.",
+      "quantified": true,
+      "horizon": "near term",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "growth",
+      "claim": "Medium-term growth momentum will continue based on TCV and pipeline.",
+      "quote": "In the medium term we are expecting growth to improve.",
+      "quantified": false,
+      "horizon": "medium term",
+      "speaker": "Dipesh Mehta"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue",
+      "claim": "Revenue for the quarter was ₹73,188 crore.",
+      "quote": "Revenue for the quarter was ₹73,188 crore .",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "Constant currency revenue grew 0.5% sequentially and 2.8% year-on-year.",
+      "quote": "In constant currency, revenue grew 0.5% sequentially and 2.8% year-on-year .",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Operating margins remained stable sequentially at 24%.",
+      "quote": "Our operating margins remained stable sequentially at 24%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "order book",
+      "claim": "TCV for the quarter was US$9.6 billion.",
+      "quote": "TCV for the quarter was US$9.6 billion.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "AI revenue",
+      "claim": "Annualized AI revenue reached $3.1 billion and crossed 10% of overall revenue.",
+      "quote": "Annualized AI revenue reached $3.1 billion and crossed 10% of our overall revenue.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "net margin",
+      "claim": "Net margins for the quarter were 19%.",
+      "quote": "Our net margins for the quarter were 19%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Samir Seksaria"
+    }
+  ]
+}

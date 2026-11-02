@@ -1,0 +1,124 @@
+{
+  "symbol": "KAYNES",
+  "period": "Feb 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf",
+  "chars": {
+    "transcript": 51152,
+    "sent": 21705
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5821,
+    "output_tokens": 1387
+  },
+  "guidance": [
+    {
+      "metric": "net working capital",
+      "claim": "We maintain our guidance of bringing down net working capital to 85 days by March 26.",
+      "quote": "And secondly, w e maintain our guidance of bringing down the net working capital to 85 days by March '26.",
+      "quantified": true,
+      "horizon": "March '26",
+      "speaker": "Sonali Salgaonkar"
+    },
+    {
+      "metric": "revenue",
+      "claim": "We will cross about INR4,000 crores minimum for FY26.",
+      "quote": "So, in terms of revenue, I think last quarter is going to be a busy quarter for us, and including the last quarter for FY '26, we'll cross about INR4,000 crores minimum and mainly driven by EMS revenues.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "revenue",
+      "claim": "We are still sticking to our $1 billion revenue projection for fiscal 28.",
+      "quote": "See, on the growth, what we have projected $1 billion, we are still sticking on to that because for us, from our bare board, from our OSAT, additional buildings are going to take place.",
+      "quantified": true,
+      "horizon": "fiscal '28",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "OSAT revenue",
+      "claim": "You can expect at the minimum INR1,500 crores from our OSAT business.",
+      "quote": "So, at the minimum, you can expect INR1,500 crores from our OSAT business.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "PC Board revenue",
+      "claim": "You can expect about INR1,000 crores from the PC Board business.",
+      "quote": "Similarly, you can expect about INR1,000 crores from PC Board business.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "capex",
+      "claim": "You can take broadly in this year about another INR400-odd crores of capex will be spent.",
+      "quote": "So, you can take broadly in this year, maybe about another INR400-odd crores of capex will be spent.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "operating cash flow",
+      "claim": "At consol level we will definitely be OCF positive by end of this year.",
+      "quote": "And going forward, at consol level, we'll definitely be OCF positive by end of this year.",
+      "quantified": true,
+      "horizon": "end of this year",
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "smart metering revenue",
+      "claim": "The smart metering business should do around INR700 crores to INR800 crores of revenue.",
+      "quote": "You guided for the full year, the smart metering business should do around INR700 crores to INR800 crores of revenue.",
+      "quantified": true,
+      "horizon": "full year",
+      "speaker": "Viral Shah"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "total revenue",
+      "claim": "Total revenue stood at INR23,837 million, a year-on-year growth of 37%.",
+      "quote": "Our total revenue stood at INR23,837 million, reflecting a year -on-year growth of 37%.",
+      "quantified": true,
+      "horizon": "quarter",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "operational EBITDA",
+      "claim": "Operational EBITDA was INR3,778 million, a 55% growth over last year.",
+      "quote": "Operational EBITDA for the quarter was INR3,778 million, registering a growth of 55% over the same period last year.",
+      "quantified": true,
+      "horizon": "quarter",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "EBITDA margin was 15.9%, an expansion of 190 basis points year-on-year.",
+      "quote": "This translates into an EBITDA margin of 15.9%, an expansion of 190 basis points year-on-year.",
+      "quantified": true,
+      "horizon": "quarter",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "profit after tax",
+      "claim": "Profit after tax came in at INR2,726 million with a 11.4% margin.",
+      "quote": "Profit after tax came in at INR2,726 million, representing a PAT margin of 11.4%.",
+      "quantified": true,
+      "horizon": "quarter",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "order book",
+      "claim": "We have an order book of around INR90,000 million pending with us.",
+      "quote": "We have an order book of around INR90,000 million, which is pending with us.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ramesh Kunhikannan"
+    }
+  ]
+}

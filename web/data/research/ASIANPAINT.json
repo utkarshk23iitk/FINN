@@ -1,0 +1,194 @@
+{
+  "symbol": "ASIANPAINT",
+  "headline": "Management consistently guided for mid-to-high single digit volume growth and steady 18-20% margins, mostly delivering on targets.",
+  "counts": {
+    "delivered": 5,
+    "partly": 0,
+    "missed": 0,
+    "pending": 2,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "mid-single-digit value growth for the full year",
+      "quote": "We are looking at mid-single-digit value growth for the full year.",
+      "verdict": "delivered",
+      "evidence": "Sales grew by 4.9% in FY26, meeting the mid-single-digit value growth target.",
+      "evidence_from": "reported numbers",
+      "actual": 4.9,
+      "direction": "within",
+      "target_low": 4.0,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "gap between volume and value will remain in 4-5% zone",
+      "quote": "And therefore, we would anticipate that the gap between the volume and the value would remain in that zone of about 4-5%.",
+      "verdict": "delivered",
+      "evidence": "In Q3 FY26, volume was 7.9% and value was 2.8%, resulting in a 5.1% gap.",
+      "evidence_from": "Q3 FY26 call"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "18 to 20% PBDIT margin band",
+      "quote": "Given all this, it is okay to maintain the whole guidance of 18 to 20% PBDIT margin band.",
+      "verdict": "delivered",
+      "evidence": "Operating margin for FY26 quarters stayed within the 17-20% band.",
+      "evidence_from": "reported numbers"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "train almost 10 lakh people this year",
+      "quote": "This year, as we kind of go ahead, we are gunning for training almost 10 lakh people.",
+      "verdict": "pending",
+      "evidence": "No subsequent data was provided to evaluate the training number.",
+      "evidence_from": "reported numbers"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "volume growth in 8 to 10 percent band for Q4",
+      "quote": "I think as we go ahead, this band would remain, in terms of what we would be able to target for the Q4 as well.",
+      "verdict": "delivered",
+      "evidence": "Decorative volume growth achieved 12.4% and coatings volume reached 12.7% in Q4.",
+      "evidence_from": "Q4 FY26 call"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "high single-digit volume growth of 8-10% in FY27",
+      "quote": "We are still confident that demand conditions should continue giving us closer to high single-digit volume growth in the band of about 8 -10%, as we predict going forward.",
+      "verdict": "delivered",
+      "evidence": "Q1 FY27 overall volume growth was strong at about 9%.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": 9.0,
+      "direction": "within",
+      "target_high": 10.0,
+      "target_low": 8.0,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "commission first phase of VAM-VAE in H1 FY27",
+      "quote": "we expect to commission first phase in the first half of this year.",
+      "verdict": "pending",
+      "evidence": "No final confirmation of VAM-VAE commissioning was reported in Q1 FY27.",
+      "evidence_from": "Q1 FY27 call"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Volume-value gap",
+      "change": "Management narrowed the expected volume-value gap target from 4-5% down to 3-4%.",
+      "from_quarter": "Q3 FY26 call",
+      "to_quarter": "Q4 FY26 call"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q2 FY26",
+      "period": "Nov 2025",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+      "guidance": 3,
+      "reported": 5,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q3 FY26",
+      "period": "Feb 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Jun 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Aug 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        8549.0,
+        8359.0,
+        8939.0,
+        8531.0,
+        8867.0,
+        9247.0,
+        10542.0,
+        9977.0
+      ],
+      "OPM %": [
+        19.0,
+        17.0,
+        18.0,
+        18.0,
+        20.0,
+        19.0,
+        21.0,
+        16.0
+      ],
+      "Net Profit": [
+        1128.0,
+        701.0,
+        1117.0,
+        1018.0,
+        1074.0,
+        1185.0,
+        1559.0,
+        1085.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3535,
+      "output_tokens": 908
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6210,
+      "output_tokens": 1110
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6082,
+      "output_tokens": 1109
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4592,
+      "output_tokens": 957
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3221,
+      "output_tokens": 1063
+    }
+  ]
+}

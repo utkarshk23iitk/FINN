@@ -1,0 +1,116 @@
+{
+  "symbol": "TCS",
+  "period": "Jan 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70edbab-d5b2-47ae-8820-efacc5052d13.pdf",
+  "chars": {
+    "transcript": 48176,
+    "sent": 17160
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 4333,
+    "output_tokens": 1234
+  },
+  "guidance": [
+    {
+      "metric": "operating margins",
+      "claim": "Management aims to inch closer to the 26% to 28% margin band.",
+      "quote": "while we will not shy away from making investments, we want to inch closer to our 26% to 28% band and we'll make all efforts to climb towards 26%.",
+      "quantified": true,
+      "horizon": "coming quarters",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "labor code operating impact",
+      "claim": "Ongoing impact from the new labor code is expected to be minimal.",
+      "quote": "We expect the ongoing impact to be minimal, around 10 to 15 basis points.",
+      "quantified": true,
+      "horizon": "next quarter onwards",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "order book",
+      "claim": "Total order book is projected to reach around US$38-39 billion for the year.",
+      "quote": "If this trend continues, we will be somewhere closer to about US$38- 39 billion for the year, which will be one of the highest.",
+      "quantified": true,
+      "horizon": "the year",
+      "speaker": "Kumar Rakesh"
+    },
+    {
+      "metric": "international revenue",
+      "claim": "Management remains optimistic about reaching the aspiration of having revenue better than FY25 in Q4.",
+      "quote": "I think as far as international revenue in Q4 is concerned, we are optimistic, and we'll take every step that's required to see we reach the aspiration of having a revenue better than FY '25.",
+      "quantified": false,
+      "horizon": "Q4",
+      "speaker": "Kumar Rakesh"
+    },
+    {
+      "metric": "AI revenues",
+      "claim": "AI revenues are expected to continue to grow with a strong growth rate.",
+      "quote": "We are seeing increased traction, good momentum across our client base and we expect AI revenues to continue to grow with a strong growth rate.",
+      "quantified": false,
+      "horizon": "going ahead",
+      "speaker": "Aarthi Subramanian"
+    },
+    {
+      "metric": "BSNL revenue",
+      "claim": "No revenue pickup is expected for the 2nd phase until a formal final PO is received.",
+      "quote": "unless formal final PO is received, we don't expect the revenue pickup in BSNL (for the 2nd phase), but we will keep you posted whenever it happens.",
+      "quantified": false,
+      "horizon": "next quarter onwards",
+      "speaker": "Nitin Padmanabhan"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue",
+      "claim": "In Q3, the company delivered ₹67,087 crore in revenue.",
+      "quote": "In Q3, we delivered ₹67,087 crore in revenue.",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "Reported currency revenue grew 2.0% sequentially and 4.9% YoY.",
+      "quote": "In reported currency, our revenue grew by 2.0% sequentially and 4.9% YoY .",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "operating margins",
+      "claim": "Q3 operating margins stood at 25.2%, remaining stable sequentially.",
+      "quote": "Our Q3 operating margins stood at 25.2%, remaining stable sequentially.",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "AI services revenue",
+      "claim": "AI services generate US$1.8 billion in annualized revenue, growing at 17.3% QoQ.",
+      "quote": "Our AI services now generate US$1.8 billion in annualized revenue and is growing at 17.3% QoQ in constant currency.",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "TCV",
+      "claim": "The company achieved an overall TCV of US$9.3 billion in Q3.",
+      "quote": "We achieved an overall TCV of US$9.3 billion.",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "voluntary attrition",
+      "claim": "LTM voluntary attrition in IT Services stands at 13.5%.",
+      "quote": "Last twelve months (LTM) voluntary attrition in IT Services stands at 13.5%, up by 20 basis points sequentially.",
+      "quantified": true,
+      "horizon": "LTM",
+      "speaker": "Sudeep Kunnumal"
+    }
+  ]
+}

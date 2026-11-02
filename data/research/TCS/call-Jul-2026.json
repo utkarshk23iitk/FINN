@@ -1,0 +1,108 @@
+{
+  "symbol": "TCS",
+  "period": "Jul 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+  "chars": {
+    "transcript": 46436,
+    "sent": 16917
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 4044,
+    "output_tokens": 1053
+  },
+  "guidance": [
+    {
+      "metric": "margins",
+      "claim": "We want to exit at 25% plus and strive to achieve it sooner.",
+      "quote": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
+      "quantified": true,
+      "horizon": "next few quarters",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "demand",
+      "claim": "I expect the demand to improve sometime in Q2.",
+      "quote": "I expect the demand to improve sometime in Q2.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Kumar Rakesh"
+    },
+    {
+      "metric": "manufacturing demand",
+      "claim": "Manufacturing, we believe will turn around in Q2.",
+      "quote": "Manufacturing, we believe will turn around in Q2.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Nitin Padmanabhan"
+    },
+    {
+      "metric": "life sciences demand",
+      "claim": "Life sciences could turn around in Q2.",
+      "quote": "life sciences could turn around in Q2.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Nitin Padmanabhan"
+    },
+    {
+      "metric": "headcount operating model",
+      "claim": "Targeting at least 1% of employee base to work in new operating model.",
+      "quote": "But going forward, we would definitely target to have the definition that we come up with, and target to have at least 1% of our employee base, to work in the new operating model.",
+      "quantified": true,
+      "horizon": "going forward",
+      "speaker": "Aarthi Subramanian"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Q1 revenue grew 2.2% sequentially and 13.9% year-on-year.",
+      "quote": "Our Q1 revenue stood at ₹72,275 crore, growing 2.2% sequentially and 13.9% year-on-year .",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "TCV",
+      "claim": "Delivered a TCV of $9.5 billion in Q1.",
+      "quote": "We delivered a TCV of $9.5 billion , including net new AI-led business transformation deals",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "AI services revenue",
+      "claim": "Annualized AI revenue stands at $2.6 billion, up 13.6% QoQ.",
+      "quote": "At the end of Q1 FY27, it stands at $2.6 billion in annualized revenue, which is up 13.6% QoQ.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Operating margins stood at 24%, down 130 bps sequentially.",
+      "quote": "Fifth, our operating margins stood at 24%, down 130 bps sequentially, primarily due to wage hikes.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "net margin",
+      "claim": "Net margin for the quarter was 19.2%.",
+      "quote": "Net margin for the quarter was 19.2%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "cash conversion",
+      "claim": "Cash conversion remained strong at 93% of net income.",
+      "quote": "Our cash conversion remained strong at 93% of net income .",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Samir Seksaria"
+    }
+  ]
+}

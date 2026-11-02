@@ -1,0 +1,92 @@
+{
+  "symbol": "INFY",
+  "period": "Oct 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf",
+  "chars": {
+    "transcript": 104071,
+    "sent": 40000
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 9271,
+    "output_tokens": 913
+  },
+  "guidance": [
+    {
+      "metric": "revenue growth",
+      "claim": "Full year revenue growth guidance is revised to 1% to 2% YoY.",
+      "quote": "Based on our Q2 performance and revised outlook for the rest of the year, our revenue growth guidance is 1% to 2% YoY in constant currency terms.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Operating margin guidance remains at 20% to 22% for the year.",
+      "quote": "Our operating margin guidance remains at 20% to 22% for the year.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "hiring",
+      "claim": "Target remains approximately 20,000 freshers for the full year.",
+      "quote": "For the full year, our target remains clear at approximately 20,000, so around 20,000 like last year.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "effective tax rate",
+      "claim": "Effective tax rate for the year is expected to be 29% to 30%.",
+      "quote": "We expect effective tax rate for the year to be in the range of 29% to 30%.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Q2 revenue growth was 1.5% YoY and 1.2% sequentially in constant currency.",
+      "quote": "Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "AI revenue",
+      "claim": "AI revenue reached 10.5% of total revenue, growing 29% sequentially.",
+      "quote": "AI revenue was a standout at 10.5% of our revenue, growing at 29% sequentially.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Operating margin was stable at 21% for the quarter.",
+      "quote": "Operating margin was stable at 21%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "large deal TCV",
+      "claim": "Won 19 large deals in Q2 with a TCV of $5.2 billion.",
+      "quote": "We won 19 large deals in Q2 with a TCV of $5.2 bn, which is second highest quarterly TCV in the last five years.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "free cash flow",
+      "claim": "Free cash flow was $928 million, representing 113% of net profit.",
+      "quote": "Free cash flow generation was strong at $928 mn at 113% of net profit.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Company Secretary"
+    }
+  ]
+}

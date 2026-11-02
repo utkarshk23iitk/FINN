@@ -1,0 +1,108 @@
+{
+  "symbol": "INFY",
+  "period": "Apr 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+  "chars": {
+    "transcript": 98908,
+    "sent": 40000
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 9799,
+    "output_tokens": 1112
+  },
+  "guidance": [
+    {
+      "metric": "revenue growth",
+      "claim": "FY27 revenue growth guidance is 1.5% to 3.5% in constant currency.",
+      "quote": "Our revenue growth guidance for the financial year 2027 is 1.5% to 3.5% growth year -on-year in constant currency terms.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Salil Parekh"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "FY27 operating margin guidance is 20% to 22%.",
+      "quote": "Our operating margin guidance for financial year '27 is 20% to 22%.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Salil Parekh"
+    },
+    {
+      "metric": "hiring",
+      "claim": "Expect to hire around 20,000 freshers in FY27.",
+      "quote": "This year also , we are expecting at least 20,000 freshers to be hired.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Jayesh Sanghrajka"
+    },
+    {
+      "metric": "effective tax rate",
+      "claim": "FY27 effective tax rate is expected to be 29% to 30%.",
+      "quote": "We expect effective tax rates for the FY27 to be in the range of 29% to 30%.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Jayesh Sanghrajka"
+    },
+    {
+      "metric": "seasonality",
+      "claim": "Expect H1 to be stronger than H2 in FY27.",
+      "quote": "We expect H1 to be stronger than H2 consistent with our normal seasonality.",
+      "quantified": true,
+      "horizon": "H1 FY27",
+      "speaker": "Jayesh Sanghrajka"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Full year FY26 revenue growth was 3.1% in constant currency.",
+      "quote": "We had growth of 3.1% for the full year in constant currency terms.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Jayesh Sanghrajka"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "Q4 revenue growth was 4.1% year-on-year in constant currency.",
+      "quote": "On Q4, our growth year-on-year was 4.1% in constant currency terms.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Jayesh Sanghrajka"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Full year FY26 adjusted operating margin was stable at 21%.",
+      "quote": "Adjusted operating margin was stable at 21%.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Jayesh Sanghrajka"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Q4 operating margins stood at 20.9%.",
+      "quote": "Q4 operating margins stood at 20.9%, down 0.3% sequentially, adjusted for the Labor Code impact in Q3.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Jayesh Sanghrajka"
+    },
+    {
+      "metric": "large deal TCV",
+      "claim": "FY26 large deal TCV reached $15 billion with 55% net new.",
+      "quote": "In FY26, we signed 96 large deals with TCV of $15 bn, 55% net new.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Jayesh Sanghrajka"
+    },
+    {
+      "metric": "hiring",
+      "claim": "Onboarded more than 20,000 freshers in FY26.",
+      "quote": "We onboarded more than 20,000 freshers in FY26 and expect to hire a similar number in FY27.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Jayesh Sanghrajka"
+    }
+  ]
+}

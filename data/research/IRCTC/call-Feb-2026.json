@@ -1,0 +1,76 @@
+{
+  "symbol": "IRCTC",
+  "period": "Feb 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cfad47d-e4a8-47fe-a883-38462f3036c3.pdf",
+  "chars": {
+    "transcript": 25505,
+    "sent": 9348
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 2490,
+    "output_tokens": 832
+  },
+  "guidance": [
+    {
+      "metric": "revenue growth",
+      "claim": "We are targeting to achieve 15% sustainable growth this year.",
+      "quote": "You see all of our segments have shown a very good increase and we are targeting to achieve 15% sustainable growth this year.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "Rail Neer capacity",
+      "claim": "We will be adding 25% to 30% capacity in 1.5 years.",
+      "quote": "So we'll be adding around 25% to 30% capacity in say -- in 1.5 years.",
+      "quantified": true,
+      "horizon": "1.5 years",
+      "speaker": "Sanjay Kumar Jain"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "PAT",
+      "claim": "PAT stood at INR 394 crores, up 15.5% year-on-year.",
+      "quote": "During the quarter, PAT stood at INR 394 crores, registering a healthy year -on-year growth of 15.5%, driven by strong performance in Internet ticketing, rail neer and tourism, along with improved operational efficiencies and prudent cost management.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "EBITDA",
+      "claim": "EBITDA stood at INR 465 crores, a jump of 11.5% year-on-year.",
+      "quote": "EBITDA stood at INR 465 crores, a jump of 11.5% year -on-year.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "Revenue from operations increased to INR 1,449 crores, reflecting 18.2% growth.",
+      "quote": "Revenue from operations increased to INR 1,449 crores from INR 1,225 crores in the corresponding quarter last year, reflecting a growth of 18.2% with a robust contribution across all business segments.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "EBITDA margin reached 32.1% for the quarter.",
+      "quote": "EBITDA rose to INR465 crores with a healthy EBITDA margin of 32.1%, although margins moderated slightly due to changes in revenue mix, particularly higher contribution from catering and provisions, our overall profitability remained strong and sustainable.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sudhir Kumar"
+    },
+    {
+      "metric": "tourism revenue",
+      "claim": "Tourism delivered revenue of INR 289 crores, marking a 29% growth.",
+      "quote": "Tourism delivered an excellent performance with revenue of INR 289 crores, marking a 29% year-on-year growth despite temporary geopolitical disruptions.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sudhir Kumar"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "symbol": "ASIANPAINT",
+    "headline": "Management consistently guided for mid-to-high single digit volume growth and steady 18-20% margins, mostly delivering on targets.",
+    "counts": {
+      "delivered": 5,
+      "partly": 0,
+      "missed": 0,
+      "pending": 2,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "INFY",
+    "headline": "Management maintained steady operating margin and hiring guidance while progressively lowering constant currency revenue growth expectations across fiscal 2027.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 0,
+      "pending": 5,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "IRCTC",
+    "headline": "IRCTC delivered steady revenue growth and robust tourism performance, though meeting specific capacity and margin targets remains mixed or pending.",
+    "counts": {
+      "delivered": 0,
+      "partly": 0,
+      "missed": 2,
+      "pending": 3,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "KAYNES",
+    "headline": "Kaynes consistently delivered on major revenue milestones and strategic business expansion, while shifting focus on cash flow and segment-specific timelines over successive quarters.",
+    "counts": {
+      "delivered": 2,
+      "partly": 1,
+      "missed": 0,
+      "pending": 4,
+      "dropped": 3
+    }
+  },
+  {
+    "symbol": "TCS",
+    "headline": "Management consistently targets long-term margin bands of 26% to 28% while near-term performance oscillates around 24% to 25%.",
+    "counts": {
+      "delivered": 3,
+      "partly": 1,
+      "missed": 2,
+      "pending": 1,
+      "dropped": 1
+    }
+  }
+]

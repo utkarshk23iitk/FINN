@@ -1,0 +1,250 @@
+{
+  "symbol": "TCS",
+  "headline": "Management consistently targets long-term margin bands of 26% to 28% while near-term performance oscillates around 24% to 25%.",
+  "counts": {
+    "delivered": 3,
+    "partly": 1,
+    "missed": 2,
+    "pending": 1,
+    "dropped": 1
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Inch closer to 26% to 28% margin band",
+      "quote": "while we will not shy away from making investments, we want to inch closer to our 26% to 28% band and we'll make all efforts to climb towards 26%.",
+      "verdict": "missed",
+      "evidence": "Operating margins stood at 25.3% in Q4 FY26, dropped to 24% in Q1 FY27, and remained at 24% in Q2 FY27.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": 24.0,
+      "direction": "within",
+      "evidence_quote": "Our operating margins stood at 24%, down 130 bps sequentially, primarily due to wage hikes.",
+      "horizon": "coming quarters",
+      "target_high": 28.0,
+      "target_low": 26.0,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Labor code impact minimal around 10 to 15 bps",
+      "quote": "We expect the ongoing impact to be minimal, around 10 to 15 basis points.",
+      "verdict": "dropped",
+      "evidence": "Management stopped mentioning the labor code impact in subsequent calls.",
+      "evidence_from": "Q4 FY26 call",
+      "horizon": "next quarter onwards",
+      "target_high": 15.0,
+      "target_low": 10.0,
+      "unit": "bps"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Total order book projected around US$38-39 billion for the year",
+      "quote": "If this trend continues, we will be somewhere closer to about US$38- 39 billion for the year, which will be one of the highest.",
+      "verdict": "delivered",
+      "evidence": "Reported TCV for FY26 surpassed $38 billion range based on strong quarterly wins.",
+      "evidence_from": "reported numbers",
+      "actual": 38.5,
+      "direction": "within",
+      "horizon": "the year",
+      "target_high": 39.0,
+      "target_low": 38.0,
+      "unit": "US$ billion",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "International revenue better than FY25 in Q4",
+      "quote": "I think as far as international revenue in Q4 is concerned, we are optimistic, and we'll take every step that's required to see we reach the aspiration of having a revenue better than FY '25.",
+      "verdict": "pending",
+      "evidence": "No explicit international revenue comparison was highlighted in Q4 FY26 reported statements.",
+      "evidence_from": "Q4 FY26 call",
+      "horizon": "Q4",
+      "target_high": null,
+      "target_low": null,
+      "unit": null
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "AI revenues to continue to grow with strong growth rate",
+      "quote": "We are seeing increased traction, good momentum across our client base and we expect AI revenues to continue to grow with a strong growth rate.",
+      "verdict": "delivered",
+      "evidence": "Annualized AI revenues grew from US$1.8 billion in Q3 FY26 to US$3.1 billion by Q2 FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": 3.1,
+      "direction": "at_least",
+      "evidence_quote": "Annualized AI revenue reached $3.1 billion and crossed 10% of our overall revenue.",
+      "horizon": "going ahead",
+      "target_high": null,
+      "target_low": 1.8,
+      "unit": "US$ billion",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Expect wage increment impact of 150 to 200 bps next quarter",
+      "quote": "On the wage increments, you should expect a similar impact on what we have seen in the past annual increment cycle, which had been in the range of 150 to 200 basis points.",
+      "verdict": "partly",
+      "evidence": "Operating margins dropped by 130 bps sequentially in Q1 FY27 primarily due to wage hikes.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": 130.0,
+      "direction": "within",
+      "evidence_quote": "Our operating margins stood at 24%, down 130 bps sequentially, primarily due to wage hikes.",
+      "horizon": "next quarter",
+      "target_high": 200.0,
+      "target_low": 150.0,
+      "unit": "bps",
+      "verdict_by": "numbers",
+      "model_verdict": "delivered"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Expect a stronger 1H",
+      "quote": "We are also expecting a stronger 1H.",
+      "verdict": "delivered",
+      "evidence": "H1 FY27 net profit reached ₹27,354 crore and sales reached ₹145,463 crore, showing robust growth.",
+      "evidence_from": "reported numbers",
+      "actual": 145463.0,
+      "direction": "at_least",
+      "horizon": "1H",
+      "target_high": null,
+      "target_low": null,
+      "unit": "₹ crore"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Expect demand to improve in Q2",
+      "quote": "I expect the demand to improve sometime in Q2.",
+      "verdict": "missed",
+      "evidence": "Constant currency revenue grew only 0.5% sequentially in Q2 FY27, indicating subdued improvement.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": 0.5,
+      "direction": "at_least",
+      "evidence_quote": "In constant currency, revenue grew 0.5% sequentially and 2.8% year-on-year.",
+      "horizon": "Q2",
+      "target_high": null,
+      "target_low": null,
+      "unit": "%"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Operating Margins",
+      "change": "Shifted from aiming to inch closer to 26% in the near term to acknowledging 26%-28% is strictly a longer-term aspiration.",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q4 FY26"
+    },
+    {
+      "topic": "Demand Recovery",
+      "change": "Management projected a demand turnaround in Q2 for manufacturing and life sciences, which translated to muted sequential growth.",
+      "from_quarter": "Q1 FY27",
+      "to_quarter": "Q2 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Jan 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70edbab-d5b2-47ae-8820-efacc5052d13.pdf",
+      "guidance": 6,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Apr 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Jul 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+      "guidance": 5,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+      "guidance": 3,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        63973.0,
+        64479.0,
+        63437.0,
+        65799.0,
+        67087.0,
+        70698.0,
+        72275.0,
+        73188.0
+      ],
+      "OPM %": [
+        27.0,
+        26.0,
+        27.0,
+        27.0,
+        27.0,
+        27.0,
+        26.0,
+        26.0
+      ],
+      "Net Profit": [
+        12444.0,
+        12293.0,
+        12819.0,
+        12131.0,
+        10720.0,
+        13784.0,
+        13420.0,
+        13934.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4333,
+      "output_tokens": 1234
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5781,
+      "output_tokens": 1046
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4044,
+      "output_tokens": 1053
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5382,
+      "output_tokens": 836
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3155,
+      "output_tokens": 1801
+    }
+  ]
+}

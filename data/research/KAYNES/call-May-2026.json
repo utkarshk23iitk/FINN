@@ -1,0 +1,108 @@
+{
+  "symbol": "KAYNES",
+  "period": "May 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2aa16ac-08ab-430a-819a-833f94c09dde.pdf",
+  "chars": {
+    "transcript": 58577,
+    "sent": 29347
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 7123,
+    "output_tokens": 1356
+  },
+  "guidance": [
+    {
+      "metric": "OSAT and PCB order outlook",
+      "claim": "OSAT and PCB have strong order outlook and 5-year revenue visibility.",
+      "quote": "In OSAT, the order outlook for both the current year and the medium term remains strong with revenue visibility of over INR25,000 million over the next 5 years.",
+      "quantified": true,
+      "horizon": "next 5 years",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "New product development revenue contribution",
+      "claim": "Goal is to increase NPD-led solutions to nearly 30% of revenue.",
+      "quote": "our goal is to steadily increase the contribution of NPD -led and value-added solutions to nearly 30% of the total revenue in the coming years.",
+      "quantified": true,
+      "horizon": "coming years",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "EMS working capital and cash positive",
+      "claim": "EMS business will be cash positive and improve days in years to come.",
+      "quote": "You can rest assured that Kaynes stand -alone, the EMS business will continue to be cash positive, and we'll be improving it at least by about 8 to 10 days in the years to come in this segment.",
+      "quantified": true,
+      "horizon": "years to come",
+      "speaker": "Nitin Arora"
+    },
+    {
+      "metric": "Rail business revenue growth and margins",
+      "claim": "Rail business is expected to grow 20% to 25% with high margins.",
+      "quote": "So rail business, I'm expecting this year to grow by around 20%, 25% because of these coming in. And the margins are going to be north of current 30% plus.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "PCB and OSAT revenue",
+      "claim": "Expects specific revenue ranges for PCB and OSAT.",
+      "quote": "I'm sure and certain we will do a good number of PCB of around INR300 crores to INR400 crores, and OSAT of around INR250 crores to INR300 crores.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ramesh Kunhikannan"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "total revenue",
+      "claim": "Total revenue for FY26 stood at INR3,626.4 crores, up 33.2% year-on-year.",
+      "quote": "Our total revenue stood at INR3,626.4 crores, reflecting a year -on-year growth of 33.2%.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "EBITDA",
+      "claim": "FY26 EBITDA was INR5,741 million, up 39.8% year-on-year.",
+      "quote": "Our EBITDA for the period FY '26 was INR5,741 million, registering a growth of 39.8% over the same period last year.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "EBITDA margin and PAT",
+      "claim": "FY26 EBITDA margin was 15.8% with PAT at INR3,639 million.",
+      "quote": "This translates into an EBITDA margin of 15.8% for FY '26, while profit after tax came in at INR3,639 million, representing a PAT margin of 10% for FY '26.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "Q4 FY26 total revenue",
+      "claim": "Q4 FY26 total revenue was INR12,426 million, up 26% year-on-year.",
+      "quote": "For Q4 FY '26, our total revenue stood at INR12,426 million, reflecting a year-on-year growth of 26% for this quarter.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "Q4 FY26 EBITDA margin",
+      "claim": "Q4 FY26 operational EBITDA was INR1,937 million with a 15.6% margin.",
+      "quote": "operational EBITDA for Q4 '26 came up to INR1,937 million, translating into an EBITDA margin of 15.6%, reflecting our continued operational resilience and scale expansion.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "earnings per share",
+      "claim": "Basic EPS grew from INR30 in FY24 to INR54.9 in FY26.",
+      "quote": "our organization earnings per share basic has grown from INR30 in FY '24 to INR54.9 in FY '26, reflecting the company's consistent growth trajectory",
+      "quantified": true,
+      "horizon": "FY24 to FY26",
+      "speaker": "Ramesh Kunhikannan"
+    }
+  ]
+}

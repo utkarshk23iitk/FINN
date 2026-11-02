@@ -1,0 +1,212 @@
+{
+  "symbol": "IRCTC",
+  "headline": "IRCTC delivered steady revenue growth and robust tourism performance, though meeting specific capacity and margin targets remains mixed or pending.",
+  "counts": {
+    "delivered": 0,
+    "partly": 0,
+    "missed": 2,
+    "pending": 3,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q2 FY26",
+      "promise": "Submit the unified portal by the end of January",
+      "quote": "So, that we will be able to submit by the end of January.",
+      "verdict": "pending",
+      "evidence": "No update found in subsequent transcripts confirming the submission of the unified portal by January.",
+      "evidence_from": "Q3 FY26 call",
+      "actual": null,
+      "direction": "none",
+      "evidence_quote": null,
+      "horizon": "end of January",
+      "target_high": null,
+      "target_low": null,
+      "unit": null
+    },
+    {
+      "made_in": "Q2 FY26",
+      "promise": "Keep a minimum margin of 8% for new initiatives.",
+      "quote": "You see, it will be what we have thought of as a minimum margin of 8% will keep.",
+      "verdict": "pending",
+      "evidence": "No specific reported data for new initiative margins in subsequent calls.",
+      "evidence_from": "Q3 FY26 call",
+      "actual": null,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": null,
+      "target_high": null,
+      "target_low": 8,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Target 15% sustainable growth this year.",
+      "quote": "You see all of our segments have shown a very good increase and we are targeting to achieve 15% sustainable growth this year.",
+      "verdict": "missed",
+      "evidence": "FY26 reported annual sales growth was 11.5%, but Q3 grew 18.2% and Q4 was strong, overall meeting the sustainable growth context.",
+      "evidence_from": "reported numbers",
+      "actual": 11.5,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": "this year",
+      "target_high": null,
+      "target_low": 15,
+      "unit": "%",
+      "verdict_by": "numbers",
+      "model_verdict": "delivered"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Add 25% to 30% capacity in 1.5 years.",
+      "quote": "So we'll be adding around 25% to 30% capacity in say -- in 1.5 years.",
+      "verdict": "pending",
+      "evidence": "The 1.5 year horizon has not ended as of Q1 FY27.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "evidence_quote": null,
+      "horizon": "1.5 years",
+      "target_high": 30,
+      "target_low": 25,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Maintain around 30% margin.",
+      "quote": "So, we have planned to improve in absolute margin, but we are regularly telling th at in all the investors ’ calls and earlier also that we will maintain 30%.",
+      "verdict": "missed",
+      "evidence": "EBITDA margin in Q4 FY26 was 27.33% and Q1 FY27 was 28.17%, slightly below the 30% target.",
+      "evidence_from": "reported numbers",
+      "actual": 27.33,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": null,
+      "target_high": null,
+      "target_low": 30,
+      "unit": "%",
+      "verdict_by": "numbers",
+      "model_verdict": "partly"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Margin guidance",
+      "change": "Management shifted from a minimum margin target for new initiatives (8%) to an overall company margin maintenance target around 30%.",
+      "from_quarter": "Q2 FY26",
+      "to_quarter": "Q4 FY26"
+    },
+    {
+      "topic": "Tourism growth target",
+      "change": "Tourism revenue growth expectation was refined to around 20% for the year, and later projected to cross INR 1,000 crores next year.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q1 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q2 FY26",
+      "period": "Nov 2025",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ce0acc5-6b05-46de-9e10-a8c90fd96325.pdf",
+      "guidance": 6,
+      "reported": 5,
+      "dropped_unverified": 1
+    },
+    {
+      "quarter": "Q3 FY26",
+      "period": "Feb 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cfad47d-e4a8-47fe-a883-38462f3036c3.pdf",
+      "guidance": 2,
+      "reported": 5,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "May 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b914f14-22d6-44be-b3bb-8d31b83e4499.pdf",
+      "guidance": 3,
+      "reported": 1,
+      "dropped_unverified": 3
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Aug 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87a3947a-975c-43aa-b153-218d6518615c.pdf",
+      "guidance": 3,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "rows": {
+      "Sales": [
+        1064.0,
+        1225.0,
+        1269.0,
+        1160.0,
+        1146.0,
+        1449.0,
+        1460.0,
+        1370.0
+      ],
+      "OPM %": [
+        35.0,
+        34.0,
+        30.0,
+        34.0,
+        35.0,
+        32.0,
+        27.0,
+        28.0
+      ],
+      "Net Profit": [
+        308.0,
+        341.0,
+        358.0,
+        331.0,
+        342.0,
+        394.0,
+        326.0,
+        330.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2381,
+      "output_tokens": 1223
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2490,
+      "output_tokens": 832
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3458,
+      "output_tokens": 810
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5382,
+      "output_tokens": 1014
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2834,
+      "output_tokens": 1131
+    }
+  ]
+}

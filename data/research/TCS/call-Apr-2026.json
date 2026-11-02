@@ -1,0 +1,100 @@
+{
+  "symbol": "TCS",
+  "period": "Apr 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+  "chars": {
+    "transcript": 57616,
+    "sent": 24152
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5781,
+    "output_tokens": 1046
+  },
+  "guidance": [
+    {
+      "metric": "margins",
+      "claim": "Expect wage increment impact of 150 to 200 basis points next quarter.",
+      "quote": "On the wage increments, you should expect a similar impact on what we have seen in the past annual increment cycle, which had been in the range of 150 to 200 basis points.",
+      "quantified": true,
+      "horizon": "next quarter",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "margins",
+      "claim": "We'd like to move towards 26%, but on a longer-term basis.",
+      "quote": "We'd like to move towards 26%, but on a longer-term basis.",
+      "quantified": true,
+      "horizon": "longer term",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "Expect AI revenue to be net accretive to growth over time.",
+      "quote": "For your question about AI, again, our expectation is AI will be net accretive, like to see the initial year, our attempt would be to ensure that we arrest the degrowth while the AI revenue increase.",
+      "quantified": false,
+      "horizon": "FY27",
+      "speaker": "Gaurav Rateria"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "We are also expecting a stronger 1H.",
+      "quote": "We are also expecting a stronger 1H.",
+      "quantified": false,
+      "horizon": "1H",
+      "speaker": "Yogesh Aggarwal"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Q4 revenue grew 1.2% sequentially in constant currency.",
+      "quote": "In constant currency, we had a sequential revenue growth of 1.2%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Q4 operating margin stood at 25.3%, a sequential increase of 10 bps.",
+      "quote": "Our Q4 operating margin stood at 25.3%, a sequential increase of 10 basis points.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "order inflow",
+      "claim": "Q4 TCV was $12 billion including three mega deals.",
+      "quote": "Our order book performance was also very strong in Q4, with $12 billion in TCV including three mega deal wins from Marks and Spencer, a leading telecom operator in the UK, and a leading American healthcare & pharmacy retailer.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Nehal Shah"
+    },
+    {
+      "metric": "net margin",
+      "claim": "Net margins for Q4 were 19.4%, and EPS grew 12.2% YoY.",
+      "quote": "Net margins for Q4 were 19.4%, and our EPS grew 12.2% YoY .",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "FY26 operating margin was 25%, an expansion of 70 basis points.",
+      "quote": "For FY26, our operating margin was 25%, an expansion of 70 basis points over the prior year, and at a 4-year high.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Samir Seksaria"
+    },
+    {
+      "metric": "AI revenue",
+      "claim": "Q4 annualized AI revenues surpassed $2.3 billion.",
+      "quote": "In Q4, our annualized AI revenues surpassed $2.3 billion, driven by the accelerated deployment of AI solutions across industries.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Aarthi Subramanian"
+    }
+  ]
+}

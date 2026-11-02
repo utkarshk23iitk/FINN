@@ -1,0 +1,100 @@
+{
+  "symbol": "ASIANPAINT",
+  "period": "Jun 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+  "chars": {
+    "transcript": 52021,
+    "sent": 24078
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6082,
+    "output_tokens": 1109
+  },
+  "guidance": [
+    {
+      "metric": "volume growth",
+      "claim": "We expect high single-digit volume growth of 8-10% going forward.",
+      "quote": "We are still confident that demand conditions should continue giving us closer to high single-digit volume growth in the band of about 8 -10%, as we predict going forward.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "EBIT margin",
+      "claim": "We are maintaining our margin guidance of 18-20%.",
+      "quote": "We are maintaining our margin guidance, which is there.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "VAM-VAE commissioning",
+      "claim": "We expect to commission the first phase of VAM-VAE in the first half of this year.",
+      "quote": "we expect to commission first phase in the first half of this year.",
+      "quantified": true,
+      "horizon": "H1 FY27",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "volume-value gap",
+      "claim": "We should be able to look at that volume-value gap of about 3-4%.",
+      "quote": "We should really be able to look at that gap of about 3-4%.",
+      "quantified": true,
+      "horizon": "next few quarters",
+      "speaker": "Amit Syngle"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "decorative volume growth",
+      "claim": "Decorative business achieved 12.4% volume growth in the quarter.",
+      "quote": "When we look at the decorative business, we have achieved 12.4% volume growth and a very strong value growth of 10.2%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "decorative value growth",
+      "claim": "Decorative business achieved 10.2% value growth in the quarter.",
+      "quote": "When we look at the decorative business, we have achieved 12.4% volume growth and a very strong value growth of 10.2%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "coatings volume growth",
+      "claim": "Coatings volume growth reached 12.7% in the quarter.",
+      "quote": "the volume growth from 12.4% goes up to 12.7% in the quarter, and the value growth goes up from 10.2% to about 11%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "PBT margin",
+      "claim": "PBT margin for the quarter is 8.5%, an improvement of 370 bps year-on-year.",
+      "quote": "very strong growths, but the good part is that we have been able to extend the PBT margins, which is about 8.5% for the quarter, which is a strong improvement by 370 bps year-on-year.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "gross margins",
+      "claim": "Gross margins reached an all-time high of about 45.6% in Q4.",
+      "quote": "taking our Gross Margins to almost an all- time high of about 45.6%, which is very strong.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "standalone PBDIT margin",
+      "claim": "Standalone PBDIT margin was 21.2%, higher by 260 bps year-on-year.",
+      "quote": "From the point of view of PBDIT, very strong growth of 26%, with a PBDIT margin of about 21.2%, which is higher by 260 bps year -on- year.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Amit Syngle"
+    }
+  ]
+}

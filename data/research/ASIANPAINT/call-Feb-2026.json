@@ -1,0 +1,100 @@
+{
+  "symbol": "ASIANPAINT",
+  "period": "Feb 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+  "chars": {
+    "transcript": 54884,
+    "sent": 24727
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6210,
+    "output_tokens": 1110
+  },
+  "guidance": [
+    {
+      "metric": "EBITDA margin",
+      "claim": "We will endeavour to maintain the margin guidance between the 18 and 20% band.",
+      "quote": "So, I would say that we would keep the guidance between that 18 and 20% band as we go ahead and that is something which we will endeavour to maintain.",
+      "quantified": true,
+      "horizon": "going ahead",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "people training",
+      "claim": "We are targeting to train almost 10 lakh people this year.",
+      "quote": "This year, as we kind of go ahead, we are gunning for training almost 10 lakh people.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "volume growth",
+      "claim": "We target volume growth in the 8 to 10 percent band for Q4.",
+      "quote": "I think as we go ahead, this band would remain, in terms of what we would be able to target for the Q4 as well.",
+      "quantified": true,
+      "horizon": "Q4",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "volume and value gap",
+      "claim": "A realistic gap between volume and value going forward is 4 to 5 percent.",
+      "quote": "So, I would say that this 4%-5% is a more realistic thing which would remain in the market, so that possibly from a point of view of share you are able to concentrate far more holistically in terms of how the market is growing.",
+      "quantified": true,
+      "horizon": "future",
+      "speaker": "Amit Syngle"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "volume growth",
+      "claim": "We drove a strong high single-digit volume growth of 7.9% in Q3.",
+      "quote": "Coming on to the Q3 results, as you see, we have been able to drive a strong high single -digit volume growth of 7.9% which is strong.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "value growth",
+      "claim": "The value growth was about 2.8% for Q3.",
+      "quote": "The value growth was about 2.8%, so you can see the difference between the value and the volume was approximately about 5% , which indicates a relatively strong mix in terms of what we have been able to deliver.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "gross margin",
+      "claim": "Standlone gross margin reached 44.9% in Q3.",
+      "quote": "At the same time, when we look at the gross margin, one of the highest Gross Margins I would say over the quarters in terms of what we have registered, about 44.9%, 200 bps points higher",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "consolidated gross margin",
+      "claim": "The consolidated gross margin was 44.3% in Q3.",
+      "quote": "The Gross Margin is 44.3% which is higher by about 200 bps points.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "retail network reach",
+      "claim": "We added 3,500 to 4,000 retailers reaching over 1.6 lakh outlets.",
+      "quote": "W e have added about 3,500 to 4,000 retailers this year overall, and our reach is now in more than 1.6 lakh retail outlets.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "new product contribution",
+      "claim": "New products contribute about 16% of overall revenues.",
+      "quote": "And today , new product contributes to about 16% of our overall revenues.",
+      "quantified": true,
+      "horizon": "current",
+      "speaker": "Amit Syngle"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "symbol": "IRCTC",
+  "period": "Nov 2025",
+  "quarter": "Q2 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ce0acc5-6b05-46de-9e10-a8c90fd96325.pdf",
+  "chars": {
+    "transcript": 27430,
+    "sent": 9007
+  },
+  "dropped_unverified": 1,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 2381,
+    "output_tokens": 1223
+  },
+  "guidance": [
+    {
+      "metric": "unified portal rollout",
+      "claim": "The unified portal will be submitted by the end of January.",
+      "quote": "So, that we will be able to submit by the end of January.",
+      "quantified": false,
+      "horizon": "end of January",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "new Rail Neer plants",
+      "claim": "We are hoping to install four more plants across India.",
+      "quote": "we are also hoping to install four more plants across India.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "minimum margin target",
+      "claim": "We will keep a minimum margin of 8% for new initiatives.",
+      "quote": "You see, it will be what we have thought of as a minimum margin of 8% will keep.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "I-Pay transaction value",
+      "claim": "I-Pay transaction value has scope of going up to 100%.",
+      "quote": "presently we are doing with our I-Pay only 20% of the total transaction GMP value, which we have a scope of around going up to 100%.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "IT segment growth",
+      "claim": "We are very hopeful to further increase non-convenience fee growth.",
+      "quote": "So, basically we have like improved our non-convenience fee by 13% and we are very hopeful to increase it further, So, that is how we will be able to manage and maintain our IT segment growth.",
+      "quantified": false,
+      "horizon": null,
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "Maharaja's Express bookings",
+      "claim": "We have got quite handsome booking for the next year.",
+      "quote": "I am happy to tell you that even for the next year, we have got quite handsome booking.",
+      "quantified": false,
+      "horizon": "next year",
+      "speaker": "Sanjay Kumar Jain"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Revenue grew by 11% year-on-year.",
+      "quote": "342 crores, reflecting a year-on-year growth of 11.%.",
+      "quantified": true,
+      "horizon": "Q2 FY26",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "EBITDA margin reached 35.25% compared to 35.05% last year.",
+      "quote": "404 crores, an increas e of 8.31% year -on-year, with an EBITDA margin of 35.25% compared to 35.05% in Q2 FY '25.",
+      "quantified": true,
+      "horizon": "Q2 FY26",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "loyalty program jump",
+      "claim": "Loyalty program saw a jump of 26.65%.",
+      "quote": "Loyalty program we have gained 15.35 crores, there is a jump of 26.65%.",
+      "quantified": true,
+      "horizon": "Q2 FY26",
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "online ticket share",
+      "claim": "89.24% of total reserved tickets are booked online.",
+      "quote": "Currently 89.24% of total reserved tickets of Indian railways are booked through our online platform.",
+      "quantified": true,
+      "horizon": "Q2 FY26",
+      "speaker": "Sudhir Kumar"
+    },
+    {
+      "metric": "operational revenue growth",
+      "claim": "Revenue from operations showed a robust growth of 7.71%.",
+      "quote": "As you have seen that H1 as well as Q2 has shown us a robust growth of 7.71% from revenue for operations and the EBITDA has been around 8.31% variation.",
+      "quantified": true,
+      "horizon": "Q2 FY26",
+      "speaker": "Rahul Himalian"
+    }
+  ]
+}

@@ -1,0 +1,1628 @@
+ 
+ 
+TO ALL STOCK EXCHANGES 
+BSE LIMITED 
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE 
+ 
+October 28, 2026  
+Dear Sir/ Madam, 
+Sub: Transcripts of the press conference and earnings call conducted after the Meeting of 
+ Board of directors on October 23, 2026 
+ 
+Please find enclosed the transcripts of the press conference and earnings call conducted after the Board 
+meeting held on October 23, 2026, for your information and records. 
+ 
+This information will also be ho sted on the Company’s website, at  
+https://www.infosys.com/investors/reports-filings/quarterly-results/2026-2027/q2.html  
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at https://www.infosys.com/investors/reports-filings/quarterly-results/2026-
+2027/q2.html 
+This is for your information and records.  
+Yours Sincerely, 
+For Infosys Limited 
+ 
+ 
+ 
+A.G.S. Manikantha 
+Company Secretary 
+Membership No: A21918 
+ 
+
+ 
+External Document © 2025 Infosys Limited 1   
+  
+                                                 
+                                                       Infosys Limited 
+                          Media Conference Call 
+October 23, 2026 
+   
+CORPORATE PARTICIPANTS:   
+ 
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director 
+ 
+Jayesh Sanghrajka 
+Chief Financial Officer 
+ 
+Rishi Basu 
+Associate Vice President and Global Head - Corporate Communications 
+ 
+JOURNALISTS 
+ 
+Meghna Sen 
+CNBC-TV18 
+ 
+Mansee Dave 
+ET Now 
+ 
+Chandra Srikanth 
+Moneycontrol 
+ 
+Haripriya Suresh 
+Reuters 
+ 
+Beena Parmar 
+The Economic Times 
+ 
+Shilpa Phadnis 
+The Times of India 
+ 
+Poulomi Chatterjee 
+Financial Express 
+ 
+Uma Kannan 
+Deccan Herald 
+ 
+Jas Bardia 
+Mint 
+ 
+
+ 
+External Document © 2025 Infosys Limited 2   
+Sanjana B 
+The Hindu BusinessLine 
+ 
+Rukmini Rao 
+Fortune India 
+ 
+Pooja Patil 
+Businessworld 
+ 
+
+  
+External Document © 2025 Infosys Limited 3   
+Rishi Basu 
+A very good evening, everyone, and thank you for joining Infosys' Second Quarter Financial Results. 
+My name is Rishi, and I would like to welcome all of you. One question. Okay. 
+With that, I am going to hand it over to Salil for his opening remarks. Over to you, Salil. 
+Salil Parekh 
+Thanks, Rishi. It is good to see that everyone listens to you so well. So good evening, and welcome, 
+everyone. Thank you for joining us. Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially 
+in constant currency terms. AI revenue was a standout at 10.5% of our revenue, growing at 29% 
+sequentially. And last quarter, it was at 8.2%. 
+Large deals were another standout at $5.2 bn for the quarter. This includes two mega deals. One of 
+these mega deals was for over $2 bn with a large international company for a period of seven years, 
+and this is net new. This deal is expected to c ontribute over 1% revenue growth in the coming 
+financial year. 
+The second mega deal was for $1 bn for a renewal.  Our large deal pipeline is healthy and includes 
+some other mega deals in this pipeline. Operating margin was stable at 21%. Free cash flow was 
+strong at $928 mn (Editor’s comment) for the quarter. 
+As enterprises adopt AI at scale, another quarter of strong growth in AI revenues is a recognition of 
+our differentiated market positioning and client confidence. As an ecosystem integrator, we continue 
+to work closely with the frontier model com panies, both open-weight and closed models. Our deep 
+investments in Topaz Fabric help our clients seamlessly navigate between models to ensure token 
+optimization and value realization. 
+Infosys continues to gain market share, especially where economics of the program is aligned to the 
+stakeholder interest. We remain the preferred AI strategy and deployment partner for our top clients. 
+As AI remains central to enterprise transformation in the years ahead, Infosys is well positioned to 
+help navigate this shift. 
+Based on our Q2 performance and revised outlook for rest of the year, our revenue growth guidance 
+is 1% to 2% YoY .in constant currency terms. Our operating margin guidance remains at 20% to 22% 
+for the year. 
+Thank you. And with that, we can open it up for questions. 
+Rishi Basu 
+
+ 
+External Document © 2025 Infosys Limited 4   
+Thank you, Salil. We will now open  the floor for questions. Joining Salil is Mr. Jayesh Sanghrajka, 
+Chief Financial Officer, Infosys. The first question is from Meghna Sen from CNBC-TV18. 
+Meghna Sen 
+Thank you very much. My first question is on your guidance. So, you have narrowed both the lower 
+and upper end. Could you help us understand why? Explain the margin performance, the benefit of 
+rupee depreciation, any offset and loss due to deflation,  etc.? And did your salary hike also impact 
+your margins in the second half? 
+Third is, your AI revenue is 10.5% of your Q2 revenue. So how many deals won will have AI element? 
+And with AI jitters globally, is there a change in business? And fourth, how are your December quarter 
+furloughs shaping up versus last year and which sectors look the most vulnerable? 
+Salil Parekh 
+Okay. Let me start off with some of them, and Jayesh will also jump in with some of the other ones. 
+So first, AI is really an incredible performance for us. It is 10.5% of our revenue, growing sequentially 
+29%. We had laid out the AI approach in the Hexagon with six different areas of focus.  
+And in this revenue mix, we see each of those areas growing well, especially things that we do where 
+we are building agents, where we are doing legacy modernization, where we are doing process AI, 
+where we are doing data AI. So those are growing exceptionally well, but all of them are doing well. 
+And then we have the partner ecosystem with that. That is really gaining momentum. 
+I think in terms of the global AI our attention is really much more on the large enterprises with which 
+we are working. So for them, this is starting to become more-and-more relevant. And with the 
+investments we made and build the Topaz Fabric and the capabilities we have, plus all the training 
+that we have done for all of our people, which m any and more are certified now, ready to do work 
+with different partners of the frontier companies, that is where we are getting the good traction with 
+the enterprise clients. 
+I will spend a couple of minutes on the industries. I think what we see, and Jayesh will add more to 
+that, we see really good strength on the Financial Services. We see good strength on Energy Utilities. 
+We see good strength on the Manufacturing. And we see some weakness on the Retail and we see 
+some weakness on the Hi-Tech. But it  is a mix of all of those that we have put together in how we 
+see this.  
+Jayesh Sanghrajka 
+
+  
+External Document © 2025 Infosys Limited 5   
+So if you look at our guidance, our our last gui dance was 1.5% to 3%. We had clearly called out at 
+1.5%, we expect even more uncertainty. Our Q2 has been softer and our volume continues to remain 
+softer. We have also seen pricing pressure on t he back of competitive intensity and higher ask on 
+productivity. So all that is baked in, in our revised guidance as we look forward. 
+On top of that, as Salil said, some of the sect ors, we see softness, Retail, Hi-Tech, where the 
+discretionary is lower than what we are expecting. So all of that is reflected in our guidance on the 
+revenue and which is where it is 1% to 2% now. 
+Our margin continues to remain at 21%. I think it is a strong performance on the back of all the efforts 
+that we have put in Project Maximus. If you look at last many years, we have been able to maintain 
+margins despite investment in business, whether it  is sales and marketing, whether it is AI-led 
+investment, talent investments and all of that. 
+If you look at put-and-takes of this quarter, the margins have remained flat. We had 70 bps of impact 
+on post-sale customer support, which is a del ta between two quarters. Last quarter, we had a 
+reversal. This quarter, it is an impact, so it is a difference in that. We had 20 bps coming from our 
+acquisition, it is a one-month addi tional impact last quarter to only two months of impact, so one 
+month additional on account of amortization, etc. 
+That was offset by tailwinds of currency, 40 bps  coming from the currency, 20 bps coming from a 
+higher calendar and working days and 20 bps from the Project Maximus. So that kind of sums up 
+the margin walk. 
+As you look forward, the next half, which is H2, we will have impact coming from compensation, as 
+you rightly said, so that will have a headwind. We will see continued intensity on pricing. So we will 
+see that as a headwind. And we will continue work ing on Project Maximus to offset as much as 
+possible from there. 
+Rishi Basu 
+Thank you. The next question is from Mansee Dave from ET Now. 
+Mansee Dave 
+Hi, good afternoon. So, starting with the guidance wh ich is revised downward from 1.5% to 3% to 
+1% to 2% on a constant currency growth basis, how much is the weak demand and market pressure 
+affecting? And what has changed in the demand environment plans ahead, if I may ask?  
+AI monetization. Well, the AI as a percentage of revenue for Infosys this time is quite strong and 
+greetings to you all for that. AI is helping clients improve productivity, but it can also reduce traditional 
+
+ 
+External Document © 2025 Infosys Limited 6   
+billable work. So is Infosys managing to monetiz e AI-led opportunities fast enough to offset pricing 
+pressure at its traditional services business? 
+And lastly, hiring and productivity. So can hiring plans coexist with margin protection because there 
+are plans to hire around 20,000 graduates in FY 27, if I am not wrong. How do you balance 
+investments in talent with margin discipline? Thank you. 
+Salil Parekh 
+So on the AI first, I think the AI revenues have been outstanding. As you pointed out, we have 
+exceptional growth in that. And that shows really how we have put together the AI approach within 
+Infosys, which is resonating with the clients and t he six dimensions of the Hexagon in which each 
+area that we are investing and scaling up in, and then the foundation that we have built on the Topaz 
+Fabric that helps our clients. 
+So there we see many examples of projects that are going extremely well. These are scale projects. 
+Even in the large deals that we referenced, almost all of them have some component. One or two of 
+them have really full business tr ansformation driven by AI as the fundamental element of the large 
+deals. 
+And that large deals has been quite exceptional as well, which has helped us in a way to give support 
+even for the next financial year with the expecte d revenue growth support that the large mega deal 
+will provide. 
+In terms of guidance, we continue to see what Jayesh was sharing in terms of the competitive 
+intensity. So there is the AI, which is giving us  the growth. There is AI, which is also seeing the 
+compression, and we continue to see that. 
+There is competitive intensity because of that, and we have been extremely cl ear that we will only 
+take on the contracts where it meets our economic guidelines. And so with that in mind and all of the 
+margin work that is been done in terms of the initiative, we have been able to keep our margin at 
+this level. And that is what is reflected into our guidance where we see that competitive intensity and 
+the changes that are going on.  
+Now the macro environment is also equally in a place where there is continuing different wars. There 
+were some interest rate increases. There was al so the 10-year yield, which is now neighbouring to 
+5%. And there is continuing element of tariffs, which creates a different type of an environment for 
+the global economy and therefore, for the type of cli ents that we work with, which is essentially the 
+Global 2000. 
+
+  
+External Document © 2025 Infosys Limited 7   
+So all of those put together, we feel extremely good that the AI is going well, that the large deals are 
+good. And then we also see the competitive intensity in the market.  
+On the hiring, so first, we had 4,000 net increase in the headcount, which is very strong, which shows 
+that our continued confidence into the future. Second, we have 8,000 college graduates we hired in 
+the quarter.  
+For the full year, our target remains clear at approximately 20,000, so around 20,000 like last year. 
+And we have already done more than half in the first half of the year. So, we think this dynamic will 
+continue in the way we scale. We are doing work, of course, in AI, the 10%, but we also do work in 
+other areas. And all of those areas are growing. That is why the hiring looks pretty strong there. And 
+then the productivity. 
+Jayesh Sanghrajka 
+So just to add to what Salil was also saying on hiring,  it is a function of what is the attrition that you 
+have, what is the utilization that you have and what  is the demand in terms of volume that you see 
+and the productivity benefit. We have, give or take, 13% attrition. That means roughly 45,000 people 
+in a year, they leave us, and that needs to be back filled either laterally or fresher. So, the fresher 
+kind of makes up a little bit of that. We are worki ng at 85% utilization, which is, in our mind, very 
+optimum utilization. So, there is not much headroom left there from the optimization perspective. 
+And then there is a net new demand that you are s eeing. And a fresher typically takes six to eight 
+months by the time we train them and deploy t hem to the project. So, we do have to plan ahead of 
+the time to make them, and that is the reflection that you are seeing today in the net headcount 
+increases. One more point on the overall guidance perspective. I think our guidance for the year 
+should be continued to be seen on the back of the fact that we did at the beginning of the year said 
+we will have offshoring impact of 1%. 
+We are looking at higher offshoring through the year. We did call out an impact of large deals with a 
+European manufacturing client, where we did not pursue the deal because it did not meet our return 
+expectations. So, both of that put together impacted our overall growth guidance by 2% or continues 
+to impact roughly that. And it should be always seen in that context. 
+Rishi Basu 
+Thank you. The next question is from Chandra Srikanth, Moneycontrol. 
+Chandra Srikanth 
+
+ 
+External Document © 2025 Infosys Limited 8   
+Hi, Salil. Just wanted to get a sense on the guidance, but I do not know if it has been asked. Despite 
+a healthy TCV, why did you sort of narrow the guidance band? And secondly, this week, there have 
+been a lot of talk about cyber-attacks because of AI. And half of these cyber vulnerabilities are being 
+uncovered by employees or by agents. I just want to know what opportunity does Infosys see there 
+in terms of securing systems for enterprises,  and what are the challenges going forward? Thank 
+you. 
+Salil Parekh 
+I will start on the guidance. Jayesh will have something more to add on it. So what we are seeing in 
+the business today is very strong growth on AI, which was at 10.5%, growing at 29% quarter-on-
+quarter and very strong large deals with one mega deal at  over $2 bn, which is contributing to our 
+growth also into the next financial year.  
+That is then combined with what we see in terms of the AI productivity and competitive intensity in 
+the market, plus, as Jayesh shared, what we are seeing in terms of the offshore ratios, which are 
+changing with the changes in the US, India dynamic, pl us what we see in terms of the choices we 
+are making where in the case of particular contracts, we are extremely careful to take the ones that 
+meet our economic thresholds and guidelines. 
+So, putting all of that together is where we put the margin guidance. Our attention really is to build 
+out at a faster and faster pace the AI activity, wh ich is going very well with regard to the Hexagon 
+strategy that we have developed in each of the six areas and making sure that we are participating 
+in the large and mega deals, which are business transformation deals underpinned with AI.  
+That is the sort of deal that we won where it was something that our teams proactively identified and 
+pursued and then the client selected us. So that is the sort of work that we want to focus on. We 
+know there will continue to be the productivity challenges that will go on, but those will go through in 
+some time period. The AI is here for a very long time where we want to build a very strong foundation 
+in that. 
+On the cyber part, the first thing, we have a st rong cyber business where we are already working 
+with several of our clients in working to use some of the frontier model capabilities to ensure that we 
+are helping them to protect against or helping buil d agents which will protect against. Some of the 
+ones that have come out this week, we have so me defences for which we are sharing with our 
+clients. If you recall, two or three months ago, t here was another week or so where there was a lot 
+of this coming up with the new frontier model that had come out. And the same thing we had been 
+working very closely with that lab. 
+
+  
+External Document © 2025 Infosys Limited 9   
+The one model before that, it was already with us, and we had built out the cyber defence with that. 
+So, it is a strong part of our business. It is something that we are looking to scale up even more. We 
+did a small acquisition, you may know, in the cyber  in Australia a few quarters ago, which is also 
+building out very strongly because that is helping us to do things in an ethical way to make sure that 
+we can unearth the vulnerability that the clients are seeing with the agents with this approach that 
+we are taking. So, we see some good growth in both of those areas. 
+Chandra Srikanth 
+A follow-up, Salil. Would you draw parallels wi th what is happening with cyber with what happened 
+during Y2K in terms of the opportunity this opens up fo r Indian IT service providers? Will they take 
+up the work of finding vulnerabilities in existing systems? And can it potentially become a very big 
+business model? 
+Salil Parekh 
+So, I think the cyber one is a huge opportunity for Infosys. But the capabilities have to be very strong. 
+So we need to make sure we have built ou r own capabilities, which are both agent-based and 
+human-based combined and working with different front ier models, because each frontier model is 
+unearthing different things on the application layer, which needs to be addressed in a different way. 
+You may have seen in the recent ones where some of the government sites had to be redone and 
+so on. So those are things that we are working on, which our teams have an understanding of, and 
+it is a large opportunity. So, we think this will continue to be a growth area for Infosys. 
+Rishi Basu 
+Thank you. The next question is from Haripriya Suresh from Reuters. 
+Haripriya Suresh 
+Hi. Good evening, gentlemen. One on AI revenues, I wanted to understand, I mean, obviously, it is 
+on a low base, but it is growing fast, and you have said  that it will be half in the next two to three 
+years. How realistic do you see it because of how much deflation is in your traditional services 
+business? How do you see that play out?  
+And also after the PERM suspension and the c hanges that have happened with H-1B, do you see 
+an increase in talent retention and hiring costs in the US generally? I mean, over the next couple of 
+years, it might not be immediate, but as it goe s forward. And on Hi-Tech and Retail, what exactly 
+happened? Because Hi-Tech this quarter, I mean YoY has seen quite a fall as well. What happened 
+in those particular verticals? Thank you. 
+
+ 
+External Document © 2025 Infosys Limited 10   
+Salil Parekh 
+So on the AI, my sense is the growth, I think, is qu ite exceptional in the way the AI is building out. 
+And we see that being sustained. Now, you are absolutely right, it is on a low base. And it is a small 
+amount, and so there will be some volatility, but st ill growing very nicely over the coming quarters. 
+But it is not like every quarter will  be exactly like the previous. There will be some volatility in that, 
+on a small base. 
+I think what we are seeing and what our attention is on is making sure that we fully deploy and 
+leverage that opportunity for our clients. And so, building out, for example, if you look at the 
+partnership network that we have, every frontier lab we are working closely with and they are working 
+closely with us. We are also working with open-weight model companies. 
+In Topaz fabric, there are 15 different models a client can take advantage of. We can do token cost 
+optimization and, of course, capability. Meaning, even the way we are doing, let us say, legacy 
+modernization, is changing quite quickly from what it was even 12, 18 months ago to what it is today. 
+So, all of that is moving at a rapid pace and that is our attention. 
+The second piece of the attention is really on these large transformation mega deals, which we feel 
+we are quite well-positioned on, where clients are coming to us, it is more something that our teams 
+are working with them jointly and uncovering. It is not like an RFP that someone is responding to, 
+and making sure that is an AI transformation mega deal. 
+Then the continuing of the AI productivity that is  impacting the revenue also goes on, and that will 
+carry on through the different parts of our portfolio. But at the end, that is for a finite time. Once it is 
+done, the productivity through the portfolio will be done. 
+So that’s something that we have looked at internally, but we are making sure that our focus on AI 
+growth is where our attention remains. All of that being said, that gives us more and more confidence 
+that the way we are looking at it for AI is where the clients are going for. And that AI transformation 
+is where we will work more and more. 
+ A majority of the employees that we have in the US are local hires. So, we had already taken some 
+steps several years ago, which had brought us to this position. So, we feel we have a good like a 
+ratio in terms of bringing people on and in terms of  cost efficiency. So, we do not see a change in 
+that. We will continue to grow that as that evolves. Having said that, in the recent quarters, we have 
+also seen our ratios changed between onsite and offshore. 
+Rishi Basu 
+
+  
+External Document © 2025 Infosys Limited 11   
+Hi-Tech and… 
+Salil Parekh 
+I will start on that, so we have seen different client situations both on the Retail and both on the Hi-
+Tech. Hi-Tech, specifically in one. We do not see this across all of our industries. So, for example, in 
+Financial Services or Energy Utilities, or Manufacturing, we see really strong growth and 
+discretionary growth. However, in these two industries, we have seen some impact. 
+Haripriya Suresh 
+Across markets? 
+Jayesh Sanghrajka 
+So, I mean, I think both Hi-Tech and Retail, like Salil said, we had some discretionary-related ramp 
+downs and some client-specific slowdowns in a way. Retail also was impacted because of the third 
+party, we had a larger third-party component in the previous quarters, which on a Q-on-Q, therefore, 
+shows up as a negative. So those were the impacts on both of that. I think from a geography 
+perspective, it has been broadly similar across the geography, at least Retail, Hi-Tech has been more 
+specific to the US. 
+Salil Parekh 
+US. 
+Rishi Basu 
+Thank you. The next question is from Beena Parmar from The Economic Times. 
+Beena Parmar 
+Hi, Salil. Just a follow-up on the cyber incidents. You know, you have large set of clients which are 
+Fortune 500 companies and also in the public sector space. What is the level of preparedness that 
+Infosys or companies like yours have? And do y ou also see IT budgets increasing given that you 
+said that you will plan to scale it up further? 
+Secondly, on the deal wins, the two mega deals were in which sectors? And since you, despite the 
+healthy wins, you still lowered the guidance, does it mean that the AI deflation is still continuing to 
+impact and, you know, when do you see that really going away? 
+
+ 
+External Document © 2025 Infosys Limited 12   
+In terms of the hiring, besides the wage hikes, I think, you are still seeing some impact on the 
+margins. Are you seeing any increase in employee costs, given that the hiring is changing, and also 
+looking at more specialized hiring and, you know, does that really lead to employee cost going up in 
+the next, say, few quarters? 
+Salil Parekh 
+So, on the cyber, I think there it is more a question of building out the capabilities that we are driving 
+to and scaling that up and so that demand will continue. We, like all organizations, are well prepared 
+sort of both internally and in terms of supporting our clients. But what we sort of share with our clients 
+is these are things that are happening new every day. So, it is not something you can predict of what 
+is the likely outcome, but it is better to be mo re prepared or also build out in these specific 
+vulnerabilities, agents and agent plus human which can address them, which is being done for many 
+clients. It is more a question of building out that capability. 
+Beena Parmar 
+IT budgets, will you have… 
+Salil Parekh 
+So, the budgets of our clients will go up, but at the end, it is not like it will go up in one place. It is not 
+that overall will go up disproportionate, overall,  will go up as a normal sort of a rate, but not 
+disproportionately because also they need to manage their own budgets in a careful way. 
+On the large deals and the guidance, I think the question on productivity and AI deflation impact. I 
+think we continue to see that, as Jayesh and I mentioned earlier, which is really multiple effects. One 
+is the effect of the AI productivity which our clients are seeing. One is the effect that Jayesh also 
+mentioned about how the on-site mix is changing. Anot her is the effect of the competitive intensity 
+and how we have been, I would say, disciplined in  taking on contracts which meet our economic 
+guidelines and profiles. So, all of that comes together in this environment that creates what you call 
+the AI constraints or the AI productivity. 
+But the more critical element really  is the growth of the AI, because that is a secular trend which is 
+here and the way we are now seeing it, this is a very fast pace of growth. And even with some 
+volatility, you are going to continue to see a very good pace of growth over the next several quarters. 
+Beena Parmar 
+Compensating for the revenue growth, right? So, the traditional services growth. So, I mean, how 
+long do you see this really lasting? 
+
+  
+External Document © 2025 Infosys Limited 13   
+Salil Parekh 
+So, we have some internal views on what the mix of these two will be. But it is not something where 
+we are more focused on what the reduction is. We are really much more focused on where the 
+growth is, because that is going to stay for a very long time. Whether this stays for a short time or a 
+long time, we know that with that growth, over time, we will see the overall business in a much better 
+shape. 
+Jayesh Sanghrajka 
+And if I can just add to what Salil was saying, while our large deals have been very strong, historically, 
+we have been on an average signing $3 bn of large deals. So that was always there in the guidance 
+that we baked in even earlier. The two mega deals that we signed, one of that was renewal, the other 
+one is a net new. And the net new is only going to ramp up from later part of Q4. So, in this year, 
+there is going to be a very minuscule amount of benefit that you will get from that deal. But the next 
+year, as Salil said earlier, it will, you know, contribute over 1% in our revenue. 
+Rishi Basu 
+Thank you. Hiring and employee cost, yes. 
+Jayesh Sanghrajka 
+So, look, we hire across the pyramid. As we have said earlier, even we are hiring at the bottom of 
+the pyramid, which is the freshers, and we are goi ng to hire 20,000-plus employees over the year. 
+So, we are very conscious about what we are hiri ng and hiring the right talent to meet the right 
+requirement. And if you are hiring at a higher cost, automatically -- generally, it reflects in the pricing. 
+So, from that perspective, we do not really see a margin impact. 
+If you see last many years -- last couple of years, we have been able to maintain our margin at 21% 
+despite all the headwinds while investing in the business, whether it is sales and marketing, whether 
+it is talent building, AI talent or technology investment that we have done. So, we have been able to 
+offset all of that through very meticulous operational rigor. 
+Rishi Basu 
+Thank you, Beena. The next question is from Shilpa Phadnis from The Times of India. 
+Shilpa Phadnis 
+As much as Indian IT companies are denying an y impact on PERM residency, if you can help us 
+understand, will it trigger a fresh wave of attriti on for you in your primary market, client market? 
+
+ 
+External Document © 2025 Infosys Limited 14   
+Secondly, will your subcon expenses go up substantially on this? And my second question is around 
+as much as AI is driving productivity, do you think this will also lead to margins being squeezed in 
+your existing contracts? 
+Salil Parekh 
+So, on the first one, I think overall attrition number that Jayesh shared is lower this quarter than the 
+previous quarter in the range of 12% to 13%. We do not see any real impact on the attrition from 
+any of those activities. Neither do we see like a cost impact because we already have within the US, 
+a mix where the majority of the people are local hires. And that is something that has been in motion 
+for several years. So that is something that we feel good about how we can bring in more people 
+and how we can maintain delivery excellence with our clients with that sort of a team. The second 
+one? 
+Shilpa Phadnis 
+On margins? 
+Salil Parekh 
+Yes. On the margin, I think what we see is there is a tremendous sort of desire from clients to have 
+the AI create a benefit in terms of productivity for their activities, for their work that we do with them. 
+And we know that many of those things, based on the investments we made, we can make it real 
+for our clients. So given the investments we made in things like Topaz Fabric, we can make those 
+benefits real for the clients while maintaining, as we have done over the last several quarters, the 
+margin profile without doing any other activity below the line and so on. 
+We are very much focused on making sure that the productivity benefit we derive from AI and that it 
+matches to what the clients are asking. Now ther e are sometimes asks that are much higher than 
+what we can derive from the AI productivity, which is where we say that it does’nt fit our economic 
+profile. So we are much more disciplined about that. 
+Shilpa Phadnis 
+Last question. As much as you are doubling down on GCCs, how far are you from $1 bn milestones? 
+And second, it involves a lot of upfront investments from your side; people, software, takeovers. So, 
+if you can help us understand where you are on that journey? 
+Salil Parekh 
+
+  
+External Document © 2025 Infosys Limited 15   
+GCCs is an incredible growth area. I think this current phase, we announced, I think, just last week, 
+a very large financial services client publicly discussing our work we have done with them on the AI 
+GCC. So there, what is happening is many GCCs have been being built for many years by different 
+companies. And in the last two, three years, there has been an increased push of the AI infusion into 
+the GCC itself. 
+And that is where we have built an even stronger specialization where we can help if you have built 
+the GCC five, seven years ago to help you to transfo rm it and if you are building it now to help you 
+to create it with that AI inside it, because the recruitment is different, the training is different. The type 
+of people are different, the pyramids are different. So , we have an ability to build and scale that up 
+and which is why clients are working with us mo re and more where the GCC business is growing 
+quite nicely for us. 
+Rishi Basu 
+Thank you, Shilpa. The next question is from Poulomi Chatterjee from the Financial Express. 
+Poulomi Chatterjee 
+Good evening. I am just curious, I mean, you have underlined the high competitive pressure when it 
+comes to large deals. Do you have any intention of entering the mid-market? There is some of your 
+peers who are already turning their focus to the s egment. And also with regards to your FDE team, 
+you had shared a target of 6,000. Like I am curious what is the progress on this? And what proportion 
+of your hiring do these roles comprise of currently? 
+Salil Parekh 
+On the first one, we typically work with com panies, enterprises, organizations, which have a huge 
+need for some level of technology transformation.  It so happens that many of them are large 
+organizations because they have complex needs. But even today and even in the past, we have 
+always worked with organizations which are not only large, which can also benefit from these 
+activities, and that will continue. So there are several examples of that, which are long-standing 
+clients of Infosys. 
+The predominant focus is large companies because they have that large need for the tech 
+transformation. On the FDEs, the progress is strong. We are also building the internal with the 
+training, and we are also going with the external with the recruitment and it is progressing along. 
+What I think we had shared was the 6,000 was over the multiple years, and that is exactly how the 
+planning is going right now. 
+
+ 
+External Document © 2025 Infosys Limited 16   
+Rishi Basu 
+Thank you. The next question is from Uma Kannan from the Deccan Herald. 
+Uma Kannan 
+Hi good evening. Salil, you did speak about cyber security, but mine is very specific. This is regarding 
+eMudhra breach. You are using eMudhra solutions, if I am not wrong. I think so. Though eMudhra 
+said the incident has no connection with its e-sign services, what kind of measures are you taking? 
+Can you explain a bit more about it? And will you be migrating to other certified providers in the wake 
+of this incident? 
+Salil Parekh 
+So there, I do not have any specific comments on it ri ght now. I have to look into it a little bit more 
+depth and come back to you. 
+Uma Kannan 
+Okay. So, this is with regards to North America and India market. It is kind of your revenue, if I look 
+at in Q2, it has come down. Any specific reasons? And how H2 will be for you in FY27? 
+Jayesh Sanghrajka 
+So, if you look at India, this quarter, the revenue has  actually gone up. And typically, there is a little 
+bit of a seasonality because one of our contracts, you do get revenue. It is related to the returns, 
+etc., that is being filed in the quarter. The US has been softer over the last few quarters, and that is 
+pretty much of the industry phenomena. The Europe and the rest of the market has been stronger.  
+And when you look at the growth from that pers pective, US generally has that. And then there are 
+nuances, like we said earlier, one of the sectors, which is Hi-Tech slowdown was from a specific 
+client in the US because the client was looking at ramping down, etc. So, all of that does impact 
+geographies. 
+Uma Kannan 
+One more question. Last time, you said 80,000 employees are working on coding tools. I mean, what 
+is it happening now? Like are there any increase in numbers? 
+Salil Parekh 
+
+  
+External Document © 2025 Infosys Limited 17   
+Yes. So that number is increasing. Also, what we are doing is the certification numbers are going up, 
+the people who are getting trained are going up. Our partnerships with the frontier model companies 
+are going up. So, the large two frontier models pl us new ones, which are both cloud and frontier 
+models plus the open-weight model companies, all of that is expandi ng. We had given that as like 
+one example, but those numbers are all growing in the terms of the work we are doing. 
+Rishi Basu 
+Thank you, Uma. The next question is from Jas Bardia from Mint. 
+Jas Bardia 
+Hi. Good evening. Just a couple of questions. So, if I look at the Q2 guidance that the company has 
+issued this quarter, if we look at the guidance iss ued during the second quarter, it is, I think, the 
+weakest in seven years for the full year, that is. If I do the math, it points towards the fact that the 
+company might grow at its lowest pace in at l east three years in FY27. So, in the short term, 
+considering there are furloughs in the second half, the mega deal ramps up next year and also that 
+there is pricing competition for large deals. 
+So, what is the company doing to sort of arrest this slowing growth? Second, with reference to your 
+ambitions on the AI work in the next three years that Infosys expects to get, do you expect a lot of 
+this AI spending to come from -- to be net new? Or do you expect it to come from existing IT budgets? 
+If you can just throw a little more light on that? And second, in continuation to this question, what will 
+the impact be on the company's margins? 
+Salil Parekh 
+So, on the first, I think what we are doing in terms of where the attention is in revenue and growth is 
+focused essentially on what we are seeing as the large opportunity for AI services. We shared a few 
+months ago that this opportunity  is approximately $300 bn addressable market. We identified six 
+broad areas. And then we started to make sure that we invest in building the capability, training our 
+people and building the partnerships to make that whole ecosystem work, the foundation of which is 
+Fabric. 
+Then that growth is now looking very good. So t hat part is moving quite well. What we are also 
+seeing, as you pointed out, is that there is the AI productivity benefits that clients are looking at, and 
+that is also impacting other parts of our business. So, we want to make sure that the first continues 
+to grow well, and we continue to be the leaders with investment. 
+
+ 
+External Document © 2025 Infosys Limited 18   
+And the second, we want to make sure that we have the tools to support it because at the end, it is 
+a finite process because once you finish with all t he work that you are doing through productivity, it 
+is done. And so that is important. But the real critical thing is where does the AI growth go, because 
+that is where the leadership comes in terms of what the market and what the clients are looking for. 
+And so that is the way we are looking at it. We will see over time how this develops. The other point 
+that we are focusing on is what you described the mega deals, the large deals because there, where 
+we are doing business transformation, AI-led work, other consolidation, other cost work, that is work 
+that gives us more support for the future in terms of the growth, which is what we shared that this 
+mega deal will give us -- it is estimated to give us about 1% of growth next year. 
+So, there are two big dimensions, AI, which is a very long-term secular trend. The mega deals, which 
+we have a unique positioning on because we believe with the business transformation and 
+something which we can help craft that we are well positioned. And then, of course, there is the finite 
+amount, which will go through in the productivity. 
+Jas Bardia 
+So the impact on margins? 
+Salil Parekh 
+On the margins, what I think we have done is t he program that we started some years ago that 
+Jayesh has led, which is working very well. That  is part of the reason that we have maintained our 
+margin. In fact, last year, I think we increased our margins from that. And there is a continuous 
+attention upon making sure that we are taking c ontracts from clients which meet our economic 
+guidelines. 
+So that has obviously an impact that we do not take  every contract, but it also has the impact that 
+our margins are better protected. And therefore, you see, I would say, fairly consistent margin over 
+the last several quarters even as the industry ha s seen some wobbles. And we have a very strong 
+cash flow generation machine, which has produced th is quarter over $900 mn. So that is like more 
+supporting of the fact that our margin is a real margin. 
+Rishi Basu 
+Thank you, Jas. The next question is from Sanjana from The Hindu Businessline. 
+Sanjana B 
+
+  
+External Document © 2025 Infosys Limited 19   
+Good evening, gentlemen. Can you give us an updat e on the North America market? I think it has 
+seen some softness during the quarter. Any factors to sort of explain this? And also, Jayesh, you 
+mentioned that you are ramping up your offshore presence. Can you talk a little bit about that? Which 
+countries are you exploring?  
+And recently, many smaller GCCs in India have shut shop because of issues related to scaling. Have 
+you seen instances where a lot of these companies have come back to outsource their work to IT 
+services companies like yourself? Thanks. 
+Salil Parekh 
+So, let me start with the second one and then the geography and margin, Jayesh will answer. On 
+the GCCs, I think our approach has been to work with  the GCCs to help them scale up, do a big AI 
+transformation or build the new AI ones as they are coming online. There have been companies that, 
+as you mentioned, are looking to do something different with their GCCs, and we are also in 
+discussions with some of those where we can eit her help them or either we can take them and 
+transform them. And those are ongoing discussions that are there. 
+Jayesh Sanghrajka 
+On the segments, if you look at North America, as I said earlier, there have been certain segments 
+which were impacted because of the lower discre tionary spend and the client-specific ramp downs 
+that were mainly from North America, and therefor e, you see a softness in North America. At the 
+same time, other segments like Europe and rest of the world has done really well for us. So that is 
+a balance there. In terms of offshoring, most of our  offshoring is to India. We do use some of the 
+nearshore locations at times Mexico, Canada, etc. But when we talk about offshoring, it is always 
+towards India. 
+Rishi Basu 
+Thank you. The next question is from Rukmini Rao from Fortune India. 
+Rukmini Rao 
+Sure, thank you. Jayesh, one, if you are looking at the cost of technical subcontracting probably from 
+H1 of last year to H1 of this year, it is about 15%, 16% or so increase. So, would it be fair if we are 
+to look at the AI growth story at Infosys, would a lot of this be fair enough to sort of infer that it is from 
+AI-related technical sub costs that are coming up? 
+Jayesh Sanghrajka 
+
+ 
+External Document © 2025 Infosys Limited 20   
+No. On the contrary, technical subcontractor as a percentage of revenue has remained in the range 
+of 8.9% of the revenue for most of the year, last year as well as this year. So, it has been between 
+8% to 9% of the revenue, and we expect it to remain in the same range. 
+Rukmini Rao 
+But Jayesh, just to understand, if the subcontracting costs are going up and if this is related to AI 
+kind of deals that you may require, what I wanted to understand is if you are actually training a lot of 
+people on the AI side, where is this, you know, the need of expertise coming in from? And if Infosys 
+has to fill this gap, would you be -- looking at  probably an acquisition, which might be a lot more 
+sensible if there is a long-term kind of engagement that you would be looking at? 
+Jayesh Sanghrajka 
+No. So look, subcontractors for us has been in this range for a long period of time. There are multiple 
+reasons why it is because at times, you need certain skills in certain geography for a short period of 
+time, right? At times, you need certain skills immediately by the time you ramp up the projects and -
+- or you hire the people, there is a lead time to hi re people, but the client expects somebody to be 
+on the project immediately. And then you get subcontractors, deploy them on the project. 
+And then over a period of time, once you hire somebody, you replace that. So that is a process that 
+goes and it is a whole planning cycle that goes behind how and what kind of subcontractors need 
+and where are they needed. And that is it. I do not think it is so much about only AI, which has led to 
+the subcontractor. It has been there even a pre-AI days, our subcontractor has been between around 
+8% for a long period of time. 
+Rukmini Rao 
+Salil, also in terms of the whole AI story that we are looking at, for you, when it comes to margins 
+from this incremental AI plug-ins probably in ex isting contracts that are coming up or even new AI 
+contracts, some sense of how do you see these margins from especially AI-led deals sort of heading 
+towards? And is this what you are probably banking on to sort of defend your margins if, let us say, 
+pricing pressure or external uncertainties sort of continue for the next 12 or 18 months or we do not 
+know how. So, is that something that you are banking on to protect your margins? 
+Salil Parekh 
+So, on the AI, we first do not disclose the margin externally separately on the AI versus the other 
+type of projects. Having said that, we are very comfortable with how the clients are seeing the value 
+that we are providing on the AI. And so we are good with where that is going. The margin of the 
+
+  
+External Document © 2025 Infosys Limited 21   
+company overall, not just the AI, we are very comfortable with the guidance of 20% to 22%, which 
+has been consistent for a number of years now. And we see that as critical and important. 
+And in fact, our whole attention of the margin program is, as we see the macro changing and other 
+factors stabilizing, this becomes  supporting our ambition that marg in should be premier in this 
+approach. So, we feel good about the margin guidance. 
+Rukmini Rao 
+Overall, Salil, if you have to look at future, do you see AI projects coming up in better margins for 
+you given that one of your peers already said that AI projects are coming at a better margin for them. 
+So just to understand how you stand. 
+Salil Parekh 
+So, I do not know about the other comment. But for us, the margin of the AI versus the non-AI, we 
+are not externally sharing. However, the overall margin of the company is very high. And so you 
+could see some people whose margins are low overall might have a different view. 
+Rishi Basu 
+Thank you, Rukmini. The next question is from Pooja Patil from Businessworld. 
+Pooja Patil 
+Good evening. There is definitely an AI-related revenue growth that we are seeing. But I wanted to 
+understand that how much of this represents genuine ly incremental business rather than existing 
+services being reclassified or replaced by AI-led delivery. Also, is AI beginning to put pressure on the 
+traditional billing and pricing models? And one more question with regard to dividend is that what 
+factors determine this INR26 interim dividend, par ticularly with the company lowering its revenue 
+growth? And how is Infosys balan cing shareholder returns with investments in AI capabilities, 
+acquisitions and talent? 
+Salil Parekh 
+I think what we see on that is that the AI revenue growth continues with a lot of strength. It is not 
+something which is replacing what we have. Ther e is a lot of new work that we are doing. For 
+example, one of the areas among those six whic h are growing well is where we do work on 
+modernizing a client's environment using AI capability. That is new work. It is not that that was 
+something that we were doing in the past. And so the approach we have taken is the work has to fit 
+
+ 
+External Document © 2025 Infosys Limited 22   
+into one of those six areas, and that is the work then that we share outside at this 10.5%, which is 
+growing quite well. 
+Pooja Patil 
+The dividend one. What factors led to this much? And how is the company planning, especially with 
+the lowering revenue growth? 
+Jayesh Sanghrajka 
+So, I think if you look at our capital allocation policy that we rolled out almost two years back, we had 
+very clearly said that 85% of the free cash flow that we generate, we will return back to shareholders 
+over a five-year period. It will be a combination of dividend and buyback. And within that, it will be a 
+progressively increasing dividend. So, we have alr eady committed what is the money that we will 
+pay back to shareholders over a five-year period, right? And we are executing on that. 
+Last year's final dividend (Editor’s comment) was INR25, and therefore, we have increased that from 
+that to INR26 now. And we are just executing on that at this point in time. We have had a robust cash 
+flow generation, as Salil said. So, all of that is reflecting in the increasing dividend that the Board 
+has recommended. 
+Rishi Basu 
+Thank you. With that, we come to the end of this  press conference. Thank you, our friends from 
+media. Thank you, Salil. Thank you, Jayesh. 
+Before we conclude, please note that the archived webcast of this press conference will be available 
+on the Infosys website and on our YouTube channel later today. Please join us for some high tea 
+outside. Thank you and have a very good evening. 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 1   
+                                                           Infosys Limited 
+Q2 FY27 Earnings Conference Call 
+October 23, 2026 
+ 
+CORPORATE PARTICIPANTS: 
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director 
+ 
+Jayesh Sanghrajka 
+Chief Financial Officer 
+ 
+Sandeep Mahindroo 
+Financial Controller and Head Investor Relations 
+ 
+ANALYSTS  
+ 
+Kumar Rakesh 
+BNP Paribas Mutual Fund 
+ 
+Bryan Bergin 
+TD Cowen 
+ 
+Yogesh Aggarwal 
+HSBC Securities 
+ 
+Surendra Goyal 
+Citi 
+ 
+Jonathan Lee 
+Guggenheim 
+ 
+Ankur Rudra 
+JPMorgan 
+ 
+James Friedman 
+Susquehanna International 
+ 
+Vibhor Singhal 
+Nuvama Institutional Equities 
+ 
+Gaurav Rateria 
+Morgan Stanley 
+ 
+Sandeep Shah 
+Equirus Securities 
+ 
+Keith Bachman 
+BMO & Company 
+ 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 2   
+Moderator 
+Ladies and gentlemen, greetings, and welcome to Infosys Limited Q2 FY27 Earnings Conference 
+Call. As a reminder, all participant lines will be in the listen-only mode and there will be an opportunity 
+for you to ask questions after the presentation concludes. Should you need assistance during this 
+conference call, please signal an operator by pr essing star then zero on your touch-tone phone. 
+Please note that this conference is being recorded. 
+I now hand the conference over to Mr. Sandeep Mahindroo. Thank you, and over to Mr. Mahindroo. 
+Sandeep Mahindroo 
+Hello, everyone, and welcome to this earnings call to discuss Infosys Q2 FY27 results. Joining us on 
+this call is CEO and MD, Mr. Salil Parekh; CFO Mr. Jayesh Sanghrajka, along with other members 
+of the leadership team. We will start the call with some remarks by Salil and Jayesh on the 
+performance of the company, subsequent to which we will open up the call for questions. 
+Please note that anything we say that refers to our future outlook is a forward-looking statement that 
+must be read in conjunction with the risk that  the company faces. A complete statement and 
+explanation of these risks is available in our  filings with the SEC, which can be found on 
+www.sec.gov. 
+I would now like to pass on the call to Salil. 
+Salil Parekh 
+Thanks, Sandeep. Good evening and good morning to everyone on the call. Thank you for joining 
+us.  
+Our revenue growth for Q2 was at 1.5% YoY and 1.2% sequentially in constant currency terms. Our 
+AI revenue was standout at 10.5% of our total revenue, growing 29% sequentially. Last quarter, it 
+was at 8.2%. 
+Our large deals were another standout at $5.2 bn for the quarter. This includes two mega deals. One 
+of these mega deals was for over $2 bn with a la rge international company for a period of seven 
+years and it is net new. This deal is expected to contribute over 1% of revenue growth in the coming 
+financial year. The second mega deal was for $1 bn for a renewal. The large deal pipeline is healthy 
+and includes some other mega deals. 
+Operating margin was stable at 21%. Free cash flow was strong at $928 mn for the quarter.  
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 3   
+As enterprises adopt AI at scale, another quarter of strong growth in AI revenues is a recognition of 
+our differentiated market positioning and client confidence. We are advising large global enterprises 
+on their AI strategy and continue to invest in dee p domain and technology capabilities to bring new 
+ideas and an integrated ecosystem to help businesses unlock AI value at scale. 
+A premier food services company was processing over 10,000 invoices a day across siloed systems, 
+which made approval, disputes and payment tracking difficult. The new solution had to leave existing 
+legacy systems running undisturbed. We used AI to turn business requirements directly into working 
+software and built a single invoicing platform alongs ide the old systems. The result was 40% faster 
+time to market, 80% less rework and 30% more defects caught before go-live. 
+In another example, by embedding AI agents into  the software modernization lifecycle, we helped 
+an education technology company modernize its aging platform with signific antly lower risk and 
+effort, achieving 40% effort reduction and a production ready solution. 
+As an ecosystem integrator, we continue to work closely with frontier m odel companies, including 
+both open weight and closed models. Our deep investments in Topaz Fabric help our clients 
+seamlessly navigate between models to ensure token optimization and value realization. 
+Infosys continues to gain market share, especially where economics of the program is aligned to the 
+stakeholder interest. We remain the preferred AI strategy and deployment partner for our top clients. 
+As AI remains central to enterprise transformati on in the years ahead, Infosys is well positioned to 
+help navigate this shift. 
+Based on our Q2 performance and revised outlook fo r the rest of the year, our revenue growth 
+guidance is 1% to 2% YoY in constant currency terms. Our operating margin guidance remains the 
+same at 20% to 22%. 
+Thank you. And with that, let me hand it over to Jayesh for his comments. 
+Jayesh Sanghrajka 
+Thank you, Salil. Good morning, good evening, ever yone and thank you for joining the call today. 
+Let me begin with some comments about t he broader environment. Client spending remains 
+cautious, reflecting geopolitical te nsions, inflationary pressures and shifting technology priorities. 
+Selective discretionary spend also tempered the usual Q2 seasonal growth. 
+Against this backdrop, the key outcomes for the quarter were -  
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 4   
+Revenue growth was below our expectations, while AI first revenue now accounts for 10.5% of our 
+revenues. Operating margin was at 21%. Free cash flow was at $928 mn, representing 113% of net 
+profit, large deal wins were at $5.2 bn with 62% net new. 
+Let me now turn to performance drivers and what it means for our outlook.  
+Q2 revenues were $5,145 mn, an increase of 1.2% sequentially and 1.5% on YoY in constant 
+currency terms. Acquisition contributed approximately 0.4% to sequential growth. Growth was below 
+our expectations, volumes were softer and price increases were lower than anticipated amidst high 
+competitive intensity. 
+Q2 AI revenue is now 10.5% of total revenue with strong sequential growth of over 29%. Clients are 
+expanding enterprise wide AI adoption and we are in vesting in Topaz capabilities and partnerships 
+to support this opportunity.  
+H1 revenue growth was at 1.9% in constant currency terms and 2.1% in reported terms. 
+We won 19 large deals in Q2 with a TCV of $5.2 bn, which is second highest quarterly TCV in the 
+last five years. Of this, 62% was net new. This  includes an entirely net new $2 bn plus seven year 
+mega deal with a financial services  client. Transition is expected to begin in the second half of Q4. 
+This deal is expected to contribute over 1% growth for the company in FY28. We also renewed a $1 
+bn mega deal with an existing financial services client. 
+Vertical wise, we won seven deals in Financial Services, five in Manufacturing, two each in 
+Communications, EURS, Life Sciences and one in Hi-Tech. Region-wise, we signed nine deals each 
+in North America and Europe and one in Rest of the World. This takes H1's total large deal wins to 
+$8.8 bn, which is a YoY growth of 28% with 62% net  new. This will lay a solid foundation for future 
+growth. 
+Q2 operating margins were at 21%, decline of 0.1% sequentially.  
+Major components of the changes are as below:  
+Headwinds of  
+- 70 bps from sequential change in post-sales customer support,  
+- 20 bps additional impact from acquisitions due to  one month of additional consolidation,  
+offset by tailwinds of  
+- 40 bps of rupee depreciation,  
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 5   
+- 20 from Project Maximus and  
+- 20 bps from higher calendar and working days 
+Additionally, normalization of 40 bps  impact from EURS program terminated in Q1 was offset by 
+lower realization due to high competitive intensity.  
+For H1, operating margin stood at 21% at the midpoint of our guided range.  
+Onsite mix reduced further to 22.6%, reflecting our  sustained efforts to help clients achieve cost 
+reductions. For H1, onsite mix was down by 0.7%. Utilization, including trainees improved by 0.5%, 
+sequentially to 85.4%, demonstrating continued oper ational focus. Utilization, excluding trainees 
+decreased to 81.9% due to fresher intake.  
+Net headcount increased by about 4,400 employees. We  hired about 13,000 freshers in H1 in line 
+with our target of approximately 20,000 for FY27. 
+As mentioned last quarter, we are rolling out compensation hikes to most of our employees effective 
+October '26, with the next phase effective Januar y '27. Attrition reduced to 12.7% versus 13% 
+sequentially. 
+We expect effective tax rate for the year to be in the range of 29% to 30%.  
+Q2 yield on cash investment balance was at approximately 6.9%.  
+DSO for the quarter was 64, down by seven days compared to DSO last year. DSO, including unbilled 
+net of unearned was 77 days, down by 10 days as compared to last year.  
+Free cash flow generation was strong at $928 mn at  113% of net profit. We ended the quarter with 
+cash and cash equivalents at $4.7 bn and a debt-free balance sheet. 
+EPS for the quarter stood at `19.32, up 8.7% on a Y-on-Y basis. H1 EPS stood at `38.51, a double-
+digit growth of 11.7%.  
+The Board has announced an interim dividend of `26, an increase of 13% compared to last year. 
+Coming to verticals,  
+We had robust large deal signings in Financial Services of more than $3.5 bn in Q2 and saw growth 
+momentum across global and regional banks, ca rds and payments, capital markets and Europe. 
+Mortgage sector is expected to see a slowdown due to  increased rate hike expectation. Clients are 
+prioritizing modernization and AI initiatives fo cused on cost efficiency and enhanced customer 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 6   
+experience. They are also increasingly moving fr om AI experimentation to enterprise wide adoption 
+with Infosys being the preferred AI partner across va st majority of our top clients. While geopolitical 
+and interest rate uncertainty continues to driv e cautious spending, strong deal wins and a healthy 
+pipeline positions us well for sustained growth. 
+Manufacturing continues to face near-term pressure s, including lower revenue from a large client. 
+Middle East conflict, inflation and tariffs are constraining discretionary spend and extending decision 
+cycles. Competitive intensity remains high, particularly around AI led productivity commitments. We 
+are helping clients navigate uncerta inty by driving initiatives acro ss supply chain visibility, more 
+efficient factories and better process. Clients are relooking at the partners across the value chain, 
+leading to vendor consolidation opportunities.  
+EURS segment continues to see stable demand with client spending concentrated on targeted, high 
+impact programs rather than broad based discretionary initiatives. Cost optimization, vendor 
+consolidation, core modernization and AI led transformation remains key priorities. While competitive 
+intensity remains high, we are investing in sales and domain capabilities and leveraging differentiated 
+AI led solutions to improve conversions. Large deal pipeline has grown significantly in last one year, 
+which provides future growth visibility. 
+Sequential growth in Retail segment was primar ily impacted by lower third-party revenues. 
+Additionally, subdued environment and macro uncertainty resulted in soft consumer demand, which 
+has led to ramp-downs in some clients. Consumer tech and Logistics are most impacted on account 
+of supply chain disruptions. However, there are opportunities around large cost take-outs as well as 
+transformation programs towards AI. Expectati ons for AI-led productivity commitments are 
+increasing competitive intensity and reshaping commercial model.  
+Communications segment is witnessing a challenging demand environment with clients maintaining 
+tight control over discretionary spend and prioritizi ng cost efficiency. AI led driven productivity 
+expectations are putting pressures on pricing an d delivery model. While cost take-outs and vendor 
+consolidations remain the primary drivers, some opportunities are emerging in transformation, legacy 
+modernization and AI-led program. We are strengthening domain capabilities and execution speeds 
+to help clients scale AI and capture these opportunities.  
+Hi-Tech segment was impacted by lower third-party  revenues as well as reduced spend in a few 
+large clients due to cost pressures emanating fr om budget cuts. Clients remain focused on cost 
+control with hardware spending constrained by macro uncertainties.  
+We are revising our full year re venue growth guidance to 1% to 2%, reflecting softer-than-expected 
+H1 performance and our updated assessment for the rest of the year. The lower end assumes further 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 7   
+deterioration in macro while the upper end assu mes improvement. FS and EURS are expected to 
+grow higher than the company average. Our as sumptions regarding acquisitions, the large deal 
+European manufacturing client and the shift towards offshore delivery remains broadly unchanged. 
+Our operating margin guidance is 20% to 22%. H2 margins will be impacted by compensation hikes, 
+softer revenue seasonality, continued sharing of AI driven productivity benefits and ramp-up of large 
+deals. These headwinds will be partly offset by initiatives under Project Maximus. 
+In summary, while growth in the first half was lower than expectations, deal signing during the period 
+and a strong large deal pipeline with few mega deals provide a solid foundation for future growth. 
+With that, we can open up for the questions. 
+Moderator 
+Thank you very much. We will now begin the ques tion and answer session. Anyone who wishes to 
+ask a question may press star and one or the touch-screen telephone. If you wish to remove yourself 
+from the question queue, you may press star and two. Participants are requested to use handsets 
+while asking a question. Ladies and gentlemen, we will wait for a moment while the question queue 
+assembles. 
+The first question is from the line of Kumar Rakesh from BNP Paribas. Please go ahead.  
+Kumar Rakesh 
+Hi. Good evening. Thank you for taking my question. My first question was, this year, understandably, 
+you had multiple impacts from macro economy, offshor ing and client-specific issues as well. As we 
+go into the next year now, especially with t he large deal also which you announced, there hopefully 
+will be no large offshoring impact the way it is having this year. We will have additional contribution 
+from the mega deal as well. 
+Now assuming ceteris paribus, I am assuming everything else being equal is a great way of building 
+model, but a terrible way of planning our business.  But just humor me for a minute. Based on the 
+deals that you have locked in so far and the visibility that you have on the flux of your existing deals, 
+do you think you can see next year organic growth , which is flat this year? Do you see some 
+recovery? The purpose of this question is not for you to give a guidance or anything next stage. Just 
+to understand if the headwinds are still emerging or you think that we are largely past them? 
+Salil Parekh 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 8   
+Hi, Rakesh, this is Salil. I think we feel with t he two big movements of this quarter, first on the AI, 
+which is looking very strong at 29% growth quarter on quarter. And that builds on something that has 
+been going on, strong growth over the last few quar ters. And the mega deal win that we shared, 
+which gives us support for next year, plus the pipeline that we see on the mega deals and large deals 
+overall, we feel good that the organic business (Editor’s comment) will be in a good shape in next 
+year. 
+Kumar Rakesh 
+Thanks, Salil, for that. Next question, second question was around margin. So we are consistently 
+running a high level of subcontractors. So what is the business need to run this at a higher level? 
+And what is stopping us to bring it down to the pre-COVID levels, which used to be about 6 percent? 
+Jayesh Sanghrajka 
+If you look at what we have been directing is - th ere is an endeavor to bri ng our subcontractor cost 
+down over a period of time. It has come down and t hen slightly it has inched up again on , it is a 
+factor of at what utilization you are at, what the volume growth comes in, what kind of skills that you 
+need and what geography that you need, right? And sometimes, some of these programs where you 
+need them, maybe short term, immediate kind of a demand, and that is why the subcontractor comes 
+in. But our endeavor is to keep it in a tap, keep it within a broad band, and that is where we are right 
+now. 
+Kumar Rakesh 
+Thanks, Jayesh. So my understanding is right, if I see that it is a trade-off between higher -- running 
+higher utilization and running high er subcontracting cost. And may not necessarily be margin 
+accretive if we bring that down also. 
+Jayesh Sanghrajka 
+If you are able to bring the subcontractor down by 1%, we have stated in the past, it gives you around 
+15 bps to 20 bps on margin. So yes, to that extent, there is opportunity, but it will never come down 
+to zero. So even in the best years, we have been in the range of 5%, 6%. So that is the delta that 
+we have here. 
+Kumar Rakesh 
+Thanks a lot for answering my questions. 
+Moderator 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 9   
+Thank you. Next question is from the line of Bryan Bergin from TD Cowen. Please go ahead.  
+Bryan Bergin 
+Hi. Good evening, thank you. I was hoping to is olate what changed most in the growth guidance 
+revision versus last quarter? So you gave a lot of details. You talked about volume and price. Hi-
+Tech and Retail as verticals that have seen pressure. But if we look at the midpoint of the growth 
+guidance for 2027, can you unpack what may be most different, by like the largest drivers? 
+Jayesh Sanghrajka 
+Hi, Bryan, so if you look at the last couple of years, we have been getting a price increase or RPP 
+increase as we call it. If you look at what we ar e seeing today is a pricing pressure on the back of 
+competitive intensity, which has increased in the la st couple of quarters. And therefore, that pricing 
+expansion that we are expecting at the beginning of the year has not materialized. So that is one 
+impact for sure. 
+We saw softer than expected revenue growth or a volume growth in the quarter. So that was the 
+second reason. And slower discretionary spend in some of the sectors, especially the Retail and Hi-
+Tech that we called out. So those are the three specific reasons that led to lower than our expected 
+revenue in this quarter. 
+Again, when you look at the overall guidance for t he year, I would want to remind that there were 
+certain factors that impacted our overall revenue when you compare that to the rest of the peers. We 
+expect a lower revenue from offshoring. There was a la rge deal that we walked out of or we did not 
+pursue because it did not meet our return expectations. So those were the things that impacted our 
+overall guidance even at the beginning of the year and as we continue to deliver this year, both of 
+them put together were in the range of 1.8% to 2% impact for the year. So that is the overall guidance 
+in my mind.  
+And as we look forward, like Salil said, we hav e a strong deal pipeline with a couple of mega deals 
+in it. We have already signed $5.2 bn with 62% net ne w. So that gives us a stronger belief in the 
+year that we see coming up. 
+Bryan Bergin 
+Okay. That is helpful, thank you. And then my follow-up is on the AI driven productivity. So, when we 
+think about a like for like basis, would you say that has worsened since the start of the fiscal year, 
+meaning clients are demanding more productivity in just  the past six months? Or is it more so just 
+getting more prevalent across your client portfolio as AI programs scale? 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 10   
+Salil Parekh 
+Hi, this is Salil. I think what we see is the effect or the expectation on the productivity is about similar. 
+And we also see some parts of our portfolio have already been exposed to it and others are getting 
+exposed to it. There is a broader uptick, as AI revenues has also gone from 8% to 10%, there is just 
+more awareness of this, especially in some industri es, and so we see that coming into play, but the 
+intensity does not seem to have changed. 
+Bryan Bergin 
+Okay. Thanks a lot. Thank you. 
+Moderator 
+Thank you. Next question is from the line of Y ogesh Aggarwal from HSBC Securities. Please go 
+ahead. 
+Yogesh Aggarwal 
+Hi. So, just a couple of questions. Firstly, you guys did well in Banking, and it is been a similar result 
+from most companies and Hi-Tech has been weak. So how to read this for you and at the sector 
+level because both these sectors are leading tech adopters. So, is this the second round of deflation 
+at Hi-Tech? And can it spread to other sectors or  Banking strength is more relevant and a positive 
+for other sectors? 
+Salil Parekh 
+So, what we saw there is, first, Banking, Financial Services has  done well. Then we have Energy 
+Utilities, has done well. Then we have parts of Manuf acturing, what we also saw in Healthcare. So, 
+it is a broader base multiple sectors, which are looking quite strong. And then we have Hi-Tech, 
+which essentially, I would say, for the most part is focused on one client in the US. And then we have 
+Retail, which is seeing a change in the segment vis-a-vis the client footprint that we have. 
+So, we see actually there is a lot more industries or sectors, which are showing good traction, good 
+adoption of the AI and also good discretionary like fi nancial services, energy utilities. And we think 
+that, that is more of what is likely to happen across the entire set of industries. 
+Yogesh Aggarwal 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 11   
+Got it. And just a quick one. Just, I know it is less relevant now, but for the next two quarters, now 
+only five months are less. So, any potential risk to the midpoint of the guidance or any push pulls 
+you can talk about? 
+Jayesh Sanghrajka 
+So, as you know, we are entering the seasonally weaker part of the year. There will be furloughs that 
+will impact the H2, there will be lower working day s and all of those implications and all of those 
+impacts. So that will definitely be there. And like always, we do not have one model that leads to 
+guidance. 
+There are always multiple models that leads to mult iple points of the guidance. At the lower end of 
+the guidance, we have baked in higher uncertainty at the upper end of the guidance, we have baked 
+in an improvement in the environment. At this point in time, we cannot really say where we will end 
+up. I mean that is on how things play out. 
+Moderator 
+Thank you. Next question is from the line of Surendra Goyal from Citi. Please go ahead. 
+Surendra Goyal 
+Yes. Hi, good evening. Could you just talk a bit about the nature of work in this net new mega deal? 
+And does it also have any margin implications during the ramp up phase? Thanks. 
+Salil Parekh 
+So there, what we are seeing is, it is a business transformation opportunity where we are really using 
+AI to make sure that all of the tech and ops work  is better serviced. The approach is really taking 
+some real benefits from AI to apply into it. This was a situation where our teams worked directly with 
+the client teams to shape how this is being devel oped in terms of the opportunity and the resulting 
+deal itself. We do not see any real margin impact on the transition in this year at all on this one. 
+Surendra Goyal 
+Okay. And does it involve asset and people take over as well? 
+Jayesh Sanghrajka 
+So, there are no asset takeovers. There will be so me people takeover. Again, we do not really give 
+too much details deal by deal. But yes, on an overall basis, there are no asset takeovers. 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 12   
+Surendra Goyal 
+Understood. Thank you. 
+Moderator 
+Thank you. Next question is from the line Jonathan Lee from Guggenhiem. Please go ahead. 
+Jonathan Lee 
+Great. Good evening and thanks for taking for my question. This quarter, currency and working days 
+contributed about 60 bps while Maximus contri buted only 20 bps. With the October and January 
+wage hikes, acquisition amortization and continued pricing pressure hitting the back half, what would 
+keep fiscal '27 margins above the 21% midpoint? And what would push it below? And how much 
+runway is left on Maximus? And if those savings slow, which other levers can hold margins near that 
+midpoint? 
+Jayesh Sanghrajka 
+So Jonathan, if you look at what we have delivered over the last multiple years, we have been able 
+to run the ship with a steady margins. FY25, we had an expansion on margin, in FY26 and H1 of 
+FY27, we have been able to maintain the margins at 21% despite investing in business, whether it 
+is sales and marketing, whether it is building our AI talent, our investment in technology. And all of 
+that we have assumed and absorbed within the margin that we have declared. 
+Having said that, if you recall at the beginning of the year, I did call out that the acquisition that we 
+have made will have 50 bps impact on our margins overal l. So that is an headwind from a full year 
+perspective. As we look forward in the H2, we will have compensation rollout, a large part of that will 
+be effective October and the second phase will be effective January. 
+So we have headwinds coming from compensati on. We have headwinds coming from acquisition-
+related amortization, etcetera, the seasonally slow er part of the year. So yes, we will be able to 
+partially offset that through Project Maximus. But at  this point in time, for the year, we are very 
+confident of the guidance that we have given. 
+Jonathan Lee 
+That is good color. Thank you. And then on the verticals, look, Hi-Tech and Retail both softened this 
+quarter. Obviously, Hi-Tech tied to a US client ramp down, Retail hurt by lower discretionary 
+spending and smaller third-party. Can you size each impact and say whether it is fully run through? 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 13   
+Or should we expect further ramp downs in the back half? And do you see the weakness spreading 
+to other clients in either sector? Or is it isolated? 
+Jayesh Sanghrajka 
+So Jonathan, we do not really give a vertical specif ic guidance or forecast from that perspective. At 
+this point in time, what we have guided for is 1% to 2% on an overall basis in terms of revenue growth 
+for the year. 
+Jonathan Lee 
+Got it. Thank you. 
+Jayesh Sanghrajka 
+And just to clarify the impact of all the headwinds that we see has been baked in, in the guidance. 
+Jonathan Lee 
+Excellent color. 
+Moderator 
+Thank you. Next question is from the line of Ankur Rudra from JPMorgan. Please go ahead. 
+Ankur Rudra 
+Hi. Thank you for taking my questi ons. Just a couple of questions on pricing. The pricing pressure 
+you mentioned, is this broad-based ac ross clients? Or is this very c lient-specific or sector-specific? 
+And what kind of incremental pricing assumptions are you baking in for the second half of the year? 
+Salil Parekh 
+Hi, Ankur. This is Salil. Let me start off and then Jayesh will add. So on the pricing, what we are 
+seeing is that across the client base, there is demand or request requirement, which is focused on 
+productivity benefits from the AI that are getting passed on. And then we see also, sometimes those 
+are beyond the sort of thresholds of economic return that we are looking at. 
+So what we are seeing in the ones, while we are taking on the bulk of the deals, there are some 
+small number where we see that is even higher. On the ones that we are taking on, we see because 
+of that productivity push, the pricing pressure comi ng through across  in different clients across the 
+industries. 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 14   
+Jayesh Sanghrajka 
+And Ankur, just to add to your second question, at the lower end of the guidance, we have assumed 
+similarto slightly deterioration on the pricing. At the upper end, we have assumed improvement. 
+Ankur Rudra 
+So midpoint there is no change in pricing? You basically assume the same pricing continues? 
+Jayesh Sanghrajka 
+I mean it is very difficult to call out each factor that will relate to which point of guidance are good. As 
+I always say, there are multiple models that lead to multiple points of guidance, so directionally, lower 
+end is deterioration and upper end would be improvement. 
+Ankur Rudra 
+Understood. Just a follow-up question was on the margin profile of your AI revenues. How is that 
+versus a rest of the portfolio now that it is grown to 10%. And secondly, if you can just comment also 
+on the large deals you have signed and pursuing, you have mentioned a couple of mega deals as 
+well. How should we think about the margin, pricing profile of those contracts? 
+Salil Parekh 
+So on the large deal signed, the margin profile is  similar to what we have signed. So we have not 
+seen that this set of large deals and especially on the mega deal is any different from what we have 
+seen in the past. And we have also mentioned that in general, we have been quite disciplined about 
+the contracts we signed in terms of the economic guideline or return. Similar to that point on the 
+pipeline, the couple of the mega deals or the large deals in that pipeline, we are seeing similar margin 
+profile. So we feel comfortable to look at how that plays out. 
+Ankur Rudra 
+And sorry, if you could comment about the AI revenue. Is the margin similar? Higher? 
+Salil Parekh 
+On the AI revenue, we do not share externally the margin. Having said that, we are getting good 
+pricing on those deals. We feel co nfident that the value that we are showing that the clients are 
+seeing it. 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 15   
+And also, we are very competitive in the market in terms of building the capacity because that 
+capacity is at a slightly different cost point also. But overall, we do not share externally the margin of 
+that revenue. But as Jayesh shared earlier, the overall company margin, we remain quite comfortable 
+with the guidance on that. 
+Ankur Rudra 
+Understood. Thank you and best of luck.  
+Moderator 
+Thank you. Next question is fr om the line of James Friedman from Susquehanna International. 
+Please go ahead. 
+James Friedman 
+Hi. Good evening. Thank you for the opportunity. Salil, thank you for the use cases in AI in your 
+prepared remarks. They are quite illustrative. My question is, could you share some perspective on 
+whether those are in forming and helping you win these large transactions? Are they part of the large 
+transactions? Are they typically shorter duration?  Any perspective on the AI  dimension from this 
+perspective would be helpful. Thank you. 
+Salil Parekh 
+So on that, what we see is any large transaction t oday has either some elements of AI or in the 
+example of a couple of our large deals we gave color onit is really a business transformation, which 
+is driven by AI. So those examples are significant value contracts in themselves.  
+And in general, the AI is forming part of almost ev ery large transaction that we are looking at today, 
+where there is an impact on customer service levels, improvement in quality internally, driving growth 
+for the client, doing the cost optimization or modernizing technology, putting agents in for processes 
+and so on. So in any of those business areas, there is an impact of the AI. 
+James Friedman 
+Awesome. And then in terms of how the go-to-mar ket on the AI side has evolved for the company, 
+can you share with us your perspective as to how you think the services like foundry are resonating 
+in the market and how the strategy and the go-to-market on AI has evolved? Thank you. 
+Salil Parekh 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 16   
+So there, we have an approach, which is of multip le components. So first, there is a group which is 
+working very actively on building the partnership s, especially with the leading AI companies, the 
+frontier companies, the open weight model companies  and other companies who are also in the AI 
+infrastructure, AI coding areas. 
+Second is, within each of our segments, we have a dedicated group of individuals who work with our 
+client teams who are infusing the AI into their discussions to bring like the best thinking on what can 
+be done with that AI impact for that client. And there are different industries, have a different approach 
+within that, which processes are being impacted, what outcomes are being looked at. 
+Then in the delivery organization in each of our large groupings of service lines, we have specialists 
+who are very skilled on AI and then a group which is more dedicated across all of the service lines. 
+Then we have people who have been trained and cert ified on the different model technologies and 
+on different capabilities with our partner companies. 
+And then finally, we have the architecture group, whic h looks at how the AI is being used in a client 
+situation for transformation, even if part of it is  being done at the first phase, but the overall picture 
+is being looked at. And we have examples where like for a bank in Europe, for a telco in the US, we 
+made these changes in the overall AI outlook, then parts of it getting implemented. So it is an infusion 
+across the whole company within Infosys, which is interacting with different elements of the client. 
+James Friedman 
+Thank you so much, Salil. 
+Moderator 
+Thank you. Next question is from the line of Vibhor Singhal from Nuvama Institutional Equities. 
+Please go ahead. 
+ 
+Vibhor Singhal 
+Thanks for taking my questions. Two questions from my side. On the AI front, you mentioned that AI 
+revenue is now at almost 10% of the revenue growing at 29% quarter-on-quarter. So just wondering 
+if is there a number that we can provide in terms of what is the year-on-year growth rate that we are 
+looking at this number. 
+The reason that I am asking in the context here is tha t, is it the right way to look at this AI revenue 
+as a new revenue, which basically keeps on adding up and can possibly mitigate the deflation in the 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 17   
+existing legacy book that we are seeing, just like we saw in the digital cycle, eventually when the AI 
+revenue or the growth in the AI revenue becom es large enough to compensate the deflation in 
+revenue. That is where you can expect the overa ll growth to getting positively impacted by this 
+against the negative impact right now. So any color on that, that if there is a number that you can 
+provide on the year-on-year growth rate on the GenAI part? 
+Salil Parekh 
+So I think like how you described the approach is ex actly how the evolution of the market. We see 
+that the AI percentage is becoming larger and larger. We are not sharing externally the year-on-year, 
+but I think you can make some assumptions on that based on the data we have already provided. It 
+is a very strong growth year-on-year that is visible today. We know this is new revenue. Some of the 
+examples I shared were things, which we were not able to do that without AI. Some of the business 
+transformation is also new revenue. 
+So the revenue of 10.5% AI, we are sharing is new revenue. So the way you described it, that is the 
+part that is growing and that really is the plac e where the maximum attention of the company and 
+the people is. It is falling within that Hexagon that we have described of the six areas. And the more 
+we invest and scale up on the capability, partnerships and the client work, the more we will see that 
+continuing. And at 29% Q-on-Q with the assumptions  you can make for Y-on-Y, that is exactly how 
+we see this scaling out and addressing what we are seeing in the AI productivity on the other piece 
+of the revenue. 
+Jayesh Sanghrajka 
+Vibhor, if I can just add to what Salil was saying,  the first number that we had published was on our 
+AI Day for Q3 of last year, which was 5.5%. So that is a close proxy you can get. 
+Vibhor Singhal 
+Got it. Yes, I think I was trying to use that. Maybe that was missing one quarter, but I think a 
+reasonable assumption to make that part as well. So ye s, I think that number will do. Really helpful 
+based on that. 
+On the second question is on the legacy part of the book. Now I know I am kind of taking a long shot 
+here. But the kind of deflation that we are seeing in our legacy book, which, of course, the entire 
+industry is facing, is there a broad number, a broad ca lculation, that we might have done or that we 
+might have, that okay, this is the part of our  order book that has already undergone deflation. And 
+this is the remaining order book that is yet to go under deflation in terms of renewal of contracts, in 
+terms of new contracts that we talk about. Is it possible to calculate and maybe share that number? 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 18   
+Salil Parekh 
+So the way we are looking at it, we have a fairly detailed sort of work inside the company, but I will 
+give you a little bit of color. If you look at projects  or contracts, which are, let us say, smaller below 
+$50 mn in our case. And they could be for one or two years duration. Typically, if they are being 
+signed now or in the recent past, that is already built in the benefit of the AI. So that is already in the 
+mix, if you will. 
+Then if you have the larger deals, which are multiy ear, then depending on where it is in the cycle of 
+the renewal or discussion with th e client, if that has already happened, then vast majority of the 
+benefit of the AI productivity is already baked in. If it is not happened, it is not. So that is how we 
+have built an internal model of that, but we have not got anything beyond that sort of color that I can 
+share externally. 
+Vibhor Singhal 
+Got it. That was helpful.  
+Salil Parekh 
+So one thing I would add, sorry, is that at the end, it  is a finite period. It is not an ongoing thing, that 
+is the main, I would say, the element there because t hat is finite, whereas the AI growth is secular, 
+at least in our minds right now looking quite open. 
+Vibhor Singhal 
+Yes, I am sure, Salil, we all hope that that is a finite number that we are dealing with right now. So 
+sure, thanks for your views on that. Just one last question, again, kind of a very a pointed question. 
+You mentioned that we are facing a lot of pricing pressure because of the high competitive intensity. 
+The remark has actually been repeated by a couple of other players also in the industry. 
+So is it a pricing competition that we have seen across the board, across the deals and across the 
+type of deals? Is it pertaining to maybe a few play ers which are being aggressive or are we seeing 
+basically high competitive intensity from almost all the players in the industry regardless of their size 
+and capabilities? 
+Salil Parekh 
+I think what we see today is there is definitely some of our peers who are putting, I would say, more 
+intense effort into the pricing pressure, but it is also across the board because of the environment 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 19   
+and also the discussion on AI productivity, if you are talking with clients today on large programs, it 
+is a three or five year outlook. 
+So there, small changes in assumptions could make big differences in year three, four and five. And 
+so we are seeing some companies are taking that sort of a view, whereas what we shared earlier, I 
+think we are being a little bit more disciplined in what we can see, that the benefit of the productivity 
+can be realized as opposed to just imagining what can be realized. 
+Vibhor Singhal 
+Got it. Thank you so much for taking my questions, and I wish you all the best. 
+Moderator 
+Thank you. Next question is from the line of Gaurav Rateria from Morgan Stanley. Please go ahead. 
+Gaurav Rateria 
+Hi, congrats on great deal win numbers. My questi on is actually around the conversion of the deal 
+win into revenues. If you look at our fiscal '25,  we ended the year with almost $6.6 bn of net new 
+deal wins, which translated into certain growth in fiscal '26. If you look at fiscal '26, that number was 
+probably was upwards of $8 bn, but that did not tr anslate into a better revenue growth from FY27 
+perspective, probably because of the weakness in discretionary and leakages in your existing book 
+of business. 
+So, is there any indication to say that these leakages have peaked out and from here on are not 
+likely to deteriorate further? A nd any improvement in conversion ratio could drive further better 
+revenue growth in the future? 
+Salil Parekh 
+So, I think the way you described it is how we are seeing it, which is that there is a significant amount 
+of net new, which is getting converted. That conv ersion ratio is about similar in terms of the year 
+duration. 
+In terms of the leakages, what I would call it slight ly different is the produc tivity impact. So there, 
+what we had that discussion in an earlier question, which is some parts of the portfolio have already 
+witnessed it. So obviously, those parts are not going to witness it again in that same way, if at all. 
+So we feel quite good now that the next year, that is why we were sharing that from the mega deal, 
+we estimate something like a 1% revenue growth outlook from that one deal that we have signed in 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 20   
+Q2. And what we see in the pipeline, we see more of that in this year in terms of potential deals and 
+then the translation on to the revenue into the next y ear. So we feel quite good that the conversion 
+ratio is stable and the productivity while it is going on, at least some part of the portfolio has already 
+witnessed it. 
+Gaurav Rateria 
+Got it. My second question is a follow-up on this  one on productivity part. I know like different 
+companies will have their own different business mi x and will go through their own cycle based on 
+where their clients are in the journey of adopti on and deployment of AI. Based on where we stand 
+today, like where are we in the cycle? 
+Let us say, if you look at the cloud and digital cycl e, there were two years of such phase, right, that 
+where we saw some deflation on existing boo k and then digital revenues ramped up very, very 
+rapidly. And I have been like listening from various  experts that the cycle in AI is even more 
+compressed compared to digital cycle. So based on that corollary, where would you position in terms 
+of in the cycle compared to the last time in cloud and digital? 
+Salil Parekh 
+I think first, I would say that what your exper ts are saying is probably correct. But from our 
+perspective, what we are seeing is that the way that the AI is moving, it is the first part, which is how 
+much are you getting of the new that part with the Hexagon and with the 29% and the growth, I think 
+we have got a pretty decent handle on it, and we feel quite good that, that will continue in that way. 
+For the second part, we have some understanding of the productivity benefits. We have also been a 
+little bit disciplined on some of the deals. So that also has a play in it. And then as we were discussing 
+earlier, part of the portfolio has already seen it. So overall, we feel that the outlook is quite good in 
+the overall mix of where the business is. We do not have at least to share ex ternally like a number 
+of, you know, where are we in which year and when it will happen, but we feel pretty positive as we 
+look out into the next financial year. 
+Gaurav Rateria 
+Got it. Last question, Salil, on new AI revenues, I kn ow that you would not give any externally any 
+numbers on margins. But is it fair to say that fr om a productivity perspective, from a profit per 
+employee perspective, these will be higher than the company average? 
+Salil Parekh 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 21   
+So what we can say is in the six groups of the AI and the Hexagon of ours, each has slightly different 
+approach in terms of how it is being done with the cl ient. So what we are seeing is the client is 
+realizing the value of some of that. And what we are also seeing is some of that work is the business 
+transformation driven by AI. That is getting, I would say, a much better sort of value from the client. 
+And that will continue on and we will also do within the Hexagon more of that work. That is like a shift 
+within the mix itself that we will be trying that. Now the cost of that, which is what your question then 
+gets back to is, also, we are competitive in the mark et where we are finding that we are scaling the 
+teams, we are training our people. So that part is  also something we are, I would say, managing 
+quite okay. And therefore, the economics of that business are pretty decent. But I think, I would not 
+say more than that. 
+Gaurav 
+Got it. Thank you. All the very best. 
+Moderator 
+Thank you. Next question is from the line of  Sandeep Shah from Equirus Securities. Please go 
+ahead. 
+Sandeep Shah 
+Yes. So one of your peers has called out that the AI-led deals has a lower tenure and faster 
+conversion in the revenue. So can you give some qualitative outlook whether we are witnessing an 
+uptick in the deal velocity below $50 bn, which we do not disclose in the TCV? 
+Salil Parekh 
+So there, I think what we are seeing is that the AI deals are like different types of deals within the 
+Hexagon. And we are not specifically calling out whether that is a shorter or a longer. But any of the 
+large deals what we are doing today has a significant part of the AI in it. So it gives you some color, 
+but we are not sort of calling out specifically the velocity and the duration. 
+Sandeep Shah 
+Okay. And, Jayesh, just a clarification regarding the manufacturing client. Is it fair to assume the bulk 
+of the impact of close to 1% impact which we are calling out in the guidance for the full year will come 
+in the fourth quarter, and that could also lead to lower third party cost because the third party cost in 
+the first half is just similar to the last year at closer to 7.4%. And second, if that happens in the fourth 
+quarter of this year, it may have a full year impact in the next year? 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 22   
+Jayesh Sanghrajka 
+So Sandeep, yes, the large portion of the impact will  come in Q4, which is what we had clarified. 
+Beyond that, we do not really call out client specific contours of the deal in terms of how much of that 
+is third party, how much of that is not. So I would not be able to comment on that. 
+Sandeep Shah 
+Okay. And just the last thing. The press release ment ions that our AI led strategy stands out versus 
+peers. So Salil, you might have partly explained this, but what is one or two things which differentiate 
+to state that the strategy stands out versus earlier , which leads to ramp up in the growth of AI-led 
+revenues? 
+Salil Parekh 
+So here, what we are seeing is there are some elements of the approach. So first, we have, a few 
+months ago in the Investor Day shared the strategy we have put in place where we see the 
+addressable market of $300 bn over the next several years in six broad areas. And we feel that is 
+one of the more distinct ways of looking at it. And the AI revenue what we are sharing is coming from 
+those six areas, which is a net new. 
+The second is we have built the Topaz Fabric, which is, at least in my mind, very distinct from what 
+anyone else has built and it is for clients to co me and use it. We have several clients that have 
+implemented it, many clients that are in the process of scaling that  up. We have the ability in that 
+Topaz Fabric where we have 15 different foundati on models where a client  can choose different 
+foundation models, even the different versions, so  you can do the Sonnet or you can do the Fable 
+and pick the one that is most suitable for the task for which they are looking at the most token efficient 
+cost. They can then do the work in a way where t he data is protected in a sovereign way in their 
+environment, which is very distinct from what anyone else is doing. 
+Then we have the partnerships which are very str ong with all of the frontier model companies plus 
+several of the data and cloud companies with the focus on AI. And then we have the certification and 
+training, which is quite extensive within our system. We are building out the FDE capability. And then 
+if you look at the market analyst ratings, we are in the leading places in most of the ratings on side 
+of the AI. So all-in-all, I feel it is probably the most comprehensive AI approach that there is. But, of 
+course, being inside, we feel that, but we also se e with 29% Q-on-Q growth, there is some client 
+comfort on that as well. 
+Sandeep Shah 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 23   
+Yes. Thanks for the detailed answer and all the best. 
+Moderator 
+Thank you very much. Next question is from li ne of Keith Bachman from BMO & Company. Please 
+go ahead. 
+Keith Bachman 
+Hi. Thank you very much. Could you talk about -- are you seeing any signs or are customers actually 
+in-sourcing more? That is to say, the advent of AI, is it making it easier to take more deals in-house 
+rather than going to third-party providers like yourself? Are you seeing that in your order book? 
+Salil Parekh 
+So there, what we see is over the past time hor izon, there are instances where some companies or 
+clients take a view to in-source pre-AI and with AI. We do not see a difference because of AI. So 
+typically, other factors may trigger that at some ti me or the other. And equally, in many cases, we 
+see also with AI that things which were done internal ly, there is an interest for clients to have us do 
+it, but take on the task and use AI to do it more efficiently. So we do not see a pattern that more in-
+sourcing is happening because of the AI. 
+Keith Bachman 
+Okay. My second question is broader than that is just how do you see the competitive landscape 
+changing in terms of the second half of calendar year  '26, but more broadly into calendar year '27? 
+And the reason I ask is your results were different than, say, a large provider like Accenture. 
+And so what I think a lot of investors are trying to do is understand what is leading to Infosys having 
+weaker results than a company like Accenture? And I am extracting out M&A from that equation. But 
+any thoughts on how more broadly, the compet itive dynamics may be changing today and as you 
+look forward into calendar year '27? Thank you. 
+Salil Parekh 
+So one of the things we have noticed is if you look  back over the last two or three years, we have 
+had a consistent even if low growth, but growth every year organic YoY, whereas some of our peers 
+have had years which have been negative and positive. I do not know specifically about the company 
+you mentioned. So that sometimes gives a different sort of complexion on what is going on with that. 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 24   
+In addition, what we see is that our capability and strength is very much focused on the AI becoming 
+real within a client organization . And that is the strength of Infosys even on the past cycles of the 
+technology. Then we have, at least in our instance, a couple of things which are more distinct, for 
+example, with the changes in the global environment, we have seen our offshore percentages higher.  
+That had an effect, even though the volume remains more similar, the revenue looks a little bit 
+different. And we have also had where we have been -- which we have shared that we have been a 
+little bit more disciplined on some client situatio ns where we have chosen not to take some deals 
+where the economics did not make sense. 
+So when I put all of that in the mix, I see that our competitive differentiation is pretty strong. We also 
+see that the way we compete when we are head-to-head with many of our peers on AI, we seem to 
+have a tremendous advantage in what sort of dynamics we are seeing. So that is how we would see 
+it with this sort of large mega deal that we hav e just announced. We see that in addition to the AI 
+giving us some support for the growth next year as well. 
+Jayesh Sanghrajka 
+Keith, if I just add…  
+. 
+a quantitative factor to what Salil just mentioned, you know, both the factors, the offshoring and the 
+large deal, Europe manufacturing client that we did not pursue beyond a point. We had called out 
+that both of them put together would roughly mean 1.8% to 2% for the year. So when you compare 
+with anybody else, I think you should keep that in mind. 
+Keith Bachman 
+Yes. Fair enough. Okay. Thank you. 
+Moderator 
+Thank you very much. Ladies and gentlemen, we wi ll take that as our last question. I will now hand 
+the conference over to the management for closing comments. 
+Salil Parekh 
+Thank you. That was really incr edible questions. Thank you for that. We are really happy with the 
+work we are doing on AI. To summarize the 29% growth, the distinct approach, 10.5% of our revenue, 
+that is really the primary focus to make sure that  that secular trend is something that we lead, and 
+
+ 
+ 
+ 
+ 
+External Document © 2026 Infosys Limited 25   
+we believe that is what we are doing today. We also have a good traction on mega deal, the second 
+aspect of what is driving growth, and we can see the conversion coming through now, especially as 
+we see in many ways some parts of our portfolio already seen some of the AI productivity impacts. 
+And then we have good headcount growth and continued fo cus on recruitment at college, 8,000 in 
+the quarter and 20,000 for the full year. And we do remain quite selective in terms of the economics 
+of the contracts we are pursuing. So all of that put  together gives us a pretty strong feeling about 
+what we see in the future with our business. Thanks very much for all your questions and for 
+participating. 
+Moderator 
+Thank you very much, members of the managem ent. Ladies and gentlemen, on behalf of Infosys 
+Limited, we conclude today's conference call. Thank you all for joining us, and you may now 
+disconnect your lines. Thank you all. 

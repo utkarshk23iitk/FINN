@@ -1,0 +1,224 @@
+{
+  "symbol": "KAYNES",
+  "headline": "Kaynes consistently delivered on major revenue milestones and strategic business expansion, while shifting focus on cash flow and segment-specific timelines over successive quarters.",
+  "counts": {
+    "delivered": 2,
+    "partly": 1,
+    "missed": 0,
+    "pending": 4,
+    "dropped": 3
+  },
+  "promises": [
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "Will eliminate smart meter receivables before the year ends.",
+      "quote": "So going forward, we will make sure that before this year is over, we get rid of these receivables with appropriate financing so that it's not in our books",
+      "verdict": "dropped",
+      "evidence": "Management did not mention the elimination of smart meter receivables in subsequent calls after the year ended.",
+      "evidence_from": "Q4 FY26 call"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "Approximately INR240 crores of receivables will be discounted.",
+      "quote": "So, we are quite confident that INR240 crores, approximately INR240 crores of such receivables will anyway get discounted and it'll reduce the amount.",
+      "verdict": "dropped",
+      "evidence": "Management did not provide an update on discounting receivables in later calls.",
+      "evidence_from": "Q3 FY26 call"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "Working capital normalization measures are underway and expected to show visible improvement.",
+      "quote": "Working capital normalization measures are already underway and expected to show visible improvement going forward.",
+      "verdict": "delivered",
+      "evidence": "Management maintained and reported net working capital improvement targets such as bringing down NWC to 85 days by March 26.",
+      "evidence_from": "Q3 FY26 call"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "Expects about INR300-odd crores in second half execution.",
+      "quote": "And then, of course, in the second half, we also plan some execution, which will be of the nature of about INR300-odd crores.",
+      "verdict": "delivered",
+      "evidence": "Reported H2 FY26 revenue was significantly higher, easily exceeding INR300 crores.",
+      "evidence_from": "reported numbers",
+      "actual": 2047,
+      "direction": "at_least",
+      "target_low": 300,
+      "unit": "₹ crore",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "We maintain our guidance of bringing down net working capital to 85 days by March 26.",
+      "quote": "And secondly, w e maintain our guidance of bringing down the net working capital to 85 days by March '26.",
+      "verdict": "pending",
+      "evidence": "No explicit final NWC days figure was reported in subsequent calls to verify the exact 85 days target.",
+      "evidence_from": "Q4 FY26 call"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "We will cross about INR4,000 crores minimum for FY26.",
+      "quote": "So, in terms of revenue, I think last quarter is going to be a busy quarter for us, and including the last quarter for FY '26, we'll cross about INR4,000 crores minimum and mainly driven by EMS revenues.",
+      "verdict": "partly",
+      "evidence": "Total revenue for FY26 stood at INR3,626.4 crores, missing the INR4,000 crores minimum target.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": 3626.4,
+      "direction": "at_least",
+      "target_low": 4000,
+      "unit": "₹ crore",
+      "verdict_by": "numbers",
+      "model_verdict": "missed"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "We are still sticking to our $1 billion revenue projection for fiscal 28.",
+      "quote": "See, on the growth, what we have projected $1 billion, we are still sticking on to that because for us, from our bare board, from our OSAT, additional buildings are going to take place.",
+      "verdict": "pending",
+      "evidence": "The horizon is fiscal 2028, which has not ended yet.",
+      "evidence_from": "Q4 FY26 call"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "At consol level we will definitely be OCF positive by end of this year.",
+      "quote": "And going forward, at consol level, we'll definitely be OCF positive by end of this year.",
+      "verdict": "pending",
+      "evidence": "Management reiterated the commitment to turn cash positive by the end of the financial year in Q1 FY27.",
+      "evidence_from": "Q1 FY27 call"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "The smart metering business should do around INR700 crores to INR800 crores of revenue.",
+      "quote": "You guided for the full year, the smart metering business should do around INR700 crores to INR800 crores of revenue.",
+      "verdict": "dropped",
+      "evidence": "No further updates or figures were provided for smart metering full-year revenue in subsequent calls.",
+      "evidence_from": "Q4 FY26 call"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Both units remain on track to be operational by quarter 3 FY27.",
+      "quote": "Both Kaynes Semicon Unit 2 and Kaynes Circuit Chennai remain on the track to be operational by quarter 3 FY27",
+      "verdict": "pending",
+      "evidence": "The horizon of Q3 FY27 has not ended yet as the latest reported data is for Jun 2026 (Q1 FY27).",
+      "evidence_from": "Q1 FY27 call"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "FY26 Revenue Target",
+      "change": "Management guided to cross a minimum of INR4,000 crores in Q3 FY26, but reported actual FY26 revenue of INR3,626.4 crores in Q4 FY26.",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q4 FY26"
+    },
+    {
+      "topic": "Operating Cash Flow / Cash Positive Timing",
+      "change": "Shifted the expected timeline to turn cash positive from 'by end of this year' (FY26) to 'by the end of the financial year' (FY27).",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q1 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q2 FY26",
+      "period": "Dec 2025",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d42ff5a9-4c9e-4163-ae33-ed915881baa4.pdf",
+      "guidance": 5,
+      "reported": 3,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q3 FY26",
+      "period": "Feb 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf",
+      "guidance": 8,
+      "reported": 5,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "May 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2aa16ac-08ab-430a-819a-833f94c09dde.pdf",
+      "guidance": 5,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Aug 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf",
+      "guidance": 6,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "rows": {
+      "Sales": [
+        572.0,
+        661.0,
+        984.0,
+        673.0,
+        906.0,
+        804.0,
+        1243.0,
+        946.0
+      ],
+      "OPM %": [
+        14.0,
+        14.0,
+        17.0,
+        17.0,
+        16.0,
+        15.0,
+        16.0,
+        16.0
+      ],
+      "Net Profit": [
+        60.0,
+        66.0,
+        116.0,
+        75.0,
+        121.0,
+        77.0,
+        91.0,
+        56.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5151,
+      "output_tokens": 853
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5821,
+      "output_tokens": 1387
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 7123,
+      "output_tokens": 1356
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5915,
+      "output_tokens": 1375
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3848,
+      "output_tokens": 1649
+    }
+  ]
+}

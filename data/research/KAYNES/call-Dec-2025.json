@@ -1,0 +1,84 @@
+{
+  "symbol": "KAYNES",
+  "period": "Dec 2025",
+  "quarter": "Q2 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d42ff5a9-4c9e-4163-ae33-ed915881baa4.pdf",
+  "chars": {
+    "transcript": 64084,
+    "sent": 19964
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5151,
+    "output_tokens": 853
+  },
+  "guidance": [
+    {
+      "metric": "receivables",
+      "claim": "Will eliminate smart meter receivables before the year ends.",
+      "quote": "So going forward, we will make sure that before this year is over, we get rid of these receivables with appropriate financing so that it's not in our books",
+      "quantified": false,
+      "horizon": "before this year is over",
+      "speaker": "Management"
+    },
+    {
+      "metric": "receivables discounting",
+      "claim": "Approximately INR240 crores of receivables will be discounted.",
+      "quote": "So, we are quite confident that INR240 crores, approximately INR240 crores of such receivables will anyway get discounted and it'll reduce the amount.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Management"
+    },
+    {
+      "metric": "working capital",
+      "claim": "Working capital normalization measures are underway and expected to show visible improvement.",
+      "quote": "Working capital normalization measures are already underway and expected to show visible improvement going forward.",
+      "quantified": false,
+      "horizon": "going forward",
+      "speaker": "Ramesh Kunhikannan"
+    },
+    {
+      "metric": "revenue execution",
+      "claim": "Expects about INR300-odd crores in second half execution.",
+      "quote": "And then, of course, in the second half, we also plan some execution, which will be of the nature of about INR300-odd crores.",
+      "quantified": true,
+      "horizon": "second half",
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "free cash flow",
+      "claim": "Near-term free cash flow unlikely as capital must be reinvested for growth.",
+      "quote": "FCF, I'm not sure in the near-term that will happen because we'll have to reinvest for growth.",
+      "quantified": false,
+      "horizon": "near-term",
+      "speaker": "Jairam Sampath"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "FY25 revenue",
+      "claim": "Reported FY25 revenues of 27.2 billion, a 51% year-on-year increase.",
+      "quote": "So Kaynes reported FY25 revenues of 27.2 billion, 51% year-on-year increase.",
+      "quantified": true,
+      "horizon": "FY25",
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "H2 FY25 net margin",
+      "claim": "H2 FY25 net margin is 9% with INR5,327 million revenue.",
+      "quote": "Now the H2 FY '25 net margin is only 9% actually, the revenues of INR5,327 million and PAT of INR489 million.",
+      "quantified": true,
+      "horizon": "H2 FY25",
+      "speaker": "Jairam Sampath"
+    },
+    {
+      "metric": "receivables",
+      "claim": "Smart meter business receivables total about INR687 crores as of September.",
+      "quote": "Now, as of September, I think the total receivables is about – yes, of the total receivables, about INR687 crores pertains to business of smart meters, which includes also the other non -current assets portion.",
+      "quantified": true,
+      "horizon": "as of September",
+      "speaker": "Management"
+    }
+  ]
+}

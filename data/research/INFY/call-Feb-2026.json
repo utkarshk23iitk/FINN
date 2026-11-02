@@ -1,0 +1,68 @@
+{
+  "symbol": "INFY",
+  "period": "Feb 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4632b94-2a41-4103-876d-cdb1f6848d64.pdf",
+  "chars": {
+    "transcript": 164166,
+    "sent": 23519
+  },
+  "dropped_unverified": 1,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5605,
+    "output_tokens": 761
+  },
+  "guidance": [
+    {
+      "metric": "financial services and energy and utilities growth",
+      "claim": "Next year we see strong growth in Financial Services and Energy and Utilities.",
+      "quote": "So my sense is if you look at our current business situation, next year, we definitely see in Financial Services a strong growth, we see in Energy and Utilities, a strong growth compared to this year.",
+      "quantified": false,
+      "horizon": "next year",
+      "speaker": "Salil Parekh"
+    },
+    {
+      "metric": "margin guidance",
+      "claim": "We will maintain our margin guidance for the future period.",
+      "quote": "So, our view for the period in the future is we will maintain our margin guidance, and we will take all of that, that we save",
+      "quantified": false,
+      "horizon": "future period",
+      "speaker": "Salil Parekh"
+    },
+    {
+      "metric": "headcount increase",
+      "claim": "We will continue with headcount increases in the coming quarters.",
+      "quote": "So when you put both of those together, if in the last three quarters we have done ~13,000 net headcount increase, my sense is we will continue with the headcount increase in the coming quarters as well.",
+      "quantified": false,
+      "horizon": "coming quarters",
+      "speaker": "Jayesh Sanghrajka"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "AI revenue share",
+      "claim": "AI revenue represented 5.5% of total revenue in Q3.",
+      "quote": "And this for us today represents 5.5% of our revenue in Q3, and it is growing at a robust pace.",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Salil Parekh"
+    },
+    {
+      "metric": "college graduate recruitment",
+      "claim": "We have recruited 20,000 college graduates this year.",
+      "quote": "We have recruited 20,000 college graduates this year and through March, that will be the number.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Salil Parekh"
+    },
+    {
+      "metric": "RPP growth",
+      "claim": "Our RPP has grown 3% in both FY25 and FY26.",
+      "quote": "Our RPP has grown 3% both FY '25 and FY '26.",
+      "quantified": true,
+      "horizon": "FY25 and FY26",
+      "speaker": "Jayesh Sanghrajka"
+    }
+  ]
+}

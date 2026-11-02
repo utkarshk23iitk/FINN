@@ -1,0 +1,214 @@
+{
+  "symbol": "INFY",
+  "headline": "Management maintained steady operating margin and hiring guidance while progressively lowering constant currency revenue growth expectations across fiscal 2027.",
+  "counts": {
+    "delivered": 2,
+    "partly": 0,
+    "missed": 0,
+    "pending": 5,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Next year we see strong growth in Financial Services and Energy",
+      "quote": "So my sense is if you look at our current business situation, next year, we definitely see in Financial Services a strong growth, we see in Energy and Utilities, a strong growth compared to this year.",
+      "verdict": "pending",
+      "evidence": "Guidance covers FY27, which is still ongoing through the latest reported quarter of Sep 2026.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Maintain margin guidance for the future period",
+      "quote": "So, our view for the period in the future is we will maintain our margin guidance, and we will take all of that, that we save",
+      "verdict": "delivered",
+      "evidence": "Operating margin guidance of 20% to 22% has been maintained and delivered through Q2 FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": 21,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 22,
+      "target_low": 20,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Continue with headcount increases in coming quarters",
+      "quote": "So when you put both of those together, if in the last three quarters we have done ~13,000 net headcount increase, my sense is we will continue with the headcount increase in the coming quarters as well.",
+      "verdict": "delivered",
+      "evidence": "Management consistently targeted around 20,000 freshers for FY27 and onboarded more than 20,000 in FY26.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "FY27 revenue growth guidance is 1.5% to 3.5% in CC",
+      "quote": "Our revenue growth guidance for the financial year 2027 is 1.5% to 3.5% growth year -on-year in constant currency terms.",
+      "verdict": "pending",
+      "evidence": "FY27 is ongoing; revenue growth guidance was subsequently revised to 1% to 2% in Q2 FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 3.5,
+      "target_low": 1.5,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "FY27 operating margin guidance is 20% to 22%",
+      "quote": "Our operating margin guidance for financial year '27 is 20% to 22%.",
+      "verdict": "pending",
+      "evidence": "Operating margin guidance remains at 20% to 22% for the year, with Q2 reported margin at 21%.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": 21,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 22,
+      "target_low": 20,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Expect to hire around 20,000 freshers in FY27",
+      "quote": "This year also , we are expecting at least 20,000 freshers to be hired.",
+      "verdict": "pending",
+      "evidence": "Target remains approximately 20,000 freshers for the full year as of Q2 FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "at_least",
+      "horizon": "FY27",
+      "target_high": 20000,
+      "target_low": 20000,
+      "unit": "freshers"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "FY27 effective tax rate is expected to be 29% to 30%",
+      "quote": "We expect effective tax rates for the FY27 to be in the range of 29% to 30%.",
+      "verdict": "pending",
+      "evidence": "Guidance reiterated in Q2 FY27 for the full year FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 30,
+      "target_low": 29,
+      "unit": "%"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Revenue Growth Guidance",
+      "change": "Full year constant currency revenue growth guidance was reduced from 1.5%-3.5% in Q4 FY26 to 1.5%-3% in Q1 FY27, and further to 1%-2% in Q2 FY27.",
+      "from_quarter": "Q4 FY26 call",
+      "to_quarter": "Q2 FY27 call"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Feb 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4632b94-2a41-4103-876d-cdb1f6848d64.pdf",
+      "guidance": 3,
+      "reported": 3,
+      "dropped_unverified": 1
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Apr 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+      "guidance": 5,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Jul 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf",
+      "guidance": 4,
+      "reported": 5,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        41764.0,
+        40925.0,
+        42279.0,
+        44490.0,
+        45479.0,
+        46402.0,
+        48211.0,
+        49244.0
+      ],
+      "OPM %": [
+        24.0,
+        24.0,
+        24.0,
+        24.0,
+        23.0,
+        24.0,
+        24.0,
+        24.0
+      ],
+      "Net Profit": [
+        6822.0,
+        7038.0,
+        6924.0,
+        7375.0,
+        6666.0,
+        8509.0,
+        7775.0,
+        7838.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5605,
+      "output_tokens": 761
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 9799,
+      "output_tokens": 1112
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 9316,
+      "output_tokens": 1006
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 9271,
+      "output_tokens": 913
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2957,
+      "output_tokens": 1389
+    }
+  ]
+}

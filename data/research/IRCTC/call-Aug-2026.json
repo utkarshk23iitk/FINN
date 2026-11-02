@@ -1,0 +1,92 @@
+{
+  "symbol": "IRCTC",
+  "period": "Aug 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87a3947a-975c-43aa-b153-218d6518615c.pdf",
+  "chars": {
+    "transcript": 52205,
+    "sent": 21547
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5382,
+    "output_tokens": 1014
+  },
+  "guidance": [
+    {
+      "metric": "tourism revenue",
+      "claim": "Tourism revenue may cross 1,000 plus crores next year.",
+      "quote": "It has grown from INR745 crores to INR890 crores, and next year it may cross INR1,000 plus crores.",
+      "quantified": true,
+      "horizon": "next year",
+      "speaker": "Management"
+    },
+    {
+      "metric": "non-convenience fee segment run rate",
+      "claim": "Management aims to return to 150 crores in this segment.",
+      "quote": "So we will try to come back to INR150 crores in this segment also.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Management"
+    },
+    {
+      "metric": "plant augmentation timeline",
+      "claim": "Ambernath and Danapur plant capacity augmentations to be finalized this financial year.",
+      "quote": "If everything goes well by this financial year that is Ambernath from 2 lakh bottles to 3 lakh bottles and Danapur from 1 lakh to 2 lakh bottles.",
+      "quantified": true,
+      "horizon": "this financial year",
+      "speaker": "Management"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Revenue from operations grew 18.10% year-on-year to INR1,370 crores.",
+      "quote": "Our revenue from operations increased to INR1,370 crores from INR1,160 crores in the corresponding quarter of the previous year, representing a robust year -on-year growth of 18.10%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rahul Himalian"
+    },
+    {
+      "metric": "profit after tax",
+      "claim": "Profit after tax stood at INR330 crores for the quarter.",
+      "quote": "During the quarter, profit after tax stood at INR330 crores, supported by healthy performance across our Catering, Tourism, and Internet Ticketing segments.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rahul Himalian"
+    },
+    {
+      "metric": "EBITDA",
+      "claim": "EBITDA stood at INR386 crores with a margin of 28.17%.",
+      "quote": "EBITDA stood at INR386 crores with a healthy EBITDA margin of 28.17%, although there is a slight decline in the margins due to changes in revenue mix",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rahul Himalian"
+    },
+    {
+      "metric": "catering revenue",
+      "claim": "Catering recorded revenue of INR732 crores, up 33.82% year-on-year.",
+      "quote": "Next, Catering recorded revenue of INR732 crores, achieving a robust growth of 33.82% year- on-year.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rahul Himalian"
+    },
+    {
+      "metric": "tourism revenue",
+      "claim": "Tourism revenue reached INR168 crores, up 13.5% year-on-year.",
+      "quote": "Tourism delivered positive performance with revenue of INR168 crores, marking an incre ase in revenue with 13.5% year -on-year.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rahul Himalian"
+    },
+    {
+      "metric": "Rail Neer revenue",
+      "claim": "Rail Neer generated revenue of INR109 crores, growing 2.83% year-on-year.",
+      "quote": "The related sector, Rail Neer, generated revenue of INR109 crores, registering a 2.83% year -on-year growth with a margin of about 10%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rahul Himalian"
+    }
+  ]
+}

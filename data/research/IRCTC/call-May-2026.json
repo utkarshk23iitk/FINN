@@ -1,0 +1,52 @@
+{
+  "symbol": "IRCTC",
+  "period": "May 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b914f14-22d6-44be-b3bb-8d31b83e4499.pdf",
+  "chars": {
+    "transcript": 34146,
+    "sent": 12202
+  },
+  "dropped_unverified": 3,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 3458,
+    "output_tokens": 810
+  },
+  "guidance": [
+    {
+      "metric": "margin",
+      "claim": "We will maintain around 30% margin.",
+      "quote": "So, we have planned to improve in absolute margin, but we are regularly telling th at in all the investors ’ calls and earlier also that we will maintain 30%.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "catering revenue growth",
+      "claim": "Catering revenue growth will continue to maintain around 15%.",
+      "quote": "You see, revenue-wise primary growth I see in catering it will continue to maintain around 15%.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Sanjay Kumar Jain"
+    },
+    {
+      "metric": "tourism revenue growth",
+      "claim": "Tourism revenue growth is expected to continue around 20%.",
+      "quote": "And tourism we are eyeing to continue with around this year we are looking to 19% should continue to be around 20%.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Sanjay Kumar Jain"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "EBITDA margin",
+      "claim": "EBITDA margin was healthy at 27.33% in Q4.",
+      "quote": "399 crores with a healthy EBITDA margin of 27.33%.",
+      "quantified": true,
+      "horizon": "Q4",
+      "speaker": "Rahul Himalian"
+    }
+  ]
+}

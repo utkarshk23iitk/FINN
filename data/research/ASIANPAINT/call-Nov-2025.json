@@ -1,0 +1,84 @@
+{
+  "symbol": "ASIANPAINT",
+  "period": "Nov 2025",
+  "quarter": "Q2 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+  "chars": {
+    "transcript": 51533,
+    "sent": 13102
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 3535,
+    "output_tokens": 908
+  },
+  "guidance": [
+    {
+      "metric": "value growth",
+      "claim": "Management anticipates mid-single-digit value growth for the full year.",
+      "quote": "We are looking at mid-single-digit value growth for the full year.",
+      "quantified": true,
+      "horizon": "full year",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "volume and value gap",
+      "claim": "The gap between volume and value will remain in the 4-5% zone.",
+      "quote": "And therefore, we would anticipate that the gap between the volume and the value would remain in that zone of about 4-5%.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "PBDIT margin band",
+      "claim": "Management maintains the guidance for an 18 to 20% PBDIT margin band.",
+      "quote": "Given all this, it is okay to maintain the whole guidance of 18 to 20% PBDIT margin band.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Amit Syngle"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "volume growth",
+      "claim": "Delivered a volume growth of 10.9% in Q2FY26.",
+      "quote": "If you look from the point of view of performance, we delivered a volume growth of 10.9% in Q2FY26, but we had a value of about 6% in an environment which was not too great and overall consumer sentiment sentiments were also not too great.",
+      "quantified": true,
+      "horizon": "Q2FY26",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "H1 volume growth",
+      "claim": "In H1, volume growth is at 7.2% and value growth at 2.1%.",
+      "quote": "In H1, we are at 7.2% volume and 2.1% value growth, which I think in the current circumstances it is good.",
+      "quantified": true,
+      "horizon": "H1",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "gross margins",
+      "claim": "Gross margins are up to 43.7%, higher by 270 bps year-over-year.",
+      "quote": "We are up from 43.2% in last quarter to about 43.7% now. At the same time, we are up 270 bps from same quarter last year.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "standalone net sales",
+      "claim": "Standalone Net Sales grew by 5.8% and Gross Margins expanded by 270bps.",
+      "quote": "So, finally coming to the overall standalone financials, Net Sales as I said grew by 5.8%, Gross Margins have expanded by 270bps to 43.7%.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "standalone PBDIT",
+      "claim": "Standalone PBDIT grew by 21% with margin at 18.5%.",
+      "quote": "PBDIT has grown by 21% and PBDIT margin is at 18.5% higher by 230bps points.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Amit Syngle"
+    }
+  ]
+}

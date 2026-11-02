@@ -1,0 +1,100 @@
+{
+  "symbol": "INFY",
+  "period": "Jul 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+  "chars": {
+    "transcript": 101980,
+    "sent": 39386
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 9316,
+    "output_tokens": 1006
+  },
+  "guidance": [
+    {
+      "metric": "revenue growth",
+      "claim": "Full year revenue growth guidance revised to 1.5% to 3% in constant currency.",
+      "quote": "With our Q1 results and a view of the rest of the financial year, we have changed our revenue growth guidance to 1.5% to 3% Y-on-Y growth in constant currency terms.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Operating margin guidance remains unchanged at 20% to 22%.",
+      "quote": "Our operating margin guidance remains the same at 20% to 22%.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "effective tax rate",
+      "claim": "Effective tax rate for the year is expected between 29% and 30%.",
+      "quote": "We expect effective tax rate for the year to be in the range of 29% to 30%.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "onsite mix",
+      "claim": "Onsite mix excluding new acquisitions is expected to reduce by 75 bps to 1%.",
+      "quote": "We expect Onsite mix excluding new acquisitions to reduce by 75 bps to 1% for the year.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Company Secretary"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Q1 revenue growth was 2.4% year-on-year and 1% sequentially in constant currency.",
+      "quote": "Our revenue growth for Q1 was at 2.4% Y-on-Y and 1% Q-on-Q in constant currency terms.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "AI services revenue",
+      "claim": "AI services revenue accounted for 8.2% of overall revenue in Q1.",
+      "quote": "Our AI services revenue was 8.2% of overall revenue in Q1.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "large deals TCV",
+      "claim": "Large deal wins were $3.6 billion with 61% net new.",
+      "quote": "Our large deals, $3.6 bn at 61% net new, operating margin at 21.1%, free cash flow at $955 mn.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Operating margin for the quarter was reported at 21.1%.",
+      "quote": "Our operating margin was 21.1%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "free cash flow",
+      "claim": "Free cash flow for the quarter was $955 million.",
+      "quote": "Free cash flow was strong at $955 mn at 116.5% of net profit.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Company Secretary"
+    },
+    {
+      "metric": "earnings per share growth",
+      "claim": "Earnings per share grew 15% year-on-year in rupee terms.",
+      "quote": "Earnings per share were up 15% Y-on-Y in rupee terms.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Company Secretary"
+    }
+  ]
+}
