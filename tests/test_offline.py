@@ -65,6 +65,10 @@ class TestClassifier(unittest.TestCase):
          "investor_meetings", "low"),
         ("Updates", "Tata Consultancy Services Limited has informed the Exchange regarding 'Press Release - "
          "TCS BaNCS for Treasury marks its entry into Sri Lanka with Indian Bank'.", "press_release", "medium"),
+        # Real RELIANCE filing (Nov 2026): a transcript that names the results it discusses
+        ("Analysts/Institutional Investor Meet/Con. Call Updates",
+         "Transcript of the discussion on the Unaudited Financial Results (Consolidated and Standalone) "
+         "of the Company for the quarter and half year ended September 30, 2026", "earnings_call", "medium"),
     ]
 
     def test_cases(self):
@@ -72,6 +76,15 @@ class TestClassifier(unittest.TestCase):
             with self.subTest(subject=subject, text=text):
                 r = classify(subject, text)
                 self.assertEqual((r["category"], r["tier"]), (cat, tier), r)
+
+    def test_headline_drops_nse_boilerplate(self):
+        from finn.export import clean_headline
+        self.assertEqual(clean_headline("Amalgamation/Merger",
+                         "ITC Limited has informed the Exchange about Amalgamation/Merger"), "Amalgamation/Merger")
+        self.assertEqual(clean_headline("Outcome of Board Meeting",
+                         "ITC Limited has submitted to the Exchange, the financial results for the period ended "
+                         "September 30, 2026."), "Financial results for the period ended September 30, 2026")
+        self.assertEqual(clean_headline("Copy of Newspaper Publication", ""), "Copy of Newspaper Publication")
 
     def test_unknown_goes_to_llm(self):
         self.assertTrue(classify("Something nobody has seen before")["needs_llm"])

@@ -13,6 +13,10 @@ import re
 
 # Ordered: the first matching rule wins, so specific rules come before broad ones.
 RULES = [
+    # Before "results": a call transcript or recording often names the results
+    # it discusses ("Transcript of the discussion on the Unaudited Financial
+    # Results ..." from RELIANCE, Nov 2026), and must not rank as the results.
+    ("earnings_call", [r"^(transcript|audio recording|video recording|recording)\b"]),
     ("results", [r"financial results?", r"\bresults? for the (quarter|year|period)",
                  r"integrated filing.{0,10}financ", r"un-?audited", r"\baudited financial",
                  r"outcome of board meeting.*result", r"limited review"]),
@@ -87,6 +91,8 @@ GENERIC_SUBJECTS = {
     "announcement under regulation 30 (lodr)",
 }
 PROMOTE_RE = [re.compile(p, re.I) for p in PROMOTE]
+PROMOTE_BONUS, DEMOTE_PENALTY = 15, 30
+TIER_HIGH, TIER_MEDIUM = 70, 35
 
 
 def classify(subject: str, text: str = "") -> dict:
@@ -121,11 +127,11 @@ def classify(subject: str, text: str = "") -> dict:
 
     priority = BASE_PRIORITY[category]
     if any(p.search(combined) for p in DEMOTE_RE):
-        priority -= 30
+        priority -= DEMOTE_PENALTY
     if any(p.search(combined) for p in PROMOTE_RE) and category != "unclassified":
-        priority += 15
+        priority += PROMOTE_BONUS
     priority = max(0, min(100, priority))
 
-    tier = "high" if priority >= 70 else "medium" if priority >= 35 else "low"
+    tier = "high" if priority >= TIER_HIGH else "medium" if priority >= TIER_MEDIUM else "low"
     return {"category": category, "priority": priority, "tier": tier,
             "needs_llm": needs_llm, "matched": matched}
