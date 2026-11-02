@@ -1,0 +1,62 @@
+[
+  {
+    "id": "390217c376c7dfb9",
+    "symbol": "DEEPAKNTR",
+    "company": "Deepak Nitrite Limited",
+    "subject": "General Updates",
+    "text": "Deepak Nitrite Limited has informed the Exchange about General Updates- Q2 & H1 FY2027 Results Presentation",
+    "time": "2026-10-29T22:14:44",
+    "url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_29102026221311_DNL_-_Q2_FY27_Results_Presentation_V2.pdf",
+    "source": "NSE",
+    "category": "unclassified",
+    "priority": 5,
+    "tier": "low",
+    "needs_llm": true,
+    "matched": null
+  },
+  {
+    "id": "1cc96fa3b416cf4c",
+    "symbol": "DEEPAKNTR",
+    "company": "Deepak Nitrite Limited",
+    "subject": "Outcome of Board Meeting",
+    "text": "Deepak Nitrite Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+    "time": "2026-10-29T18:41:23",
+    "url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_29102026183918_NSE-29-10-2026-bm-ufr.pdf",
+    "source": "NSE",
+    "category": "results",
+    "priority": 90,
+    "tier": "high",
+    "needs_llm": false,
+    "matched": "financial results?"
+  },
+  {
+    "id": "c41bcf8306fb89a5",
+    "symbol": "DEEPAKNTR",
+    "company": "Deepak Nitrite Limited",
+    "subject": "General Updates",
+    "text": "Deepak Nitrite Limited has informed the Exchange about General Updates",
+    "time": "2026-10-16T22:53:10",
+    "url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_16102026225230_NSE-CONCALL-16-10-2026-FINAL.pdf",
+    "source": "NSE",
+    "category": "unclassified",
+    "priority": 5,
+    "tier": "low",
+    "needs_llm": true,
+    "matched": null
+  },
+  {
+    "id": "a390a94e792492ae",
+    "symbol": "DEEPAKNTR",
+    "company": "Deepak Nitrite Limited",
+    "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "text": "Deepak Nitrite Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "time": "2026-10-06T14:24:19",
+    "url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_06102026142338_NSE-Regulation_74_Disclosure.pdf",
+    "source": "NSE",
+    "category": "unclassified",
+    "priority": 5,
+    "tier": "low",
+    "needs_llm": false,
+    "matched": "certificate under"
+  }
+]

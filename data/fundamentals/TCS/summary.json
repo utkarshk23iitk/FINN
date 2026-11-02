@@ -1,0 +1,569 @@
+{
+  "symbol": "TCS",
+  "source": "screener.in",
+  "quarters": {
+    "periods": [
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        59692.0,
+        60583.0,
+        61237.0,
+        62613.0,
+        64259.0,
+        63973.0,
+        64479.0,
+        63437.0,
+        65799.0,
+        67087.0,
+        70698.0,
+        72275.0,
+        73188.0
+      ],
+      "Expenses": [
+        43946.0,
+        44195.0,
+        44073.0,
+        45951.0,
+        47528.0,
+        46939.0,
+        47499.0,
+        46562.0,
+        47821.0,
+        48818.0,
+        51422.0,
+        53719.0,
+        54373.0
+      ],
+      "Operating Profit": [
+        15746.0,
+        16388.0,
+        17164.0,
+        16662.0,
+        16731.0,
+        17034.0,
+        16980.0,
+        16875.0,
+        17978.0,
+        18269.0,
+        19276.0,
+        18556.0,
+        18815.0
+      ],
+      "OPM %": [
+        26.0,
+        27.0,
+        28.0,
+        27.0,
+        26.0,
+        27.0,
+        26.0,
+        27.0,
+        27.0,
+        27.0,
+        27.0,
+        26.0,
+        26.0
+      ],
+      "Other Income": [
+        1006.0,
+        -96.0,
+        1157.0,
+        962.0,
+        729.0,
+        1243.0,
+        1028.0,
+        1660.0,
+        -268.0,
+        -2273.0,
+        757.0,
+        900.0,
+        1337.0
+      ],
+      "Interest": [
+        159.0,
+        230.0,
+        226.0,
+        173.0,
+        162.0,
+        234.0,
+        227.0,
+        195.0,
+        229.0,
+        538.0,
+        265.0,
+        273.0,
+        252.0
+      ],
+      "Depreciation": [
+        1263.0,
+        1233.0,
+        1246.0,
+        1220.0,
+        1266.0,
+        1377.0,
+        1379.0,
+        1361.0,
+        1413.0,
+        1380.0,
+        1406.0,
+        1239.0,
+        1262.0
+      ],
+      "Profit before tax": [
+        15330.0,
+        14829.0,
+        16849.0,
+        16231.0,
+        16032.0,
+        16666.0,
+        16402.0,
+        16979.0,
+        16068.0,
+        14078.0,
+        18362.0,
+        17944.0,
+        18638.0
+      ],
+      "Tax %": [
+        26.0,
+        25.0,
+        26.0,
+        25.0,
+        25.0,
+        25.0,
+        25.0,
+        24.0,
+        24.0,
+        24.0,
+        25.0,
+        25.0,
+        25.0
+      ],
+      "Net Profit": [
+        11380.0,
+        11097.0,
+        12502.0,
+        12105.0,
+        11955.0,
+        12444.0,
+        12293.0,
+        12819.0,
+        12131.0,
+        10720.0,
+        13784.0,
+        13420.0,
+        13934.0
+      ],
+      "EPS in Rs": [
+        31.0,
+        30.56,
+        34.37,
+        33.28,
+        32.92,
+        34.22,
+        33.79,
+        35.27,
+        33.37,
+        29.45,
+        37.92,
+        36.9,
+        38.37
+      ]
+    }
+  },
+  "headline": {
+    "period": "Sep 2026",
+    "vs_qoq": "Jun 2026",
+    "vs_yoy": "Sep 2025",
+    "metrics": {
+      "Revenue": {
+        "value": 73188.0,
+        "qoq_pct": 1.3,
+        "yoy_pct": 11.2
+      },
+      "EBITDA": {
+        "value": 18815.0,
+        "qoq_pct": 1.4,
+        "yoy_pct": 4.7
+      },
+      "PBT": {
+        "value": 18638.0,
+        "qoq_pct": 3.9,
+        "yoy_pct": 16.0
+      },
+      "PAT": {
+        "value": 13934.0,
+        "qoq_pct": 3.8,
+        "yoy_pct": 14.9
+      }
+    }
+  },
+  "concalls": [
+    {
+      "period": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+      "ppt": null,
+      "recording": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2026-27/q2/Management%20Commentary/Archived%20webcast%20of%20TCS%20Earnings%20Conference%20Call%20Q2%20FY27.mp3"
+    },
+    {
+      "period": "Jul 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2026",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2026-27/q1/Presentations/Q1%202026-27%20Fact%20Sheet.pdf",
+      "recording": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2026-27/q1/Management%20Commentary/Archived%20webcast%20of%20TCS%20Earnings%20Conference%20Call%20Q1%20FY27.mp3"
+    },
+    {
+      "period": "Apr 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+      "ppt": null,
+      "recording": "https://www.tcs.com/investor-relations/financial-statements#type=overlay&page=/fy26-q4-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Mar 2026",
+      "transcript": null,
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q4/Presentations/Q4%202025-26%20Fact%20Sheet.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70edbab-d5b2-47ae-8820-efacc5052d13.pdf",
+      "ppt": null,
+      "recording": "https://www.tcs.com/investor-relations/financial-statements#type=overlay&page=/fy26-q3-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Dec 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d59af2b6-34c7-4ca1-9455-f4899e5f26cf.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0d9ed3a7-0106-4b36-840e-ef76c59a3c7a.pdf",
+      "recording": null
+    },
+    {
+      "period": "Nov 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fa78f01-221c-47fe-a83d-098bc43b0de7.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56f7fbb9-5cf4-49e1-95ef-62af7ad2a999.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q2/Presentations/Q2%202025-26%20Fact%20Sheet.pdf",
+      "recording": "https://www.tcs.com/investor-relations/financial-statements#type=overlay&page=/fy26-q2-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Jul 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9cee0fdb-07a3-4dc6-af7a-40dce51e1348.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Presentations/Q1%202025-26%20Fact%20Sheet.pdf",
+      "recording": "https://youtu.be/3JzREAJHcXM?si=iOhA2J9YCsSysmXK"
+    },
+    {
+      "period": "Apr 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d3f70d49-123f-40d6-a0a9-b584546c8c63.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2024-25/q4/Presentations/Q4%202024-25%20Fact%20Sheet.pdf",
+      "recording": "https://www.tcs.com/investor-relations/financial-statements#type=overlay&page=/discover-tcs/investor-relations/overlays/management-commentary-overlays/fy25-q4-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Jan 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f89d612-0771-4c26-a565-546c1d46ba9c.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2024-25/q3/Presentations/Q3%202024-25%20Fact%20Sheet.pdf",
+      "recording": "https://www.youtube.com/watch?v=G_-sWzs0pag"
+    },
+    {
+      "period": "Oct 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7066eb7-d5d8-4d9e-87fd-ed222315999d.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2024-25/q2/Presentations/Q2%202024-25%20Fact%20Sheet.pdf",
+      "recording": "https://www.tcs.com/investor-relations/financial-statements#type=overlay&page=/discover-tcs/investor-relations/overlays/management-commentary-overlays/fy25-q2-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Aug 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a723c36-afac-4687-af0d-c01fd45c8815.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8dd38adb-a021-420f-bff8-1b9f0fe1351b.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2024",
+      "transcript": null,
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2024-25/q1/Presentations/Q1%202024-25%20Fact%20Sheet.pdf",
+      "recording": "https://www.tcs.com/investor-relations/financial-statements#type=overlay&page=/discover-tcs/investor-relations/overlays/management-commentary-overlays/fy25-q1-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Apr 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5c6ff602-30d9-490a-b147-1d824b5b6665.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2023-24/q4/Presentations/Q4%202023-24%20Fact%20Sheet.pdf",
+      "recording": "https://www.tcs.com/investor-relations/financial-statements?n=t#type=overlay&page=/discover-tcs/investor-relations/overlays/management-commentary-overlays/fy24-q4-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Jan 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=215a0356-bb8c-4b2e-8c13-4e904e90a618.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2023-24/q3/Presentations/Q3%202023-24%20Fact%20Sheet.pdf",
+      "recording": "https://www.tcs.com/investor-relations/financial-statements#type=overlay&page=/discover-tcs/investor-relations/overlays/management-commentary-overlays/fy24-q3-management-commentry-audio-overlay.html"
+    },
+    {
+      "period": "Oct 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e617aaed-ae26-4fc8-8a6e-d79f40adc7f0.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2023-24/q2/Presentations/Q2%202023-24%20Fact%20Sheet.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jul 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=46524061-48f9-497c-8217-2a4ca8479900.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a54627e-6d57-4e58-a672-5f15cbeb3f7e.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2022-23/q4/Presentations/Q4%20FY%202022-23%20Fact%20sheet.pdf",
+      "recording": null
+    },
+    {
+      "period": "Jan 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=76ba7959-5943-41bd-9410-a53f3de41e26.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=745d6bd9-e798-419a-8d49-b6beef99ab47.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=76487354-b76f-4d21-8d70-d929f6b480a9.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f424c104-aab6-47ba-9659-65a2ce5689e1.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2022",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2021-22/q3/Management%20Commentary/Transcript%20of%20the%20Q3%202021-22%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20Jan%2012,%202022.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2021",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2021-22/q2/Management%20Commentary/Transcript%20of%20the%20Q2%202021-22%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20Oct%208,%202021.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2021",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2021-22/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202021-22%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20Jul%208,%202021.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2021",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2020-21/q4/Management%20Commentary/Transcript%20of%20the%20Q4%202020-21%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20Apr%2012,%202021.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Feb 2021",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2020-21/q3/Management%20Commentary/Transcript%20of%20the%20Q3%202020-21%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20Jan%208,%202021.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2020",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2020-21/q2/Management%20Commentary/Transcript%20of%20the%20Q2%202020-21%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20Oct%20%207,%202020.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2020",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2020-21/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202020-21%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20July%209,%202020.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2020",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2019-20/q4/Management%20Commentary/Transcript%20of%20the%20Q4%202019-20%20Earnings%20Conference%20Call%20held%20at%202000%20hrs%20IST%20on%20April%2016,%202020.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2020",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2019-20/q3/Management%20Commentary/Transcript%20of%20the%20Q3%202019-20%20Earnings%20Conference%20Call%20held%20at%201730%20hrs%20IST%20on%20January%2017,%202020.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Nov 2019",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2019-20/q2/Management%20Commentary/Transcript%20of%20the%20Q2%202019-20%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20October%2010,%202019.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Aug 2019",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2019-20/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202019-20%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20July%209,%202019.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2019",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2018-19/q4/Management%20Commentary/Transcript%20of%20the%20Q4%202018-19%20Earnings%20Conference%20Call%20held%20at%201930%20hrs%20IST%20on%20April%2012,%202019.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2019",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2018-19/q3/Management%20Commentary/Transcript%20of%20the%20Q3%202018-19%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20January%2010,%202019.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2018",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2018-19/q2/Management%20Commentary/Transcript%20of%20the%20Q2%202018-19%20Earnings%20Conference%20Call%20held%20at%2019%2000%20hrs%20IST%20on%20October%2011,%202018.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jul 2018",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2018-19/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202018-19%20Earnings%20Conference%20Call%20held%20at%2019%2000%20hrs%20IST%20on%20July%2010,%202018.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Apr 2018",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2017-18/q4/Management%20Commentary/Transcript%20of%20the%20Q4%202017-18%20Earnings%20Conference%20Call%20held%20at%2019%2000%20hrs%20IST%20on%20April%2019,%202018.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Feb 2018",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2017-18/q3/Management%20Commentary/Transcript%20of%20the%20Q3%202017-18%20Earnings%20Conference%20Call%20held%20at%2019%2000%20hrs%20IST%20on%20January%2011,%202018.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Oct 2017",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2017-18/q2/Management%20Commentary/Transcript%20of%20the%20Q2%202017-18%20Earnings%20Conference%20Call%20held%20at%2019%2000%20hrs%20IST%20on%20October%2012,%202017.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Aug 2017",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2017-18/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202017-18%20Earnings%20Conference%20Call%20held%20at%2019%2000%20hrs%20IST%20on%20July%2013,%202017.pdf",
+      "ppt": null,
+      "recording": null
+    },
+    {
+      "period": "Jan 2016",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6601AB63_2D6D_4FB1_B039_2EE56EC8A7B6_081341.pdf",
+      "recording": null
+    }
+  ],
+  "annual_reports": [
+    {
+      "title": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+    },
+    {
+      "title": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+    },
+    {
+      "title": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d57e49b6-fd89-4fa8-b591-4f590100db1e.pdf"
+    },
+    {
+      "title": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3837c1b7-9308-436d-9636-1d6856edf74e.pdf"
+    },
+    {
+      "title": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/72996532540_17_06_22.pdf"
+    },
+    {
+      "title": "Annual Report 2021",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/68468532540_25_05_21.pdf"
+    },
+    {
+      "title": "Annual Report 2020",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400320.pdf"
+    },
+    {
+      "title": "Annual Report 2019",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400319.pdf"
+    },
+    {
+      "title": "Annual Report 2018",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400318.pdf"
+    },
+    {
+      "title": "Annual Report 2017",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400317.pdf"
+    },
+    {
+      "title": "Annual Report 2016",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400316.pdf"
+    },
+    {
+      "title": "Annual Report 2015",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400315.pdf"
+    },
+    {
+      "title": "Annual Report 2014",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400314.pdf"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://archives.nseindia.com/annual_reports/AR_49_TCS_2012_2013_30052013104153.zip"
+    },
+    {
+      "title": "Annual Report 2013",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532540/5325400313.pdf"
+    }
+  ],
+  "transcripts_saved": [
+    {
+      "period": "Oct 2026",
+      "pdf": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Oct-2026.pdf",
+      "text": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Oct-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+    },
+    {
+      "period": "Jul 2026",
+      "pdf": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Jul-2026.pdf",
+      "text": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Jul-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+    },
+    {
+      "period": "Jul 2026",
+      "pdf": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Jul-2026.pdf",
+      "text": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Jul-2026.txt",
+      "source_url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf"
+    },
+    {
+      "period": "Apr 2026",
+      "pdf": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Apr-2026.pdf",
+      "text": "/Users/utkarshkesharwani/Desktop/finn-data/data/fundamentals/TCS/transcripts/Apr-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+    }
+  ]
+}

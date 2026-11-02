@@ -1,0 +1,932 @@
+9th Floor Nirmal Building Nariman Point Mumbai 400 021 
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com 
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021 
+Corporate Identity No. (CIN): L22210MH1995PLC084781 
+BSE Lim
+ited 
+P. J. Towers,   
+Dalal Street, 
+Mumbai - 400001    
+TCS/SE/109/2026-27 
+October 
+14, 2026 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G,  
+Bandra Kurla Complex, Bandra (East)   
+Mumbai - 400051 
+Symbol - TCS Scrip Code No. 532540 
+Dear Sirs
+, 
+Sub: Transcrip
+t of the earnings conference call for the quarter and six-month period ended 
+September 30, 2026 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the transcript of the earnings conference call for the 
+quarter and six-month period ended September 30, 2026, conducted after the meeting 
+of Board of Directors held on October 8, 2026, for your information and records. 
+The above information is also available on the website of the Company: www.tcs.com. 
+Thanking you, 
+Yours faithfully, 
+For Tata Consultancy Services Limited 
+Yashaswin Sheth 
+Company Secretary 
+ACS 15388 
+Encl: As above 
+
+ 
+Page 1 of 28 
+ 
+Tata Consultancy Services Limited 
+Transcript for Earnings Conference Call 
+October 08, 2026,19:00 hrs IST (09:30 hrs US ET) 
+ 
+Moderator: Ladies and gentlemen, good day and welcome to the TCS Earnings 
+Conference Call. As a reminder, all participant lines will be in the listen-
+only mode and there will be an opportunity for you to ask questions after 
+the presentation concludes. Should you need assistance during this 
+conference, please signal an operator by pressing star then zero on your 
+touchtone phone. Please note that this conference is being recorded. I 
+now hand the conference over to Ms. Nehal Shah, Head - Investor 
+Relations at TCS. Thank you and over to you. 
+Nehal Shah: Thank you, operator. Good evening and welcome, everyone. Thank you for 
+joining us today to discuss TCS' ﬁnancial results for the second quarter of 
+FY 2027 that ended on September 30th, 2026.  
+This call is being webcast through our website, and an archive including 
+the transcript will be available on the site for the duration of this quarter.  
+The ﬁnancial statements, quarterly fact sheet, and press releases are also 
+available on our website.  
+Our leadership team is present on this call to discuss our results. We have 
+with us today Mr. K Krithivasan , Chief Executive O Ưicer and Managing 
+Director. 
+K Krithivasan: Hi everyone. 
+Nehal Shah: Ms. Aarthi Subramanian, Executive Director, President, and Chief 
+Operating OƯicer. 
+Aarthi Subramanian: Good evening, everyone. 
+Nehal Shah: Mr. Samir Seksaria, Chief Financial OƯicer. 
+Samir Seksaria: Hello everyone. 
+Nehal Shah: And Mr. Sudeep Kunnumal, Chief HR OƯicer. 
+
+ 
+Page 2 of 28 
+ 
+Sudeep Kunnumal: Hello everyone. 
+Nehal Shah: Our management team will give a brief overview of the company's 
+performance followed by a Q&A session. As you are aware, we don't 
+provide any speciﬁc revenue or earnings guidance, and anything said on 
+this call, which reﬂects our outlook for the future or which could be 
+construed as a forward-looking statement, must be reviewed in 
+conjunction with the risk that the company faces. 
+ We have outlined these risks in the second slide of the quarterly fact sheet 
+available on our website and emailed them out to those who have 
+subscribed to our mailing list. With that, I would like to turn the call over 
+to Krithi. 
+K Krithivasan: Thank you, Nehal. Good day everyone and thank you for joining us. I would 
+like to begin by calling out the key takeaways from our Q2FY27 
+performance.  
+First, we sustained our growth momentum this quarter,  despite an 
+environment that remains selective and uneven. Revenue for the quarter 
+was ₹73,188 crore . In constant currency, revenue grew 0.5% 
+sequentially and  2.8% year-on-year . International revenue grew 1.2% 
+sequentially in constant currency. All international markets grew 
+sequentially, led by the United Kingdom at 3.5%, followed by North 
+America and Continental Europe at 0.4% each.   
+Second, our growth has broadened across our core portfolio . BFSI 
+grew 2.5% sequentially in constant currency, while Manufacturing and 
+Technology and Services  each grew 3.1%. Consumer Business  and 
+Energy, Resources and Utilities  showed an improvement compared to 
+the previous quarter. India revenue grew 6%, and Regional Markets grew 
+3.6% year-on-year. 
+Third, our order book remained healthy. TCV for the quarter was US$9.6 
+billion. This excludes the Porsche and Best Buy deals. The quality of the 
+
+ 
+Page 3 of 28 
+ 
+wins demonstrates our continued relevance in large, complex, and 
+strategically important transformation programs. 
+Fourth, AI continues to scale as a structural growth opportunity. 
+Annualized AI revenue reached $3.1 billion  and crossed 10% of our 
+overall revenue. 
+Finally, we advanced our strategy through AI-led deals, ecosystem 
+partnerships, and targeted acquisitions. 
+-  Our partnership with Porsche and the proposed acquisition of MHP, 
+which is subject to regulatory approvals, strengthen our position in AI 
+powered mobility and engineering. 
+- The Best Buy GCC  engagement highlights our ability to help clients 
+build and transform AI-native global capability centers. 
+-  We also launched TCS ADD AgentHub  for drug discovery, domain-
+speciﬁc agentic control planes, and new Physical AI  capabilities, 
+including Autonomous Engineering Lab  powered by NVIDIA in 
+Bengaluru and an AI-ﬁrst lights-out factory lab in Pune. 
+The demand environment has not materially changed since last quarter, 
+and discretionary programs without near-term value remain under 
+scrutiny. Against this backdrop, our primary opportunity and focus are on 
+translating the advances in AI into measurable enterprise advantage for 
+our clients. 
+I will now invite Samir, Aarthi, and Sudeep to go over di Ưerent aspects of 
+our performance during the quarter. I'll step in later and provide more 
+color on the demand trends that we are seeing. Over to you, Samir. 
+Samir Seksaria: Thank you, Krithi. Good day everyone.  
+Our quarterly revenue was ₹73,188 crore, a growth of 1.3% sequentially 
+and 11.2% on a year-on-year basis. In dollar terms, revenue was $7,642 
+million, a growth of 20 basis points sequentially and 2.4% year-on-year. 
+
+ 
+Page 4 of 28 
+ 
+In constant currency terms, our growth was 50 basis points QoQ and 2.8% 
+YoY . 
+Our operating margins remained stable sequentially at 24%. Consistent 
+with our philosophy to drive long-term proﬁtable growth, we continued to 
+prioritize investments for growth. 
+In Q2, we made investments in strategic partnerships, M&A-related 
+initiatives, and hiring of niche talent. As we build future capacity and 
+navigate demand transitions, we have invested in a higher bench and 
+increased hiring of subcontractors to meet near-term skills and delivery 
+requirements. This quarter, we were able to mitigate these headwinds 
+partly by currency gains and operating leverage. 
+Many of these investments are strategic in nature and are focused on long-
+term value creation. Our disciplined approach to margin management 
+remains unchanged. As growth improves, we expect to beneﬁt from 
+enhanced scale e Ưiciency while continuing to opti mize our cost 
+structures, align capacity with demand, and maintain our disciplined 
+execution. 
+While we are prioritizing investments, we are focusing on 5 key areas: 
+ First, we continue to strengthen our portfolio through targeted 
+capability acquisitions. 
+ Second, we are adding a stronger partnership ecosystem with 
+Frontier AI companies, Hyperscalers, Semi-Conductor 
+ecosystem, Tier-1 industrial suppliers, and enterprise software 
+providers. 
+ Third, we are accelerating investments in our high-growth service 
+areas – We are making investments in sales, solutioning, service 
+transformation, new o Ưerings, and business models across the 
+ﬁve big bets we have called out, with a speciﬁc focus on AI and 
+data. 
+
+ 
+Page 5 of 28 
+ 
+ Fourth, we are investing in talent and capability creation at scale 
+on learning and development, as well as on hiring niche talent. 
+ Lastly, we are creating new growth engines for the future. We are 
+expanding into adjacencies, such as data center services, 
+increasing our oƯerings for GCCs and the mid -market segments, 
+strengthening our presence in areas such as ServiceNow, Public 
+Services, and Sovereign Cloud. 
+Our priority remains clear: convert investments into sustainable growth 
+while preserving the discipline that has consistently underpinned our 
+proﬁtability.  
+Our net margins for the quarter were 19%. DSO stood at 74 days, constant 
+sequentially in dollar terms. 
+Our cash conversion remains strong at 102.2% of net income and funds 
+invested at the end of the period stood at $5.98 billion.  
+Our capital allocation policy remains unchanged, and we remain 
+committed to returning substantial free cash ﬂows to our shareholders 
+while judiciously investing to support our long-term growth aspirations. 
+ I will now hand it over to Aarthi. 
+Aarthi Subramanian: Thank you, Samir. Good evening, everyone. 
+The biggest opportunity in front of us is in helping clients translate 
+advancements in AI into business outcomes. 
+Clients see TCS as a partner who can use AI to enable growth, speed, 
+eƯiciency. They are keen to invest the productivity beneﬁts from AI into 
+enterprise transformation initiatives that will make their organizations 
+future-ready. TCS is beneﬁting from this shift, as evidenced by our growing 
+AI revenues that crossed $3 billion on an annualized basis this quarter. 
+Our priority is clear: use AI to create measurable value for our customers, 
+and to improve how we deliver work for them. This quarter, we made 
+
+ 
+Page 6 of 28 
+ 
+progress on both fronts, with growth in our AI business and wider adoption 
+of our Human+AI services delivery model. 
+We are seeing three distinct demand patterns: (1) AI-native solutions with 
+business outcomes, (2) AI-led transformation of enterprise systems, and 
+(3) Autonomous GBS. Enterprises are also prioritizing investments in 
+modernizing legacy data estates and building AI-ready data foundations. 
+Across these demand patterns, strong AI governance with secure AI 
+platforms is becoming a top need for enterprises. 
+Let me share an example of how we are building AI-native solutions with 
+assured business outcomes.  
+ For a global industrial manufacturer, we are using an AI-native 
+approach to solve a critical business need, compressing lead-to-
+quote time from 4.7 days to under an hour. We achieved this within 
+a quarter, clearly demonstrating speed to value. The next step is to 
+improve their lead-to-conversion metric. This is a good example of 
+focused problem-solving and business outcome realization with 
+AI. 
+Now let me share how AI is changing the approach to transforming 
+enterprise systems. AI is playing a key role in process mining, which helps 
+us understand existing workﬂows. Redesigning processes with a human 
+and AI approach by default is enabling upfront identiﬁcation of agentic 
+opportunities. And the acceleration of implementations with AI is real. 
+ In a large, complex S/4HANA enterprise transformation spanning 
+27 sites, more than 70 legal entities, we are using AI to redesign 
+processes and accelerate implementation. Our approach, 
+supported by TCS’ agentic platform, targets 25% to 30% faster 
+implementation. 
+Last quarter, I spoke about autonomous GBS and how agentic AI in 
+business process execution is scaling signiﬁcantly. Business ops teams 
+are now embarking on agentic transformation across ﬁnance, HR, 
+
+ 
+Page 7 of 28 
+ 
+procurement, and customer service. This is opening new opportunities for 
+us to engage with business teams and create new value propositions. 
+ For a North American energy resources company, we are 
+transforming their global HR operations to double operational 
+eƯiciency and increase self-serve adoption from less than 10% to 
+30%. 
+Beyond AI, cybersecurity is another area enterprises are prioritizing 
+globally. While enterprises continue to strengthen cyber controls, the 
+focus on cyber resilience and recovery is rising.  
+Frontier models are also changing how enterprises manage 
+vulnerabilities, enabling discovery, prioritization and validation. 
+ For a European bank, we are reimagining enterprise security 
+through an integrated AI-powered operating model. 
+Recent AI-related cybersecurity incidents are a reminder that AI needs the 
+same rigorous engineering and operational discipline as any enterprise 
+technology. 
+Strong governance and clear guardrails must therefore be built into every 
+enterprise AI deployment. As agents scale, enterprises will need more 
+robust orchestration, access controls, security, observability, cost 
+controls, and policy enforcement. 
+Cost discipline matters just as much. We help clients manage AI token 
+costs through benchmarking, model and architecture selection, token 
+economics, and FinOps advisory. Our focus is to deliver the right level of 
+intelligence at the right cost.  
+This creates a signiﬁcant and growing opportunity for TCS across AI 
+governance services and platforms. We recently won an engagement with 
+a major global insurer to build an enterprise AI agentic platform and a 
+common agentic control tower for managing both in-house and third-
+
+ 
+Page 8 of 28 
+ 
+party agents. Our engineering depth and working demonstrations helped 
+create diƯerentiation. 
+We are also working more closely with business teams to turn their 
+priorities into realized beneﬁts. In one engagement where TCS was not the 
+incumbent, our team identiﬁed pain points and built working 
+demonstrations during a three-day customer workshop, which helped us 
+secure the deal. 21 Forward-Deployment Engineers are now working 
+directly with business on executions. 
+Over the last 12 months, we have made good progress in deploying our 
+Human+AI service autonomy model across client engagements. For 
+Agentic AMS, TCS has earned top ranking from customers, underscoring 
+the strength of our diƯerentiated capabilities delivered at scale. 
+Our investments in Salesforce are delivering results. By combining the 
+strengths of Coastal Cloud, ListEngage, and our own Salesforce practice, 
+we are driving signiﬁcant growth. Recently, leading analysts have 
+recognized this progress, ranking TCS as the #1 Salesforce Services 
+partner. 
+Looking ahead, will continue to engage customers across their business 
+and technology transformation agenda, leveraging our capabilities, 
+context, and industry platform solutions to create distinctive value 
+propositions. These are early days, so being progressive and proactive 
+with our ideas and solutions is essential, and we are doing this the way we 
+know best – with a customer-centric approach. 
+Thank you. I will now hand it over to Sudeep. 
+Sudeep Kunnumal: Thank you, Aarthi. Hello everyone.  
+ This quarter, we continue to invest in future-ready talent, onboarding top 
+talent globally, taking our workforce to 598,056 associates. 
+Our hiring strategy continues to balance experienced talent, early career 
+talent, and internal mobility. As client demand evolves, we remain 
+
+ 
+Page 9 of 28 
+ 
+focused on strengthening AI and domain expertise, improving deployment 
+readiness, and investing in continuous learning. 
+ Over the past year, we have signiﬁcantly expanded our technology and AI 
+capabilities through large-scale learning and reskilling initiatives. Our 
+learning hours saw a 17% QoQ increase to 17.1 million hours.  
+LTM attrition in IT services reduced by 30 basis points sequentially to 
+13.3%. 
+This ability to combine workforce stability with continuous at-scale 
+learning remains a key diƯerentiator for TCS.  
+We remain committed to building a future-ready workforce and a 
+workspace where associates can learn, contribute, and grow. 
+Thank you and I now hand it back to Krithi. 
+K Krithivasan: Thank you, Sudeep.  
+ Let me now provide some additional color on industry trends before 
+concluding our prepared remarks. 
+ BFSI was our strongest large vertical and the largest contributor to 
+growth, with 2.5% sequential and 3.9% year-on-year growth in 
+constant currency . Growth was broad-based across banking, 
+capital markets, and insurance, with strong momentum in the UK, 
+Europe, and Asia Paciﬁc. Clients continue to invest in AI, risk and 
+regulatory modernization, cyber resilience, data platforms, and 
+operational eƯiciency. 
+ Manufacturing grew 3.1% sequentially and 4.2% year-on-year. 
+Demand is improving around factory automation, engineering 
+productivity, product lifecycle modernization, supply chain 
+resilience, predictive maintenance, and industrial AI. Our 
+investments in AI-led vehicle engineering, smart manufacturing, 
+and physical AI are helping us participate in larger and more 
+strategic programs. 
+
+ 
+Page 10 of 28 
+ 
+ Technology and Services grew 3.1% sequentially and 4.8% 
+year-on-year. Growth was driven by enterprise software, 
+technology products, engineering, cloud modernization, and 
+digital transformation. At the same time, traditional application 
+and infrastructure portfolios are seeing an increase in agentic AI 
+adoption. We are leading with AI-ﬁrst software engineering, 
+autonomous operations, platform simpliﬁcation, and AI-ready 
+data foundations. 
+ Consumer Business declined by 0.7% sequentially and 1% 
+year-on-year. Retail and consumer products remain sensitive to 
+inﬂation, energy costs, and selective consumer spending. Travel, 
+transportation, and hospitality demand remained resilient, but 
+discretionary spending is aƯected by cost pressure and increased 
+insourcing. We continue to see opportunities in operational 
+eƯiciency, supply chain visibility, customer experience, pricing, 
+cloud, data, and AI-led modernization. 
+ Life Sciences and Healthcare grew 0.3% sequentially , with 
+stable demand supported by long-term priorities in compliance, 
+clinical and research platforms, data modernization, AI-enabled 
+drug discovery, patient engagement, revenue cycle 
+modernization, and cybersecurity. 
+ Communications and Media was broadly ﬂat , with growth in 
+media, publishing, and digital platforms o Ưset by continued 
+pressure in the telecom vertical.  
+ Energy, Resources, and Utilities declined 0.5% sequentially , 
+although investments in grid modernization, resilience, 
+cybersecurity, asset optimization, and AI-enabled operations 
+remain relevant. 
+International revenue grew sequentially. Performance improved across 
+most industry groups, and growth broadened across the core portfolio. 
+
+ 
+Page 11 of 28 
+ 
+Our TCV was at $9.6 billion, our win rates improved, and annualized AI 
+revenue reached $3.1 billion. 
+We believe clients are moving toward a new phase of enterprise AI 
+adoption. Opportunity is shifting from isolated use cases to redesigned 
+value chains, governed agentic systems, AI-ready infrastructure, and 
+Human+AI operating models. Our Infrastructure to Intelligence strategy, 
+contextual knowledge, delivery capabilities, platforms, and ecosystem 
+partnerships position us well for this transition. 
+We will continue to execute with discipline, invest in di Ưerentiated 
+capabilities, and help our clients achieve measurable outcomes in 
+growth, productivity, and resilience. These priorities support our 
+aspiration to become the world’s leading AI-led technology services 
+company and create sustainable value for our clients, employees, and 
+shareholders. 
+With this, we will open the line for questions. 
+Moderator: Thank you very much. We will now begin the question-and-answer 
+session. We will take our ﬁrst question from the line of Sudheer Guntupalli 
+with Kotak Mahindra Asset Management. Please go ahead. 
+Sudheer Guntupalli: Hi, Krithi. Thanks for the opportunity. My ﬁrst question: Your core markets’ 
+growth accelerated quite nicely in this quarter. Do you think the 
+momentum in this part in the international business to continue in the 
+coming quarters as well? 
+K Krithivasan: Sudheer, deﬁnitely, looking at all the parameters, I don't want to comment 
+on the immediate next quarter basis, but on a medium-term basis, looking 
+at the TCV, looking at the pipeline and the client conversations that we are 
+having, we're conﬁdent that growth momentum will continue. 
+Sudheer Guntupalli: Sure, sir. Both BFSI and Hi-Tech verticals are reﬂecting a typical 
+September quarter kind of seasonal strength this time. Given these two 
+verticals also are the ones which are early adopters of technology, is it fair 
+
+ 
+Page 12 of 28 
+ 
+to sort of assume or conclude that AI deﬂation impact, at least in these 
+two verticals, is now more than oƯset by incrementality of AI opportunity? 
+K Krithivasan: I don't want to say it is complete, Sudheer, on one hand, there is a 
+deﬂation because of the productivity beneﬁt. But also, these industries 
+use AI for modernization, and it also creates vendor consolidation 
+opportunities. Also, for instance, if you take BFSI. BFSI is where our AI 
+revenues, the percentage also grew very fast.  
+There are a number of things that are happening in these industries. I don't 
+want to conclude by saying that the deﬂation part is complete, but I think 
+there are a number of opportunities in these industries we are working on, 
+which gives us conﬁdence that the growth can continue. 
+Sudheer Guntupalli: Okay, sir. One last question to Samir. On the subcon increase this quarter, 
+should we see this as a proxy for visa cost, given that we would not have 
+applied for a lot of visas, given the sharp jump in visa fee last year? 
+Samir Seksaria: The overall increase in subcon has been across India as well as overseas. 
+It is more to meet near-term demand-supply skill mismatches. Some part 
+of it could be linked to visa fee hike also, but not completely.  
+Sudheer Guntupalli: Thanks, sir. All the very best. 
+Moderator: Thank you. Our next question comes from the line of Ravi Menon with Axis 
+Capital. Please go ahead.  
+Ravi Menon: Thanks for the opportunity. First of all, congrats on a pretty good 
+performance across multiple verticals this quarter. But we've seen the 
+India revenue decline by about 10% and also seen a slight decline in the 
+100 million clients as well this quarter and 50 million clients as well. Are 
+both these client metrics decline, and India revenue correlated, and what 
+caused this revenue decline in India? 
+K Krithivasan: Ravi, as we have always been calling out, the regional market, while we 
+say regional market, it's a bunch of quite a few volatile segments. In India, 
+we had a project deferral, which caused this revenue decrease. 
+
+ 
+Page 13 of 28 
+ 
+Otherwise, there's no structural issue, and we are hoping to deliver these 
+projects in subsequent quarters once the projects are reinstated. We 
+don't see any major concern there. 
+On the client metric, we had only one speciﬁc drop. The second is coming 
+because of the currency exchange. The account, which was at the cusp, 
+dropped below the 100 million band, because of the currency movement. 
+So, there is no structural issue.  
+Ravi Menon: Thanks so much for that. Can we think about this disclosure about AI 
+revenues as similar to what we've seen for digital? When we saw that 
+digital portfolio reached a certain level and that was growing much faster 
+than the overall portfolio, you saw that inﬂection point for growth. With AI 
+revenues now hitting 10%, can we say that from here, growth has troughed 
+out if you look at, say, on a last two, three years basis compared to looking 
+at the next two, three years? Would you say that you're more optimistic 
+that growth would be faster in the next two, three years compared to the 
+last two, three years? 
+Aarthi Subramanian: Ravi, this is Aarthi here. So, I think, like you said, I think we did quite well 
+on AI revenues this quarter. But when we look at our revenues, we look at 
+traditional revenues, new services revenues, and AI revenues. Our new 
+services revenues did well this quarter, whether what Krithi alluded to AI-
+led tech modernization, enterprise core transformation, whether it's on 
+the ERP side or on the industrial side in manufacturing and pharma sector, 
+BPS, cybersecurity, all of them did well. Obviously, the AI growth rate came 
+out rather nicely. 
+On the traditional services also, vendor consolidation and AI-powered 
+software engineering, IT ops, how we innovate in execution is helping us 
+diƯerentiate and grow market share in traditional services also. In a space 
+where AI is deﬁnitely creating e Ưiciency and productivity, but there are 
+tailwinds on the back of vendor consolidation in those traditional areas as 
+well. 
+
+ 
+Page 14 of 28 
+ 
+ 
+Ravi Menon: Thank you so much for the detailed explanation. One last question to 
+Samir. To get back towards 26%, which is the aspirational margin, do you 
+think that we'll be able to bring down subcontracting costs over time, or 
+what are the key levers that could take you towards 26%? 
+Samir Seksaria: Overall, our long-term aspiration remains unchanged, continues to be 
+26% to 28%. In the near term, we will continue to prioritize investments 
+for growth. Looking ahead, in terms of what are our levers available; 
+subcon expenses, given the rate at which it has increased, deﬁnitely is one 
+of the levers. 
+Also, some of the investments will start to deliver results. That could be 
+another lever. And we have been focused on our margin discipline as 
+always, and the traditional levers, whether it is productivity or utilization 
+will also continue. And some of our non-employee expenses also have 
+been increasing. So, at various points of time, we have used these levers. 
+And towards getting to 26%, these would deﬁnitely play a role. 
+Ravi Menon: Thank you so much. Best of luck. 
+Moderator: Thank you. Our next question comes from the line of Ruchi Mukhija with 
+ICICI Securities. Please go ahead. 
+Ruchi Mukhija: Thank you for the opportunity. I'll take a stab at the AI question once again. 
+This quarter, we saw AI revenue grow by 19%, while the traditional non-AI 
+revenue declined. Should we interpret this as AI increasingly substituting 
+the traditional services, or we are seeing incremental client spending? 
+And what needs to happen for AI to become the overall revenue growth 
+driver? 
+Aarthi Subramanian: Deﬁnitely, we see AI as a net new driver of new opportunities. But I think, 
+Ruchi, the way we see it, more and more AI is becoming pervasive in an 
+organization and playing a role in every transformation a company 
+embarks on. So, whether it's any enterprise transformation, or business 
+
+ 
+Page 15 of 28 
+ 
+operations transformation, or an agentic transformation, which are new 
+ways that we can solve problems for business, I think AI is playing a role 
+across the board. 
+Ruchi Mukhija: Okay. Secondly, on margin. So, this quarter we saw a gross margin decline 
+sequentially despite this quarter not having any wage hike impact. Samir, 
+could you quantify how much of this we see structural, meaning we are 
+making active investments for AI, and how much of this is temporary? 
+ And second part to this, given the ongoing investment, we also have Best 
+Buy GCC coming in, and MHP consolidation playing out in H2. In that 
+context, how do we think about the margin commitment we had made 
+around exiting FY27, at 25% plus EBIT margin range? 
+Samir Seksaria: Sure. First, on the gross margin part, as you can see the increase which is 
+in subcontractors, third-party expenses, directly reﬂects on the gross 
+margin. The other investments which I talked about are more SG&A linked 
+investments. 
+ And as I mentioned earlier, we are prioritizing investments for growth. And 
+like you mentioned, looking ahead into the second half, we anticipate a 
+few headwinds. The acquisition-related dilution, particularly in MHP , is 
+likely to impact by about 50 basis points depending on the timing of 
+closure and when the integration starts. The normal furlough seasonality 
+and our continued ecosystem investments would be our headwinds. 
+ And as I answered Ravi's question, some of the Q2 headwinds will start to 
+taper o Ư or start giving outcomes. And at the same time, we'll try to 
+balance with operating levers. While it's an uphill task, we'll continue to 
+endeavor to inch up on our margins. 
+Ruchi Mukhija: Thank you. 
+Moderator: Thank you. Our next question comes from the line of Nitin Padmanabhan 
+with Investec. Please go ahead. 
+
+ 
+Page 16 of 28 
+ 
+Nitin Padmanabhan: Yes, hi. Good evening. Thanks for the opportunity. Wanted your thoughts 
+on the regional markets, more speciﬁcally in the context of the BSNL deal. 
+Do you think that should sort of lend to some sort of support as we get into 
+the second half? The second bit is, in the context of we entering Q3, any 
+thoughts you have from a furlough perspective in conversations with 
+clients? 
+ And third, I think from a margin perspective, I think we originally had this 
+thought process that, obviously Q1, we had the compensation increases, 
+and then as we go through the year, by the end of the year, at least from an 
+exit perspective, we should be closer to 25%. In terms of what has 
+changed in that thought process from an investment perspective, and 
+when do you think investments really peak out? Would be great to have 
+your thoughts on both these things as well. Thank you. 
+K Krithivasan: Nitin, I'll answer the questions on BSNL and Q3. Samir can take up the 
+question on margin. BSNL can provide a cushion for the next couple of 
+quarters. But the fact is regional markets will be volatile; we don't do that 
+much of annuity-based work in the regional markets. 
+ And also, for some of the programs we do here, the deliveries tend to be 
+lumpy. So, you will always see some volatility in regional markets. That's 
+the reason we call out the regional market separately. And in Q3, so far 
+from what we are seeing, the furlough will be very similar to the previous 
+years. We don't see any major change. Over to you, Samir. 
+Samir Seksaria: So, Nitin, on the margins, for the past few quarters, we have been talking 
+about prioritizing the investments and focusing on growth, at the same 
+time maintaining the margin discipline. 
+ And yes, right now also we are saying we want to inch up, but the primary 
+near-term focus has been on prioritizing the investments. And that's 
+where we have called out the investments we are making. 
+ In the immediate timeline, I have called out the next phase of investments 
+for the coming few quarters. Will it peak out? I would expect some of them 
+
+ 
+Page 17 of 28 
+ 
+to start delivering results, and growth, being an important margin lever 
+should also help. 
+Nitin Padmanabhan: Perfect. That's very helpful. Thank you so much, and all the best. 
+Moderator: Thank you. The next question is from the line of Vibhor Singhal with 
+Nuvama Equities. Please go ahead. 
+Vibhor Singhal: Yes, hi. Thanks for taking my question. Two questions from my side. In the 
+last conference call, we had mentioned and many other companies have 
+also mentioned that with the advent of these LLM platforms, clients are 
+now increasingly coming to us and asking us to build an application layer 
+underneath which the LLMs kind of sit so that this provides these clients 
+a ﬂexibility to switch between the LLMs, helps them optimize the token 
+cost, etc. 
+ Have you seen that trend continue in this quarter as well? Any new things 
+that you might have picked up? Are the clients also kind of moving away 
+from the mainstream LLMs to some sort of small language models, where 
+our expertise becomes a very big deciding factor? Any color on that would 
+be very helpful? 
+K Krithivasan: Vibhor, like what you said deﬁnitely is playing out. Last time also, we laid 
+out our Infrastructure to Intelligence where it's made up of infrastructure 
+layer and there's a model and data layer and on top of that is an agent 
+layer. And on the agent layer, we are building the agent control planes. 
+ And on the model and data layer, we are building applicable model 
+harness so that customers can use either SLM or LLM or open-source, 
+open-weight model based on the need and criticality, and what is the 
+application. 
+ So, those discussions continue. Particularly this quarter, we've seen 
+strong success in the agent control plane. I'll request Aarthi to provide 
+more color on this one. 
+
+ 
+Page 18 of 28 
+ 
+Aarthi Subramanian: Thank you, Krithi. Vibhor, absolutely, yes. I think as the enterprises are 
+focused on safe, secure, and responsible deployment of agentic AI, they 
+need a strong foundation to scale. 
+ So, building the AI platform, and more so this year, agentic control plane 
+is becoming a key layer not just in terms of governance, but in terms of 
+cost management, really looking at agent performance and the full end-
+to-end agent lifecycle. Like Krithi said, this quarter, we saw some very 
+good wins where we are building agentic control planes for our customers. 
+Vibhor Singhal: And, Aarthi, if I can just dwell a bit more on that. Are there any speciﬁc 
+pockets or, let's say, verticals, maybe banking or hi-tech, some other 
+verticals where we're seeing more of this at this point of time and some 
+other key segments maybe lagging behind a bit and yet to catch up? 
+Aarthi Subramanian: Sure. I think that's a great question, Vibhor. What we are seeing is, ﬁrst of 
+all, when we look at the $3.1 billion annualized revenues, AI revenue is 
+growing across every vertical. I think that's very positive. 
+ Now, there are three verticals which are leading in terms of growth rate, 
+and the top three verticals are BFSI, Manufacturing, and Life Sciences and 
+Healthcare. And in these three verticals, we are seeing the whole agentic 
+control plane, AI governance. See, these are all evolving things, right? 
+ So, while technology is rapidly developing, then, you know, you see 
+customers who are leading to create proof points and create the playbook 
+for enterprises to follow. 
+ So, I think those verticals are leading, but I would say that Consumer, 
+Technology, and Energy, Resources, Utilities are also following pretty 
+closely in terms of very active adoption of these trends. 
+Vibhor Singhal: Got it. Thanks a lot for that detailed answer. Just one last question for 
+Samir on the margins part. The margin trajectory that we are seeing at this 
+point in time is majorly because of the higher subcontracting expenses 
+
+ 
+Page 19 of 28 
+ 
+and the investments that we are doing. There is no pricing pressure that 
+we are seeing across any of the pockets. Is that the right assumption? 
+Samir Seksaria: Broadly yes, and I'll give you some color. See, there would be some front-
+loading of productivity beneﬁts that could happen. But at the same time, 
+we are seeing better pricing on the AI revenues we are generating. And if 
+you take the revenue per employee, you will see there's a slight reduction, 
+not a signiﬁcant one. So, at an overall portfolio level, the pricing is broadly 
+stable. 
+Vibhor Singhal: Got it, Samir. And just to wrap it up, given that we are at 24% at this point 
+of time, you mentioned around 50 basis point headwind from the MHP 
+deal. At some point in time, the BSNL project would also come in. 
+I mean, do we have a target in mind that we are looking for in terms of exit 
+rate for this year? Will we be able to get closer to 25%, or will that look 
+diƯicult from the vantage point that we are at this point in time? 
+Samir Seksaria: As I mentioned, we'd look towards inching up from where we are, whilst 
+not losing sight of prioritizing investments for growth. 
+Vibhor Singhal: Sure. Great. Thank you so much for taking my questions and wish you all 
+the best. 
+Moderator: Thank you. Our next question comes from the line of Sandeep Shah with 
+Equirus Securities. Please go ahead. 
+Sandeep Shah: Yes, thanks for the opportunity. The ﬁrst question is, one of your large 
+peers who gave the guidance for the next year, this time, they clearly 
+notiﬁed that the growth in consulting and managed services would be 
+almost similar. And this could be because of clients now spending beyond 
+AI infra into AI-led services. 
+So, is your client conversation actually implying that? And once the 
+macro-led issues subside, this could be a trigger which one can expect in 
+the next calendar year? 
+
+ 
+Page 20 of 28 
+ 
+K Krithivasan: So, Sandeep, when Aarthi spoke, she outlined a few types of projects that 
+we are doing in AI, right? That is, AI-native solutions with business 
+outcome, AI-led transformation of enterprise systems, autonomous GBS, 
+and AI coming up in technology modernization, modernizing data estate. 
+All these are, at this time, we see increasing in volume, increasing 
+recurrence or frequency. 
+So, clients are continuing to invest and explore opportunities on 
+optimizing the token cost. But there's a greater interest in leveraging AI for 
+a business outcome and technology modernization, and we believe that 
+will continue. 
+Sandeep Shah: Okay. And just next question for the CFO, Samir. Sir, on an organic basis, 
+is it fair to assume that the guidance is still intact for reaching 25% by 4Q, 
+if I exclude the 50 bps kind of adverse impact from MHP consolidation? 
+Samir Seksaria: See, there would be pluses and minuses. No point in looking at only 
+organic margin, right? There would be macro factors impacting 
+seasonality. So, on an overall basis, we will balance our investment 
+priorities and our disciplined execution, and we will work towards inching 
+margins higher from here. But right now, the near-term priorities on 
+investment continue. 
+Sandeep Shah: Okay. And, Samir, just a related question. If I look at employee costs, there 
+has been an absolute decline of 0.6% QoQ despite increase in base in 
+employees this quarter, as well as last quarter. So, is it the lower variable 
+pay or incremental o Ưshoring are the factors? And do you believe 
+incremental oƯshoring in a n AI world could continue as a going forward 
+method of delivery? 
+Samir Seksaria: Right, Sandeep. As you rightly called out, the employee expenses will 
+reﬂect a combined e Ưect of workforce mix, location mix, skill 
+composition, hiring patterns, etc. Having said that, given our performance 
+against internal targets, we have had a lower outlay in performance-linked 
+bonus this time. 
+
+ 
+Page 21 of 28 
+ 
+Sandeep Shah: Okay. Thank you. All the best. 
+Moderator: Thank you. The next question is from the line of Gaurav Rateria with 
+Morgan Stanley. Please go ahead. 
+Gaurav Rateria: Hi. Thank you for taking my question. I have a couple of questions. My first 
+question is about your AI revenues. Is that accretive to the gross margins 
+at the company level? And if not, what will change over time? Is it more on 
+the revenue productivity side or the cost side that will drive margin 
+accretion from the new business? 
+ The second question is on the comments, Samir, that you made on the 
+capacity creation on the bench side on the investment that you're making. 
+Is it to reflect the improving demand or broad basing of the demand in the 
+coming quarters? Or is it again the issue of supply-demand mismatch that 
+is leading to the bench creation that you spoke about? 
+ And the last question is about your data center business. At what point in 
+time can we see some capacity getting operational and start contributing 
+to the revenues? Thank you. 
+Samir Seksaria: Sure, I'll take all three of them, Gaurav. On the first one, the $3.1 billion AI 
+revenues which we have are coming in at a much higher margin than our 
+company average. 
+ On the data center business, as we have consistently called out, we will 
+plan our expansion on or the capacity creation on the data centers once 
+the contract comes in, while the initial plans and layout are in place. And 
+it will take about 18 to 24 months before the revenues start kicking in. On 
+the capacity creation, Gaurav, if you can repeat it again, sorry. 
+Gaurav Rateria: Yes. The question is about your comment that you made that created 
+more bench capacity this quarter. So, was it to reflect the improving and 
+broad basing of demand that you're seeing in coming quarters? Or was it 
+led by more supply-demand mismatch that you talked about? 
+
+ 
+Page 22 of 28 
+ 
+Samir Seksaria: I think if you look at some of the new-age skills which we are hiring, first, 
+we need to get them, and then the deployment happens with a lag. So, 
+that's where the capacity creation. So, it is the prior one which you talked 
+about on the demand. 
+Gaurav Rateria: Thank you, all the best. 
+Moderator: Thank you. The next question is from the line of Dipesh Mehta with Emkay 
+Global. Please go ahead. 
+Dipesh Mehta: Yes, thanks for the opportunity. Two questions. Just want to get sense 
+about North America. North America growth is lagging company average, 
+and YoY basis, it is almost half of company average. Can you provide some 
+sense how you are expecting North America growth to play out 
+considering overall industry exposure? 
+ Second question is about two verticals particularly. One is ERU, Energy, 
+Resources, and Utility, and the Consumer, which softened this quarter, 
+but how do you expect it to play out entering into H2? Thank you. 
+K Krithivasan: Yes. Dipesh, North America, see, overall, our discussions with the 
+customers and the TCV , they are all looking good. And we expect North 
+America revenue to recover and become healthy soon. 
+ And in Consumer Business, seasonally, Q3 is an important quarter for the 
+Consumer business. In the medium term we are expecting growth to 
+improve. 
+In the medium term we see structurally ERU should also recover. 
+Overall, across multiple industry segments, looking at the TCV , looking at 
+the client conversation, we are positive that medium-term growth should 
+return. 
+Dipesh Mehta: Understood. And last question on the margin. I think we covered it to some 
+extent, but if you look at it from gross margin to conversion perspective 
+and some of the AI business is sort of better margin than company 
+
+ 
+Page 23 of 28 
+ 
+average, by when do you expect our normal margin range to return 
+considering the mix change as well as some of the growth uptick which 
+you are envisaging currently? 
+Samir Seksaria: One, on the gross margin, as we said, subcontractors, some of the M&A 
+initiatives are reflecting in it. I will, reiterate the same thing that right now, 
+we are prioritizing for growth and we do expect the growth, like we talked 
+about on the capacity creation, will reflect into the revenue in the coming 
+quarters, and I have called out that  we'll have incremental headwinds. 
+And we are looking towards inching up from here. 
+Dipesh Mehta: Thank you. 
+Moderator: Thank you. Our next question is from the line of Rishi Jhunjhunwala with 
+IIFL Institutional Equities. Please go ahead. 
+Rishi Jhunjhunwala: Yes. Thanks for the opportunity. I have two questions. First one is, so 
+you've recently announced deals like, taking over GCC of Best Buy and 
+this MHP deal as well. It seems like, customers are willing to transfer their 
+IT operations or workload to you. 
+ In an environment where AI is bringing significant productivity, what is the 
+thought process behind some of these customer deals that you've been 
+able to win? And are they expecting significant amount of that productivity 
+to be driven through you? And as a result, are these deals, while strategic 
+in nature, may also be dilutive on the margin side to begin with? 
+K Krithivasan: So, Rishi, let's talk about the MHP deal. That's probably similar to other 
+cases also. This has got nothing to do with productivity. See, this is about 
+how they transform themselves as an organization, and they're bringing a 
+steep capability in automotive sector. 
+ And what we will be doing with MHP is working with them and establishing 
+an AI Centre of Excellence for mobility that would transform the product 
+engineering, maintenance, engineering, develop design, and supply 
+
+ 
+Page 24 of 28 
+ 
+chain, all of them leveraging AI. And in the process, helping Porsche to 
+become an AI-first organization. 
+ So, you have to look at this not from a productivity angle, but how do we 
+transform the organization to become AI-first. And that would be a very 
+similar playbook we'll be using in the other Best Buy deal also. Wherever 
+we are doing this, the organizations are coming to us to accelerate their 
+own AI transformation. And we leverage the domain capability and 
+industry knowledge they bring in with the customer context and with the 
+AI capability to help in the transformation. 
+Rishi Jhunjhunwala: Understood, sir. The second question is, and maybe some parts of this 
+has been asked earlier as well. There are three cost line items that if I 
+aggregate, which is fee to external consultants, cost of equipment and 
+licenses, and project expenses and software for service delivery. 
+ These three put together seem to be in the nature of the cost that you incur 
+on providing delivery. For the past 2to 3 quarters, these costs have been 
+growing at almost 40% year-on-year  versus your revenues growing at 11%, 
+12% in rupee terms. 
+ So, just wanted to understand, how do we look at this significant increase 
+in these costs? Are these upfront investments being done and as a result, 
+will actually sweat out a lot better in the next, 4 to 8 quarters, or this is how 
+the nature of deals or the nature of delivery is now happening, if you can 
+give some color on that? 
+Samir Seksaria: So, Rishi, as you called out, the fee to external consultants is where 
+incremental costs to fulfil delivery is sitting, project expenses are where 
+the partnership costs are primarily sitting. Cost of equipment, the third-
+party pass-through expenses have broadly been flat for the last 2-to 3 
+quarters. 
+ Now, in terms of how do view these investments, it's a combination of 
+both. It is investing into the capacity for the growth that will come with a 
+lag. And if you look at my commentary in the previous quarters also, we 
+
+ 
+Page 25 of 28 
+ 
+have been calling that out. And we expect some of that to continue. On 
+the partnerships, we are accelerating on the 360-degree solutions. 
+Rishi Jhunjhunwala: So, safe to assume that some of these will be levers for your margin target 
+that you've been talking about over the next 2- to4 quarters? 
+Samir Seksaria: So, safe to assume that we will continue the investments, safe to assume 
+that we will be looking at the traditional levers and some of them, like the 
+subcontractor costs, definitely as an opportunity to optimize. Safe to 
+assume that driving better productivity and driving better utilization would 
+be on our radar. 
+Rishi Jhunjhunwala: Got it, sir. Thank you so much. 
+Samir Seksaria: Thank you, Rishi. 
+Moderator: Thank you. The next question is from the line of Kumar Rakesh with BNP 
+Paribas. Please go ahead. 
+Kumar Rakesh: Hi, good evening, and thank you for taking my question. My first question 
+was around the employee addition for the last couple of quarters have 
+been running ahead of the revenue growth sequentially, and Samir also 
+spoke about that subcontracting has increased in this quarter to match 
+the skill requirement? 
+ Is this fair to see that this is a reflection of your confidence in growth going 
+into the near term, December quarter or near term, or this is just the timing 
+thing which we are looking at? 
+Sudeep Kunnumal: Hi, Kumar. Sudeep here. So, we are seeing definitely the demand up, and 
+especially for next-gen skills. So, our hiring is to fulfill and capture the 
+demand. 
+Kumar Rakesh: Got it. Thank you. And my second question was around margins. Samir, 
+you spoke about the 26% plus, 26%-28% margin band. That seems like 
+more of a North Star now, may not be realistic given all the investment 
+requirement in the business and the current environment. 
+
+ 
+Page 26 of 28 
+ 
+So, would we revise the band which gives sense for the floor of the margin 
+where it can potentially fall to give all the investments which the business 
+would need? 
+Samir Seksaria: See, we have always called 26%-28% as our guiding beacon, and we 
+would not want to shift away from that. That is what rallies us to go 
+towards it, and we are going to keep it at 26%-28%. And that's the long-
+term aspiration we'll work towards. 
+Kumar Rakesh: Sure. But from a medium-term perspective, the path to that, would we see 
+more of investments happening, some more softening on terms of margin 
+can be a reality, or we should expect this to be a floor now? 
+Samir Seksaria: See, as we said, we are making those investments, and we are prioritizing 
+them. 
+Kumar Rakesh: Got it. Thank you so much. 
+Moderator: Thank you. The next question is from the line of Ashwin Mehta with Ambit 
+Capital. Please go ahead. 
+Ashwin Mehta: Yes. Thanks for the opportunity. Two questions. So, we'd hoped for 2Q to 
+be better when we talked in 1Q. So, what were the areas of negative 
+surprises this quarter which kept the growth closer to the 1Q levels? And 
+the second question was in terms of the nature of deferrals in India deals. 
+So, were these deals involving hardware purchases, and given the bump-
+up in terms of prices there, was that the reason for the deferral? And do 
+we see that revenue materializing in 3Q, or it could get pushed out further 
+for later? And the last one was in terms of fresher hiring this quarter. What 
+did we have? 
+K Krithivasan: Ashwin, I'll answer the first two questions, and Sudeep will answer on the 
+fresher hiring. On Q2, same as Q1, as we explained, Q2 has been good 
+almost across all parameters except the regional markets. If you compare 
+Q2 and Q1 on international growth, Q1 was almost flattish on 
+
+ 
+Page 27 of 28 
+ 
+international growth, and international growth in Q2 is almost like 1.2%, 
+only offset by the headwind we had in the regional market.  
+And what we talked about in India, it's not related to any third-party or 
+hardware pass-through. And we expect it'll come back because there was 
+a deferral, but we are very confident it will be back in the medium term. 
+We don't want to put a particular date, but this is the revenue that most 
+likely should come back. And Sudeep? 
+Sudeep Kunnumal: Yes. Hi, Ashwin. We onboarded 10,000 graduates from the University this 
+year globally. And as we speak, we are in the final stages of our campus 
+hiring for the students who graduate in the coming financial year. 
+Ashwin Mehta: Just one follow-up, given that we added 14,000 freshers last quarter, we've 
+added 10,000 in this quarter, and our net addition is just 13-odd thousand 
+people over the last two quarters, would it be fair to assume that the hiring 
+momentum could actually continue in the second half for us to have the 
+bench to service demand? 
+Sudeep Kunnumal: Ashwin, as I said, we are hiring to demand, and definitely we're seeing 
+good demand in these new technologies. So, we will continue to hire to 
+staff those positions. 
+Ashwin Mehta: Thanks, and all the best. 
+Sudeep Kunnumal: Thank you. 
+Moderator: Thank you. Ladies and gentlemen, we'll take that as our last question for 
+today. I now hand the conference over to the management for closing 
+comments. Over to you. 
+K Krithivasan: Thank you, operator.  
+ In Q2, our revenue grew 0.5% QoQ  in constant currency, with 
+international markets growing strongly at 1.2%.  
+ We delivered an operating margin of 24% and net margin of 19%.  
+ Annualized AI services revenue crossed $3.1 billion.  
+
+ 
+Page 28 of 28 
+ 
+We had a TCV of $9.6 billion in Q2. We remain conﬁdent that TCS is 
+positioned well to convert the opportunities in our pipeline into growth as 
+client spending improves and enterprise AI adoption scales. This 
+concludes our call today. Thank you all for joining us.   
+Moderator: Thank you, members of the management. On behalf of TCS, that 
+concludes this conference call. Thank you for joining us, and you may now 
+disconnect your lines. 
+ 
+Note: This transcript has been edited for readability and does not purport to be a verbatim 
+record of the proceedings. 

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4867316cd95507ef",
+    "symbol": "HAL",
+    "company": "Hindustan Aeronautics Limited",
+    "subject": "Change in Director(s)",
+    "text": "Hindustan Aeronautics Limited has informed the Exchange regarding Change in Director(s) of the company.",
+    "time": "2026-10-28T18:04:19",
+    "url": "https://nsearchives.nseindia.com/corporate/HAL_28102026180358_changeinmanagement_Dops_Signed.pdf",
+    "source": "NSE",
+    "category": "management_change",
+    "priority": 80,
+    "tier": "high",
+    "needs_llm": false,
+    "matched": "change in (director|management|key managerial|kmp)"
+  },
+  {
+    "id": "d28982423ca99b8e",
+    "symbol": "HAL",
+    "company": "Hindustan Aeronautics Limited",
+    "subject": "Updates",
+    "text": "Hindustan Aeronautics Limited has informed the Exchange regarding 'general updates'.",
+    "time": "2026-10-22T13:10:54",
+    "url": "https://nsearchives.nseindia.com/corporate/HAL_22102026131032_GeneralUpdates22102026.pdf",
+    "source": "NSE",
+    "category": "unclassified",
+    "priority": 5,
+    "tier": "low",
+    "needs_llm": true,
+    "matched": null
+  },
+  {
+    "id": "d78e0e7ed0b6e5c7",
+    "symbol": "HAL",
+    "company": "Hindustan Aeronautics Limited",
+    "subject": "Change in Director(s)",
+    "text": "Hindustan Aeronautics Limited has informed the Exchange regarding Change in Director(s) of the company.",
+    "time": "2026-10-07T15:39:32",
+    "url": "https://nsearchives.nseindia.com/corporate/HAL_07102026153915_ChangeInDirectorate_07102026.pdf",
+    "source": "NSE",
+    "category": "management_change",
+    "priority": 80,
+    "tier": "high",
+    "needs_llm": false,
+    "matched": "change in (director|management|key managerial|kmp)"
+  },
+  {
+    "id": "fd64be7e9d784036",
+    "symbol": "HAL",
+    "company": "Hindustan Aeronautics Limited",
+    "subject": "Agreements",
+    "text": "Hindustan Aeronautics Limited has informed the Exchange about Agreements",
+    "time": "2026-10-02T19:46:03",
+    "url": "https://nsearchives.nseindia.com/corporate/HAL_02102026194550_AgreementSigned_02102026.pdf",
+    "source": "NSE",
+    "category": "press_release",
+    "priority": 45,
+    "tier": "medium",
+    "needs_llm": true,
+    "matched": "agreement"
+  }
+]
