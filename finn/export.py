@@ -10,7 +10,7 @@ from datetime import datetime
 import pandas as pd
 
 import config
-from finn import announcements, prices
+from finn import announcements, prices, results
 from finn.classify import BASE_PRIORITY, PROMOTE_BONUS, TIER_HIGH, classify
 from finn.storage import data_path, write_json
 
@@ -63,10 +63,10 @@ def _company(symbol: str) -> dict:
     return out
 
 
-def _announcement(a: dict) -> dict:
+def _announcement(a: dict, cards: dict) -> dict:
     # Re-classify on export so rule fixes apply without fetching again.
     c = classify(a["subject"], a["text"])
-    return {
+    return {"results": cards.get(a["id"]),
         "id": a["id"], "symbol": a["symbol"], "company": a["company"], "time": a["time"],
         "subject": a["subject"], "headline": clean_headline(a["subject"], a["text"]),
         "url": a["url"], "category": c["category"], "priority": c["priority"],
@@ -76,11 +76,11 @@ def _announcement(a: dict) -> dict:
 
 def build_feed(symbols=None) -> dict:
     symbols = symbols or config.PORTFOLIO
-    names, items = {}, []
+    names, items, cards = {}, [], results.load_cards()
     for sym in symbols:
         for a in announcements.load_announcements(sym):
             if a.get("time"):
-                items.append(_announcement(a))
+                items.append(_announcement(a, cards))
                 names.setdefault(sym, a["company"])
     items.sort(key=lambda a: a["time"], reverse=True)
     companies = [{**_company(s), "name": names.get(s, s)} for s in symbols]

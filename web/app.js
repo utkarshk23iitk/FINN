@@ -171,14 +171,39 @@ function moveCard(m, done) {
   </article>`;
 }
 
+// Indian fiscal year: Q1 = Apr-Jun. 2026-09-30 -> "Q2 FY27".
+function fiscalQuarter(end) {
+  const d = parse(end), m = d.getMonth() + 1, fy = (m >= 4 ? d.getFullYear() + 1 : d.getFullYear()) % 100;
+  return `Q${[4, 4, 4, 1, 1, 1, 2, 2, 2, 3, 3, 3][m - 1]} FY${String(fy).padStart(2, "0")}`;
+}
+
+const crore = new Intl.NumberFormat("en-IN", { maximumFractionDigits: 0 });
+
+function resultsTable(r) {
+  if (!r || !r.rows) return "";
+  const name = { revenue: "Revenue", ebitda: r.lender ? "Pre-prov. profit" : "EBITDA", pbt: "PBT", pat: "PAT" };
+  const cell = (v) => `<td class="num ${tone(v)}">${pct(v)}</td>`;
+  const rows = r.rows.map((x) => `<tr><th>${name[x.metric]}</th>
+    <td class="num">${x.value == null ? "–" : crore.format(x.value)}</td>${cell(x.qoq)}${cell(x.yoy)}</tr>`).join("");
+  const margin = r.ebitda_margin != null
+    ? `EBITDA margin ${r.ebitda_margin}%${r.ebitda_margin_yoy != null ? `, ${r.ebitda_margin_yoy}% a year ago` : ""}. ` : "";
+  const note = r.ok
+    ? `<p class="res-note">${margin}${esc(r.basis)}, ₹ crore. Read from the filing; the arithmetic checks out.</p>`
+    : `<p class="res-note warn">Numbers didn't add up (${esc((r.issues || []).join("; "))}). Check the filing before relying on them.</p>`;
+  return `<table class="results"><thead><tr><th>${fiscalQuarter(r.quarter_end)}</th><th>₹ cr</th><th>QoQ</th><th>YoY</th></tr></thead>
+    <tbody>${rows}</tbody></table>${note}`;
+}
+
 function filingCard(g, done) {
   const a = g.lead;
+  const withNumbers = [a, ...g.rest].find((x) => x.results && x.results.rows);
   const rest = g.rest.length
     ? `<details class="rest"><summary>+${g.rest.length} related filing${g.rest.length > 1 ? "s" : ""}</summary>
         ${g.rest.map((r) => `<p>${esc(r.headline)} ${filingLink(r.url)}</p>`).join("")}</details>` : "";
   return `<article class="card ${done ? "done" : ""}">
     <header>${tag(a.category, true)}${who(a.symbol)}<time>${when(a.time)}</time></header>
     <p class="headline">${esc(a.headline)}</p>
+    ${withNumbers ? resultsTable(withNumbers.results) : ""}
     ${rest}
     ${actions(g, done, a.url)}
   </article>`;
