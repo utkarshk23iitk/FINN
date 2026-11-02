@@ -1,5 +1,20 @@
 [
   {
+    "id": "8377feac02cc9e76",
+    "symbol": "DEEPAKNTR",
+    "company": "Deepak Nitrite Limited",
+    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "text": "Deepak Nitrite Limited has informed the Exchange about Link of Recording",
+    "time": "2026-10-30T18:46:15",
+    "url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_30102026184526_NSE-CONCALL-AUDIO_RECORDING-882024.pdf",
+    "source": "NSE",
+    "category": "investor_meetings",
+    "priority": 15,
+    "tier": "low",
+    "needs_llm": false,
+    "matched": "analysts?/institutional investor meet"
+  },
+  {
     "id": "390217c376c7dfb9",
     "symbol": "DEEPAKNTR",
     "company": "Deepak Nitrite Limited",

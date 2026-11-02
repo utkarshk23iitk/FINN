@@ -1,5 +1,20 @@
 [
   {
+    "id": "614c3aacb21d51aa",
+    "symbol": "TRENT",
+    "company": "Trent Limited",
+    "subject": "Copy of Newspaper Publication",
+    "text": "Trent Limited has informed the Exchange about Newspaper Publication on Unaudited Financial Results (Standalone and Consolidated) for the second quarter and half-year ended 30th September 2026",
+    "time": "2026-11-02T13:26:56",
+    "url": "https://nsearchives.nseindia.com/corporate/TRENT_02112026132637_Q2FY27_Financial_Results_-_Newspaper_Publication.pdf",
+    "source": "NSE",
+    "category": "unclassified",
+    "priority": 0,
+    "tier": "low",
+    "needs_llm": false,
+    "matched": "newspaper (publication|advertisement)"
+  },
+  {
     "id": "fe930685be0f5dc6",
     "symbol": "TRENT",
     "company": "Trent Limited",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "a36dc7248b64f98f",
+    "symbol": "DIXON",
+    "company": "Dixon Technologies (India) Limited",
+    "subject": "Copy of Newspaper Publication",
+    "text": "Dixon Technologies (India) Limited has informed the Exchange about copy of newspaper publication of Unaudited Financial Results (standalone & consolidated) of the Company for the quarter and half year ended 30th September, 2026",
+    "time": "2026-10-31T19:32:44",
+    "url": "https://nsearchives.nseindia.com/corporate/DIXON_31102026192630_NewspaperAdvertisement31101026.pdf",
+    "source": "NSE",
+    "category": "unclassified",
+    "priority": 0,
+    "tier": "low",
+    "needs_llm": false,
+    "matched": "newspaper (publication|advertisement)"
+  },
+  {
+    "id": "181b39c7931ff30e",
+    "symbol": "DIXON",
+    "company": "Dixon Technologies (India) Limited",
+    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "text": "Dixon Technologies (India) Limited has informed the Exchange about Link of Recording",
+    "time": "2026-10-30T20:32:52",
+    "url": "https://nsearchives.nseindia.com/corporate/DIXON_30102026203021_ConferenceCallRecordingIntimation30102026.pdf",
+    "source": "NSE",
+    "category": "investor_meetings",
+    "priority": 15,
+    "tier": "low",
+    "needs_llm": false,
+    "matched": "analysts?/institutional investor meet"
+  },
+  {
     "id": "a55a8590ecedb1d6",
     "symbol": "DIXON",
     "company": "Dixon Technologies (India) Limited",

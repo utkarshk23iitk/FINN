@@ -1,5 +1,20 @@
 [
   {
+    "id": "7d7626b330904136",
+    "symbol": "BHARTIARTL",
+    "company": "Bharti Airtel Limited",
+    "subject": "Action(s) taken or orders passed",
+    "text": "Bharti Airtel Limited has informed the Exchange about Action(s) taken or orders passed",
+    "time": "2026-10-30T22:40:24",
+    "url": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_30102026223927_BhartiAirtelSTXdisclosure.pdf",
+    "source": "NSE",
+    "category": "litigation",
+    "priority": 70,
+    "tier": "high",
+    "needs_llm": false,
+    "matched": "\\border(s)? passed"
+  },
+  {
     "id": "9baf3ffc7364e812",
     "symbol": "BHARTIARTL",
     "company": "Bharti Airtel Limited",

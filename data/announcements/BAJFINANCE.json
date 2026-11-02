@@ -1,5 +1,20 @@
 [
   {
+    "id": "9aa2fdbf69011e3d",
+    "symbol": "BAJFINANCE",
+    "company": "Bajaj Finance Limited",
+    "subject": "Shareholders meeting",
+    "text": "Bajaj Finance Limited has informed the Exchange regarding Proceedings of Extraordinary General Meeting held on November 02, 2026",
+    "time": "2026-11-02T19:31:06",
+    "url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_02112026193032_BFLEGMProceedings.pdf",
+    "source": "NSE",
+    "category": "agm_egm",
+    "priority": 15,
+    "tier": "low",
+    "needs_llm": false,
+    "matched": "shareholders?'? meeting"
+  },
+  {
     "id": "d50ada40f80e6b23",
     "symbol": "BAJFINANCE",
     "company": "Bajaj Finance Limited",

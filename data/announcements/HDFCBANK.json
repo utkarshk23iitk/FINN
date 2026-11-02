@@ -1,5 +1,20 @@
 [
   {
+    "id": "6abccf674ada6c61",
+    "symbol": "HDFCBANK",
+    "company": "HDFC Bank Limited",
+    "subject": "Change in Management",
+    "text": "HDFC Bank Limited has informed the Exchange about change in Management",
+    "time": "2026-10-31T22:16:44",
+    "url": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf",
+    "source": "NSE",
+    "category": "management_change",
+    "priority": 80,
+    "tier": "high",
+    "needs_llm": false,
+    "matched": "change in (director|management|key managerial|kmp)"
+  },
+  {
     "id": "227edec5ad843274",
     "symbol": "HDFCBANK",
     "company": "HDFC Bank Limited",

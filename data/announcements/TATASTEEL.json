@@ -1,5 +1,20 @@
 [
   {
+    "id": "f043d55bb9c08cfe",
+    "symbol": "TATASTEEL",
+    "company": "Tata Steel Limited",
+    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "text": "Tata Steel Limited has informed the Exchange about Schedule of meet for 2QFY27 Earnings Discussion",
+    "time": "2026-10-30T18:39:44",
+    "url": "https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_30102026183553_BSENSECombined.pdf",
+    "source": "NSE",
+    "category": "investor_meetings",
+    "priority": 0,
+    "tier": "low",
+    "needs_llm": false,
+    "matched": "schedule of (analyst|investor|meet)"
+  },
+  {
     "id": "0aa10a53781b62e8",
     "symbol": "TATASTEEL",
     "company": "Tata Steel Limited",
