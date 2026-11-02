@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "web",
+  "buildCommand": "",
+  "functions": { "api/research.py": { "maxDuration": 300 } }
+}

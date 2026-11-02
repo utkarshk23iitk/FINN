@@ -1,0 +1,12 @@
+# Only web/ (static), api/, finn/, config.py and requirements.txt are needed.
+.env
+.env.*
+docs/
+data/
+tests/
+*.pdf
+fetch_all.py
+export_web.py
+research.py
+web/.vercel
+web/.env*
