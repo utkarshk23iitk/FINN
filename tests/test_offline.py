@@ -178,5 +178,74 @@ class TestScreenerParsing(unittest.TestCase):
         self.assertIsNone(d["concalls"][1]["transcript"])
 
 
+class TestResultsCard(unittest.TestCase):
+    # Real ITC consolidated statement, Q2 FY27 (filed 2 Nov 2026). The filing
+    # lists this quarter, then last year, then last quarter.
+    def ext(self, pat_last_year=5186.55):
+        q = lambda d, rev, oi, exp, fin, dep, pbt, tax, pat: dict(
+            end_date=d, months=3, revenue=rev, other_income=oi, total_expenses=exp,
+            finance_costs=fin, depreciation=dep, pbt=pbt, tax=tax, pat=pat)
+        return {"basis": "consolidated", "unit": "crore", "lender": False, "periods": [
+            q("2026-09-30", 30578.40, 507.36, 25462.44, 38.27, 490.60, 5694.62, 1465.29, 4229.33),
+            q("2025-09-30", 21255.86, 584.40, 15016.02, 20.05, 434.80, 6978.68, 1792.13, pat_last_year),
+            q("2026-06-30", 29523.30, 655.71, 24809.95, 39.78, 427.73, 5860.85, 1352.06, 4508.79),
+            {"end_date": "2026-09-30", "months": 6, "revenue": 60101.7, "pbt": 11555.47, "pat": 8738.12},
+        ]}
+
+    def test_columns_mapped_by_date_and_ebitda_computed(self):
+        from finn.results import build_card
+        c = build_card(self.ext())
+        self.assertTrue(c["ok"], c["issues"])
+        self.assertEqual((c["qoq_end"], c["yoy_end"]), ("2026-06-30", "2025-09-30"))
+        rows = {r["metric"]: r for r in c["rows"]}
+        # EBITDA = revenue - (total expenses - finance costs - depreciation)
+        self.assertAlmostEqual(rows["ebitda"]["value"], 30578.40 - (25462.44 - 38.27 - 490.60), places=1)
+        self.assertEqual(rows["revenue"]["qoq"], 3.6)
+        self.assertEqual(rows["pat"]["yoy"], -18.5)
+
+    def test_misread_digit_is_caught(self):
+        # OCR printed "51B6.55"; a model once returned 5156.55. PBT - tax says 5186.55.
+        from finn.results import build_card
+        c = build_card(self.ext(pat_last_year=5156.55))
+        self.assertFalse(c["ok"])
+        self.assertIn("PBT − tax ≠ PAT for last year", c["issues"])
+
+    def test_missing_comparison_is_not_ok(self):
+        from finn.results import build_card
+        e = self.ext()
+        e["periods"] = [p for p in e["periods"] if p["end_date"] != "2026-06-30"]
+        c = build_card(e)
+        self.assertFalse(c["ok"])
+        self.assertIn("no last-quarter column", c["issues"])
+
+
+    def test_unit_is_read_from_the_statement(self):
+        from finn.results import build_card, detect_unit
+        self.assertEqual(detect_unit("(₹ in million, except per share data)"), "million")  # Maruti
+        self.assertEqual(detect_unit("(' in Crores)"), "crore")  # ITC, OCR'd rupee sign
+        self.assertEqual(detect_unit("(Rs. in Lakhs)"), "lakh")
+        c = build_card({**self.ext(), "unit": "crore"}, unit="million")  # the printed unit wins
+        self.assertAlmostEqual(c["rows"][0]["value"], 3057.8, places=1)
+
+    def test_associates_added_after_tax(self):
+        from finn.results import build_card
+        e = self.ext()
+        for p in e["periods"][:3]:
+            p["associates_after_tax"] = 100.0
+            p["pat"] = round(p["pbt"] - p["tax"] + 100.0, 2)
+        self.assertTrue(build_card(e)["ok"])
+
+    def test_lender_pre_provision_profit(self):
+        from finn.results import build_card
+        q = lambda d, rev, pbt, tax, imp: dict(end_date=d, months=3, revenue=rev, pbt=pbt, tax=tax,
+                                               pat=round(pbt - tax, 2), impairment=imp)
+        c = build_card({"basis": "consolidated", "unit": "crore", "lender": True, "periods": [
+            q("2026-09-30", 24575.8, 8500.0, 2133.4, 2100.0),
+            q("2026-06-30", 23160.0, 8100.0, 2020.0, 2000.0),
+            q("2025-09-30", 20000.0, 6600.0, 1650.0, 1500.0)]})
+        self.assertTrue(c["ok"], c["issues"])
+        self.assertEqual(c["rows"][1]["value"], 10600.0)  # PBT + impairment
+
+
 if __name__ == "__main__":
     unittest.main()

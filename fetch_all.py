@@ -5,13 +5,14 @@ Examples:
     python fetch_all.py --only prices
     python fetch_all.py --only announcements --days 7
     python fetch_all.py --only fundamentals --symbols INFY TCS
+    python fetch_all.py --only results       # results cards (needs GEMINI_API_KEY)
     python fetch_all.py --summary            # just print what's cached
 """
 import argparse
 from datetime import datetime, timedelta
 
 import config
-from finn import announcements, fundamentals, prices
+from finn import announcements, fundamentals, prices, results
 
 
 def print_summary(portfolio, hours: int = 24 * 7) -> None:
@@ -40,7 +41,7 @@ def print_summary(portfolio, hours: int = 24 * 7) -> None:
 
 def main() -> None:
     p = argparse.ArgumentParser(description="Fetch FINN data into ./data")
-    p.add_argument("--only", choices=["prices", "announcements", "fundamentals"])
+    p.add_argument("--only", choices=["prices", "announcements", "fundamentals", "results"])
     p.add_argument("--symbols", nargs="+", help="override the companies from config.py")
     p.add_argument("--days", type=int, default=config.ANNOUNCEMENT_DAYS,
                    help="announcement window in days")
@@ -59,6 +60,9 @@ def main() -> None:
         if args.only in (None, "announcements"):
             print(f"\nNSE announcements, last {args.days} days...")
             announcements.fetch_all_announcements(portfolio, args.days)
+        if args.only in (None, "results"):
+            print(f"\nResults cards from the latest results filings...")
+            results.extract_latest(portfolio)
         if args.only in (None, "fundamentals"):
             print(f"\nscreener.in fundamentals ({len(research)} companies)...")
             fundamentals.fetch_all_fundamentals(research, args.transcripts)

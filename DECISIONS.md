@@ -42,3 +42,27 @@ Short record of choices that shape FINN, and why. Newest last.
 10. **Windows count back from the last refresh, not from "now".** The header
     says "as of" that time. A reviewer opening the link days later sees a
     real "last 24h", not an empty screen.
+
+## Results card (3 Nov)
+
+11. **Code finds the page, the model copies, code does the maths.** Code
+    picks the 1–2 pages with the full P&L (about 3k tokens instead of a
+    20-page PDF). A cheap model copies line items for every quarter column
+    with its date. Code then decides which column is QoQ and YoY (ITC
+    prints this quarter, last year, last quarter), computes EBITDA, and
+    converts units.
+12. **EBITDA = revenue − (total expenses − finance costs − depreciation).**
+    Operating only: other income, associates and exceptional items are out.
+    It matches screener.in's "Operating Profit" for TCS to the rupee crore.
+    For lenders EBITDA means nothing; the card shows pre-provision profit
+    (printed, or PBT + impairment).
+13. **Checks decide trust, not the model.** PBT − tax (+ associates added
+    after tax) must equal PAT within 0.1%. A real case: ITC's OCR text
+    reads "51B6.55"; a model returned 5156.55; the check says 5186.55. A
+    failed check gets one retry on the stronger model; if it still fails,
+    the card says "check the filing" instead of showing wrong numbers as
+    fact.
+14. **The unit is read from the statement by code.** Maruti reports in
+    ₹ million; the model said crore (a 10× error no arithmetic check can
+    catch). Revenue and PAT are also compared with screener.in (±3%); a
+    mismatch flags the card.
