@@ -60,7 +60,7 @@ Deadline: Tuesday 3 November 2026 (extended from Sunday 1 Nov in the brief).
 
 ## Status as of Tue 3 Nov, 03:00
 
-- Own git repo (`main`), not yet pushed to GitHub (`gh` not installed).
+- Repo: https://github.com/utkarshk23iitk/FINN (`main`).
 - Push screen live: https://finn-portfolio-gamma.vercel.app (Vercel
   project `finn-portfolio`, deployed from `web/`). Static; data comes from
   `web/data/feed.json`, made by `python export_web.py`.
