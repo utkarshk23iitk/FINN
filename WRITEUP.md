@@ -41,7 +41,7 @@ management guided in its last four earnings calls, against what it then
 reported. The page leads with the count ("0 of 2 settled promises
 delivered"), shows misses first, and every promise opens to the exact quote
 and a link to the transcript. It also shows where the story moved between
-calls. Five companies are prepared; any other ticker is analysed on demand
+calls. 13 companies are prepared; any other ticker is analysed on demand
 in about 20 seconds.
 
 ## Key decisions
