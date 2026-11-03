@@ -25,6 +25,15 @@ which filing types alert) are set by the user and applied instantly.
 - A results filing becomes a card with Revenue, EBITDA, PBT and PAT, QoQ and
   YoY, read from the company's own filing, with one line on what happened:
   "PAT −18.5% YoY on revenue +43.9% · EBITDA margin −13.0 pts".
+- **Push and pull meet.** A call transcript is usually routine, so it stays
+  one line, with the company's track record. When the new call changes the
+  story (a revised target, a pushed-out timeline, an earlier promise now
+  shown missed), it becomes a "Guidance change" alert that says what
+  changed. 13 companies have this check; the newest call is read from the
+  NSE filing itself, because screener.in lagged by days.
+- **"▶ Listen"** reads the queue aloud with the phone's own voice and
+  outlines each card as it goes. It is built by code from the same data: no
+  model, no cost, nothing invented.
 
 **Research (pull).** "Promised vs delivered" for any NSE ticker: what
 management guided in its last four earnings calls, against what it then
@@ -83,9 +92,6 @@ in about 20 seconds.
 
 ## Where it goes next
 
-- **Connect push and pull.** When a new transcript lands, compare its
-  guidance with the last call, and push an alert if a target was cut or a
-  timeline moved.
 - A nightly refresh from a machine NSE accepts, with real notifications.
 - Management bios from the company's own filings (appointment letters carry
   a short profile).

@@ -120,3 +120,9 @@ Short record of choices that shape FINN, and why. Newest last.
     NSE by days (LT, MARUTI, ADANIPORTS on 2 Nov). The transcript PDF the
     company filed with NSE is used for the latest quarter; screener.in for
     the earlier ones, one per quarter.
+26. **A spoken brief, built by code.** "▶ Listen" reads the same queue aloud
+    with the phone's own voice: "10 things need you. ITC results: profit
+    down 18.5 percent from a year ago, on revenue up 43.9 percent…". Each
+    card is outlined as it is read. No model and no network, so it costs
+    nothing and cannot invent anything. The first check of the day often
+    happens away from a desk.
