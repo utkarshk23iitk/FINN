@@ -3,6 +3,7 @@ docs/brief.md
 
 # secrets and local env
 .env
+.env.*
 .venv/
 
 # Python / OS junk
@@ -15,3 +16,5 @@ data/**/*.pdf
 
 # Vercel link
 .vercel/
+.vercel
+.env*
