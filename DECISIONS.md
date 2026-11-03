@@ -106,3 +106,17 @@ Short record of choices that shape FINN, and why. Newest last.
     different count on a fresh run (PIDILITIND: 3 of 4, then 5 of 5). Code
     pins what it can (quotes, sums, numeric verdicts); the rest needs the
     stronger model and a longer cache.
+
+## Push meets pull (3 Nov)
+
+24. **A transcript matters only if it changes the story.** A call
+    transcript is routine paperwork, unless the new call revises a target,
+    pushes out a timeline, or shows an earlier promise missed. Then it
+    moves to "Needs you" as a "Guidance change", with what changed and the
+    company's track record. If nothing changed, it stays one line with the
+    track record. This is where push and pull meet: the filing triggers
+    the research, the research decides the priority.
+25. **The newest call comes from the exchange filing.** screener.in lagged
+    NSE by days (LT, MARUTI, ADANIPORTS on 2 Nov). The transcript PDF the
+    company filed with NSE is used for the latest quarter; screener.in for
+    the earlier ones, one per quarter.

@@ -17,7 +17,7 @@ const LABEL = {
   insider_trading: "Insider trade", capex: "Capex", press_release: "Update",
   bonus_split: "Bonus / split", dividend: "Dividend", earnings_call: "Earnings call",
   investor_meetings: "Investor meet", agm_egm: "AGM / EGM", postal_ballot: "Postal ballot",
-  unclassified: "Paperwork",
+  unclassified: "Paperwork", guidance_change: "Guidance change",
 };
 
 const store = {
@@ -70,7 +70,8 @@ function groupFilings(list) {
   return [...groups].map(([key, items]) => {
     items.sort((x, y) => y.priority - x.priority || y.time.localeCompare(x.time));
     const lead = items[0];
-    return { kind: "filing", key, lead, rest: items.slice(1), score: lead.priority, time: lead.time };
+    const story = items.find((x) => x.story)?.story || null;
+    return { kind: "filing", key, lead, rest: items.slice(1), story, score: lead.priority, time: lead.time };
   });
 }
 
@@ -111,10 +112,14 @@ function compute() {
   const alertOn = new Set(state.rules.alert_categories);
   const groups = groupFilings(inWindow.filter((a) => a.tier !== "low"));
   const byScore = (x, y) => y.score - x.score || y.time.localeCompare(x.time);
+  // A call transcript is routine paperwork, unless it changes management's
+  // story (a revised target, a promise shown missed). Then it needs you.
+  const storyChanged = (g) => alertOn.has("guidance_change") && g.story?.changed;
+  for (const g of groups) if (storyChanged(g)) g.score = 76;
+  const isNeed = (g) => (g.lead.tier === "high" && alertOn.has(g.lead.category)) || storyChanged(g);
 
-  const needs = [...moves(w.sessions), ...groups.filter((g) => g.lead.tier === "high" && alertOn.has(g.lead.category))]
-    .sort(byScore);
-  const worth = groups.filter((g) => !(g.lead.tier === "high" && alertOn.has(g.lead.category))).sort(byScore);
+  const needs = [...moves(w.sessions), ...groups.filter(isNeed)].sort(byScore);
+  const worth = groups.filter((g) => !isNeed(g)).sort(byScore);
   const routine = inWindow.filter((a) => a.tier === "low");
   const open = needs.filter((n) => !state.done.has(n.key));
   const cleared = needs.filter((n) => state.done.has(n.key));
@@ -208,6 +213,24 @@ function resultsLine(r) {
   return `PAT ${pct(row.pat.yoy)} YoY on revenue ${pct(row.revenue.yoy)}${margin}`;
 }
 
+function trackRecord(st, sym) {
+  const c = st.counts, settled = c.delivered + c.partly + c.missed;
+  const text = settled
+    ? `Track record, last ${st.calls || 4} calls: ${c.delivered} of ${settled} promises delivered${c.missed ? `, ${c.missed} missed` : ""}`
+    : "Track record: no promise has come due yet";
+  return `<a class="story-link" href="#research/${esc(sym)}">${esc(text)} →</a>`;
+}
+
+function storyBlock(st, sym) {
+  const lines = [
+    ...st.new.map((x) => `<li><b>${esc(x.topic)}.</b> ${esc(x.change)}</li>`),
+    ...st.missed.map((p) => `<li><b>${p.verdict === "missed" ? "Missed" : "Dropped"}:</b> ${esc(p.promise)} <span>(said ${esc(p.made_in.replace(/ call$/, ""))})</span></li>`),
+  ];
+  return `<div class="story">
+    ${lines.length ? `<p class="story-k">What this call changed</p><ul>${lines.join("")}</ul>` : `<p class="story-k">The story held: nothing new against earlier calls.</p>`}
+    ${trackRecord(st, sym)}</div>`;
+}
+
 function filingCard(g, done) {
   const a = g.lead;
   // A results day can carry several filings with numbers: prefer a checked one.
@@ -217,9 +240,10 @@ function filingCard(g, done) {
     ? `<details class="rest"><summary>+${g.rest.length} related filing${g.rest.length > 1 ? "s" : ""}</summary>
         ${g.rest.map((r) => `<p>${esc(r.headline)} ${filingLink(r.url)}</p>`).join("")}</details>` : "";
   return `<article class="card ${done ? "done" : ""}">
-    <header>${tag(a.category, true)}${who(a.symbol)}<time>${when(a.time)}</time></header>
-    <p class="headline">${esc((withNumbers && resultsLine(withNumbers.results)) || a.headline)}</p>
+    <header>${g.story?.changed ? tag("guidance_change", true) : tag(a.category, true)}${who(a.symbol)}<time>${when(a.time)}</time></header>
+    <p class="headline">${esc((withNumbers && resultsLine(withNumbers.results)) || (g.story ? `${g.story.quarter} earnings call transcript` : a.headline))}</p>
     ${withNumbers ? resultsTable(withNumbers.results) : ""}
+    ${g.story ? storyBlock(g.story, a.symbol) : ""}
     ${rest}
     ${actions(g, done, a.url)}
   </article>`;
@@ -234,7 +258,8 @@ function row(g) {
   const a = g.lead;
   return `<li class="row">
     <div class="row-top">${who(a.symbol)}${tag(a.category)}<time>${when(a.time)}</time></div>
-    <p>${esc(a.headline)}${g.rest.length ? ` <span class="muted">+${g.rest.length}</span>` : ""} ${filingLink(a.url)}</p></li>`;
+    <p>${esc(g.story ? `${g.story.quarter} earnings call transcript` : a.headline)}${g.rest.length ? ` <span class="muted">+${g.rest.length}</span>` : ""} ${filingLink(a.url)}</p>
+    ${g.story ? trackRecord(g.story, a.symbol) : ""}</li>`;
 }
 
 function routineBlock(list) {

@@ -63,10 +63,40 @@ def _company(symbol: str) -> dict:
     return out
 
 
-def _announcement(a: dict, cards: dict) -> dict:
+def _stories() -> dict:
+    """{symbol: what the latest call changed}, from saved research reviews."""
+    out = {}
+    for path in data_path("research", "x").parent.glob("*/review.json"):
+        r = read_json(path)
+        if not r.get("calls"):
+            continue
+        q = r["calls"][-1]["quarter"]
+        new = [x for x in r.get("shifts", []) if x.get("to_quarter", "").startswith(q)]
+        missed = [p for p in r.get("promises", [])
+                  if p["verdict"] in ("missed", "dropped") and (p.get("evidence_from") or "").startswith(q)]
+        out[r["symbol"]] = {
+            "quarter": q, "counts": r["counts"], "calls": len(r["calls"]),
+            "new": [{"topic": x["topic"], "change": x["change"]} for x in new[:2]],
+            "missed": [{"promise": p["promise"], "made_in": p["made_in"], "verdict": p["verdict"]} for p in missed[:2]],
+            "changed": bool(new or missed),
+        }
+    return out
+
+
+def _story_for(a: dict, category: str, stories: dict):
+    """Attach the story check to the transcript filing of the same quarter."""
+    st = stories.get(a["symbol"])
+    if not st or category != "earnings_call" or not re.search(r"transcript", f"{a['subject']} {a['text']}", re.I):
+        return None
+    from finn.research import call_quarter
+    month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][int(a["time"][5:7]) - 1]
+    return st if call_quarter(f"{month} {a['time'][:4]}")[0] == st["quarter"] else None
+
+
+def _announcement(a: dict, cards: dict, stories: dict) -> dict:
     # Re-classify on export so rule fixes apply without fetching again.
     c = classify(a["subject"], a["text"])
-    return {"results": cards.get(a["id"]),
+    return {"results": cards.get(a["id"]), "story": _story_for(a, c["category"], stories),
         "id": a["id"], "symbol": a["symbol"], "company": a["company"], "time": a["time"],
         "subject": a["subject"], "headline": clean_headline(a["subject"], a["text"]),
         "url": a["url"], "category": c["category"], "priority": c["priority"],
@@ -76,22 +106,22 @@ def _announcement(a: dict, cards: dict) -> dict:
 
 def build_feed(symbols=None) -> dict:
     symbols = symbols or config.PORTFOLIO
-    names, items, cards = {}, [], results.load_cards()
+    names, items, cards, stories = {}, [], results.load_cards(), _stories()
     for sym in symbols:
         for a in announcements.load_announcements(sym):
             if a.get("time"):
-                items.append(_announcement(a, cards))
+                items.append(_announcement(a, cards, stories))
                 names.setdefault(sym, a["company"])
     items.sort(key=lambda a: a["time"], reverse=True)
     companies = [{**_company(s), "name": names.get(s, s)} for s in symbols]
     return {
         "as_of": _as_of().isoformat(),
         "generated_at": datetime.now().replace(microsecond=0).isoformat(),
-        "defaults": {**config.ALERTS, "alert_categories": config.ALERT_CATEGORIES},
+        "defaults": {**config.ALERTS, "alert_categories": config.ALERT_CATEGORIES + ["guidance_change"]},
         "categories": list(BASE_PRIORITY),
         # Only types that can reach the high tier can become alerts; offering
         # a toggle for the others would be a switch that does nothing.
-        "alertable": [c for c, p in BASE_PRIORITY.items() if p + PROMOTE_BONUS >= TIER_HIGH],
+        "alertable": [c for c, p in BASE_PRIORITY.items() if p + PROMOTE_BONUS >= TIER_HIGH] + ["guidance_change"],
         "companies": companies,
         "announcements": items,
     }
