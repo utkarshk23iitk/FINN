@@ -1,0 +1,1191 @@
+Page 1 of 28 
+ 
+Sensitivity : This Document is Classified as "LNT Internal Use". 
+ 
+ 
+ 
+“Larsen & Toubro Limited 
+Q4 / FY26 Earnings Conference Call” 
+May 05, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+MANAGEMENT: Mr. Subramanian Sarma – Deputy Managing Director and 
+President, Larsen & Toubro Limited 
+                                     
+                                       Mr. R. Shankar Raman – President, Whole-Time Director and 
+Chief Financial Officer – Larsen & Toubro Limited 
+  
+                                        Mr. P. Ramakrishnan – Senior Vice President - Corporate 
+Accounts, Taxation, and Investor Relations, Larsen & Toubro 
+Limited 
+
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 2 of 28 
+ 
+ 
+  
+Moderator: Ladies and gentlemen, good evening and welcome to Larsen & Toubro Limited Q4 FY '26 
+Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode 
+and there will be an opportunity for you to ask questions after the presentation concludes. Should 
+you need assistance during this conference call, please signal an operator by pressing star then 
+zero on your touchtone phone. Please note that this conference is being recorded. 
+ I now hand the conference over to Mr. P. Ramakrishnan from Larsen & Toubro. Thank you and 
+over to Mr. Ramakrishnan. 
+P. Ramakrishnan: Yes, thank you. Good evening, ladies and gentlemen. A very warm welcome to all of you to the 
+Q4 FY '26 Earnings Call of Larsen & Toubro. The earnings presentation was uploaded on the 
+stock exchange and on our website around 6:20 PM. Hope you have had a chance to take a quick 
+look at the numbers and the presentation details. 
+ I will first walk you through the important highlights for Q4 FY '26 and the full year FY '26, 
+followed by an overview of our strategic plan for the next 5 years, that is Lakshya 31, after which 
+we will take questions. Kindly note that when the Q&A session starts, I will also have with me 
+our Deputy Managing Director and President, Mr. Subramanian Sarma, and our President, 
+Whole-time Director and CFO, Mr. R. Shankar Raman. 
+ Before I begin the overview, the important disclaimer from our end. The presentation which we 
+have uploaded on the stock exchange and our website today, including the discussions we may 
+have on the call today, may contain certain forward-looking statements concerning our business 
+prospects and profitability, which are subject to several risks and uncertainties and the actual 
+results could materially differ from those in such forward-looking statements. 
+ I would request you to go through the detailed disclaimer which is available in Slide 2 of our 
+earnings presentation which was uploaded earlier today. I'll start with a brief overview of the 
+economic conditions in India and in the Middle East, the two primary geographies for our 
+Projects and Manufacturing business, along with a qualitative update on our business operations. 
+ The economic growth in India for FY '27 is expected to be around 6.9%, supported by resilient 
+household demand, sustained public capital expenditure, and continued strength in the services 
+sector. Growth conditions, however, remain subject to external headwinds, including 
+geopolitical developments, global energy supply dynamics, softer external demand, and periods 
+of financial market volatility. 
+ The headline inflation is expected to remain below 5%, staying within the medium-term comfort 
+range. The inflation dynamics may nonetheless be influenced by pressures from elevated energy 
+prices, higher logistics costs, and the volatility in the global commodity markets. 
+ Weather-related uncertainties, including the possibility of El Nino conditions, could also affect 
+agriculture output and food price trends. Persistently high fuel prices may have implications for 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 3 of 28 
+ 
+fiscal calibration over the medium term. Nonetheless, the domestic economy remains supported 
+by sound macroeconomic fundamentals, with steady demand providing resilience, even as 
+growth becomes sensitive to external and climate-related influences. 
+ Across the Middle East, the economic impact of the ongoing conflict in West Asia can be viewed 
+across immediate and medium-term horizons. In the near term, disruptions to energy production 
+and exports, constraints on key trade routes, and a weakening in confidence have weighed on 
+economic activity across the region. Despite these pressures, the GCC has demonstrated 
+resilience, underpinned by low public debt levels, substantial foreign exchange reserves, and 
+strong sovereign balance sheets that have helped preserve currency stability, banking sector 
+soundness, and fiscal discipline. In the medium term, assuming an improvement in geopolitical 
+conditions and as reform initiatives gather pace, the region's underlying growth potential remains 
+intact. While global economic fragmentation continues to influence trade flows, investment 
+activity, and overall sentiment, the Middle East's structural strengths and reform momentum 
+provide a constructive foundation for medium-term growth. 
+ Against this broader regional backdrop, let me now update you on our operations in the Middle 
+East.  
+                                               On the Middle East situation, we would like to clarify that all our project sites are functioning as 
+of date. All our employees and workforce are safe, and none of our projects have been cancelled. 
+The Middle East remains a strategically significant market for Larsen & Toubro, and as of 31st 
+March '26, we have an order book of almost Rs 3 trillion coming from the region.  
+                                                While we do anticipate some near-term impact on execution primarily due to supply chain 
+constraints, we are working closely with our clients on alternate routes and logistic arrangements 
+to ensure minimal disruption. We largely operate with the Government-owned clients on priority 
+national projects, and our clients have been extremely supportive throughout this period. So far, 
+we have not seen any project cancellations, and the payments from clients continue to be 
+received as per schedule. 
+ While we did observe some deferments in project awards during the period when the conflict 
+was most active, the bidding activity since then has resumed and we do not foresee cancellations 
+of projects in which we are actively participating. In terms of input costs, the most significant 
+impact has been in logistics and insurance, which have increased materially. We engage in active 
+discussions with the clients to seek appropriate relief for such costs. 
+ Having covered the macro landscape and also having provided an update on the Middle East, I 
+would like to now share a few key highlights for the quarter and for the year.  
+                                We start with Infrastructure. We witnessed strong ordering traction across both domestic and 
+international markets during the year. On the domestic front, we witnessed strong momentum in 
+the private sector ordering across our Buildings and Factories, Minerals and Metals, and Heavy 
+Civil Infrastructure businesses. Internationally, we benefited from ongoing opportunities in 
+energy transition and core national infrastructure projects in the Middle East, while our 
+expansion initiatives in Central Asia progressed steadily. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 4 of 28 
+ 
+ I come to Energy now. In FY '26, the Energy segment secured multiple high-value orders across 
+Onshore, Offshore, CarbonLite Solutions, and Offshore Wind. The wins spanned across Saudi 
+Arabia, Qatar, and India in the Hydrocarbon space, while CarbonLite orders were largely 
+domestic private sector driven. During the year, the company achieved a major milestone in its 
+Offshore Wind business by securing a critical role in the prestigious HVDC offshore wind 
+program of TenneT, the Dutch-German transmission system operator. These multiple high-value 
+orders enabled the Energy segment total order inflow to cross Rs 1 trillion for the first time on 
+an annual basis. 
+ I now go to Hi-Tech Manufacturing. This business focused on strategic partnerships to enhance 
+the technical and commercial depth across the Precision Engineering & Systems and the Heavy 
+Engineering businesses. The key initiatives included a consortium with Bharat Electronics for 
+the AMCA program, a partnership with General Atomics to manufacture Medium Altitude Long 
+Endurance (MALE) drones in India, and an MoU with Holtec International Asia for advanced 
+heat transfer solutions for nuclear and thermal power applications. 
+ I now come to the IT and Technology Services domain. The Data Center business rebranded as 
+Larsen & Toubro Vyoma advanced its growth agenda by commissioning the 12 MW capacity 
+at Kanchipuram, with an additional 6 MW at an advanced stage of commissioning, bringing the 
+total capacity available to 30 MWs, positioning the platform to drive L&T's hyperscale data 
+center expansion, catering to high-performance computing and advanced data storage 
+requirements. L&T Semiconductor Technologies strengthened its power module design 
+capabilities through an acquisition during the year. 
+ I come to Financial Services. In July 2025, L&T Finance received its debut international 
+investment-grade ratings from S&P Global and Fitch. In Q1 FY '26, it also expanded into Gold 
+Loans business through an inorganic route. 
+ I come to Development Projects. In line with the Lakshya 2026 objectives, that's the period 
+between FY '22 and FY '26, L&T has made significant progress in its planned exit of the 
+concession portfolio. The company has executed Share Purchase Agreement (SPA) to divest its 
+100% stake in Nabha Power and its entire stake in Hyderabad Metro. Both these transactions are 
+expected to achieve closure in Q1 FY27. 
+Coming to L&T Realty. For the year, the primary focus of the Realty business was to create a 
+simplified and scalable structure through consolidation of all the group Real Estate undertakings 
+under a single platform. Accordingly, the company initiated the transfer of its Realty business 
+undertaking to L&T Realty Properties, a wholly-owned subsidiary, through a slump sale under 
+an approved NCLT scheme of arrangement. In addition, the Realty business has also more than 
+doubled its pre-sales to Rs 94 billion in FY26, aided by successful launches in Noida and Panvel.  
+I come to ESG side of the company. The company's MSCI ESG rating was upgraded from BBB 
+to A in November 2025. The company was also ranked 2nd among the Top 200 Environment 
+Firms globally in the 2025 list published by the New York-based Engineering News-Record. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 5 of 28 
+ 
+On the financing front, L&T became the first Indian corporate to issue an ESG bond under 
+SEBI's sustainability-linked bond framework, aligned with its commitments to water neutrality 
+by 2035 and carbon neutrality by 2040. The company also secured a USD 700 million 
+sustainability-linked trade finance facility from a commercial bank with the pricing linked to 
+key ESG KPIs, including greenhouse gas emission intensity and freshwater withdrawal. 
+Now, I will cover the financial highlights for FY26.  
+On order inflows, we had guided for a growth of 10% for FY26 at the start of the year. I am 
+pleased to share that we have significantly surpassed this guidance, driven by strong order wins 
+across multiple sectors. These include several ultra-mega orders spanning Hydrocarbon- 
+Onshore and Offshore, Offshore Wind, CarbonLite Solutions, Renewables, and Heavy Civil 
+Infrastructure, reflecting the strength and diversity of our EPC projects portfolio. 
+On the revenue front, growth for FY26 stood at 12% compared to our guidance of 15%. The 
+variance was primarily attributable to subdued execution progress in certain domestic projects, 
+more particularly within the Water and Effluent Treatment business as well as delays arising 
+from pending clearances on a few projects. In addition, progress on some domestic and 
+international projects were also impacted in the month of March '26, which is typically a peak 
+execution period for our business, because of the disruptions arising from the West Asia conflict.  
+We wish to inform that with respect to the water projects, we have seen an improvement in 
+collections during Q4. We are hopeful that this trend will sustain with the execution momentum 
+improving as we move into FY27. Importantly, some of the previously delayed approvals and 
+clearances are expected to come through, which should also support improved execution going 
+forward. 
+On Margin, we had guided for an improvement of 20 basis points in FY26. Through the first 
+nine months of the year, we were tracking ahead of this guidance with P&M margins improving 
+by 30 basis points. However, execution-related disruptions during March had a short-term 
+impact on project performance, which weighed on the margin delivery in Q4. 
+On our Return on Equity, as of 31st March 2026, stood at 15.5% and declined by 80 basis points 
+on a YoY basis. Please note that the return on equity includes an impact of 110 basis points 
+arising from a one-time provision on account of changes in the Labour Code.  
+We will now cover the various financial performance parameters for the quarter ended 31st 
+March 2026.  
+Order inflows in Q4 FY26 stood at Rs 898 billion, broadly in line with Q4 FY25 levels, 
+supported by healthy traction across both domestic and international markets. With this 
+sustained ordering momentum, our order book stands at Rs 7.40 trillion as of March 2026, a 
+28% YoY increase and providing a strong revenue visibility. The group revenues grew 11% 
+YoY, led by steady progress across major projects, despite the impact of the West Asia situation. 
+The Projects and Manufacturing portfolio margin declined by 50 basis points YoY to 9.4% and 
+is largely reflective of the change in the revenue mix. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 6 of 28 
+ 
+As of March 2026, the Net Working Capital to Revenue ratio improved sharply to 4.1%, 
+reflecting an improvement of 690 basis points on a YoY basis. Our Recurring PAT at Rs 53 
+billion reported a growth of 5% YoY. The Reported PAT for Q4 FY26 is at Rs 53 billion and is 
+down by 3% YoY, as the previous year had an exceptional one-off due to a part reversal of an 
+earlier impairment provision. 
+I now move on to individual performance parameters.  
+During the quarter, our group order inflows stood at Rs 898 billion, broadly in line with our 
+previous year, driven by the sustained traction in the international business. Within this, our 
+Projects and Manufacturing portfolio recorded an order inflow of Rs 699 billion, down 3% YoY. 
+During the current quarter, international orders accounted for 67% of the Projects and 
+Manufacturing portfolio, compared to 71% in the corresponding quarter of the previous year. 
+Moving on to prospects pipeline, our prospects pipeline for FY27 is Rs 17.8 trillion as compared 
+to Rs 19.02 trillion at the same time last year, reflecting a decline of 6%. Of the total prospects 
+pipeline of Rs 17.8 trillion, Rs 9.1 trillion is domestic, while Rs 8.7 trillion is international. I will 
+provide the details of the prospects when I cover the Lakshya 31, since there are certain changes 
+in the way our segments will start getting reported from the next financial year. 
+Moving on to Order Book. The order book is at Rs 7.40 trillion as of March '26, up 28% vis-à-
+vis March '25. In terms of composition, approximately 92% of our total order book is from 
+Infrastructure and Energy, while in terms of geography, 48% of the order book is from the 
+domestic market while 52% from international markets. 
+The breakdown of the domestic order book of Rs 3.58 trillion as of March '26 is as follows, 
+Central Government's share is 9%, State Government and Local Authorities 22%, Public Sector 
+Corporation or State-owned Enterprises at 30% and the Private Sector taking up 39%. It is worth 
+highlighting that the Private Sector share has risen meaningfully from 21% in March '25 to 39% 
+in March '26, supported by strong traction in the thermal power sector, storage solutions, 
+residential and commercial real estate, semiconductor fabrication facilities, data centers, solar 
+EPC projects, and emerging opportunities for building capacities in the ferrous and non-ferrous 
+space. 
+Out of the international order book of Rs 3.82 trillion, around 78% is from Middle East and 22% 
+from the rest of the world. With respect to additional details on our order book, around 9% of 
+the total order book is funded by bilateral and multilateral agencies. As of March 2026, slow-
+moving orders constitute roughly 1% of the overall order book, and Rs 170 billion worth of 
+orders were deleted from the order book during the quarter. Further details are available in the 
+accompanying presentation slides. 
+Coming to Revenues, our group revenues for Q4 FY26 was Rs 828 billion and registered a YoY 
+growth of 11%, with international revenues constituting 53% of the total group revenues during 
+the quarter. The revenue growth was mainly driven by Hi -Tech Manufacturing, Energy, and 
+Financial Services segments, partly offset by subdued progress in the Infrastructure segment. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 7 of 28 
+ 
+The revenue from the Projects and Manufacturing business in Q4 FY '26 is Rs 628 billion, up 
+11% over the corresponding quarter of the previous year. 
+ Moving on to operating margin, our group -level EBITDA margin, excluding other income, for 
+Q4 FY '26 is 10.4% as compared to 11% in Q4 of the previous year. The decline in EBITDA 
+margin is largely reflective of the revenue mix, as the previous year Q4 had h igher revenue 
+contribution from Realty. Also, the previous year margin included the TOD monetization gain 
+in Hyderabad Metro. The EBITDA margin in the Projects and Manufacturing business for Q4 
+FY '26 is at 9.4% and has declined by 50 basis points from 9.9% in Q4 FY '25. 
+ Our Recurring PAT for Q4 FY '26 is at Rs 53 billion, up by 5% on a year -on-year basis. The 
+increase in recurring PAT is reflective of increase in the activity levels and treasury management, 
+partly offset by losses in CarbonLite Solutions JVs. The reported PAT for Q4 FY '26 is at Rs 53 
+billion, down by 3% over Q4 of last year. The Q4 FY '26 exceptional items include part reversal 
+of Labour Code provision. Q4 FY '25 represents the partial reversal of an earlier impairment.  
+                                               The group performance, the P&L construct, along with the reasons for major variances under the 
+respective function heads, is provided in the earnings presentation. You may go through the 
+same for further details. 
+ Coming to Working Capital. Our NWC to Sales ratio has improved from 11% in March '25 to 
+4.1% in March '26, mainly supported by higher customer advances and increased vendor credit. 
+Our group-level collections, excluding financial services, for Q4 FY '26 is Rs 667 billion vis-a-
+vis Rs 682 billion in Q4 of the previous year. With continued focus on customer collections, our 
+cash flow from operations, excluding the financial services segment, in Q4 FY '26 was at Rs 171 
+billion, as compared to Rs 107 billion in Q4 FY '25. Our Group Cash flows, excluding financial 
+services, has been given in the annexures, along with reported cash flows, to enhance the clarity 
+on the cash flow movements between the financial services and the rest of L&T. 
+ Finally, the trailing 12 -month ROE for Q4 FY '26 is 15.5% vis -a-vis 16.3% in Q4 FY '25, a 
+decline of 80 basis points for the year. The trailing 12-month ROE, excluding the impact of the 
+one-time provision related to Labour Code, stood at 16.6%. 
+ Very briefly, I will now comment on the performance of each business segment before we give 
+our final comments on the outlook.  
+                                               We start with Infrastructure. The Infrastructure segment order inflow at Rs 435 billion grew by 
+26% in Q4 FY '26 on a Y-on-Y basis, aided by the receipt of an ultra-mega order in the Middle 
+East. The order book of this segment is at Rs 4.23 trillion as of March '26. The book -bill for 
+Infra is around 27 months.  The Revenue for the quarter was at Rs 397 billion, registering a 
+growth of 2% on a year -on-year basis. The subdued progress in the domestic and internati onal 
+projects led to a softer revenue growth. While pickup in Revenue was anticipated for Q4, the 
+execution was impacted by spillover effects of the West Asia conflict.  Our EBITDA margin in 
+this segment improved to 8.8% in Q4 FY '26 vis -a-vis 8.0% in Q4 FY '25, largely due to a 
+favorable job mix.  
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 8 of 28 
+ 
+                                                Moving on to the next segment, Energy Projects, which comprises Hydrocarbon and CarbonLite 
+Solutions. The order inflows in this segment were robust at Rs 213 billion in Q4 FY '26, having 
+a mix of both domestic and international projects, as compared to Rs 322 billion order inflow in 
+the previous year. The order book of this Energy segment is at Rs 2.58 trillion as of March '26, 
+with the Hydrocarbon order book at Rs 1.95 trillion and the CarbonLite Solutions at  Rs 0.63 
+trillion. The Q4 FY '26 revenues for the segment was at Rs 166 billion, reflecting a strong 36% 
+growth and underscoring execution progress on a large order book. The Energy segment margin 
+in Q4 FY '26 is at 6.5% as compared to 8.2% in the Q4 of the previous year. Cost overruns and 
+closeout costs in legacy projects impacted the segment margin. As mentioned in the previous 
+quarter, we expect the margin to improve in this segment post a couple of quarters. 
+ Moving on to Hi -Tech Manufacturing segment, this comprises the Precision Engineering 
+Systems and the Heavy Engineering businesses. The Heavy Engineering order inflows benefited 
+from nuclear equipment orders, while the PES order inflows moderated due to def errals. The 
+order book of this segment is Rs 353 billion as of March '26, with the PES order book at Rs 289 
+billion and the Heavy Engineering order book at Rs 64 billion. The segment revenue at approx. 
+Rs 49 billion registered a robust growth of 45% year -on-year, driven by execution ramp -up in 
+the large programs in the PES business. Heavy Engineering revenue decline in Q4 is largely 
+attributable to a modest order book. The segment margin is largely reflective of the job mix. 
+ Moving on to the next segment, which is the IT and Technology Services segment, which 
+comprises our two listed subsidiaries LTM and L&T Technology Services, including our newly 
+incubated business of Digital Platforms, Data Centers and Semiconductor Design. The revenues 
+of this segment at Rs 141 billion in Q4 FY '26 registered a growth of 13% Y-o-Y. The operational 
+efficiencies in LTM and portfolio recalibration in LTTS drives the segment margin 
+improvement. I will not dwell too much on this segment as both the companies in this segment 
+are listed entities and the detailed factsheets are available in the public domain. 
+ We move on to L&T Finance. Here again, the detailed results are also available in the public 
+domain, but briefly I will summarize. The Q4 witnessed the highest ever quarterly retail 
+disbursement and improved collection efficiencies as well as asset quality . The L&T Finance 
+business has secured 98% retailization of its loan book as of March 2026. The ROAs remain 
+healthy at 2.4% for Q4 FY '26. 
+ Moving on to the Development Projects segment, this segment includes Hyderabad Metro and 
+the Power Development business comprising of Nabha Power. As mentioned earlier, L&T has 
+signed SPAs for the divestment of Hyderabad Metro and Nabha Power. Accordingly, the assets 
+and liabilities of both these investments, or these SPVs rather, have been classified as “Held for 
+Sale” in the financial statements for March '26. We expect both the transactions to achieve 
+closure this quarter, that is Q1 FY '27. 
+ During the quarter, Hyderabad Metro reported a net loss of Rs 1.79 billion in Q4 FY '26 vis -a-
+vis a net loss of Rs 0.07 billion in Q4 last year. The previous year included the TOD monetization 
+gain of Rs 1.87 billion in Hyderabad Metro. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 9 of 28 
+ 
+ Moving on to the Others segment, this segment comprises Realty, Valves, Construction 
+Equipment and Mining Machinery, Rubber Processing Machinery and the residual portion of 
+Smart World and Communication business. The segment revenue stood at Rs 16.9 billion, 
+recording a decline of 29% Y -o-Y, primarily due to the lower handover of residential units in 
+the Realty business vis -a-vis the previous year, which also weighed on the segment margin 
+overall. 
+ I will now cover our Strategic Plan for the next five years starting FY '27, ending FY '31, termed 
+as Lakshya 31, and as well conclude with the guidance for FY '27. First, we will cover the 
+Lakshya '26, the previous plan.  
+                                                So, on the delivery side against an FY '21 base, the company scaled meaningfully across two 
+growth metrics, order inflow and revenue. The order inflows increased from Rs 1.7 trillion in 
+FY '21 to Rs 4.4 trillion in FY '26, translating into a 20% CAGR vis-a-vis the planned 14%. The 
+revenue grew from Rs 1.4 trillion to Rs 2.9 trillion over the same period, delivering a 16% CAGR 
+reflecting consistent execution against the earlier estimated assumption of 15%. While ROE 
+printed below the stated target, the progress achieved has been significant moving from around 
+10% at the start of the plan to 16.6% in FY '26. While at 16.6%, this excludes the impact of the 
+new Labor Codes in the current year. This improvement demonstrates sustained momentum 
+towards long-term return objectives. 
+ Over the period, the performance was supported by a series of deliberate strategy -led actions. 
+Value-accretive growth within the Projects and Manufacturing portfolio anchored in disciplined 
+capital employment, reflecting in a structurally higher ROCE , the merger of L&T Infotech and 
+Mindtree to build scale and depth in technology and IT services , successful progression of 
+Development Project exits from the with the divestments of the Hydel asset, L&T Infrastructure 
+Development Projects IDPL, Nabha Power and  Hyderabad Metro, thereby leaving no residual 
+legacy assets in the portfolio, disciplined capital returns through a buyback and early investments 
+to seed future growth engines such as Data Centers, Green Energy and Semiconductor Design.  
+                                                Second, on the macro environment that the company expects to operate in the medium term. The 
+domestic environment continues to be supported by a durable structural growth narrative with a 
+GDP growth on a 6% to 7% trajectory driven by a sustained investment cycle across both 
+physical and digital infrastructure. Against this backdrop, the opportunity set remains expansive 
+and multi -year in nature spanning infrastructure creation, energy transition, defense and 
+technology-led services . Energy security and energy transition are progressing in parallel,  
+spanning coal and nuclear on one hand, and renewables, battery energy storage systems and grid 
+infrastructure on the other.  Defence spending is increasingly driven by indigenization as the 
+country seeks to build strategically independent platforms with a strong emphasis on 
+modernization and innovation within the country. Private sector capex remains selective but is 
+increasingly structural and sustainable with enterprises sharply focused on disciplined execution 
+and return focus. In parallel, India's emergence as a preferred global capability hub is reinforcing 
+the GCC engine as enterprises continue to scale captive centers to access high-quality talent and 
+support transformation agendas in a cost-competitive and resilient manner. At a global level, the 
+operating landscape is evolving amid geopolitical realignments and a measured retreat from 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 10 of 28 
+ 
+open-ended globalization towards trade architectures prioritizing resilience over cost efficiency. 
+The energy transition is accelerating as a strategic risk hedge rather than a pure economic choice 
+while deeper AI adoption is driving productivity gains and reshaping the workforce. Against this 
+backdrop, the Middle East capex remains purposeful and resil ience-focused anchored in long -
+term national priorities and diversification agendas. 
+ Thirdly, the Company has updated its segment-level reporting framework with the earlier 
+Projects and Manufacturing structure being now formally redesignated as Projects, Products and 
+Manufacturing, PP&M. The only material change is the segregation of the Realty as a standalone 
+reporting segment while all other businesses remain broadly comparable with selective internal 
+realignments to sharpen the strategic focus.  
+                                                As part of this realignment, the Company has consolidated its Energy - Green EPC business 
+under a Green Energy reporting segment within the new PP&M structure.  The segment 
+comprises Renewables, earlier it was under Infrastructure Projects, and Offshore Wind, which 
+was earlier forming part of Hydrocarbon in the Energy segment, along with the Onshore Wind 
+business, thereby unifying the group's Green Energy EPC capabilities under a single segment.  
+ Separately, the Development Project segment earlier comprising assets such as Nabha Power 
+and Metro has been repositioned towards green assets, including operating green hydrogen and 
+green ammonia production facilities under a BOO framework. For clarity, while these projects 
+are aligned with the energy transition theme, the Development Projects segment remain outside 
+of PP&M, reflecting the fundamentally different capital structures, investment horizons, and the 
+asset ownership characteristics of these businesses. 
+ The Construction Equipment & Industrial Product Design, and Development business, which 
+was earlier part of the Others segment will now get reported under the Manufacturing and 
+Products segment.  
+                                               We have presented the historical data of revenue and margin for the last five years for ease of 
+reference as part of the Lakshya 31 deck, which is included in the Q4 earnings presentation. 
+ I will now mention the order prospects for FY ‘27 and comparative for FY ‘26 under the new 
+segment classification. As mentioned earlier, we have a total prospects pipeline of Rs 17.8 
+trillion for FY ‘27, vis -a-vis Rs 19.02 trillion for which we had for FY '26. The breakup of the 
+prospects pipeline is as follows.  
+                                                Infrastructure & U tilities segment - the prospects pipeline is Rs 9.4 trillion for FY '27 as 
+compared to Rs 8.1 trillion for the previous year. Of the infrastructure pipeline for FY '27, Rs 
+6.8 trillion is domestic while Rs 2.5 trillion is international.  The sub -breakup of the various 
+businesses within this Infrastructure & Utility segment is as follows: Transportation Infra share 
+is 23%, Heavy Civil Infra share of 20%, Power Transmission & Distribution share at 18%, 
+Buildings and Factories share at 17%, Water Effluent & Treatment share at 16%, and Minerals 
+and Metals share at 6%. Coming on to the Energy - Conventional segment, the prospects pipeline 
+is Rs 5.4 trillion for FY ‘27, vis-a-vis Rs 7.6 trillion in the same period last year. The prospects 
+pipeline of Rs 5.4 trillion consists of Hydrocarbon prospects of Rs 4.7 trillion and CarbonLite 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 11 of 28 
+ 
+Solutions prospects pipeline of Rs 0.7 trillion. 83% of the Hydrocarbon prospects pipeline is 
+international, while CarbonLite Solution prospects are largely domestic. 
+ The Energy - Green segment prospects pipeline is Rs 2.5 trillion for FY ‘27, as compared to Rs 
+3.0 trillion in the previous period. The prospects pipeline of Rs 2.5 trillion consists of Solar EPC 
+pipeline of Rs 1.8 trillion and Offshore Wind pipeline of Rs 0.71 trillion. 78% of the Solar EPC 
+pipeline is international while Offshore Wind is completely international. 
+ The Manufacturing and Products segment prospects pipeline is Rs 495 billion for FY ‘27, vis -
+a-vis Rs 294 billion for FY ‘26.  The FY ‘27 pipeline comprises of Heavy Engineering projects 
+of Rs 122 billion and the Precision Engineering & Systems pipeline of Rs 373 billion. Just to 
+add, the previous year had prospects of gas -to-power projects of Rs 0.6 trillion which we have 
+not pursued and hence is not forming part of the FY ‘27 prospects list. 
+ Coming on to fourth on strategy and outcomes, Lakshya 2031 is structured around scaling and 
+upgrading existing business, while building selective future engines.  
+• In the Projects business, the priorities are margin stability, selective geographic 
+diversification, private sector capex focus, and technology-led execution. 
+• The Manufacturing and Products portfolio is cent ered on advanced and complex 
+engineering capability across the PES business  (including foray into Electronics), Heavy 
+Engineering, and Construction and Industrial products. The Defense business will be 
+anchored on platform and system indigenization, strengthened through strategic 
+partnerships, and sustained investments in R&D and IP creation. The Industrial Electronics 
+is being scaled through focused positions in robotics and automation, communication 
+platforms, and electronic system design and manufacturing, aligning the portfolio with 
+structurally growing technology -intensive end markets. Within Heavy Engineering, 
+priorities is on deeper integration across the nuclear value chain while consolidating 
+leadership in the oil and gas segment.  
+• Realty, under Lakshya 31, the Realty business is planned to scale through a disciplined 
+strategy focused on land acquisitions or joint development, partnered integrated township 
+development, and selective expansion of the commercial portfolio. The plan envisages 
+reinforcing leadership by strengthening the brand's position as the most trusted and 
+preferred in the sector. In parallel, sustained focus will be placed on operational execution 
+and governance standards to support listing readiness.  
+• Development projects, as outlined earlier under the segment reporting change, the 
+Development Projects portfolio is being selectively reoriented towards asset ownership in 
+the Green Hydrogen and Green Ammonia manufacturing facilities under a BOO 
+framework, leveraging L&T's integrated end-to-end capabilities across the value chain.  
+Market participation will be calibrated and selective, focusing on domestic and export 
+opportunities, supported by firm long -term take -or-pay arrangements. The strategy is 
+underpinned by strong strategic partnerships for investment and off-take, alongside a disciplined 
+focus on internal rate of return. I come to technology platforms and services.  
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 12 of 28 
+ 
+Under Lakshya 31, LTM aspires to double revenues over five years driven largely by organic 
+growth and select inorganic moves, while sustaining competitive mid-teen operating margin and 
+a more balanced, resilient portfolio. Under Lakshya 31, LTTS is repositioning itself as a global 
+engineering intelligence partner, supported by deeper client relationships and sustained 
+investments in talent, IP, and AI-driven delivery models. The Lakshya L31 targets 13% to 15% 
+revenue CAGR growth for over five years with EBI T margins of 16% to 17%, reflecting a 
+structurally stronger and higher-quality growth profile. In Data Centers, the objective is to scale 
+the business via hyper scale alliances, AI -ready infrastructure, and sovereign private cloud 
+offerings. In the Semiconductor Design, we will be focusing on strengthening our capabilities 
+to cater to Mobility, Industrial, and Energy sectors.  
+L&T Finance, the focus of L&T Finance will be to deliver resilient growth with consistent 
+returns, balancing scale-up with prudence across the cycle. The strategy emphasizes disciplined 
+portfolio expansion and strong risk management with targets of 20% plu s loan book growth, 
+while maintaining credit costs below 2%. The financial outcomes under the plan are calibrated 
+to deliver a 3% to 3.2% ROA and a 16% to 18% ROE, reinforcing sustainability of returns while 
+scaling the franchise.  
+I come to capital allocation during the L31 period. On capital allocation, our approach is 
+anchored around funding our long -term growth plan while safeguarding returns, balance sheet 
+strength, and financial flexibility. Our capex strategy has a twofold objective. The first objective 
+is to focus on strengthening the core business through capability upgrade, automation initiatives, 
+and project -led capex to enhance execution efficiency and competitiveness. The second 
+objective is directed towards selective seeding and scaling the future growth engines, including 
+Data Centres, Green Hydrogen, Semiconductors, and Industrial Electronics.  
+Within the new business over the plan period, we envisage a capital outlay of approximately Rs 
+50 billion towards Industrial Electronics, Rs 30 billion into the Semiconductor business largely 
+for the creation of proprietary IPs, Rs 150 billion in Green Hydrogen where we are also actively 
+evaluating options for strategic partnerships to optimize capital deployment, and around Rs 100 
+billion towards the Data Center business. It is important to note that for the Data Center business, 
+we are currently evaluating multiple business and partnership models. Accordingly, the pace and 
+scale of investments may change depending on the final structure adopted. 
+We are allocating almost Rs 44 billion for the Realty business, primarily to fund development 
+of commercial real estate. In addition, the parent will provide near -term support for land 
+acquisition for upcoming residential or mixed -use projects. Thereafter, the entity, or the 
+business, may explore external fundraising options including debt and/or equity. Additionally, 
+we plan to invest around Rs 50 billion for upgradation of our existing hydrocarbon modular 
+fabrication yard and the shipbuilding facility.  
+As part of our Strategic Plan, we are adopting a business -specific leverage approach. At L&T 
+Finance, leverage will support growth. In the Green Assets portfolio, the focus will be on project 
+financing basis. For Realty and new businesses, leverage will be aligned to the business model 
+adopted. Overall, the returns to shareholders over the next five years will be a function of the 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 13 of 28 
+ 
+cash flows generated by the PPM business and the timing and scale of investments in the new 
+growth areas. I will now conclude with the guidance for FY27 and Lakshya 31. 
+First, the guidance for FY27. Order Inflow - Our prospects pipeline of Rs 17.8 trillion for FY27 
+is providing a strong visibility. Based on this visibility and the opportunities we are pursuing, 
+we expect the group order inflows to grow in the range of 10% to 12% in FY27.  
+On Revenue, we expect growth to be in the range of 10% to 12% for FY27. We do anticipate a 
+softer first half primarily due to the current supply chain disruptions, with a pickup happening 
+in the second half as these constraints ease. Encouragingly, we are alre ady seeing improved 
+momentum in the water projects, with some payments coming through in March and in a few 
+projects where starts were delayed due to pending clearances which have now been received. 
+On Margins, as referenced in the Lakshya slide on the new segment structure, we will now 
+present Infrastructure and Utilities, Energy Conventional, Energy Green, and Manufacturing and 
+Products together under the Projects, Products and Manufacturing overall portfolio, PP&M. The 
+key difference in this reclassification is that Realty is excluded and being presented as a separate 
+segment. On this reclassified basis, the FY26 margins for Projects, Products and Manufacturing 
+was 7.8%, and we expect the same to be stable as well in FY27 as well. 
+Coming to Working Capital, we closed the year at 4%, largely supported by customer advances 
+received during the last quarter and a higher vendor credit. As these advances get progressively 
+utilized, we do expect some normalization in working capital levels. Accordingly, we a re 
+guiding the working capital to be around 10% in FY27, which remains well within our targeted 
+range. Kindly note that this guidance that I provided for FY27 is basis our current expectation 
+that there will be overall broad normalcy aft er Q1. We will revisit and update this guidance as 
+required in July when we report our Q1 FY27 results. 
+Concluding with the Lakshya guidance, over the next five years, we are targeting order inflow 
+growth at a CAGR return of 10% to 12%, revenue growth of 12% to 15%, and a Return on 
+Equity in the range of 16% to 17%. The ROE guidance reckons in upfront investments into the 
+newer business and platforms, which we believe will begin to meaningfully scale and contribute 
+to profitability in the la tter part of the planned horizon. With this, I conclude. Now we can get 
+into Q&A. 
+Moderator: Thank you very much. Your first question comes from the line of Mohit Kumar from ICICI 
+Securities. Please go ahead. 
+Mohit Kumar: Yes. Good evening, sir, and thanks for the opportunity, and congratulations on a very strong 
+order inflow. Given the challenges, my first question is order book has grown by 19%, 22%, and 
+28% in the last three years. Of course, I understand that the war is on, and it is difficult to forecast 
+in near term, but do you think that the revenue growth trajectory can improve materially once  
+the geopolitical condition improves? 
+P. Ramakrishnan: Yes, so as I sai d, we have given the revenue guidance of 10% to 12% for FY27, basis the fact 
+that the first six months will be subdued, given the fact of the situation that is happening in the 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 14 of 28 
+ 
+Middle East. We expect by the end of Q1 the conflict to subside and normalcy to get restored, 
+which will take another two months. So hopefully, the second half of the FY27 will be a more, 
+busier second half. So, we have factored this while giving the guidance of 10% to 12%.  
+But as you see, when I talked in the last part of my speech, I did say that we are taking ourselves 
+a target of 12% to 15% Revenue CAGR over the L31 plan, which obviously means that it also 
+factors the fact that FY28 onwards the revenue growth momentum should get stabilized, 
+assuming external condition and all other things remaining favourable. 
+Mohit Kumar: Understood. My second question is, since there has been a revenue miss in Q4, given that we 
+were reasonably confident of meeting revenue guidance till Q3, and consequently looks like the 
+margin improvement has not come through in this quarter. Is it correc t assessment? And how 
+much should you attribute it to geopolitical situation? 
+P. Ramakrishnan: It's a little difficult question, but okay, let me put it like this, that on a broad basis, we would 
+have lost in terms of revenue almost Rs 50 billion in Q4 just on the course of supply chain issues 
+that impacted both largely on the Infrastructure side , the projects that we are executing in the 
+Middle East, Power Transmission & Distribution, and Renewables. And as I mentioned in my 
+speech, we have also had some slippages in the Water segment, but these slippages in the water 
+segment has been throughout the year.  
+So we did expect because the Jal Jeevan Mission program, the purse strings were loosened 
+sometime end of Q3, and we thought that we would be able to retrieve the lost ground. 
+Unfortunately, in that segment, the execution has been a little patchy. So net -net, because of 
+these three segments or sectors, Power Transmission in Middle East, Renewables in Middle 
+East, and Water, I would say that the overall slippages in revenue will be in the range of almost 
+Rs 50 billion for the quarter. 
+Moderator: Thank you. The next question comes from the line of Parikshit Kandpal from HDFC Securities. 
+Please go ahead. 
+Parikshit Kandpal: Hi PR, and congratulations on a decent quarter. So sir, I just wanted to understand a little bit 
+more in detail on the risk which are currently emanating from the Middle East order book, which 
+is fixed price in nature. In fixed price contracts, in case of commodity inflation, time and cost 
+overruns, how do we cover ourselves? What kind of contractual provisions we have from the 
+client side to compensate us in case of, is there any force majeure clause? Can you give some 
+more colour on all these things, especially on the risk side? 
+Subramanian Sarma: Okay, Parikshit, this is Sarma here. Let me take this question. Firstly, instead of calling it as a 
+risk, I think as I see it, there are more opportunities than risk at this point in time. Because all 
+my interactions with major customers, I think they have  laid down a major capital expenditure 
+plan to expand capacities. In fact, we believe that in the subsequent quarters, we will see many 
+more prospects coming our way. I think the pipeline should only strengthen. In terms of order 
+inflow, I do not see that as a risk; in fact, it could be an upside. But what you talk about inflation 
+and cost increase due to inflation, I think we have spoken about this before. Many of our 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 15 of 28 
+ 
+contracts, we have the ability, particularly on the infrastructure projects, we have provisions for 
+price adjustments based on increases.  
+And some of the energy projects, generally they are fixed lump sum. But I think the customer is 
+quite sympathetic with the situation, and in the preliminary discussions we had, they are very 
+open to have a dialogue. And I'm expecting that we should have so me reasonable, fair 
+negotiations on that to compensate at least the cost, if not anything else. So overall, I do not see 
+that as a big risk. And we'll have to see how things unfold, but currently the environment is, I 
+would put it as overall positive. 
+Parikshit Kandpal: And sir, the bigger risk will be inflation according to you or it will be supply chain risk because 
+of the freedom of navigation being restricted on performance? So which will be the bigger risk? 
+I was saying sir, so is supply chain a bigger risk here or inflation is a bigger risk here? And also 
+on, the margins, which you were carrying before the crisis began  - Do you think that even 
+currently you are well covered on those margins or are you seeing any major disruptions there, 
+and only negotiations with the client can resolve that? So how do you attribute these factors on 
+the margin? 
+Subramanian Sarma: The biggest risk is the supply chain, but it is continuously getting better. I mean, there are much 
+better movements now between the GCC countries and some alternate routes have opened up. 
+Of course, the cost is high, and therefore we are sort of taking a very, very measured approach. 
+If the customer is agreeing to that increased cost of logistics because he wants to push the project 
+and keep the progress, then we are moving the material, otherwise we are playing a little bit of 
+wait and watch game because we don't want to incur the cost and then depend on the 
+negotiations.  
+So I think it's a delicate balancing. That's why PR said that in the first two quarters, you may see 
+a little bit of a slowdown on the revenue depending on how much material we are able to move 
+without incurring additional cost. But there are cases where the customer is still very keen to 
+proceed with the jobs and then he's ready to compensate, then we have no problem in moving 
+the material. 
+Parikshit Kandpal:  Okay. And just last thing on the prospects pipeline, sir. I mean this has declined this year. I think 
+earlier PR mentioned that. In the current environment, how is the client taking decisions on how 
+the capex will shape up for the rest of the year, given there is so much of uncertainty? What are 
+the commentary you are hearing with the customers? Is there any change in the capex outlook? 
+Are there any newer segments emerging? So , if you can give some more colour how it is 
+changing the nature of capex post this crisis? 
+Subramanian Sarma: I mentioned this earlier. I think the capex narrative is quite positive. In fact, you would have 
+seen in the press also that in UAE, they had a very major conference I think earlier this week, 
+where they announced major expansion plans on close to about USD 55 billion of capital outlay 
+in the next three to four years. And they are easing out lot of local requirements and things like 
+that because they want to push their capacity. I think the same thing will happen in Kuwait and 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 16 of 28 
+ 
+in Qatar. I think in the, coming two or three quarters, I mean, maybe not two-three quarters, but 
+in the next few quarters, you will see a lot of projects getting announced. 
+Parikshit Kandpal:  Okay. Sure, sir. Thank you, and wish you the best. Those were my questions. 
+Moderator: Thank you. The next question comes from Aditya Bhartia from Investec. Please go ahead. 
+Aditya Bhartia: Hi, good evening, sir. Sir, while speaking about the long -term order inflow guidance, you've 
+indicated that you'll be looking for selective geographical expansions. So just wanted to 
+understand which geographies could we look at? Can Europe be a bigger opportunity for us after 
+the TenneT order? If you could just highlight something around that. 
+P. Ramakrishnan: So okay, it is like this. Over the last, I would say the Lakshya 26 period, apart from India and 
+Middle East, we just set ourselves some amount of projects into the Central Asia Republics. So 
+we do expect the momentum to get strengthened soon. And then we have also set ourselves into 
+the Offshore Wind segment, which is more Europe-centric.  
+We do believe that, that part of the world can offer us more opportunities in select segments, not 
+necessarily all the segments that L&T caters to.  We're also planning, as part of our Tech 
+initiatives, we are also looking to expand into EPC through modular systems, which means that 
+we will try to reduce our site intensity, which means we can in a way become geography agnostic 
+by making maximum items in our fabrication shops either in India or Middle East and getting it 
+shipped to the global destination. 
+So for example, we did for a urea plant in Australia, which is actually an EPC contract, but most 
+part of it got modularly fabricated in our Chennai Kattupalli yard, and thereafter it was shipped, 
+and it was only some amount of local commissioning work that was done. So these kinds of 
+fabrication models also we are pursuing, which will enable us to cater to a larger EPC universe 
+instead of focusing on the traditional site-based activity. 
+And some newer geographies in Offshore Wind could also be apart from Europe, can be also 
+Korea and Taiwan. Hopefully, I think some opportunities also shaping up. And Renewables in 
+Southeast Asia as well. 
+Aditya Bhartia: Sure, sir. And you hinted at some conversations that are happening with customers in respect of 
+cost compensation. In the past, have we seen this level of increase in raw material prices ever 
+and customers in the Middle East being okay to kind of enter into negotiations? I just want to 
+understand what have our experiences been and how the scenario played out during such 
+disruptions, let's say during even COVID. 
+Subramanian Sarma: Yes, I mean in the past also we had, maybe not in the short period of time, we did not have so 
+much of increase because oil prices. But there has been similar situations and customer response 
+has been quite reasonable. I mean even the current dialogue and discussions we are having, they 
+seem to be quite receptive. 
+Aditya Bhartia: Sure, sir. Thank you so much. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 17 of 28 
+ 
+Moderator: Thank you. The next question comes from Amit Anwani from PL Capital. Please go ahead. 
+Amit Anwani: Hi, sir. Thank you. Thanks for taking my question. So first question on the Middle East, the 40% 
+book exposure which we have, amid this war, has the duration increased and what is the current 
+duration of that Middle East book which is roughly about Rs 3 lakh crores? 
+And second, in terms of projects, including Offshore Hydrocarbon, Onshore Hydrocarbon, and 
+Renewable, what is the mix and which portion is actually seeing the major impact in the Middle 
+East basis your current assessment there? 
+Subramanian Sarma: What was the first question? 
+Amit Anwani: The duration of the Middle East order book because of the… 
+Subramanian Sarma: It's not really. I mean most of the projects what we have in the, say let's put it as I mean let's 
+recap, I think we have majority our projects are in hydrocarbon onshore, offshore, and on the 
+renewable space, right, in terms of value. Now, in Renewable space our track record in the past 
+has been that we have been finishing these jobs ahead of time, at least two to three months ahead 
+of time. I think even if you assume that this two three months are lost, because of this disruption, 
+we will be still be able to finish the projects on time, if not earlier. So I do not expect any delay. 
+When it comes to Hydrocarbon Onshore, where we are today with respect to the projects which 
+are currently under execution, e ither they are in a very early phase of engineering and 
+procurement, or they are in the later phase of construction where the material delivery and 
+logistic challenges are not going to impact significantly the overall duration. 
+And I think the Offshore, except one project where we are scheduled to move some of the stuff 
+from our yard in Oman to the work site which is held up, rest of the projects are again moving 
+reasonably okay, but this is also a long gestation project, the completion is sometime in 2028 
+second half. 
+So, we have adequate time to recoup even if there is some dislocation. So overall, I do not see 
+that there is going to be a major extension in the project portfolio. So that's the first one. What 
+was the second one? I think it covers also the second question. 
+Amit Anwani: Yes. So sir, I think I just wanted to also understand in terms of you mentioned about shipping 
+and logistics cost going up, so any basis point impact or increase in these cost you must have 
+seen in these two months if you could highlight that also? 
+Subramanian Sarma: No, we said now we are very carefully calibrating that. We are not going ahead and incurring 
+the cost unless the customer is ready to reimburse, and otherwise we are kind of slowing down 
+and we'll move the material when the cost comes down. It is coming already coming down. 
+It used to be $8,000 per container, now it has come down to $5,000 and maybe hopefully it will 
+come down further even as the time progresses. 
+P Ramakrishnan: Amit, I did mention that logistics cost have gone up and insurance cost gone up, but I also told 
+that we are on active discussions with the customer to ensure that these cost increase, how we 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 18 of 28 
+ 
+are able to pass it on to the same. The discussions with the clients are happening at a very, very 
+intense level in terms of the overall project timelines, and the customer also understands that. 
+We don't think at this juncture it is premature to comment about any impact per se. 
+Amit Anwani: Right. Second on the Lakshya plan, whatever growth you are building in, so if possible for you 
+to highlight since we are getting into a lot of focused areas and you said we'll be scaling up there. 
+So what is the Infra versus non-Infra growth build up which is happening? 
+And same, I think it would be better to understand the PPM margin of 7.8%. How that will 
+increase? If I recollect you said 7.8% will be 7.8% this year also, how that will pan out in the 
+Lakshya plan? Any understanding on these two will be helpful. 
+P Ramakrishnan: Amit, let me put it like this, the guidance is on the Return on Equity. Return on Equity is a factor 
+of how much are we ensuring the overall improvement in the numerator which is profitability 
+and also how much of investments that is the denominator part. 
+So all of these things are a function of that. In fact, in Lakshya 2026 plan also we only focused 
+on the Return on Equity target because on a five-year horizon to talk about margin I think is a 
+little difficult, especially for our business of PPM. 
+I guess we will stay put with that number. And what was the first question you asked? The PPM 
+margin guidance of 7.8. 
+Amit Anwani:  What is the revenue non-infra versus infra?  
+P Ramakrishnan: Now, this is being done at an overall level, so I think we will stay at the group level at this 
+juncture. Each year we'll give the breakup possibly between the relevant businesses, but at this 
+juncture, I think we'll keep it at a group level, the revenue momentum or CAGR growth. 
+Amit Anwani: And sir, lastly, if I may, on the Data Center, you talked about some Rs 10,000 crores capex 
+towards that business, and so if I may understand, you talked about some technology types you 
+are exploring on that, the partners. 
+So is it that we'll be doing EPC only or will be operator also leasing these Data Centers, and 
+what exactly would be the kind of target we are looking for during this Lakshya plan in terms of 
+Megawatt of data centers if you can give some color? 
+R. Shankar Raman: Shankar Raman here, let me answer this. In terms of data centers, there are two distinct business 
+models that are possible. One is the where you develop a sophisticated commercial real estate 
+and based on tenancy, you collect your yields. That's one kind of data center business.  We are 
+not excited about that. What we want to do is make sure our data center is AI enabled, which 
+means that we will have servers and GPUs which will enable high computing to be done. And 
+for which, obviously global hyperscalers would be one client set, but there are also quantum 
+computing organizations which would be another client set. 
+At the moment, the thinking is that, about 200 megawatt worth of data center capacity we could 
+create over time. And as you might know, initially we've created 30 MW, and another 30 MW 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 19 of 28 
+ 
+is under construction in Mahape. The first 30 MW is in Kanchipuram in Chennai. Our idea is 
+between Vizag, Bangalore, and Mumbai, we should be able to put together this 200 MW capacity 
+but that will come in modules. The effort would be to see whether we can do some build-to-suit, 
+meaning that we have an arrangement with both the server chip supplier, GPU supplier, as well 
+as the end user. And the MoU that we have with Nvidia is precisely towards that, that once we 
+assure a certain capacity being created and of the type that would interest certain large 
+organizations, then we'll also go into the market and generate. Now what returns they would 
+give, it's a little speculative at the moment because the cost of setting up the data center and how 
+you populate the data center will drive the returns. 
+Our guess is it should be able to give about 13%, 14% return at the optimal level, which will 
+have combination of hyperscalers and non-hyperscalers. But we'll have to figure out as we go 
+along. At the moment we are trying to curate the market, develop supply chain, and also create 
+facility from the ground up. That's the thinking. Maybe the full benefit of these investments will 
+flow in the 2031-2036 plan. 
+Amit Anwani:  Sure, sir. Thank you so much. All the best. 
+Moderator: The next question comes from Sumit Kishore from Axis Capital. Please go ahead. 
+Sumit Kishore: Good evening, thanks for the opportunity. Congratulations to PR on elevation of role to CFO. 
+My first question -- the only question is that Projects, Products and Manufacturing margin have 
+been range-bound between 7.7% to 7.8% for the last three years. The guidance again is 7.8%. 
+Over this period, if I look at the segmental breakup, Energy conventional margins have been 
+coming off sequentially from FY24 to FY26 and all other segments have seen improvement. 
+You have been calling out that the Hydrocarbon sub-segment has been a drag on the Energy 
+segment margins and there are unexecuted legacy order book here. 
+So how large is this unexecuted legacy order book, and are the ultra-mega orders that you have 
+booked in this segment, aren't those going to sort of drive margin improvement going forward 
+or would they have a long gestation period and initial period of execution which is why you are 
+guiding to stable margins? Because our thought process, I think was the two quarters down the 
+line you will have margin improvement in energy segment. So slightly long question but I think 
+this is very important to understand your thought process here? Thank you. 
+P. Ramakrishnan: Okay, Sumit, thank you. And while I was covering the Energy segment, I made a specific 
+mention. This Energy segment margin movement softness has been discussed in the previous 
+call also, and I've been telling you that we have had certain legacy projects which are at their 
+terminal stages of completion. And most of these projects have got completed, they have been 
+almost in the verge of handing over to the client and what will be left out is what you call the 
+Defects Liability Period. 
+We believe so far as the Hydrocarbon is concerned, those projects have got completed and we 
+should not see any further cost creeps happening from those because the projects have been 
+handed over. And I did talk about in the call today that we expect the segment margins to move 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 20 of 28 
+ 
+this up as we get into the newer projects that are under execution. But it is also important for me 
+to say that this is all a status update as of a particular point of time. And when we gave the 
+guidance for stable margin for FY'27, I did refer to the fact that the Q1 and Q2, considering that 
+the execution momentum could be a little softer because of the situation in Middle East 
+impacting both supply chain into Middle East and also possibly even the local projects. This has 
+been factored in that the momentum of execution being a little softer in H1 FY'27, while we are 
+guiding a stable margin profile for FY'27. 
+Sumit Kishore: So, as the situation normalizes, the normalized run rate of PPM margins will not be stuck at 
+7.7%, 7.8%, there might be an improvement? 
+P. Ramakrishnan: I am only giving you guidance for stable margins for FY’27. I do not want to give a number, 
+because as you know, this is a portfolio of jobs. There are some jobs which do well. There are 
+some jobs which can have some challenges. But having said this, we have communicated that 
+Energy margins went down because of the projects. Those projects have got closed. And 
+hopefully, logically speaking, the margin should be improving in that segment in the coming 
+quarters. 
+Sumit Kishore:  My only worry is that ultra-mega stage of execution should not or if it becomes an impediment 
+to margin improvement in this segment two quarters down the line because those orders will be 
+at early stage of execution. 
+Subramanian Sarma: No, we do not envisage anything of that sort now, at this point in time. We're also working on 
+recovering some of the costs which we have incurred with customers on the earlier jobs. 
+P. Ramakrishnan:                  But since we cannot account for that, as and when they get crystallized, it may can come directly 
+as a margin. But time will tell. 
+Sumit Kishore:  Thank you so much, sir, and wish you all the best. Thank you. 
+Moderator: Thank you. The next question comes from Atul Tiwari from JPMorgan. Please go ahead. 
+Atul Tiwari:  Yes, sir. First, could you give some more details about your foray into electronic manufacturing 
+services in terms of how big the capex will be and what are the timelines, and any other details 
+in terms of customers or specific segment you will enter into? 
+P. Ramakrishnan: So I did indicate that we are setting Rs 50 billion as the capex for this particular business. It is 
+essentially going to be Industrial and Defense related electronics. In fact, our PES business 
+already has a small amount of what we call Defense-related electronics business. That is being 
+taken out and put in this overall Electronics part. The capital investment outlay in this plan is as 
+I said Rs 50 billion or Rs 5,000 crores which will be incurred over a period of time, but 
+essentially it will cater to industrial automation, robotics automation 
+The electronic components that are inputs for these kind of industrial applications is what we 
+are targeting. We are not looking at consumer B2C segment in this particular space today. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 21 of 28 
+ 
+Atul Tiwari:  Okay. And sir, what is the update on your bid for AMCA development and the Medium Altitude 
+Long Endurance platform as well? 
+Subramanian Sarma: I think what we mentioned in the AMCA during the January call, I think the status update 
+continues to remain the same. Apart from us, there is one more counterpart who are there in the 
+fray. Let us see. We do not have much further to say beyond what we stated in January. 
+Atul Tiwari:  Okay, sir. Thanks. Thanks a lot. 
+Moderator: Thank you. The next question comes from the line of Puneet Gulati from HSBC. Please go 
+ahead. 
+Puneet Gulati:  Yes, thank you so much and congrats PR for your elevation. My question is first on the Revenue 
+line - where you talk about 12% to 15% revenue. How much of it would be driven by your 
+existing business and how much do you think the new businesses should drive? 
+P. Ramakrishnan: I would say that 12% to 15% of the CAGR growth that we have put in L-31, mostly would be 
+from the existing businesses. 
+Puneet Gulati:  Okay, great. And on the ROE also, your previous target was 18%. This time you've restricted to 
+16% to 17%. How should one think about that? 
+P. Ramakrishnan: So Puneet, last time 10% to 18% when we gave that guidance was on the basis of, I would say, 
+the concession projects coming completely off. In fact, Hyderabad Metro was supposed to be 
+off in FY’23-FY '24 itself during the plan. But it is happening in FY '27. We also had an option 
+of the margin improvement and also the working capital intensity. 
+We factored the buyback and we did not have that much of capital intensity in the last plan in so 
+far as this time is concerned. So when I'm giving the guidance of 16% to 17%, if you just add 
+up the numbers of the investment that we are talking about, be it Electronics, be it Green Energy, 
+be it Data Center, , the 12% to 15% revenue growth is all coming from what you call largely 
+PPM and the ITTS portfolio. These large investments, most of them will be in the investment 
+phase and maybe at the end of the plan, they may actually be getting into a revenue generation 
+phase. So, we have factored all of this while giving the ROE targets of 16 to 17%. And so, the 
+only one aspect I would like to specifically mention is, the profitable return-accretive growth in 
+P&M. If you see in our presentation at the end, we've also given the return ratios of the various 
+businesses. If you see the return ratios of the P&M from FY22 to '26, it has more than doubled. 
+So, although the margins could have moved southward, but the return ratios have gone up 
+because we have had profitable growth, or stable profitable growth, at lower capital intensity 
+and hence improving the return thresholds.  
+And what we stated as buyback was also one. Second was the complete exit on the concession’s 
+portfolio. Of course, it took time. But as we speak now, that part of the portfolio is now virtually 
+done and dusted. 
+Puneet Gulati:  Understood. That's very clear. That's all from my side. Thank you so much and all the best. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 22 of 28 
+ 
+Moderator: Thank you. The next question comes from the line of Priyankar Biswas from JM Financial. 
+Please go ahead. 
+Priyankar Biswas:  Thank you for the opportunity and of course, congratulations to you, PR. My first question is for 
+the 10% to 12% growth that you have guided in the Lakshya plan, that is till FY31. So, if you 
+can elaborate a bit, what sort of growth you are baking into your plan from Middle East and let's 
+say from the other regions because of geographical diversification? 
+P. Ramakrishnan: Okay, so Priyankar, today if structurally speaking, if you see the old P&M or the new PPM 
+business excluding Realty, I think the way we've been seeing the last three years is technically 
+order inflows are 50% domestic, 50 international. It is primarily because that given L&T's size, 
+I don't think just the working in India would suffice. And we have we expanded our credentials 
+and our competency bandwidth into multiple segments and now we are considered as one of the 
+top-notch EPC contractors in Middle East for a variety of segments.  
+And we do expect that apart from the primary geography of India, the next important geography 
+is Middle East and some parts of Europe. I talked about Indonesia for renewables and maybe 
+offshore wind for Korea, Taiwan apart from Europe. All these things, I think are going to be a 
+sustainable order prospects geographies for us.  
+So given this kind of a little more expansive geography, I think at this juncture, what we can talk 
+is 50-50 as the order inflow intensity between domestic and international may continue.  
+Subramanian Sarma: And the new geographies may contribute 5%.  
+P. Ramakrishnan: For International, I think, you can assume 50-50 mix to continue. 
+Priyankar Biswas:  So, would it be fair that Middle East would actually continue, based on what Sarma-sir also 
+highlighted about Middle Eastern prospects, that the growth that had happened, we have seen 
+like strong growth in the Middle East, so that should continue during the plan period? Would it 
+be a right thing to assess? 
+Subramanian Sarma: Yes, Middle East will continue to be our core market. I mean, for us to provide that kind of 
+growth, we cannot provide without Middle East. And we are very optimistic about that region. 
+Priyankar Biswas:  So, that's very helpful. So, Middle East can still deliver, let's say, a double-digit type growth. 
+And finally, one more thing, like if you can elaborate on your real estate plans. So, we had 
+already achieved, if I heard it right, Rs 94 billion in pre-sales in FY26, right? 
+P. Ramakrishnan: Correct. 
+Priyankar Biswas:  So, by FY31, let's say in the Lakshya plan, what sort of scale for L&T's Realty that you see, both 
+in terms of sales and let's say pre-sales? 
+R. Shankar Raman:  See, Shankar Raman here. The plans we are currently pursuing is about 100 million square feet, 
+between residential and commercial. The plan is about 70% will be residential, 30% will be 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 23 of 28 
+ 
+commercial. The commercial will provide me the annuity cash flows to sustain quarters when 
+you don't have ramp-up of residential.  
+In so far as Residential is concerned, there are two calls we have taken. One is to position 
+ourselves as a premium housing provider. So, we will not get into this mid-size, mid-scale 
+housing complexes, we'll get into larger. And within that, we'll try to get into township-kind of 
+situations rather than single buildings. And we've also decided that there are a few markets where 
+return per square feet is the highest. For example, Mumbai is one such, NCR is another. So 
+maybe our focus would be in markets where the return ratios are superior as compared to more 
+subdued market like maybe Hyderabad, for example.  
+So, the approach is, that as we find opportunities, we'll also have to find capital. Because this is 
+a capital-intensive activity. Much of the land that L&T currently owns, have been in the 
+monetization mode for the last few years. So, looking forward, by the time Lakshya 31 ends, I 
+don't think we'll be left with much land out of L&T's bank. So, it has to be land acquired at 
+current prices and sold at current prices post-development. And that would mean the capital calls 
+will have to be frequent and consistent. One of the reasons why we are restructuring the Realty 
+business is at some point in time to enable the company like Financial Services to be market-
+facing. The access to capital would be determined by the opportunities in those select markets 
+and for the type of development I spoke to you about. So, it would be fair to say that this 100 
+million square feet that we are currently citing, about 60-65 is both completed and under active 
+development.  
+So really futuristically we are looking another 30 million square feet now over the next five 
+years, we possibly might look at another 100 million square feet. I think that would possibly 
+peak our execution capacity as well as balance sheet exposure. 
+P. Ramakrishnan: Just to add one more, that CAGR growth in pre-sales is over the Lakshya 31 is around 25% is 
+assumed in Realty. 
+Priyankar Biswas:  So, this is a sales or a pre-sales CAGR you are saying 25% in Lakshya plan? 
+P. Ramakrishnan: CAGR growth of pre-sales, I said. 
+Priyankar Biswas:  For pre-sales, okay. sir, if I may just squeeze just one more in, if just can you just give, the capex 
+number that you planned for FY27, so just trying to model out the intensity over the years? So 
+at least what should be it, a ballpark number for FY27? 
+P. Ramakrishnan: So, you can take Electronics at Rs 10 billion, Rs 1,000 crore, normal projects part of our capex 
+we can take around Rs 25 billion for the core PP&M business. And Rs 10 billion for the 
+electronics part of the business. Data Center, we can take maybe around another Rs 10 billion 
+,it can be more than that. It can be around Rs 20 billion as the spend for the current year. 
+Priyankar Biswas:  Okay, sir. That's broadly from my side. Thank you so much. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 24 of 28 
+ 
+Moderator: Thank you. The next question comes from the line of Nidhi Shah from ICICI Securities. Please 
+go ahead. 
+Nidhi Shah:  Yes, thank you so much for taking my question. In the last quarter, you mentioned that out of 
+the five L1s that we had in Kuwait, four have been cancelled and one was going ahead and re-
+tendering was expected in four of those. So, what is the status of those projects in Kuwait? 
+Subramanian Sarma: Okay. so, Nidhi on Kuwait, like we said, out of the four, three were cancelled, and we are hoping 
+one will survive. And the good news is that, as we know, it has survived. I think it has been 
+going through the approval process, and the project will go ahead, and it is under approval of 
+various stakeholders.  
+Nidhi Shah:  And do we have any update on the re-tendering? I mean, I know it is early days considering the 
+conflict, but are you hearing anything? 
+Subramanian Sarma: Re-tendering will happen during this year. 
+Nidhi Shah:  Thank you so much. 
+Moderator: Thank you. The next question comes from the line of Renu Baid Pugalia from IIFL Capital. 
+Please go ahead. 
+Renu Baid Pugalia: Yes, hi, good evening, team. Thanks for the opportunity. One question was wanting to 
+understand while you have outlined Rs 50 billion capex for the overall electronics portfolio, in 
+the current month or earlier last month, you've already commissioned the factory in Coimbatore. 
+Wanted to understand here, does your five-year capex include any investment in the supply chain 
+and the ecosystem for electronics segment like OSAT, etcetera, or it would be purely EMS 
+focused in investments that you've outlined of Rs 5,000 crore? 
+P. Ramakrishnan: Nothing on OSAT, Renu. It is all on the traditional electronics only.  
+Renu Baid Pugalia: Short targeting EV, solar inverter kind of solutions that you have already. 
+P. Ramakrishnan: Robotics and all that stuff. 
+Renu Baid Pugalia: Robotics Perfect. Yes. And secondly, going through and listening through whatever you have 
+discussed so far, it clearly looks that the share of manufacturing across the various segments 
+including EPC when you look at international with a modular approach will see significant 
+increase in the share? So, would it be right to assume that while some of the newer areas or 
+emerging segments are in capital-intensive mode and hence will optically depress your ROE 
+over a five-year period, but the core portfolio which we are running through should definitely 
+be inched 18%, 20% plus ROE along with the growth and margin expansion that we are gunning 
+at? 
+P. Ramakrishnan: That's a fair assumption we can make, Renu. Yes. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 25 of 28 
+ 
+Renu Baid Pugalia: Perfect. that's it. Thank you, so much and best wishes, team. And it was always a pleasure 
+interacting with you, RSR, for all these years. We'll miss you, and yes, PR, welcome and best 
+wishes in your new role. 
+R. Shankar Raman:  I'm going nowhere; I am in the company for two more years, so you can continue to have the 
+pleasure of interacting with me. 
+Renu Baid Pugalia: Yes, sure, sir.  
+R. Shankar Raman: Thank you. 
+Renu Baid Pugalia: Thank you. 
+Moderator: Thank you. The next question comes from the line of Aditya Mongia from Kotak Securities. 
+Please go ahead. 
+Aditya Mongia: Yes, thank you for the opportunity. Two questions from my side. The first question is more on 
+reconstruction capex. As you see through, do you have a certain TAM that you have for 
+overseas? Is it already factoring in some part of reconstruction capex? What are customers 
+actually saying? And linked up to this, any thoughts on the capex in Iran, whether you will 
+participate over there? That's the first question. 
+Subramanian Sarma: Well, on the reconstruction or reinstatement, whatever you call it, I think the numbers are still 
+very fluid at this stage, and because there's good amount of assessment happening, some amount 
+of repairing work is already happening, but from what I have gathered, the number can be 
+anything between $30 billion and $50 billion over the next three years. That's what is being 
+assessed. But very difficult to sort of put a finger on it. I mean to tell you honestly, but it will be 
+in that range. 
+Aditya Mongia: Understood. Just the last question from my side. When you think through the investments 
+beyond EPC, is it more to do with the fact that you want to be in a certain ROE range of 15%, 
+17% and then a Rs 50,000 crores number pops up and then you divide it across buckets? 
+P. Ramakrishnan: Can you repeat the question? 
+Aditya Mongia: Is there a constraint, so what we're trying to say is that - the numbers that you kind of gave to us 
+in terms of investments beyond EPC in Hydrogen, Semiconductors, and so on and so forth - Is 
+the thought process more bottom-up like where do we want to be five years from now? Or is it 
+constrained by us being in a certain 16%, 17% ROE band, and thus, we have only as much to 
+invest for the next five years? I'm just trying to say how much clear line of sight does the 
+company have, and is the balance sheet a constraint? 
+R. Shankar Raman:  Shankar Raman here. Balance sheet is not a constraint. I think, first and foremost, we want to be 
+future-ready. We do believe that the businesses that we are currently in will continue to have 
+strong momentum going forward, at least in the context of next five years. So, we want to use 
+that phase to create alternate streams of Revenue and Cash Flow, and to do that we need to chalk 
+out certain investment. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 26 of 28 
+ 
+If the company requires Capital, and given the fact we have such a credible track record in the 
+financial markets, we should be able to go out and raise capital. That is not the concern at all. 
+But what we are all the while worried is responsibility for returning value on the capital. Just 
+because capital is available, we don't want to just scatter it around. We just want to make sure 
+that the investments are measured and we keep the risk-adjusted return in view all the time for 
+your sake.  
+Aditya Mongia: Got it. thanks a lot for response. So those are my questions, sir. 
+Moderator: Thank you. The next question comes from the line of Bharanidhar Vijayakumar from Avendus 
+Spark. Please go ahead. 
+B. Vijayakumar:  Yes, good evening. Am I audible? 
+P. Ramakrishnan: Yes. 
+B. Vijayakumar:  Yes, okay. Congrats first of all to PR. My first question is on Qatar. We know that the world's 
+largest LNG facility has been impacted, and likely to be repaired. So, when you mentioned this 
+$30 billion to $50 billion of repairing or reconstruction opportunity in the next three years, are 
+you considering this as well, and do we have a role to play in this gas projects also? 
+Subramanian Sarma: I mean, I don't have a breakdown by country by project because that kind of information is not 
+available. It is that $30 billion to $50 billion per my judgment or my assessment and is based on 
+my discussion with various senior executives, and it does include the LNG train as well.  
+Two trains are affected. In that, currently, we do not have much role to play because it will go 
+back to the people who built it earlier. But what it will do is that, it will keep some of my 
+competition busy in that, so it will provide me a better opportunity for the other bids where I'm 
+involved. 
+B. Vijayakumar:  Okay. Great. Second question is on the areas like Semiconductors and Data Centers. Like Rs 
+10,000 crores of investment in data center indicates incremental 200 megawatt of data center 
+capacity. We initially had 100 MW, so is that the right understanding, that we are doubling our 
+expectation? 
+R. Shankar Raman:  No, the understanding about doubling expectations is right because we need to scale to be able 
+to attract the type of clients we want to cater to, we need to have scale. But the linkage of Rs 
+10,000 crores to 200 megawatt is not linear because it depends on the type of data center that we 
+want to put up, etcetera. It can vary anywhere between Rs 35 crores per megawatt to Rs 350 
+crores per megawatt, depending on how we want to populate it. So, at the moment, what we are 
+trying to pursue is this, but the configuration of 200 MW will actually evolve as we go along. 
+B. Vijayakumar:  Sure. Even similarly on semiconductor, we had through the Fujitsu JV and Siliconch Systems 
+plan to do design rather than fabrication. So, the new capex of around Rs 3,000 crores you 
+mentioned, is it on similar lines or anything more in fabrication or new that we are planning? 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 27 of 28 
+ 
+R. Shankar Raman:  No, it is largely towards acquisition of IP wherever there are white spaces, plus creation of lab 
+facilities. So, it is not getting into fabrication or OSAT. 
+B. Vijayakumar:  Okay. And my final question is on the domestic execution. So, one month has passed in this 
+financial year, and I think there would be impact due to the supply chain costs, labour, even on 
+domestic execution. Your thoughts on that? 
+P. Ramakrishnan: When I gave the guidance for FY27, I did mention in my script saying that Q1, Q2 will have an 
+impact, mostly from Middle East, but for domestic also there will be some impact because of 
+supply chain. 
+B. Vijayakumar:  Sure, understood. All the best and thank you so much. 
+P. Ramakrishnan: Thank you. 
+Moderator: Thank you. The next question comes from the line of Amit Mahawar from UBS. Please go ahead. 
+Amit Mahawar:  Yes, hi, sir. First of all, congratulations on managing the risk pretty well vis-a-vis global peers 
+in last two, three years, particularly in Middle East. Mr. Sarma, particularly, I just want to 
+understand, do you think in the next 6 to 12 months, the conditions on Infra versus Energy 
+projects in Middle East are going to be very divergent, and you see lot of re-bid and reissue of 
+Infra tenders or reworking of infra tenders, or you think that is unlikely? I just want to understand 
+the risk profile of the infra book we have vis-a-vis the energy book. I am very comfortable with 
+the Energy book, but if you can help us on the Infra order book in Middle East, sir. 
+Subramanian Sarma: No, the Infra projects are also coming up. We are in the essential Infra space. We are not in the 
+resorts and hotels and things like that. And those essential infra projects will go ahead, definitely 
+in Saudi, definitely in UAE, and I think the rail transport network will expand. If at all in this 
+crisis, post this disruption for t he next few months , I think generally there will be more 
+investment and more prospects. That's the impression I carry. 
+Amit Mahawar:  True. And a quick one, sir. You know, if we talk to Saipem, Samsung in Europe and Korea, etc., 
+they are all looking at re-build opportunities, in Iran also. Do you think the availability of 
+manpower in the next 6 to 12 months is going to be difficult and expensive? Any color on 
+manpower, sir? That's it. Thank you. 
+Subramanian Sarma: Yes, manpower continues to be a challenge even in India also. That's why we have laid down in 
+our Lakshya 31 - Technology-Enabled Execution. We will look at opportunities to see how we 
+can do more automation. We have done a lot actually in this space, and we'll continue to work 
+on that to see how we can improve productivity by using latest technology and automation and 
+reduce our dependency on manpower.  
+Having said that, it's not going to be replaced. I mean, it will be only reduced. We will also look 
+at modular solutions. So do it at the place where we have access to workforce. So, a combination 
+of these interventions will have to be used to overcome that challenge. 
+Amit Mahawar:  Sure, sir. Thank you very much, and good luck. 
+
+ 
+ Larsen & Toubro Limited 
+  May 05, 2026 
+ 
+Page 28 of 28 
+ 
+P. Ramakrishnan: Thank you. 
+Moderator: Thank you. Ladies and gentlemen, as there are no further questions, I now hand the conference 
+over to Mr. P. Ramakrishnan for closing comments. 
+P. Ramakrishnan: So, thank you, ladies and gentlemen, for the patient listening. I hope all the queries we have been 
+able to articulate our FY26, FY27, and L31 story quite properly. Thanks for your time and once 
+again good night. Thank you. 
+Moderator: Thank you. On behalf of Larsen & Toubro Limited, that concludes this conference. Thank you 
+everyone for joining us and you may now disconnect your lines. Thank you. 

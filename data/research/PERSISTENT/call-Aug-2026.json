@@ -1,0 +1,109 @@
+{
+  "symbol": "PERSISTENT",
+  "period": "Aug 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 71092,
+    "sent": 25665
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6394,
+    "output_tokens": 1214
+  },
+  "guidance": [
+    {
+      "metric": "EPS accretion",
+      "claim": "The transaction is expected to be Cash EPS and Reported EPS accretive in Year 1.",
+      "quote": "• The transaction is expected to be Cash EPS accretive as well as Reported EPS accretive in Year 1 if you remove the transaction expenses that will be incurred in the first year.",
+      "quantified": true,
+      "horizon": "Year 1",
+      "speaker": "Vinit Teredesai"
+    },
+    {
+      "metric": "deal revenue",
+      "claim": "The net new deal will add $125 million plus annually.",
+      "quote": "So, from this deal perspective, this is a net new deal which will add roughly about $125 million plus on an annual basis and overall for the period of the contract it will be roughly about $650 million plus over 6.5 years.",
+      "quantified": true,
+      "horizon": "6.5 years",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "leverage ratio",
+      "claim": "The leverage is expected to reduce down to 1X by FY2030.",
+      "quote": "So, at 50% plus 1 share to 100%, it is expected to reduce down to 1X by FY2030.",
+      "quantified": true,
+      "horizon": "FY2030",
+      "speaker": "Vinit Teredesai"
+    },
+    {
+      "metric": "transaction close",
+      "claim": "The transaction is expected to close in Q4 CY2026 or early Q1 CY2027.",
+      "quote": "And based on the current anticipation of various regulatory approvals that are expected, we expect this transaction to close sometime towards the Q4 of Calendar Year 2026 or early Q1 of Calendar Year 2027.",
+      "quantified": true,
+      "horizon": "Q4 CY2026 / Q1 CY2027",
+      "speaker": "Vinit Teredesai"
+    },
+    {
+      "metric": "deal contribution",
+      "claim": "The large deal will be accretive in revenue and margin from Q2 onwards.",
+      "quote": "And yes, it will be accretive - revenue & margin from Q2 onwards.",
+      "quantified": true,
+      "horizon": "Q2 onwards",
+      "speaker": "Sandeep Kalra"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue",
+      "claim": "Persistent is roughly a $1.654 billion entity from a FY26 perspective.",
+      "quote": "• Persistent today is roughly a $1.654 billion entity from a FY26 perspective.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "growth rate",
+      "claim": "Persistent has grown at 23.9% CAGR for the last 5 years.",
+      "quote": "• We have grown at roughly about 23.9% for the last 5 years from a compounded annual growth rate perspective.",
+      "quantified": true,
+      "horizon": "last 5 years",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "operating margin",
+      "claim": "Persistent's margins stand at roughly 15.6% and PAT margin at 12.6%.",
+      "quote": "Today, our margins stand at roughly 15.6% and the PAT margin stands at about 12.6% .",
+      "quantified": true,
+      "horizon": "current",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "market cap",
+      "claim": "Persistent stands at about $8.1 billion in market cap.",
+      "quote": "Today, we stand at about $8.1 billion in terms of market cap.",
+      "quantified": true,
+      "horizon": "current",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "North America revenue",
+      "claim": "Significant revenue comes from North America at roughly 81% plus.",
+      "quote": "• Predominantly if you look at it, and this is again a thing that we will talk about how it is relevant in the current context, significant amount of our revenue comes from the US/North America - roughly 81%+.",
+      "quantified": true,
+      "horizon": "current",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Nagarro revenue",
+      "claim": "Nagarro is roughly a billion Euro organization translating to $1.14 billion.",
+      "quote": "• Nagarro today is roughly a billion Euro organization which translates into roughly $1.14 billion from a Trailing 12-month perspective.",
+      "quantified": true,
+      "horizon": "Trailing 12-month",
+      "speaker": "Sandeep Kalra"
+    }
+  ]
+}

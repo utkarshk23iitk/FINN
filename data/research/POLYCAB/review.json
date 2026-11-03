@@ -1,0 +1,253 @@
+{
+  "symbol": "POLYCAB",
+  "headline": "Polycab consistently grew revenues above 25% while maintaining margins and expanding its cash reserves across the reported quarters.",
+  "counts": {
+    "delivered": 2,
+    "partly": 0,
+    "missed": 1,
+    "pending": 6,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Working capital cycle will normalize to 50 to 55 days.",
+      "quote": "We expect this to normalize to our long-term steady range of 50 to 55 days in the coming quarters.",
+      "verdict": "missed",
+      "evidence": "Working capital cycle was at 27 days at the end of Q3 FY26.",
+      "evidence_from": "Q3 FY26 call",
+      "actual": 27,
+      "direction": "within",
+      "evidence_quote": "And correspondingly, given the use of letters of credit for raw material procurement, payable days were also higher, resulting in the working capital cycle to be at 27 days at the end of Q3 FY26.",
+      "horizon": "coming quarters",
+      "target_high": 55,
+      "target_low": 50,
+      "unit": "days",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Project Spring capex of investing INR 12b to INR 16b annually through FY30.",
+      "quote": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, in-line with our Project Spring guidance of investing ₹ 12 billion to ₹ 16 billion annually through FY30.",
+      "verdict": "delivered",
+      "evidence": "During FY26, we incurred capex of INR 14.8 billion, in line with our annual guidance.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": 14.8,
+      "direction": "within",
+      "evidence_quote": "During FY26, we incurred capex of INR 14.8 billion, in line with our annual guidance of INR 12 billion to INR 16 billion per annum.",
+      "horizon": "through FY30",
+      "target_high": 16,
+      "target_low": 12,
+      "unit": "INR billion",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "FMEG EBITDA margins targeted at 8% to 10% by FY30.",
+      "quote": "Looking ahead, we are confident in the long -term potential of the FMEG segment and remain on track to achieve our Project Spring targets of 1.5x - 2x industry growth and EBITDA margins in the range of 8% to 10% by FY30, positioning the business for sustai ned growth and value creation.",
+      "verdict": "pending",
+      "evidence": "Target horizon is FY30, which has not yet been reached.",
+      "evidence_from": "reported numbers",
+      "horizon": "FY30",
+      "target_high": 10,
+      "target_low": 8,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "C&W long-term EBITDA margin guidance is 11% to 13%.",
+      "quote": "And if I had to add to that, to refer to our Project Spring guidance, we've given a long-term guidance of 11% to 13%.",
+      "verdict": "delivered",
+      "evidence": "Operating profit margins remained within the 11% to 13% range in reported quarterly numbers.",
+      "evidence_from": "reported numbers",
+      "horizon": "long-term",
+      "target_high": 13,
+      "target_low": 11,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "BEE norms price hikes in FMEG will be 2% to 4% in early calendar year.",
+      "quote": "I believe the price hikes would be in the range of 2% to 4% a nd which will be taken during the course of first 1 -1.5 months of this calendar year itself.",
+      "verdict": "pending",
+      "evidence": "No specific outcome for the price hike percentage was reported in later calls.",
+      "evidence_from": "reported numbers",
+      "horizon": "first 1 -1.5 months of this calendar year",
+      "target_high": 4,
+      "target_low": 2,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Targeting a 30% dividend payout ratio by financial year 2030.",
+      "quote": "This represents a step forward towards our Project Spring Polycab India Limited May 06, 2026 goal of achieving a 30% payout ratio by financial year 2030.",
+      "verdict": "pending",
+      "evidence": "Target horizon is FY2030, which has not yet been reached.",
+      "evidence_from": "reported numbers",
+      "horizon": "FY2030",
+      "target_high": 30,
+      "target_low": 30,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Aiming for greater than 10% revenue contribution from exports by FY 2030.",
+      "quote": "We remain firm on track to achieve our target of greater than 10% contribution from exports by financial year 2030.",
+      "verdict": "pending",
+      "evidence": "Target horizon is financial year 2030, which has not yet been reached.",
+      "evidence_from": "reported numbers",
+      "horizon": "financial year 2030",
+      "target_high": null,
+      "target_low": 10,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Expect INR 800 crores to INR 1,000 crores to come from Bharat Net alone.",
+      "quote": "So we can safely say maybe 1/3rd of that should translate into revenue, maybe INR 800 crores to INR 1,000 crores may come from Bharat Net alone.",
+      "verdict": "pending",
+      "evidence": "Target horizon is this year, which has not fully been reported.",
+      "evidence_from": "reported numbers",
+      "horizon": "this year",
+      "target_high": 1000,
+      "target_low": 800,
+      "unit": "INR crores"
+    },
+    {
+      "made_in": "Q2 FY27",
+      "promise": "Expect the EHV plant to commission in FY28.",
+      "quote": "So I would like to take this opportunity to sort of also let the investor community know that in terms of our EHV plant timelines, we are expecting the EHV plant to now commission somewhere in FY 2028, the next year, though, so FY28.",
+      "verdict": "pending",
+      "evidence": "Target horizon is FY28, which has not yet been reached.",
+      "evidence_from": "reported numbers",
+      "horizon": "FY28",
+      "target_high": null,
+      "target_low": null,
+      "unit": null
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Working Capital Cycle",
+      "change": "Management shifted expected working capital normalization from 50-55 days in Q3 FY26 to 45-50 days in Q4 FY26 and subsequent calls.",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q4 FY26"
+    },
+    {
+      "topic": "EBITDA Margin Guidance",
+      "change": "Added a near- to mid-term EBITDA margin expectation of 12% to 14% in Q4 FY26 alongside the long-term 11% to 13% range.",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q4 FY26"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Jan 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+      "nse": false,
+      "guidance": 7,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "May 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+      "nse": false,
+      "guidance": 8,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Jul 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf",
+      "nse": false,
+      "guidance": 8,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+      "nse": false,
+      "guidance": 6,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        5226.0,
+        6986.0,
+        5906.0,
+        6477.0,
+        7636.0,
+        8864.0,
+        8210.0,
+        9899.0
+      ],
+      "OPM %": [
+        14.0,
+        15.0,
+        15.0,
+        16.0,
+        13.0,
+        13.0,
+        14.0,
+        14.0
+      ],
+      "Net Profit": [
+        464.0,
+        734.0,
+        600.0,
+        693.0,
+        630.0,
+        786.0,
+        797.0,
+        990.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 7786,
+      "output_tokens": 1638
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 8884,
+      "output_tokens": 1688
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 7493,
+      "output_tokens": 1618
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 7429,
+      "output_tokens": 1353
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4672,
+      "output_tokens": 1998
+    }
+  ]
+}

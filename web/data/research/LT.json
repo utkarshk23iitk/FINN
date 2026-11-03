@@ -1,0 +1,216 @@
+{
+  "symbol": "LT",
+  "headline": "Management maintained steady operational performance with minor adjustments to revenue and margin guidance across quarters.",
+  "counts": {
+    "delivered": 2,
+    "partly": 1,
+    "missed": 1,
+    "pending": 1,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Exceed 10% order inflow guidance for FY26",
+      "quote": "Basis the 9-month performance and the healthy prospects pipeline for the near term, we will be exceeding the 10% order inflow guidance for FY26.",
+      "verdict": "delivered",
+      "evidence": "FY26 reported strong revenue and order momentum, and subsequent calls confirmed robust performance.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": null,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": "FY26",
+      "target_high": null,
+      "target_low": 10,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Retain full year revenue growth guidance of 15%",
+      "quote": "So we continue to retain our guidance of 15% for the full year, and we are reasonably confident that Q4, the way we have planned, the execution momentum will be at a",
+      "verdict": "missed",
+      "evidence": "FY26 sales grew 11.8% year-on-year to 285,875 crore, below the 15% target.",
+      "evidence_from": "reported numbers",
+      "actual": 11.8,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": "FY26",
+      "target_high": null,
+      "target_low": 15,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Projects & Manufacturing margin target is 8.5% for FY26",
+      "quote": "Our Projects & Manufacturing EBITDA at 7.9% for 9 months of the current year is in line with the target that we have set ourselves at 8.5% for the full year FY '26.",
+      "verdict": "partly",
+      "evidence": "Projects & Manufacturing portfolio margin was reported as 8.1% in Q3 and range-bound between 7.7% and 7.8% later.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": 8.1,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": "FY26",
+      "target_high": null,
+      "target_low": 8.5,
+      "unit": "%",
+      "verdict_by": "numbers",
+      "model_verdict": "missed"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Close the year with an NWC to revenue ratio around 10%",
+      "quote": "However, with stronger collection intensity and improved contractual terms, our Net Working Capital to Revenue has improved sharply to 8.2% as of December '25, and we expect to close the year with a revised target of around 10%.",
+      "verdict": "delivered",
+      "evidence": "NWC ratio improved and remained strong around 8.2% as of December 2025.",
+      "evidence_from": "Q3 FY26 call",
+      "actual": 8.2,
+      "direction": "within",
+      "evidence_quote": null,
+      "horizon": "FY26",
+      "target_high": 10,
+      "target_low": 8,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Revenue guidance of 10% to 12% for FY27",
+      "quote": "we have given the revenue guidance of 10% to 12% for FY27, basis the fact that the first six months will be subdued",
+      "verdict": "pending",
+      "evidence": "FY27 has not concluded yet as the latest reported quarter is Sep 2026.",
+      "evidence_from": "reported numbers",
+      "actual": null,
+      "direction": "within",
+      "evidence_quote": null,
+      "horizon": "FY27",
+      "target_high": 12,
+      "target_low": 10,
+      "unit": "%"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Revenue Growth Guidance",
+      "change": "Lowered full-year revenue growth expectation from 15% in Q3 FY26 to 10% to 12% for FY27 announced in Q4 FY26.",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q4 FY26"
+    },
+    {
+      "topic": "Capex Details",
+      "change": "Postponed finalization and announcement of Lakshya plan capex details to Q2 during the Q1 FY27 call.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q1 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Jan 2026",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "May 2026",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf",
+      "nse": false,
+      "guidance": 7,
+      "reported": 2,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Jul 2026",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf",
+      "nse": false,
+      "guidance": 5,
+      "reported": 3,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Nov 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_02112026175603_TranscriptSep2026.pdf",
+      "nse": true,
+      "guidance": 0,
+      "reported": 0,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        64668.0,
+        74392.0,
+        63679.0,
+        67984.0,
+        71450.0,
+        82762.0,
+        67942.0,
+        78750.0
+      ],
+      "OPM %": [
+        12.0,
+        13.0,
+        13.0,
+        13.0,
+        13.0,
+        13.0,
+        12.0,
+        11.0
+      ],
+      "Net Profit": [
+        3974.0,
+        6156.0,
+        4318.0,
+        4678.0,
+        3825.0,
+        6133.0,
+        4988.0,
+        5949.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6982,
+      "output_tokens": 1138
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5059,
+      "output_tokens": 912
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3628,
+      "output_tokens": 772
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 410,
+      "output_tokens": 16
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2596,
+      "output_tokens": 1244
+    }
+  ]
+}

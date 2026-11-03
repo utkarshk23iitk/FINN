@@ -1,0 +1,117 @@
+{
+  "symbol": "BAJFINANCE",
+  "period": "Oct 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 51600,
+    "sent": 18691
+  },
+  "dropped_unverified": 1,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5192,
+    "output_tokens": 1375
+  },
+  "guidance": [
+    {
+      "metric": "new loans",
+      "claim": "Well on track to deliver 60 million to 62 million new loans in FY27.",
+      "quote": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "customer additions",
+      "claim": "Clear about adding between 18 MM to 20 MM customers in FY27.",
+      "quote": "We are clear about adding between 18 MM to 20 MM customers to the franchise in FY27.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "opex to NTI",
+      "claim": "Comfortable delivering a 25 to 40 basis point improvement in FY27.",
+      "quote": "We remain pretty comfortable place to deliver a 25 to 40 basis point improvement in FY27 on opex-to-NTI.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "AUM growth",
+      "claim": "Maintains medium-term guidance of 20% to 25% growth.",
+      "quote": "I think that's just medium term, we maintain a guidance of 20% to 25% on a year lower here and a year higher there.",
+      "quantified": true,
+      "horizon": "medium term",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "fee income growth",
+      "claim": "Comfortable sustaining a 15% to 18% fee income growth in the longer term.",
+      "quote": "So we remain comfortable in the longer term, we should be able to sustain a 15% to 18% fee income growth is what I would just say to you, Viral.",
+      "quantified": true,
+      "horizon": "longer term",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "AUM growth",
+      "claim": "Longer-term growth guidance is 23% to 25%.",
+      "quote": "I'm not changing, I must say to you, the longer -term growth guidance of 23% to 25%.",
+      "quantified": true,
+      "horizon": "longer term",
+      "speaker": "Rajeev Jain"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "AUM growth",
+      "claim": "AUM grew by 26.5% to INR 5,84,624 crores in the quarter.",
+      "quote": "AUM, as you can see, grew by 26.5% to INR 5,84,624 crores, delivering net AUM addition of close to INR 38,000 crores in the quarter.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "PBT growth",
+      "claim": "PBT grew by 29% to INR 8,537 crores in Q2.",
+      "quote": "PBT grew by 29% to INR 8,537 crores in Q2.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "PAT growth",
+      "claim": "PAT grew by 29% to INR 6,367 crores.",
+      "quote": "PAT grew by 29% to INR6,367 crores.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "ROA",
+      "claim": "ROA for the quarter came in at 4.6%.",
+      "quote": "ROA for the quarter came in at 4.6% and ROE came in at 20.6%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "credit quality",
+      "claim": "Net NPA came in at 42 basis points.",
+      "quote": "Opex to total income was 33% and net NPA came in at 42 basis points.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "cost of funds",
+      "claim": "Cost of funds came down by 9 basis points to 7.31%.",
+      "quote": "Cost of funds came down sequentially by 9 basis points and came in at 7.31%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Rajeev Jain"
+    }
+  ]
+}

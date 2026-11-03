@@ -1,0 +1,992 @@
+ 
+ Page 1 of 26 
+ 
+ 
+ 
+“Larsen & Toubro Limited Q1 FY '27 Earnings 
+Conference Call” 
+ 
+July 28, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+MANAGEMENT: MR. SUBRAMANIAN SARMA – DEPUTY MANAGING 
+DIRECTOR AND PRESIDENT, LARSEN & TOUBRO 
+LIMITED 
+MR. P. RAMAKRISHNAN – CHIEF FINANCIAL OFFICER, 
+LARSEN & TOUBRO LIMITED 
+
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 2 of 26 
+Moderator: Ladies and gentlemen, good day and welcome to the Q1 FY '27 Earnings Conference Call hosted 
+by Larsen & Toubro. 
+ As a reminder, all participant lines will be in the listen -only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing ‘*’ and then ‘0’ on your touch-
+tone phone. 
+ I now hand the conference over to Mr. P. Ramakrishnan – Chief Financial Officer from Larsen 
+& Toubro. Thank you and over to you, Mr. P. Ramakrishnan. 
+P. Ramakrishnan: Thank you, Sagar. Good evening, ladies and gentlemen. A warm welcome to all of you to the 
+Q1 FY '27 Earnings Call of L&T. 
+ The Earnings Presentation was uploaded onto the Stock Exchange and on our website around 
+6:25 PM. Hope you had a chance to have a quick look at the numbers. I will first walk you 
+through the important highlights for Q1 FY  '27 in the next 20 to 25 minutes or so, post which 
+we will be taking the Q&A. Kindly note that when the Q&A session starts, I will also have with 
+me our Deputy Managing Director and President – Mr. Subramanian Sarma. 
+ Before I begin the overview, the disclaimer from our en d  - The presentation which we have 
+uploaded on the Stock Exchange and our website today, including the discussions we may have 
+on the call today, may contain certain forward -looking statements concerning L&T's business 
+prospects and profitability, which are sub ject to several risks and uncertainties. And the actual 
+results could materially differ from those in such forward -looking statements. I would request 
+you to go through the detailed disclaimer, which is available in Slide # 2 of our Earnings 
+Presentation that we have uploaded just now. 
+ India's economic growth remains resilient, supported by healthy domestic demand and continued 
+expansion in Manufacturing and Service activity, with high -frequency indicators remaining in 
+the expansionary territory, despite some moderation in momentum. The headline CPI increased 
+from 3.4% in March 2026 to 4.4% in June 2026, largely driven by food and fuel inflation, with 
+underlying price pressures having firmed modestly. While domestic macroeconomic 
+fundamentals remain supportive, developments in global energy markets and geopolitical 
+conditions continue to influence growth, inflation, and currency dynamics. 
+ Global growth is expected to remain moderate in the near term, reflecting softer growth in the 
+U.S., weak domestic demand in China, and persistent inflationary pressures in parts of Europe. 
+Middle East growth is expected to moderate amid geopolitical uncer tainty and energy market 
+disruptions, although government -led infrastructure spending, energy investments, and 
+economic diversification programs will continue to provide support. The key investment themes 
+include infrastructural and industrial development in Saudi Arabia, logistics, renewables, and 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 3 of 26 
+data center investments in the UAE, and LNG, that is liquefied natural gas, petrochemicals, and 
+energy infrastructure expansion in Qatar. 
+ In the near term, the Middle East region continues to navigate logistical and trade disruptions 
+arising from the incomplete normalization of traffic through the Strait of Hormuz, increasing 
+reliance on ports along the Gulf of Oman and the Red Sea corridor. 
+ Having covered the macroeconomic landscape, let me now turn on to  a few developments 
+and achievements for Larsen & Toubro: 
+The offshore wind business secured an ultra -mega order under TenneT North Sea HVDC 
+offshore wind program, taking the cumulative offshore wind transmission capacity secured over 
+the past three quarters to approximately 8 GWs, reinforcing L&T's growing presence in the 
+Europe energy transition infrastructure. The order further strengthens L&T's position as a global 
+partner of choice for large -scale renewable energy transmission infrastructure and underscores 
+its capability to deliver complex technology-intensive offshore projects.  
+ The divestment of Nabha Power was completed on 25th June 2026, in line with our strategy to 
+exit the concessions portfolio.  
+                                                The company signed an agreement with Hyd erabad Metro Rail L imited, a fully state -owned 
+enterprise of the Government of Telangana, to divest its entire stake in L&T Metro Rail 
+Hyderabad Limited. The estimated completion date for this transaction has been revised to 30th 
+September 2026.  
+ The company entered a strategic collaboration with the French company Exail to deliver an 
+advanced unmanned mine counter -measure suite for the Indian Navy's mine counter -measure 
+vessels program.  
+ L&T Vyoma, which is the data center business for Larsen & Toubro, entered into a strategic 
+partnership with Fortanix Incorporated, a U.S. -headquartered global leader in Data and AI 
+security, and a pioneer in confidential computing, to jointly deliver sovereign secure Software-
+as-a-Service offerings for enterprises and government organizations in India.  
+ L&T Electronic Products and Systems Business entered into  a strategic partnership with EVR 
+Motors to jointly develop and manufacture next -generation EV traction motors in India, 
+combining indigenous manufacturing with advanced propulsion technology to support electric 
+mobility, localization, and the government's Make in India initiatives.  
+ L&T also secured a 'Baa1' long-term issuer rating with a stable outlook from Moody's Ratings, 
+two notches above the sovereign, reflecting strong capacity to meet financial commitments and 
+a low level of credit risk.  
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 4 of 26 
+ Before moving on to the financial parameters, I wish to reiterate that effective 1 st April 2026, 
+pursuant to the company's Lakshya 2031 Strategic Plan, the group has realigned its portfolio to 
+enhance strategic focus, improve capital allocation, and enhance operational agility. As a result, 
+the reporting segments are now classified as:  
+• “Infrastructure Projects” have been renamed as “Infrastructure and Utilities”, 
+• “Energy Projects” have been renamed as “Energy – Conventional”.  
+• The Renewables business and Offshore Wind business previously reported under the 
+“Infrastructure Projects” and “Energy Projects”, respectively, have been regrouped 
+under the newly formed “Energy – Green” segment.  
+• “Hi-Tech Manufacturing” has been renamed as “Manufacturing and Products” and 
+now includes Construction Equipment and Industrial Product Design and 
+Development businesses, which were previously reported under the “Others” segment. 
+• “IT and Technology Services” have been renamed as “Technology, Platforms and 
+Services”.  
+• The “Realty” business has been now classified as a separate reportable segment, which 
+was previously included in the “Others” segment.  
+• Also, our “Projects and Manufacturing” portfolio has now been reclassified as  
+“Projects, Products, and Manufacturing” to better reflect the breadth of activities 
+within the segment, including our forays into Electrolyser and Electronics 
+manufacturing. In terms of exclusions, the only material change to the reporting 
+structure is the segregation of the Realty business out of the Projects and 
+Manufacturing segment that we used to report earlier.  
+ I now move on to the group performance: 
+The order  inflows momentum remained positive during the quarter, driven by strong 
+international ordering activity, including large Offshore Wind awards in Europe and sustained 
+private sector investment -led demand in the domestic market, particularly in the Metals and 
+Minerals and the Buildings and Factories businesses. Reflecting this momentum, the group order 
+inflows at Rs. 1,080 billion, registered a 14% Y-on-Y growth. Within this, the Projects, Products, 
+and Manufacturing, that is, PP&M portfolio, recorded order inflows of Rs. 860 billion, also up 
+by 14% Y-on-Y basis. In terms of the geographic mix, international order inflows grew 27% Y-
+on-Y, while domestic order inflows remained broadly stable with a 1% growth.  As a result, the 
+contribution of international orders to the PPM portfolio increased to 55% compared with 49% 
+in the corresponding order of the previous year.  
+ Turning on to the prospects pipeline: 
+The opportunity pipeline for the balance nine months of the current Fiscal FY '27 remains 
+healthy at approximately Rs. 15 trillion, compared with Rs. 14.81 trillion at the same time last 
+year. The broad composition of the overall prospects pipeline is as follows: 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 5 of 26 
+• Infrastructure and Utilities:  Infrastructure and Utilities have a share of Rs. 7.82 
+trillion as compared to Rs. 6.85 trillion last year. 
+• Energy – Conventional: The order prospects are at Rs. 4.37 trillion vis-à-vis Rs. 5.19 
+trillion last year. 
+• Energy – Green: Rs. 2.43 trillion as of June ‘26 as compared to Rs. 2.46 trillion last 
+June 2025.  
+• Manufacturing and Products: The order prospects is Rs. 0.46 trillion as compared 
+to Rs. 0.30 trillion last year.  
+ Moving on to the order book: 
+The total order book stood at Rs. 7.79 trillion as of June ‘26, up by 27% as compared to the June 
+25 level. In terms of portfolio composition, approximately 45% of our total order book is from 
+Infrastructure and Utilities, 28% from Energy - Conventional, 19% from Energy - Green. In 
+terms of geographic mix, 48% of the order book is domestic, while 52% is international, 
+reflecting the increasing share of international orders secured over recent times. The total 
+domestic order book, excluding Realty, stood at Rs. 3.54 trillion with a customer mix tilting 
+towards the private sector over the past 12 months. The share of private sector orders increased 
+to 40% from 27% as of June 25, driven by major order wins in the CarbonLite Solutions, 
+Residential, Commercial Buildings and Factories, and the Metals and Minerals businesses, along 
+with select awards in Heavy Civil Infrastructure business. 
+ Within the Public sector portfolio, the combined share of Central and State Governments 
+declined to 30% of the domestic order book, comprising 9% from central government and 21% 
+from state governments as compared to 39% a year ago. The PSU exposure also moderated to 
+30% from 34% last year.  
+ Of the international order book of Rs. 4.07 trillion, the Middle East accounts for 71% of the 
+portfolio, underpinned by our longstanding presence in the region. The Europe contributes 14%, 
+reflecting the growth in our offshore wind business over the past few quarters. The balance 15% 
+is distributed across other international markets, including Central Asia, Asian and the SAARC 
+regions, providing further geographic diversification to our Infrastructure and Utilities and 
+Energy - Green segments.  
+ With respect to additional details on the order book, 8% of the total order book is funded by 
+bilateral and multilateral agencies, primarily covering the company's exposure to projects from 
+state and local authorities and PSUs.  In addition, as of June 2026, slow -moving orders 
+constituted less than 1% of the overall order book. During the quarter, orders worth aggregating 
+Rs. 2.5 billion were deleted from the order book. Further details are available in the 
+accompanying presentation. 
+ Turning on to revenues: 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 6 of 26 
+The performance during the quarter reflected the execution stage of the order book across both 
+domestic and international markets, as well as supply chain and logistic constraints affecting 
+select projects in the Middle East. As indicated during the Q4 FY '26 Earning Call, the revenue 
+growth in Q1 was expected to be relatively subdued, primarily due to disruptions arising from 
+the ongoing conflict. Reflecting these factors, the group revenues for Q1 FY '27 stood at Rs. 679 
+billion, registering a 7% Y-on-Y growth, with international revenues accounting for 51% of the 
+total group revenues. The revenues from the PPM business stood at Rs . 462 billion, up 2% Y-
+on-Y.  
+ Moving on to EBITDA margin: 
+Our group level EBITDA margin excluding other income for Q1 FY '27 is 9.0% as compared to 
+9.9% in the Q1 of last year . The decline in EBITDA margin is mainly reflective of lower 
+execution in the PPM business, forex variation in the IT subsidiaries, and higher ECL or credit 
+provisions. 
+ Our PPM business EBITDA margin for Q1 FY  '27 was at 7% and declined by 20 basis points 
+compared to the corresponding quarter of the previous year. The decline in margin was mainly 
+attributed to lower execution and higher ECL provisioning.  
+ Our group PAT for Q1 FY '27 at Rs. 41 billion as up by 14% Y-on-Y basis. The increase in PAT 
+is largely reflective of improved performance of the services business and higher treasury 
+income aided by improved working capital levels of the PPM portfolio. The group performance 
+along with the P&L construct and the reasons for major variances under the respective function 
+heads is provided in the earnings presentation. 
+ Turning on to working capital: 
+Our focus on working capital efficiency continued to yield positive results during the quarter.  
+While net working capital reflected the expected utilization of customer advances and settlement 
+of vendor dues during the quarter, the gross working capital efficiency improved further.  
+ In terms of numbers: 
+The NWC to Sales ratio improved significantly to 4.9% in June 2026 from 10.1% in June 2025. 
+As anticipated, the ratio was marginally higher than 4.1% that we reported for March 26. The 
+GWC to sales ratio improved further to 51.1% from 53.9% in March 2026, driven by continued 
+focus on working capital efficiency. Our group level collections excluding the Financial Services 
+segment for Q1 FY '27 stood at Rs. 658 billion as compared to Rs. 603 billion in Q1 of previous 
+year.  
+ The Cash Flow from Operations excluding Financial Services remained healthy at Rs. 43 billion 
+during the quarter. Our Group Cash Flows excluding the Financial Services business has been 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 7 of 26 
+provided in the Annexures alongside reported cash flows at the group level to enhance the clarity 
+on the overall cash flow movement.  
+ Finally, the trailing 12-month ROE for Q1 FY  '27 stood at 16.1% vis-a-vis 17% in Q1 FY  '26. 
+As this metric is measured on a trailing 12-month basis, it continues to reflect the impact of the 
+one-time Labor Code provision recognized in Q3 previous year, which reduced the ROE by 
+almost 100 basis points. Excluding this impact, the underlying ROE remains broadly stable year-
+on-year.  
+ Very briefly, I will now comment on the performance of each business segment as per the 
+new segment definition before we give our final comments on the outlook: 
+ We begin with the Infrastructure and Utilities segment: 
+The order inflows for the segment more than doubled year-on-year to Rs. 444 billion in Q1 FY 
+'27. Major domestic orders secured during the quarter included ferrous plant projects in the 
+Metals and Minerals business and Residential buildings and factories business. International 
+order wins were led by substations and transmission line projects in the Power Transmission and 
+Distribution business, along with select orders in the transportation infrastructure vertical. 
+ Notably, the Metals and Minerals business secured its largest ever domestic metal sector order 
+during the quarter from a leading iron and steel company. Private sector orders accounted for 
+nearly 77% of domestic order inflows in Q1 FY '27, compared with 52% in Q1 FY '26, reflecting 
+the continued strength of private Capex. The segment order book stood at Rs. 3.51 trillion as of 
+June 2026, providing strong revenue visibility with an average execution cycle of approximately 
+29 months.  
+ As I mentioned earlier, the Infrastructure and Utilities pipeline for the remaining nine months is 
+approximately Rs. 7.82 trillion. The pipeline comprises of domestic order prospects of Rs. 5.47 
+trillion and international prospects of Rs. 2.35 trillion. The subsegment breakup of the total order 
+prospects is as follows : Transportation infra having a share of 24%, heavy civil infrastructure 
+22%, power transmission distribution at 17%, buildings and factories at 15%, water effluent and 
+treatment at 12% and metals and minerals at 10%.  
+ The revenue for the quarter declined by 3% year -on-year basis, primarily reflecting the early 
+stage execution of certain large projects within the order book. The EBITDA margin for the 
+segment stood at 5.1% in Q1 current year as compared with 5.5% in Q1 previous year. The 
+moderation in margin was largely driven by a change in revenue mix and higher ECL provisions.  
+ Moving on to the Energy - Conventional segment, which comprises the Hydrocarbon and 
+CarbonLite Solutions businesses: 
+The order inflows for the segment stood at Rs . 31 billion in Q1 FY '27 compared with Rs. 314 
+billion in Q1 last year.  The decline was primarily attributable to the deferment of certain 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 8 of 26 
+anticipated order awards during the quarter coupled with the high base effect of the previous 
+year which included the benefit of ultra -mega thermal BTG orders in the CarbonLite solutions 
+business.  
+ The order book of the Energy - Conventional segment at Rs. 2.22 trillion as of June ‘26 with the 
+hydrocarbon order book at Rs . 1.59 trillion and CarbonLite Solutions at Rs 0.62 trillion. The 
+Energy - Conventional segment continues to see a healthy opportunity pipeline led 
+predominantly by Hydrocarbon opportunities across international markets while CarbonLite 
+Solutions prospects remain largely domestic in nature.  The order prospects pipeline for the 
+remaining nine months of the current financial year stands at approximately Rs . 4.37 trillion 
+comprising Hydrocarbon prospects of Rs . 3.67 trillion and CarbonLite Solutions prospects of 
+Rs. 0.70 trillion.  
+ The Q1 FY  '27 revenues for the segment stood at Rs . 142 billion, reflecting a growth of 14% 
+growth and underscoring execution progress on a larger order book. The CarbonLite Solutions 
+business in particular continued to gain traction as execution on ultra-mega orders gathered pace. 
+The Energy - Conventional margin was at 7.6% and is largely in line with the previous year 
+which was 7.5%. 
+ Moving on to the next segment, Energy – Green: 
+The segment comprises a relatively mature solar business with a strong presence across GCC 
+markets complemented by the newer growth platforms in offshore wind and onshore wind. The 
+Energy – Green segment witnessed strong ordering momentum during the quarter driven by 
+significant wins in the Offshore Wind business in Europe supported by the receipt of ultra-mega 
+orders for HVDC platforms in the Offshore Wind business. Reflecting this momentum, order 
+inflows for the segment at Rs. 330 billion in Q1 current year, registering a strong growth of 58% 
+Y-on-Y. 
+ The order book in this segment was at Rs . 1467 billion comprising of solar projects of Rs . 740 
+billion, offshore wind projects of Rs . 568 billion and onshore wind projects of Rs . 158 billion. 
+The prospect pipeline for this segment is Rs. 2.42 trillion comprising of solar EPC prospects of 
+Rs. 1.80 trillion, offshore wind prospects of Rs 0.40 trillion and onshore wind prospects of Rs . 
+0.22 trillion.  
+ On Revenues, the segment's performance during the quarter was impacted by supply chain 
+disruptions in the GCC region which affected execution in the solar business.  The segment 
+revenue for Q1 FY '27 stood at Rs. 56 billion registering a decline of 11% Y-on-Y while margins 
+remained largely stable compared to the corresponding period of the previous year.  
+ Moving on to the Manufacturing and Products segment: 
+Manufacturing and Product s segment, which comprises Heavy Engineering, Precision 
+Engineering & Systems, Electronic Products and Systems, Electrolyser manufacturing, 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 9 of 26 
+Construction Equipment and Industrial Products Design and Development. The segment order 
+inflow during the quarter was aided by receipt of multiple refinery equipment packages in the 
+Heavy Engineering business. The order book of this segment at Rs . 424 billion as of June ‘26 
+with the PES order book at Rs . 207 billion, Heavy Engineering order book at Rs . 87 billion, 
+Electronic Products and Systems order book , which currently includes the defense -related 
+electronic product system at Rs. 66 billion and the CE& IPDD order book of Rs. 47 billion. Our 
+order prospects pipeline for the remaining nine months in this segment is around Rs. 460 billion 
+comprising of Rs. 368 billion of Precision Engineering and Electronics prospects and remaining 
+Rs. 92 billion is from the Heavy Engineering business.  
+ The segment revenue at Rs. 45 billion registered a growth of 9% Y-on-Y. The segment revenue 
+growth is reflective of strong execution momentum in the Precision Engineering and Systems 
+and the Construction Equipment businesses. The segment margins were lower on a Y-on-Y basis 
+largely reflecting the sales mix across the businesses.  
+ Moving on to the next segment, which is the Technology, Platforms and Services: 
+This comprises of the two listed entities LTM and L&T Technology Services as well as the 
+newly incubated businesses of Digital Platforms, Data Centers and Semiconductor Design as 
+well as the residual portion of the Smart World and Communications portfolio. The segment 
+revenue stood at Rs. 146 billion for Q1 FY '27 registering a growth of 15% Y-on-Y led by the 
+growth in both LTM and LTTS. The decline in segment margin was primarily due to salary hikes 
+and forex variations in LTM. I will not dwell too much on this segment as both the companies 
+in the segment are listed entities and the detailed fact sheets are already available in the public 
+domain.  
+ We move on to L&T Finance Limited: 
+Here again the detailed results are available in the public domain but on a summary basis the Q1 
+current year witnessed a robust growth in the retail disbursements and improved collection 
+efficiency as well as asset quality. The ROA remained healthy at 2.48% for Q1 FY '27.  
+ Moving on to the Realty segment: 
+The Realty segment is now being reported as a separate segment following its segregation of the 
+erstwhile Projects and Manufacturing portfolio. The order inflows for Q1 FY '27, which mainly 
+represents L&T's share of pre-sales stood at Rs. 13 billion, registering a strong Y-on-Y growth 
+of 32%. 
+ During the quarter, the business further strengthened its presence in the NCR market through 
+the acquisition of a 20 acre land parcel in Gurugram. The segment order book representing 
+unrecognized revenue stood at Rs. 173 billion as of June 2026. During the quarter, L&T Realty 
+launched two projects in the Mumbai Metropolitan Region with a potential GSV of Rs . 50 
+billion. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 10 of 26 
+ The revenue for the quarter more than doubled year-on-year to Rs. 10.1 billion driven by a higher 
+handover of residential units in the MMR region. The segment margins moderated during the 
+quarter primarily due to a change in sales mix with a higher proportion of JDA -led projects 
+contributing to the revenue.  
+ Moving on to the Development Project segment: 
+The performance of the segment for Q1 comprises the operations of Nabha Power up to the date 
+of its divestment that is June 25, 2026; L&T Metro Rail Hyderabad Limited till April 30, 2026, 
+in line with the terms of the share purchase agreement with HMRL being the buyer. The segment 
+performance also includes the green energy business focused on building a portfolio of large -
+scale integrated green hydrogen and derivative projects including gr een ammonia and green 
+methanol. The business is presently in the investment and scale -up phase. Going forward, the 
+financial performance of the segment will primarily reflect the green energy development 
+portfolio.  
+ Before I conclude, I would like to highlight the financial year has commenced against a backdrop 
+of heightened geopolitical uncertainty and economic volatility. Sustaining growth in such an 
+environment requires a careful balance between pursuing opportunities and maintaining 
+disciplined risk management. 
+ Our diversified presence across sectors and geography coupled with a strong focus on cash flow 
+generation and prudent capital allocation has enabled us to navigate these evolving conditions 
+effectively. The performance for the quarter reflects the resilien ce of our portfolio and the 
+strength of our diversified business model in an increasingly dynamic operating environment. 
+This balanced approach enhances resilience and positions us well to deliver sustainable growth 
+across market cycles. 
+ Against this backdrop and supported by the strength of our order book and healthy prospects 
+pipeline and the continued focus on execution, I will now turn on to our guidance for FY '27.  
+                                                On order flows: Our order inflow recorded a strong 14% year-on growth in Q1 despite project 
+deferments during the quarter. Looking ahead, our prospects pipeline for the remaining nine 
+months remains healthy at Rs.  15 trillion, providing strong visibility for the rest of the year. 
+While the awarding activity in the Middle East witnessed some temporary slowdown, tendering 
+and bidding momentum continues to remain robust, and we expect project awards to pick up 
+from Q2. Importantly, we have not seen any project cancellations acro ss the opportunities that 
+we are actively pursuing and bidding for.  In India, we see continuing investment momentum 
+from both Private Sector and Public Sector Enterprises. Given the strength of our opportunity 
+pipeline and the underlying market dynamics, we remain confident of achieving our order inflow 
+growth guidance of 10% to 12% band for the current year.  
+ On Revenues, during the Q4 FY  '26 earnings call, we had indicated for the first half of FY  '27 
+and Q1 in particular could be relatively subdued given the conflict in the Middle East.   While 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 11 of 26 
+the operating environment remains dynamic, our teams are actively pursuing alternate supply 
+chain solutions and execution strategies to manage these challenges. Considering the rapidly 
+evolving situation, we believe it is prudent to wait for greater clarity before reassessing the full-
+year outlook. For now, we remain committed to our FY  '27 growth guidance of 10 % to 12% 
+revenue growth guidance. 
+ Coming on to margin: 
+In line with our Revenue growth guidance, we continue to target the margin of around 7.8% for 
+FY '27 with respect to the PPM portfolio.  
+ Lastly, on Working Capital: 
+We continue to witness strong collection momentum with no delays in customer receipts across 
+Middle East despite the ongoing conflict and robust collections also from other geography 
+including our parent geography of India. Factoring in the expected utilizati on of customer 
+advances and increased vendor payments as the execution accelerates in H2, we are maintaining 
+our FY '27 working capital guidance of around 10%. 
+ With this, I complete the first part of our presentation. We can now get into Q&A. 
+Moderator: Thank you very much.  We will now begin with the question -and-answer session.  Your first 
+question comes from the line of Mohit Kumar with ICICI Securities. Please go ahead. 
+Mohit Kumar: My first question is on the Middle East. What would have been the impact of the revenue as per 
+your assessment in the first quarter? And do you think that there will be a need to make a 
+provision on the projects due to cost escalation if this continues for a slightly longer time? And 
+have the things improved in terms of execution compared to last quarter as we talk? 
+P. Ramakrishnan: So, thank you, Mohit. Just to once again reiterate, we also have with us Mr. Subramanian Sarma, 
+our Deputy Managing Director President, to take the questions. But I will take this first.  
+                                               Two parts to it. Insofar as cost is concerned, as you are aware that L&T is engaged in the Middle 
+East across select customers and select sectors. And the customers are virtually the Country's 
+sector specialists. And the order book that we have, we have multiple projects with them. There 
+are only certain sectors, I would say, where some amount of execution momentum has slowed 
+down. But otherwise, for major part of the order execution momentum, as I elaborated 
+specifically while explaining the hydrocarbon, the Energy - Conventional performance, the 
+momentum has continued. 
+ I do not think it has impacted that much in the first quarter, barring for certain projects and 
+especially the Projects that we are executing in Qatar, which fortunately for us at early stage, the 
+major part of the execution is actually the fabrication and that is happening in Oman for those 
+projects.  
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 12 of 26 
+ So, we have not had that kind of a situation in Q1. But going forward in segments like 
+Renewables and all, which is forming part of the Energy – Green segment, supply chain 
+challenges have happened and intermittent supply chain disruptions are happening.  The 
+company is ensuring that we are trying to find out alternate routes. While we are doing this, we 
+are ensuring that the client is informed of our next actions. And because of this kind of a force 
+majeure situation, we are in close touch with the clients  in so far whenever there is a change in 
+the project scope in terms of the execution momentum. 
+ So, for Q1, especially for Hydrocarbons, we have not seen that kind of a challenge. But going 
+forward, if the conflict continues to persist, there can be implications there, but we are working 
+very closely with clients.  
+ In so far as the extended timeline is concerned, it will obviously have some amount of cost 
+implications, but we are in touch with the clients and the clients are appreciative enough.  It is 
+not only with Larsen & Toubro, it is also with other contractors, they know the issue. And 
+hopefully, some part of these cost  increases, because of time extension and supply chain 
+disruptions, will get compensated at a later stage. 
+Mohit Kumar: My second question is, of course, the war is still ongoing. How are the conversations progressing 
+on finalization of the Middle East prospects, especially the large hydrocarbon? Do you think that 
+there is an increased risk that this prospect list may shift to the next calendar year? 
+Subramanian Sarma: This is Sarma here. No, I think the prospect list still holds good and many of the projects are 
+progressing as per the plan. And very soon, you will see some announcements coming from our 
+side with respect to new awards in the Middle East. 
+Mohit Kumar: Is there any risk that some of the prospects could shift? Do you think that most of the prospects 
+will get finalized as you envisage? 
+Subramanian Sarma: No, I am not expecting much delay in the finalization of awards. 
+Moderator: Your next question comes from the line of Atul Tiwari with JP Morgan. Please go ahead. 
+Atul Tiwari: Congrats on a pretty good set of numbers in a challenging environment. S ir, my question is on, 
+would you be able to share any color on the progress of AMCA RFP and as well as the remotely 
+piloted aircraft in a bidding process for which I think you have a JV with General Atomics? 
+P. Ramakrishnan: So, Atul, I think this question came up during our May call as well. I do not think we have 
+anything more to say what we stated in the previous call. So, the bidding process is on.  I think 
+we do not have anything further to state at this juncture. 
+Atul Tiwari: For both of them, there is no further update? 
+P. Ramakrishnan: Yes. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 13 of 26 
+Moderator: Your next question comes from the line of Mohit Pandey with Citi. Please go ahead. 
+Mohit Pandey: Sir, my first question is on the margins. While we have highlighted robust collections and cash 
+flow improvement and working capital guidance is being maintained, we have also mentioned 
+the margin impact due to ECL provisions. So, just if you could help reconcile, are the ECL 
+provisions not linked to receivables in this case or how to read this? Yes, that would be question 
+number one. 
+P. Ramakrishnan: So, Mohit, it is like this that what happens is ECL provisions are basis the aging of the 
+receivables. As you are aware, we have been mentioning even in the previous year, there has 
+been some amount of collection shortfalls that we have been witnessing in the Water & Effluent 
+Treatment business. Also, in some projects which are about to get completed , those legacy 
+projects which are getting complet ed, mostly coming from India related projects , the revised 
+aging analysis typically creates a little bump up in the ECL provisions in first quarter. But I do 
+not think is going to happen in the balance three quarters of the year.  
+ So, specifically, if you talk about sector wise, it is to do with the  Water and Effluent treatment 
+and in some select projects in the Infrastructure segment in India or projects in India. 
+Mohit Pandey: That is very clear. Sir, second question is on the prospect pie. So, across the board, we have seen 
+companies and I would assume including us , take price hike, which has also helped with order  
+inflow numbers for some companies. So, when we get the prospect pie of 15 trillion, have we 
+factored in price hike that we might need to take to factor in input cost pressures or yes, how to 
+read that? 
+P. Ramakrishnan: So, when I talked about the 15.07 trillion of order prospects, it is basis the current pricing. Okay, 
+current pricing of those prospects. 
+Mohit Pandey: So, possibly there could be some upside, possibly if there are pressures. 
+P. Ramakrishnan: Anytime I talk about prospects pipeline , it is basis the way they are priced today. It is not that 
+what we took as a prospect pipeline in the month of June 25, continues to remain in the same 
+way as prospects in December 25. The pipeline always get reset or revised basis the current way 
+we would like to see, as if you were to quote it tomorrow. So, it is basis that this is the numbers 
+that looks like. 
+Mohit Pandey: And last question, basically on margins again. So, while we have 9.9% going to 9.0%, there is I 
+think slide number 31, which suggests an increase in EBITDA margins in the segmental breakup. 
+So, is that to do with the other income which has seen a sharp increase? 
+P. Ramakrishnan: So, the 9% that you see, if you see in the next slide, the other income comes there. So, this 
+EBITDA margin is before other income. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 14 of 26 
+Mohit Pandey: Yes, but on slide 31, the segmental breakup shows the overall margins going from 11.2 % to 
+11.5%. So, that is where my confusion was basically. 
+P. Ramakrishnan: So, what happens, wherever other income is getting posted in the subsidiaries which are 
+executing the projects, in the segment slide, that other income features in the respective margin 
+trajectory. So, when I am commenting upon each of the segments, the EBITDA margin, when I 
+am giving the commentary, it includes the segment's other income there. But when I talk abo ut 
+the overall financial construct, that goes at 9, 9.9, the slide which you starting with top line and 
+ending with EBITDA and the second slide starting with EBITDA and ending with PAT, that 9% 
+is without the  Other income. They are not exactly comparable because when we talk about 
+margin, we are referring to margins for the segment at the PPM level, whereas the 9, 9.9 is at 
+the overall group level, which includes the IT company margins, the financial services, net 
+contribution and net interest margin, everything. 
+Mohit Pandey: That is it from my side and I wish you all the best. 
+Moderator: Your next question comes from the line of Amit Anwani with PL Capital. Please go ahead. 
+Amit Anwani: So, first question pertains to you highlighted about the water related impact on execution. I 
+recollect I think in Q4, we were talking about the water projects getting improved and probably 
+the clearances are now getting better and the collection can improve. So, what went wrong with 
+respect to the water ’s business and what is the kind of order book collections, which is there? 
+Any update on this side? 
+P. Ramakrishnan: So, like what last time when we spoke about last year, the impact on execution on water was 
+because of the fund outlays around the Jal Jeevan Mission orders. I wish to tell you that the JJM 
+mission orders since then from the current year has revived, but it takes some time before the 
+execution starts, whereas the credit provisioning is basing the aging matrix. 
+ So, as I mentioned earlier, this is sort of a Q1 effect. With the execution momentum continuing 
+and improving from now onwards, because collections have started coming in , some of these 
+reversals of credit provisions will happen as we progress, bill and collect. 
+Amit Anwani: Second question on the order inflows, one on the European wind. So, what is the nature of this 
+order, the timelines and the margins working capital? 
+Subramanian Sarma: This is Sarma here. This European order is the extension of what we had already announced last 
+year, the two contracts. We had, at that time told you that we are looking at signing a framework 
+agreement for total 12 gigawatts.  
+ And then last year, we had secured four. And now, again, this quarter, we have secured additional 
+four. So, it is an extension of that.  And hopefully, everything goes well. We  will have to wait 
+and see. Maybe if they go ahead with additional two, then it may materialize sometime in the 
+future. But that is something which I cannot be very sure about it.  
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 15 of 26 
+ But today, we have almost close to 8 gigawatt of offshore wind and adding up to almost close 
+to Rs. 57,000-60,000 crores of order book. And this will get executed over a four to five years 
+period. That's the timeline of this.  These are long projects. And it requires a considerable amount 
+of effort in procurement and fabrication and then installation.  So, the four to five years is the 
+timeline. And the margin will be better than what we have normally in our EPC business in the 
+Middle East. But it is too early to commit on the exact numbers. But hopefully, it should deliver 
+better results.  
+ We will continue to pursue offshore wind prospects in the region, in Europe, and also in other 
+parts of the world because that is the model and that is the business we want to grow. But other 
+than that specific offshore wind, rest of our EPC business will be still mostly centered around 
+India, Middle East, and maybe some selected business in CIS countries. We have no plans to 
+diversify in terms of geography for EPC business except for the offshore wind farm business.  
+ Now, talking about the prospects line, I think I mentioned earlier to previous question that we 
+are not seeing any significant delay.  There could be a month here and there. But our order 
+pipeline from the Middle East for the businesses we are present there, which is for primarily 
+Hydrocarbon and Renewables looks quite healthy. 
+Amit Anwani: And sir, wanted to understand inflows in the domestic market. Have the conversion rates been 
+impacted amid what is happening and probably that could have impact on the government 
+finances also? Do you sense that the domestic pipeline, which you have highlighted, could be at 
+risk of some deferments or some curtailments and the conversion rates can also be impacted? 
+Subramanian Sarma: We have delivered very good order inflow in the Quarter 1, better than what anybody had 
+expected. And overall guidance given by PR is still very much consistent with what we had 
+indicated earlier. I don't know why you keep getting doubts about the domestic market.  It will 
+continue to go as we have planned. 
+P. Ramakrishnan: So, Amit, it is like this. I did mention that the share of domestic prospects is around 50%. And 
+the most important thing is that, over the last two years, we have seen a larger share of domestic 
+orders gradually coming from the private sector, largely led  by residential and commercial real 
+estate, other industrial sectors, and, last but not the least, the power sector.  So, due to a 
+combination of these factors, those kinds of prospects are still going on strong for us insofar as 
+domestic visibility of order inflow is concerned. I think it is getting more balanced in terms of 
+both public and private. 
+Amit Anwani: Sir, lastly, how the Nabha Power is accounted in P&L? 
+P. Ramakrishnan: The Nabha Power results are accounted as a subsidiary until the date of its sale. And thereafter, 
+we have taken into effect the sales consideration minus the total value that is lying in the 
+consolidated statements. So, it is a marginal gain that we have a ccrued on the sale because of 
+the fact that Nabha’s profits have been consolidated all these years. So, the carrying value in the 
+consolidated statement is beyond the total investment that we made. And we have not had a 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 16 of 26 
+major change in terms of additional consideration over and above this carrying value. So, 
+marginal gain on the divestment, but there is a tax outflow of almost Rs. 110 odd crores, which 
+we have booked in the P&L, the tax arising out of the capital gains of the transaction. 
+Moderator: Your next question comes from the line of Renu Baid Pugalia with IIFL Capital. Please go ahead. 
+Renu Baid Pugalia: Just two couple of quick questions.  One on the Hydrocarbon - We did mention that we did not 
+get materially impacted because quite a few sites, including Qatar, were in the early design & 
+engineering phase and fabrication was still continuing at Oman.  
+ So, in your view, based on the project timelines, when do we hit the milestones of supply starting 
+from Oman? And do you think if the current conflicts continue to persist, like Qatar, a couple of 
+other projects which are due for the project milestone in terms of design and supplies could get 
+impacted? 
+Subramanian Sarma: Yes, the large megaprojects in Offshore, they will be ready for dispatch from our Oman yard 
+sometime in first quarter of next calendar year. So, January… 
+Renu Baid Pugalia: So, at least we have two to three quarters of cool-off period before those conflicts arise there. 
+Subramanian Sarma: Yes, if the conflict extends to next year, then yes, then it will become a problem for us. But until 
+that time, for the Offshore, we should not.  
+ On the Onshore projects, we are overcoming that month by month.  It is not that nothing is 
+affected. We have logistics issues, but we are managing that , as PR said, and making sure that 
+the project sites are not impacted because of the disruption, by managing alternative routes. 
+Renu Baid Pugalia: And more than the Hydrocarbons, specifically, if you look at renewable or solar projects where 
+you have seen supply chain disruptions in the region, these are also short cycle projects. So, how 
+do we look not just on the revenue execution timelines, but the profit margins that these projects 
+were carrying? Do we see that getting materially eroded? And I am sure that would have already 
+been a part of the guidance. But do we see a material erosion and probability or any provisions 
+arising from that? 
+Subramanian Sarma: No, I think material erosion is unlikely because if that scenario happens, then we will not bring  
+the material. The only reason why we will have material erosion in the margin is that we incur 
+the exorbitant cost of bringing the material, which we are not doing. I mean, as PR mentioned 
+earlier, that whatever we are bringing  the material , we are doing it in consultation with 
+customers, and there is a kind of a general understanding and agreement that the cost will be 
+compensated. I mean, if there is no agreement on that, then we will not incur that cost. And in 
+that case, some revenue impact will happen, and therefore, the project timeline might get 
+extended, and we will have to recover that cost at a later stage. 
+Moderator: Your next question comes from the line of Sumit Kishore with Axis Capital. Please go ahead. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 17 of 26 
+Sumit Kishore: My question is in relation to other income, which is up almost 75% to Rs. 23.7 billion on a year-
+on-year basis. Even on a quarter-on-quarter basis, there is a steep increase from Rs. 15.8 billion. 
+So, is there any item that we should know about, or is this the new recurring other income level 
+that we should be sort of factoring in with the cash and cash equivalent position that you have? 
+And in the PP&M EBITDA of Rs. 32.11 billion, how much is the other income component in 
+case you were to attribute to that in the way you report your segmental EBITDAs? That  is my 
+first question. 
+P. Ramakrishnan: So, Sumit, it is like this. The other income is primarily on account of the higher cash generation 
+that we have.  This is all on account of the group surplus, which is across all the entities, be it 
+Larsen & Toubro  Parent, be it LTM, LTTS, even L&T Finance, and also the other unlisted 
+subsidiaries that we have within India and outside India. So, a major part of this is arising out of 
+that. And yes, pending their spend, as you may be aware, I did articulate during our May call 
+about the L31 Lakshya plan, some part of this cash also will get into newer investments as they 
+shape up. They are all at initial stages.  
+ So, at the current trajectory, this is the yields that we have done because we believe that our 
+yields also have been ahead of in terms of typically markets how the way they earn surpluses, 
+we have been at least 1.5% to 2.5%, 2% more. And consequently, you get that additional kicker. 
+ But it would be unfair for me to say this is the new norm because as we start investing into the 
+green energy segment that I voiced over when I took the Development Project segment, and 
+some of the other investments like data center business and all, so some amount of drop down 
+will happen. But for the next one or two quarters, this seems to be a reasonable assumption one 
+can take. 
+ Number two is the other part is, insofar as the subsidiaries which are overseas to the extent their 
+other income because that cash is not coming back to the parent in any form. And hence it is 
+specifically related to that business or where the project is g etting executed. That part of other 
+income is featuring in our PPM EBITDA. 
+Sumit Kishore: I am just wondering, given your operating cash flow, the Q1 is a relatively smaller quarter, but 
+your operating cash flow on a full year basis is certainly going to lead to an increase in cash even 
+after the CapEx commitments that you do under Lakshya. 
+ So, directionally, is the other income still going to become significantly larger versus where we 
+ended up in the previous year? So, what would you quantify your CapEx for the Lakshya plan 
+this year i.e Year 1? 
+P. Ramakrishnan: So, for the Lakshya plan CapEx for the current year , I did mention about different businesses 
+having different models which we will pursue. Hopefully in Q2, I think we will be able to finalize 
+and let you know. So, it would be little ahead of time if I had to put a number for that. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 18 of 26 
+ But taking into account the treasury income that we have overall at the entire group level, so that 
+overall treasury income is in the range of almost, if you say, roughly around 70% of the other 
+income could be lying in L&T standalone, which means it does not feature in the PPM EBITDA. 
+Almost 20% could be coming from the other listed entities. Again, that goes directly into their 
+performance. The balance 10 to 15% will be possibly the treasury income that is featuring in the 
+PPM margins. 
+Sumit Kishore: Just one small bookkeeping question on depreciation. The depreciation for the quarter is Rs. 10.3 
+billion down from Rs. 11.7 billion at the end of Q4 FY  '26. Sequentially, why has the 
+depreciation come down? 
+P. Ramakrishnan: So, it is a question of any particular plant and machinery getting commissioned in the later part 
+of last year will have the full share of the quarter. And consequently, some of the older plants 
+and equipment possibly have also run down. So, it is got nothing specifically for us to say why 
+depreciation is down. 
+ And secondly, one more aspect is the Metro part, which is almost Rs. 75 crores per quarter, 
+where depreciation is also not included because we are not consolidat ing metro from May 
+onwards. 
+Sumit Kishore: I think that explains. 
+Moderator: Your next question comes from the line of Aditya Bhartia with Investec. Please go ahead. 
+Aditya Bhartia: Sir, you mentioned that there have been certain cost escalations and you are in discussions with 
+customers and with clients on how to kind of recoup that. Just wanted to understand how does 
+the accounting work? 
+ Do we have an arrangement with the customer that they are going to repay us for the increased 
+cost, only then we are going ahead and therefore there are no provisions that are required? Or is 
+it that, there is a kind of a rough understanding, we make certain provisions  and they may get 
+reversed or they may stay the way they are? Just wanted to understand on that aspect. 
+Subramanian Sarma: No, no. Actually, like what you said, if we are having prior consultation with customer and there 
+is an agreement that they will reimburse us the cost, and then there is a formalization of that, 
+then it gets captured in our accounting. But if there is no agreement, then we will recognize only 
+when the agreement happens. And like I said, we are trying to avoid incurring additional cost as 
+much as possible by deferring the project if there is no agreement. 
+Aditya Bhartia: So, from that perspective, it  is fair to assume that results are correctly reflecting the impact of 
+the war as well as costs that have gone up for various raw materials? 
+Subramanian Sarma: Yes, so far. Whatever we have incurred so far, yes. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 19 of 26 
+P. Ramakrishnan: Aditya, let me tell you and for the benefit of all, I mean, just to see at the end of the day, the 
+revenues and margins are basis not actual cost that we incur. It also includes the future cost that 
+we are expected to complete the job. Basis that the percentage completion is being determined. 
+And so, when we are doing this, it is not only current procurements, we also know what the 
+future procurements are, based on the current prices, to the extent the purchase orders have been 
+placed to vendor.  
+ So, in this kind of environment, very active discussions happen with the client. And if the client 
+says okay, you can decide not to take this item at this juncture, because they can afford to take 
+a three months delay or six months delay in the project , so we don't take that now in the hope 
+that the projects will come, the prices will come down in the future.  
+ But wherever there are procurements, which are required as part of the critical part of the project, 
+those kinds of procurements are happening. Some prices are in line with our own estimates.  If 
+there are some additional prices, discussions are on with the client to ensure that the client is 
+aware that Larsen & Toubro  is placing at this price, given the situation. So, some amount of 
+pass-throughs will happen, some amount may not happen, but that is something which you need 
+to evaluate at every period. 
+Aditya Bhartia: Sir, my second question is that in Q1, you earlier kind of indicated that we also had some 
+inventory, which was lying at the si te, especially for projects like Renewables. And if this war 
+or this dispute keeps getting prolonged, then could it mean that Q2 could be a little more 
+challenging than Q1? How does it work on the supply chain side? Or is it that given the time has 
+passed, we have figured out how alternate routes can  be worked around and rather we should 
+start seeing things easing out? 
+Subramanian Sarma: Yes. So, I think I had said that in the beginning of the crisis, we normally have about three 
+months of inventory. I think most of it has been now consumed as expected.  But now what we 
+are doing is that, like you said, we have figured out alternative routes. So , we know how to get 
+the material to the site. But then there is a cost.  And, again we are repeating, but if there is an 
+agreement with the customer that they are willing to reimburse us the additional cost, then we 
+bring the material. Otherwise, we are delaying the progress. But we continue to do other 
+construction activities. 
+ It is not that everything is held up because of the material. There are other activities and we keep 
+progressing with those. And in most of the cases, we are quite successful in having alignment 
+with the customer, so , at least we have a month of work in front of us. So, far, most of our sites 
+have at least a month of work in front of us. And within that period, we will again have a 
+consultation with the customer and see whether we need to bring additional material. 
+ It is very dynamically managed. I don't think we can say that exact number. But month by month, 
+we will take a stock and see how the situation is. And in consultation with the customer, we will 
+make a call. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 20 of 26 
+Aditya Bhartia: That's helpful. 
+Moderator: Your next question comes from Priyankar Biswas from JM Financial. Please go ahead. 
+Priyankar Biswas: I would say resilient performance under the circumstances. So , my first question to you is 
+regarding the prospects.  So, what we have seen from various media sources is that probably 
+L&T is well placed on a multi -billion dollar Micron award and also probably on a Kuwait oil 
+and gas award of close to $1 billion. So, just clarifying whether this is already booked into this 
+quarter or is it part of the prospects for the next nine months? 
+P. Ramakrishnan: It is part of the prospects. 
+Priyankar Biswas: So, nothing has been booked so far in this couple of things. 
+P. Ramakrishnan: You asked a question, I answered. It is part of the prospects. 
+Priyankar Biswas: And if you can share, you said about prospects of Rs. 15 trillion , in that what is the exact 
+domestic breakup? And within that, in the domestic, what is your assessment of a private sector 
+share? 
+P. Ramakrishnan: So, out of Rs. 15.07 trillion, the domestic order prospects is Rs. 7.45 trillion, which is 49%. And 
+the share of private sector will be around 45%. 
+Priyankar Biswas: That is broadly from my side. 
+Moderator: Your next question comes from the line of Puneet Gulati from HSBC. Please go ahead. 
+Puneet Gulati: Is it possible to quantify the impact of ECL provision and the losses booked in the Hyderabad 
+Metro for Q1? 
+P. Ramakrishnan: So, Hyderabad Metro, we took Rs. 0.38 billion loss for the month of April  i.e. Rs. 38 crores. 
+And in so far as ECL provisions is concerned, which are higher, is in the range of Rs. 2.5 billion. 
+Puneet Gulati: And lastly, you also talked about some delay in ordering of conventional energy orders. Can you 
+talk about what those orders pertain to? 
+P. Ramakrishnan: The delay in conventional orders for current quarter? Q1? 
+Puneet Gulati: Yes. 
+P. Ramakrishnan: We thought in our estimates for Q1 that could come, but that has not come yet. So, let us see.. 
+subsequent quarters we should be getting. We are well-placed.  
+Puneet Gulati: This is domestic. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 21 of 26 
+P. Ramakrishnan: Yes. 
+Subramanian Sarma: Both domestic and international. Both. 
+Puneet Gulati: That is all from my side. 
+Moderator: Your next question comes from Amit Mahawar with UBS. Please go ahead. 
+Amit Mahawar: Hi, PR and Sarma. First of all, in Quarter 1, we saw some of your peers reporting significant 
+cost increase. So, very, very commendable performance from L&T.  
+ Sir, I just want to understand in the current scheme of things, when we look at a large order 
+beyond Middle East, how will the labor mobilization happen in terms of availability in the region 
+where you are taking new orders? Because this is the largest executi on we will have in the 
+European region. So, any color on that? And what percentage of our order book currently is 
+under negotiation in terms of cost escalation for logistics, et cetera? 
+Subramanian Sarma: Coming to the European contract, this is the offshore wind HVDC platform. Most of it will get 
+built in our yard in Kattupalli in Chennai. What we will require in Europe is very small numbers. 
+We are talking about for mostly for hookups and some pre-commissioning, commissioning. And 
+for that, we already have lined up subcontractors who can provide those services. They are 
+European contractors and they are quite actively present there.  So, we don't expect any large -
+scale mobilization for these European contracts from this region. As such, the numbers are small 
+and that will be done through the local contractors in Europe.  
+ I think for the second question was about what is the quantum of contract which are under 
+negotiation. I think more or less negotiation is happening in all the projects happening in the 
+region. But quantum is very difficult to put a number to it because like I said, we are assessing 
+and evaluating it month by month.  
+Amit Mahawar: Sir, can I sneak in one small question? Vis -a-vis 2010 -12 period when L&T had a major 
+shipment from our fabrication yards to Middle East, seems our local fabrication has increased. 
+The share of what we sent from India to Middle East in fabrication has gone  down. Is my 
+understanding correct? And hence the risk to that extent goes down for us vis-à-vis, say, 10-12 
+years ago. 
+Subramanian Sarma: No, no. I mean, 2010-12 is a very long back. A lot of things have changed since then. The volume 
+of contract, the size of contracts have significantly grown. And we have a major yard in Suhar 
+also, which is very busy and it supplies and caters to the Middle East market.  
+ But also, we are having good amount of shipment from our Hazira yard in Surat for Middle East. 
+I mean, these are the two yards which supply quite significantly to Middle East. And Kattupalli, 
+of course, is for the other markets. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 22 of 26 
+Moderator: Your next question comes from the line of Parikshit Kandpal with HDFC Securities. Please go 
+ahead. 
+Parikshit Kandpal: Sir, first question is what percentage of the order book is fixed price in nature? And as you said 
+that almost entire order book in the region is under negotiation. So, I  am looking at a more 
+normalized situation where the growth would have been more normalized. So, what kind of 
+revenue or growth we could have missed because of these negotiations not going through? 
+P. Ramakrishnan: What was your first question?  
+Subramanian Sarma: How much is the fixed and variable? 
+Parikshit Kandpal: Fixed price and the variable price in the order book. 
+P. Ramakrishnan: You can say around 50% of the order book is fixed price. 
+Parikshit Kandpal: And do we have to invoke the force majeure across all these projects because of the...  
+P. Ramakrishnan: No, no.  
+Subramanian Sarma: I think PR very clearly mentioned that a large number of our projects are going reasonably well. 
+See, it depends on what phase the project is, right? Like out of the total order book, particularly 
+in the conventional hydrocarbon space, 70%, 80% of the projects are still in the engineering and 
+procurement phase. And that is not impacted at all by the crisis in the region.  
+ Because engineering is done in India, procurement is done globally, they are getting 
+manufactured. We are not at the stage where we have to ship the material to the site. And some 
+amount of work is happening in the site . That is not a big problem. Only those projects which 
+are in the peak construction are beyond that stage. Those are the ones which are affected. So, it 
+is not that 100% of our projects in the Middle East are under negotiation or impacted by that. 
+There may be a smaller fraction of that.  And those which are in the peak construction or beyond 
+that stage, I think that is what we are negotiating with the customer. And there also, it is not that 
+all activities are impacted. There is a lot of civil work and other work which is not dependent on 
+the imported material. You have to also understand that over a period of last six, seven years, 
+these countries have also developed a lot of local capabilities. So, a lot of sourcing, like cables 
+and materials, civil material, building materials, a lot of materials is sourced locally, and that is 
+not impacted. That is just getting produced and delivered to the site. So , you have to see it in 
+that context, yes. 
+Parikshit Kandpal: The related question was that we have seen a strong growth in order inflows and order book last 
+couple of years. Some of the revenue growth has not been catching up, so it's not translating into 
+execution. So, is it largely because of these issues that the client is not giving clearance on the 
+cost side and that is why there is an elongation? 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 23 of 26 
+Subramanian Sarma: No, I think, when you have large contracts, the duration of the contraction is also longer. So, 
+they can't expect the revenue to run faster, except like solar, they are shorter duration projects, 
+so that the revenue run rate is very high. But if you take some large offshore projects, these are 
+like $3 billion, $4 billion. They are like four years projects. So, you can't expect the same revenue 
+run rate in those projects. You have to factor that in. And particularly ultra -mega projects, you 
+have to say that average duration of the project is about four years. I mean, the revenue will get 
+burned in four years’ time. So, that nature of the project itself slows down the revenue run rate, 
+that is A.  And B, of course, now this crisis is only four months old, so it cannot be that everything 
+can be attributed to that. But yes, there is some impact of that, for sure. 
+Parikshit Kandpal: The last question is on the commodity side, on fixed price, especially on the fixed price on the 
+book. So, the bill of quantity, if I have to say, are we underpowered in terms of like commodity 
+prices in case the client doesn't agree? So, do you think that could have a substantial impact on 
+the margin, especially on the PPM side, on 7.8 we have, which we have guided this year, and 
+the trajectory which we were building in slight improvement over the next few years, do you 
+think that could be at threat if the client doesn't agree for this? 
+Subramanian Sarma: No, if the client doesn't agree, we will not incur that cost , I think I said that before. And we are 
+perfectly entitled for compensation for the time and cost for overstay. So, that will get captured. 
+I don't expect that there will be any erosion in the margin. We are pretty much on the trend what 
+we had indicated earlier. 
+Moderator: Your next question comes from the line of Kartik Kohli with Kotak Institutional Equities. Please 
+go ahead. 
+Kartik Kohli: I had a small one on the private sector prospects that you mentioned.  Could you also mention 
+what was the private sector prospects for the same period last year? 
+P. Ramakrishnan: On the domestic side, I did talk about when I responded to one question about the domestic order 
+prospects, the share of private sector as 40%. Last year also, because the thermal power sector 
+prospects are already started revived, and whatever real estate and other industrial, like minerals 
+and metals, those prospects also were there in last year's order prospects as well. So, it would be 
+fair to assume it would have been in the range of 35% to 45%. I don't think we have seen a sharp 
+increase in private sector only in the current year. It has been there from last year itself. 
+Kartik Kohli: Noted, sir. Secondly, on the TenneT order that you received, wanted to just understand what is 
+the broader order pipeline or prospects that you see over the next 5 to 10 years, because we are 
+seeing multiple TSOs across Europe and UK are planning to build capacity. Even TenneT would 
+want to add at least two systems a year beyond 2031.  So, how do you fit in there, especially 
+because you have taken Petrofac's place and you  have partnered with Hitachi in this. So , does 
+that give you a certain right to win in this scenario that you were one of the few select people 
+already on the table and you get a benefit in that sense? Can you talk about more on that and the 
+broader prospects that you see, especially for the offshore wind HVDC connections in Europe 
+and UK? 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 24 of 26 
+Subramanian Sarma: Yes, so offshore wind is a very promising market. That is exactly the reason why we have been 
+attempting to enter this market for the last 2-3 years. And we have been successful now on the 
+TenneT job. But in addition to TenneT, we had been pursuing many other opportunities within 
+Europe, as well as in UK, and some in the Far East also. Now we are qualified on our own. We 
+have built a good amount of capability in the offshore, and that  is what is giving us entry into 
+this offshore wind farm also.  And we will partner with either Hitachi or Siemens, who are the 
+original equipment manufacturer for HVDC on case -by-case basis. And I think we can bring 
+some competitive solutions. So , we feel that we have a good chance  in securing some decent 
+share. 
+ But I think currently our focus would be to build on what we have already secured, because their 
+order book is quite strong, and we need to focus on delivery of those in the next four to six 
+months, unless TenneT themselves expand the scope. And then we  will aggressively pursue 
+other markets, maybe a little bit later. 
+Kartik Kohli: So, just to follow up, so your Capex that you have planned for modularization is essentially 
+going into this direction, like essentially expanding capabilities so that you can supply in these 
+Europe and UK markets? 
+Subramanian Sarma: Correct. I mean, TenneT job, 8 gigawatt, out of it, 6 gigawatt will be done in Kattupalli. That is 
+a massive amount of work running over at least three to four years.  And we want to make sure 
+that we have a very efficient operation there through automation, and also reduce our dependence 
+on the mobilization of workforce. So, I think most of the capital will go into these projects, and 
+hopefully we will recover a good part of it through these projects itself. 
+Moderator: Your next question comes from the line of Vinod C with PhillipCapital. Please go ahead. 
+Vinod Chari: I had a question on the prospect pipeline. The prospect pipeline for nine months is flat. So , in 
+order for our guidance, I think we are using a higher win rate. So, what are the areas that we are 
+assuming a higher win rate? And also, are we going to become more aggressive for a higher win 
+rate? 
+P. Ramakrishnan: We started the year with having a guidance on order inflows at 10% to 12% rate. So, basis that, 
+we can easily find out that how much L&T has to secure on the PPM side, okay? What we are 
+giving a comfort, okay, we have done reasonably well in Q1, having taken a good share of orders, 
+but of course, one order in the form of TenneT itself gave up the ramp up. 
+ Now, at the current scale we are talking about, what we are trying to convey is the order prospects 
+pipeline is a healthy pipeline  basis which we believe and when we talk about pipeline, we are 
+only talking about addressable bidding opportunities.  It is not that the entire universe of 
+opportunity we are putting in. Wherever L&T has a good chance of, we will be bidding for those 
+projects. And basis the conversion rate, it is fair for us to assume that we are on track to possibly 
+do 10% to 12% order inflow guidance to meet.  
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 25 of 26 
+ I think it will not be fair for us to conclude whether we are being aggressive or not. We are being 
+realistic. We are aware of each of the business, what kind of order book they already have. And 
+basis that, basis the competitive intensity, the pricing, the terms of payment, everything put 
+together is basis the risk management for each of the risks, evaluation for each of the bid is being 
+considered.  So, it is a thought out process. What we gave the order prospects is to give a comfort 
+that there are prospects, despite all the geopolitical issues that we see around us, the order 
+prospect gives us the comfort that the guidance that we gave at the start of the year for order 
+inflow looks to be still doable. 
+Subramanian Sarma: And just to add to that, I think we have a very strict discipline in how we bid. We never get over 
+aggressive just to win a job because margin focus, working capital focus is very, very strong. 
+And there is no need for us to get desperate because overall our group order book is very, very 
+healthy. 
+ I mean, there are now very few EPC contract ors in the world who have almost three years of 
+order book in front of them. So, there is no need for us to get desperate also. 
+Vinod C: Just following up on that, on the order book question, we are like now almost at Rs. 8 lakh crores 
+in terms of the backlog. So , any internal estimate of a peak order book for optimal execution 
+efficiency? At what point do we start becoming more inefficient in terms of a backlog? 
+P. Ramakrishnan: Vinod, it depends on each segment. This is at the overall company PPM level. So, each segment, 
+it depends. Like Mr. Sarma just alluded, for offshore wind, the immediate target is to execute 
+what we have got , that is the way we put our credibility story, right? So , it is a question of 
+dynamic evaluation.  Basis each of the business or how much of bandwidth competency, 
+capability they have, basis that we will look at it. 
+Subramanian Sarma: Three, four years order book is a very healthy order book. It gives a lot of stability. It allows us 
+time to build capacity. We can build capability. So, I think it is a good position to be in. 
+Vinod C: And apart from offshore wind, what are the sub -segments that we hit a ceiling in terms of a n 
+order book that were peaked out probably? 
+ So, apart from offshore wind that you mentioned, are there any subsegments where we may have 
+probably close to a peak in terms of the order backlog we get? Any of the sub-segments? 
+P. Ramakrishnan: No, there is nothing, I mean, not like that. We still have enough leverage within us to quote for 
+orders across segments. 
+Vinod C: Congratulations, PR, on your first quarter as a CFO. 
+Moderator: Thank you. Ladies and gentlemen, we will take that as our last question for today. I now hand 
+the conference over to Mr. P. Ramakrishnan for closing comments. 
+
+ Larsen & Toubro Limited 
+July 28, 2026 
+ 
+ Page 26 of 26 
+P. Ramakrishnan: So, thank you, ladies and gentlemen for this long call. I hope all your questions have been 
+answered. And with this, we can close the call. Thank you. Good night. 
+Moderator: Thank you. On behalf of Larsen & Toubro, that concludes this conference. Thank you everyone 
+for joining us and you may now disconnect your lines. Thank you. 

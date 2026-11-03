@@ -1,0 +1,19 @@
+{
+  "symbol": "MARUTI",
+  "period": "Nov 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_02112026210459_Transcript_27Oct026.pdf",
+  "nse": true,
+  "chars": {
+    "transcript": 776,
+    "sent": 293
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 263,
+    "output_tokens": 16
+  },
+  "guidance": [],
+  "reported": []
+}

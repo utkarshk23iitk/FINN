@@ -1,0 +1,1055 @@
+ 
+Persistent Systems Limited, Bhageerath, 402 Senapati Bapat Road, Pune 411 016, Maharashtra, India  
+CIN - L72300PN1990PLC056696 
+Tel:  +91 (20) 6703 5555 | Fax - +91 (20) 6703 6003 | E-mail - info@persistent.com | Website - www.persistent.com 
+   
+ 
+NSE & BSE / 2026-27 / 169 
+ 
+     October 23, 2026 
+  
+The Manager,  
+Corporate Services, 
+National Stock Exchange of India Limited         
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (E),  
+Mumbai 400 051 
+ 
+Ref: Symbol: PERSISTENT 
+The Manager, 
+Corporate Services, 
+BSE Limited 
+P J Towers, Dalal Street, 
+Mumbai 400 001 
+ 
+   
+Ref: Scrip Code: 533179 
+ 
+Dear Sir/Madam, 
+ 
+ Sub.: Transcript of the investor/analyst call held on Thursday, October 15, 2026 
+Ref.: Our earlier intimation under Ref. No. NSE & BSE / 2026-27 / 163 dated October 15, 2026 
+ 
+In continuation to the above -referred intimation and pursuant to Regulation 30 read with Schedule Ill  
+(Para A) (15) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish 
+to submit the transcript of the investor/analyst call held on Thursday, October 15, 2026, at 5:00 PM (IST), 
+for the quarter and half year ended September 30, 2026. 
+ 
+The transcript of the investor/analyst call is also made available on the Company’s website as follows:  
+ 
+Investor/Analyst Call Transcript Q2FY27 
+ 
+Thanking you, 
+ 
+Yours sincerely, 
+For Persistent Systems Limited 
+ 
+ 
+ 
+ 
+Amit Atre 
+Company Secretary 
+ICSI Membership No.: ACS 20507 
+ 
+Encl.: As above 
+ 
+ 
+
+ Persistent Systems Limited 
+ 
+ Page 1 of 25 
+ 
+ 
+“PERSISTENT SYSTEMS EARNINGS CONFERENCE CALL, 
+SECOND QUARTER, FY27 ENDED SEPTEMBER 30, 2026” 
+October 15th, 2026 
+ 
+MANAGEMENT: 
+ 
+ 
+Dr. Anand Deshpande 
+Chairman and Managing Director 
+ 
+Mr. Sandeep Kalra 
+Executive Director and Chief Executive Officer 
+ 
+Mr. Vinit Teredesai 
+Executive Director and Chief Financial Officer 
+ 
+Mr. Nitish Shrivastva 
+Chief Technology Officer – Engineering Hyper Productivity 
+ 
+Mr. Saurabh Dwivedi 
+Corporate Vice President, Finance and Strategy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Persistent Systems Limited 
+ 
+ Page 2 of 25 
+ 
+ 
+Moderator: Ladies and gentlemen, good day and welcome to Persistent Systems 
+Earnings Conference call for the 2nd Quarter FY27, ended September 30, 
+2026.  
+ We have with us on the call today: 
+1. Dr. Anand Deshpande, Chairman and Managing Director 
+2. Mr. Sandeep Kalra, Executive Director and Chief Executive Officer  
+3. Mr. Vinit Teredesai, Executive Director and Chief Financial Officer 
+4. Mr. Nitish Shrivastava, Chief Technology Officer, Engineering Hyper 
+Productivity) 
+5. Mr. Saurabh Dwivedi, Corporate Vice President, Finance and Strategy.  
+ Please note that all participants' lines will be in listen-only mode and there 
+will be an opportunity for you to ask questions after management's 
+opening remarks. 
+ Should you need any assistance during the conference call, please raise 
+your hand from the Participant tab on the screen. While asking questions, 
+please identify yourself and your company. Please note that this 
+conference is being recorded. 
+ I now hand over the conference to Mr. Saurabh Dwivedi. Thank you and 
+over to you, sir.  
+Saurabh Dwivedi: Thank you, Rashi. 
+ A very good day, everyone. We sincerely appreciate your presence and 
+participation in today's call.  Let me quickly outline the agenda for today's 
+call. 
+• Sandeep will begin with an overview of our Q2 results, commentary 
+on the business and update on our acquisition of Nagarro.  
+• Vinit will take you through the financial details and key operational 
+metrics for Q2.  
+• Nitish will provide details on expansion of our AI capabilities and 
+representative AI wins in the quarter gone by. 
+• I will then provide an overview of our key deal wins and awards and 
+recognitions for this quarter. 
+• Sandeep will then come back for a quick summary of the prepared 
+remarks, post which we will open the conference for questions.  
+
+ Persistent Systems Limited 
+ 
+ Page 3 of 25 
+ 
+ Let me also remind you that as part of our prepared remarks and during 
+Q&A, we may make certain statements which are forward-looking and may 
+involve significant uncertainty. Persistent does not take any responsibility 
+to update such forward-looking statements, and your discretion is 
+warranted while making any investment decisions. With this, let me hand 
+over to Sandeep for his prepared remarks.  
+Sandeep Kalra: Thank you, Saurabh. Good morning, good afternoon, good evening to all of 
+you, depending on where you're joining from. I hope all of you are doing 
+well. Let me start with a quick financial summary of the quarter gone by.  
+We achieved a healthy revenue growth of 7.8% quarter-on-quarter and 
+20% year-on-year delivering USD 487.6 million in Q2 FY27. This marks our 
+26th sequential quarter of revenue growth. In rupee terms, the growth for 
+the quarter came in at 8.4% quarter-on-quarter and 30.3% year-on-year. In 
+constant currency terms, the growth for the quarter was 7.8% quarter-on-
+quarter and 20.8% year-on-year. The EBIT margin for the quarter came in 
+at 15%, translating to an EBIT growth of 1.6% quarter -on-quarter and 
+19.5% year-on-year.  
+The operating profit after tax for the quarter came in at 10.6%, translating 
+to a PAT growth of 2.5% quarter-on-quarter and 5% year-on-year. The 
+reported profit after tax for the quarter came in at 7.5%. I would like to 
+point out that the reported PAT includes exceptional one-time expenses as 
+part of Nagarro acquisition, resulting in approximately 3.1% impact for the 
+quarter. Vinit, our CFO, will provide a detailed colour on the financials and 
+margin movement later in this call.  
+Coming to the order book for the quarter, the total contract value for the 
+quarter stood at USD 633.5 million, with total contract value of new 
+bookings coming in at USD 367.1 million. The annual contract value of 
+bookings for this quarter was USD 481 million, out of which the annual 
+contract value from new bookings contributed to USD 262.3 million. To 
+remind everyone, both TCV and ACV numbers include all bookings, small 
+and large, renewals as well as new bookings across existing and newer 
+customers.  
+Also, as highlighted in our earlier calls, our revenue conversion on a 
+quarterly basis is a function of ACV bookings closed in previous quarters, 
+as well as the conversion from multi-year deals booked in previous years, 
+which are included in our total contract value or TCV bookings that we 
+announce on a quarterly basis.  
+
+ Persistent Systems Limited 
+ 
+ Page 4 of 25 
+ 
+ 
+Now, let me give you some colour on our client movement across various 
+reported categories. This quarter, we witnessed healthy year -on-year 
+growth among our various client buckets. Our top 5 customers' revenue 
+grew by 38.9%, top 10 by 29.9%, top 20 by 25%, top 50 by 24% and top 100 
+by 21.6%.  
+Coming to the year-on-year movement of customers across various 
+reported buckets: Customers with annual revenues greater than 75 million 
+remained stable at 4. Those with USD 50 million plus annual revenue 
+remained stable at 4. Customers in the USD 20 milli on plus category 
+increased from 12 to 13. Those in USD 10 million plus category increased 
+from 25 to 34. Customers in USD 5 million plus category increased from 56 
+to 60 and the customers in USD 1 million plus category increased from 191 
+to 280. This healthy movement of customers across various revenue 
+brackets demonstrates our team's consistent ability in cultivating deeper, 
+more resilient partnerships with customers over time. 
+Now, coming to the details of our performance across various 
+geographies. In terms of year-on-year growth this quarter in USD terms, 
+North America revenue grew by 22.5%. Revenue in Europe declined 8.5% 
+largely because of two client-specific events. One of our key clients in the 
+European region was acquired by a larger strategic last year, which led to 
+the ramp-down of our program with them over the last several quarters. 
+Another engagement completed its planned ramp-down as a part of a 
+fixed-price engagement. Both are one-off, client-specific events rather 
+than a sign of broader geographic demand trends. Revenue in India grew 
+by 19.4% and the rest of the world grew by 67% although on a smaller base.  
+Coming to industry segments growth on a year -on-year basis. This 
+quarter's growth was led by Software, High-Tech and Emerging verticals 
+coming in at 28.5% followed by Banking, Financial Services and Insurance 
+at 16.2% and Healthcare and Lifesciences vertical at 12% respectively on a 
+year-on-year basis. Growth in our Software, High-Tech and Emerging 
+Industries vertical was driven by our new software reinvention offering 
+launched during the quarter underpinned by the theme of the large deal 
+that we announced last quarter. 
+As you know, high-tech is an industry that is most affected by advances in 
+AI. Enterprise software companies as well as enterprises are rethinking 
+how software is built and maintained. Our Software Reinvention offering is 
+designed to help software and technology companies deliver AI native 
+
+ Persistent Systems Limited 
+ 
+ Page 5 of 25 
+ 
+products as well as modernize their legacy products for an AI first world. 
+This is traditionally a segment where Persistent has always been 
+significantly ahead of our peers, and we are confident that this offering will 
+drive growth across the business creating a significant mode for us over the 
+next several years. My colleague Nitish will cover it in more detail on this 
+offering in the AI updates section a little later in this call.  
+Let me now provide you with an update on the agreement to acquire 
+Nagarro that we announced earlier in June this year. As you may be aware, 
+we signed a business combination agreement in late June time frame with 
+Nagarro, a leading European digital engineering firm aimed at creating an 
+AI-led global engineering powerhouse serving clients with end-to-end 
+capabilities with over $2.9 billion in revenue run rate and 46,000 plus 
+professionals across 40 countries. To refresh everyone on the acquisition 
+rationale, the combination provides us with expanded capabilities across 
+multiple industry verticals and service lines, more balanced geographic mix 
+across North America, Europe and rest of the world, strengthened near-
+shore European delivery footprint with presence across Romania, Portugal, 
+Hungary and Poland, and positions us nicely as a truly global partner for 
+large transformation programs with our global 2000 customers and 
+prospects. This is further backed by strong cultural alignment between the 
+two organizations anchored in entrepreneurial ethos and engineering-first 
+culture and decades of trust with marquee clients. We are confident that 
+this combination positions Persistent and Nagarro for the next chapter of 
+sustained profitable growth together.  
+Let me now provide you with the progress made since the last quarter in 
+terms of the process as some of you may be tracking the closure timelines 
+closely. Starting with the open offer update. The initial acceptance period 
+for voluntary public takeover offer for Nagarro began on August 6th, 2026 
+and ended on September 17th. The additional acceptance period began on 
+September 23rd and ended on October 6th. We have secured 
+approximately 94.04% of Nagarro share capital excluding treasury shares 
+at the expiry of the additional acceptance period, significantly exceeding 
+the minimum acceptance threshold of 50% + 1  share that we had set. 
+Having secured more than 90% of Nagarro share capital and voting rights, 
+we intend doing a squeeze out of the remaining minority shareholders of 
+Nagarro upon closing.  
+From a merger control clearance perspective, we have received all merger 
+control clearances and all FDI clearances other than Austria and Spain. We 
+are confident of getting these approvals in over the next several weeks. We 
+
+ Persistent Systems Limited 
+ 
+ Page 6 of 25 
+ 
+have also submitted the application for Reserve Bank of India's approval 
+and we are following the due process to get the approval thereof. 
+In terms of financing, we intend replacing the Euro 1.4 billion 18-month 
+bridge loan with longer tenure, capital and favorable terms. As a part of 
+this long-term financing strategy, we will be raising USD 1.25 billion in 
+terms of both debt and equity. Out of this, USD 450 million will be raised 
+through equity, qualified institutional placement or equity -linked 
+instruments like FCCB or combination of similar instruments. We have 
+received the shareholder approval for the above funding mix at the 
+Extraordinary General Meeting held on October 5th. We sincerely believe 
+that the combined persistent Nagarro group presents a significant value 
+creation opportunity for all our shareholders, clients, partners and 
+employees.  
+As a part of this acquisition, I would like to highlight an important aspect 
+around one-time expenses related to the transaction. Overall, we are 
+expecting one-time expenses to the tune of approximately $50 million 
+spread over three to four quarters. These expenses will weigh in on the 
+reported EPS growth as you would have seen in our Q2 results reflecting 
+an impact of around 3.1% on our reported PAT. We will be accounting for 
+these expenses as they occur and will inform you all as we incur these 
+expenses.  
+Also, as you may be aware, our ESOP vesting criteria for our team members 
+is conditional on achieving a 12% revenue growth and a 12% EPS growth. 
+In line with this, the Board may seek shareholders' approval to treat these 
+one-time transaction related expenses as an exception when assessing the 
+ESOP vesting conditions.  
+To summarize, all the processes related to the Nagarro acquisition are 
+going on at the expected pace. We expect the deal closure by Q4-CY26 or 
+Q1-CY27. We will keep you posted on the progress of this over time. We 
+would like to place again on record our ap preciation for Nagarro's 
+Management Board as well as its Supervisory Board for their ongoing 
+support and cooperation in the acquisition process. We are enthusiastic 
+and look forward to working jointly with them and our extended Nagarro 
+team to make this combination successful for all our stakeholders over 
+time.  
+With this, I would like to invite Vinit, our CFO, to provide more details on 
+our financials for the quarter. Vinit, over to you.  
+
+ Persistent Systems Limited 
+ 
+ Page 7 of 25 
+ 
+ 
+Vinit Teredesai: Thank you, Sandeep. Good morning and good day to all. Thank you for 
+taking the time to join us today. Let me now take you through the financial 
+highlights for the quarter.  
+Q2 FY27 revenue stood at USD 487.6 million, registering a year-on-year 
+growth of 20%. In rupee terms, it translates to Rs.46,639 million, a growth 
+of 30.3% year-on-year. EBIT for this quarter was Rs.6,977.2 million, 
+translating to a growth of 19.5% year-on-year. EBIT margins for Q2 FY27 
+came in at 15%, 130 basis points declined year-on-year. 
+I will now talk about some operational updates for this quarter. At the end 
+of Q2 FY27, our total headcount stood at 29,598, an increase of 958 from 
+previous the quarter. Utilization stood at 85.8%, down 70 basis 
+sequentially, primarily reflecting proactive hiring to support the ramp-up 
+of large deals. Trailing 12-months attrition stood at 11.9% compared to 
+12.3% in the previous quarter.  
+Let me now give you quarter-on-quarter EBIT margin walkthrough. First, 
+headwinds: As you would remember, this is the quarter when we have the 
+yearly wage hike coming into effect. This impacted our margins by 180 
+basis points. However, lower ESOP costs enabled us to absorb part of this 
+impact, leaving us with a net impact of 140 basis points. Lower utilization 
+led to a 20 basis impact on our EBIT margins. 
+The large deal that we have announced in the previous quarter included 
+end-to-end takeover of the engineering roadmap of portfolio of 20 
+products across development, sustenance engineering, customer support, 
+along with associated third-party licenses and cloud spend. This investment 
+in the third-party tools and licenses led to an increase in the quarterly 
+amortization of approximately USD 4 million, which had an impact of 90 
+basis points on our Q2 EBIT margin. The plan is to leverage FinOps and AI-
+led engineering roadmap to optimize the spend across people, tools, and 
+cloud infrastructure in this large deal going forward. As we optimize the 
+spend and our revenue scales in future, the impact on our margins will 
+gradually reduce.  
+Tailwinds: Lower ESOP SG&A expenses and favorable currency moments 
+delivered a combined EBIT benefit of 150 basis points. Net impact taken 
+together these headwinds and tailwinds resulted in a 100 basis point 
+quarter-on-quarter decline in EBIT margin.  
+
+ Persistent Systems Limited 
+ 
+ Page 8 of 25 
+ 
+In respect of our treasury income, we had mark-to-market losses on our 
+investment during the quarter of Rs. 116.4 million as against mark -to-
+market gain of Rs. 146.7 million in the previous quarter. During the quarter, 
+we had higher finance charges on account of higher receivables financing. 
+The net result of both lower treasury income and higher finance costs 
+resulted in negative net other income of Rs. 131.2 million as against a 
+positive income of Rs. 414.9 million in the previous quarter.  
+The foreign exchange loss was Rs. 455.8 million as against Rs. 1,052.7 
+million in the previous quarter. Forward contracts outstanding as of 30th 
+September, 2026 were USD 500 million at an average rate of 95.6 per 
+dollar.  
+Effective tax rate for the quarter came in at 22.5%, same as last quarter. 
+Operating profit after tax for the quarter was Rs. 4,951.5 million, margin of 
+10.6% with a year-on-year growth of 5%.  
+We incurred transaction costs worth Rs. 1,853.4 million towards the 
+Nagarro acquisition in this quarter. These expenses include transaction and 
+advisory costs related to regulatory filing, financing charges, legal, 
+communication and travel expenses. Over the next two quarters, we 
+expect an incremental amount ranging between USD 25 to 30 million to be 
+incurred towards the Nagarro transaction.  
+For Q2 FY27, these expenses impacted the reported PAT margin as well as 
+the reported EPS by around 3.1%. Reported profit after tax for the quarter 
+was Rs. 3,515.1 million, a margin of 7.5%, with year-on-year decline of 
+25.4%. Operating earnings per share was Rs. 31.6 with a year-on-year 
+growth of 4.2%, whereas the reported earnings per share was at Rs. 22.4 
+which translates into decline of 26%. Excluding cash from the capital 
+employed, return on capital employed for Q2 FY27 came in at 45.6% versus 
+43.6% in the previous quarter.  
+We are happy to report that we had record collections during the quarter 
+which helped to improve the cash position in spite of payment of final 
+dividend and exceptional expenses related to Nagarro transactions. Total 
+cash and investments stood at Rs. 29,996.7 million, around $315 million as 
+of September 30, 2026 as against Rs. 27,044 million at the end of the 
+previous quarter.  
+Higher collections also helped reduce the billed DSO as well as led to the 
+higher OCF to PAT for the quarter. The billed DSO decreased to 50 days as 
+against 61 days in the previous quarter, while the unbilled DSO came in at 
+
+ Persistent Systems Limited 
+ 
+ Page 9 of 25 
+ 
+24 days as against 25 days in Q1 FY27. On TTM basis, trailing 12-months 
+basis, OCF to PAT improved to 96.6% in Q2 FY27 compared to 76.2% in the 
+previous quarter.  
+Coming to updates on ESG. Sustainability continues to be integrated into 
+Persistent’s business strategy with a focus on managing risk, improving 
+operational efficiency and delivering measurable ESG outcomes.  
+• Our commitment to ESG excellence was reflected in an improved 
+ESG score of 83.3 from SES, a semi-registered ESG rating provider 
+for FY25-26, up from 81.7 in the prior year, underscoring continued 
+progress in the execution of our sustainability strategy.  
+• We are proud to have received a jury mention in the Climate Action 
+and Carbon Neutrality Leadership category at the Sustainable 
+World Awards 2026 by BW Business World.  
+• Persistent Systems Pune has also been recognized as the winner of 
+the Decarbonization Excellence Award 2026 in the Net Zero Carbon 
+category at the CoOL Conclave by ISHRAE.  
+• We are also proud to be recognized as one of America's greatest 
+workplaces in Tech 2026 by Newsweek.  
+These achievements reinforce the progress we are making in embedding 
+sustainability across our operations, climate action and people practices, 
+while continuing to strengthen our overall ESG performance.  
+With this, let me now hand over to Nitish for commentary on our progress 
+on the AI journey. Nitish, over to you.  
+Nitish Shrivastava: Thank you, Vinit. Good morning and good day to everyone. As we shared 
+on our last call, our AI strategy continues to rest on three pillars, 
+engineering hyper-productivity, business hyper -productivity and 
+enterprise data readiness with responsible AI. We believe the next phase 
+of enterprise AI will be defined not by better models alone, but by how well 
+enterprises combine them with their own knowledge, data processes, 
+people and governance. We call this The Enterprise Context and our 3C 
+architecture of core context and coordination is how we help our clients 
+build it.  
+Last quarter, we enhanced our software engineering productivity offering 
+with the launch of Software Reinvention Services, a new offering aimed at 
+helping enterprise software companies accelerate their next generation 
+products, while improving the economics of the products they run today. 
+
+ Persistent Systems Limited 
+ 
+ Page 10 of 25 
+ 
+Software companies are facing challenges on two fronts. On one hand, they 
+are facing challenges on growth as AI native companies and model 
+providers compete for their customers. On the other hand, they are facing 
+challenges on cost as their established products must generate the margin 
+to fund AI investment, while the AI consumptions add a new and fast rising 
+cost. Software Reinvention Services addresses both: 
+Starting with growth. On growth, we are helping our clients build new 
+products faster and take them to market faster. For new product 
+development, we are focused on speed and quality. We deliver AI -led 
+development acceleration through our SASVA platform. SASVA runs on our 
+custom tuned models and also work with models from Anthropic, OpenAI 
+and leading open-source providers which gives our client flexibility in their 
+choice of models. Clients can adopt our AI stack as a complete platform or 
+deploy it alongside their existing AI tools where it adds measurement, 
+collaboration and structured ways of working.  
+We are now working with our client's product managers to prioritize the 
+features most likely to achieve product fit in the market. In recent 
+programs for software companies, this approach has helped bring product-
+to-market about 50% faster. For go-to-market, we are helping our clients 
+reach and win customers faster. Together with a leading private equity 
+firm, we are building an AI-powered go-to-market harness to help software 
+companies reach their customers faster.  
+Additionally, in select cases, we are building products with our clients in a 
+co-sell motion. Our AI-led professional services model is turning into 
+delivery expertise by getting our client's customer life sooner and 
+improving time-to-market by more than 25%.  
+On cost, our focus is on improving the economics of client's established 
+product because the margin from established products fund the forward-
+looking AI growth. These products carry years of accumulated cost and we 
+apply AI across the full cost of ownership in three distinct areas:  
+First, we are running mature product through the AI-led sustenance and 
+helping our client carve out products outside their core. For example, for 
+one marquee software company, we have taken over several product lines 
+in data operation, data governance, and endpoint management. We are 
+now running their engineering sustenance and go -to-market, while 
+reducing their cost of running these products by 45%. 
+
+ Persistent Systems Limited 
+ 
+ Page 11 of 25 
+ 
+Second, we are helping clients bring cloud and AI consumption fast under 
+control. We are combining cloud optimization with AI-led engineering and 
+FinOps to reduce cloud consumption and operating cost. Our tokenomics 
+offering and  Sasva’sintelligent model routing, which matches each task to 
+the most suitable model, are keeping token cost under control.  
+Third, we are reducing both labour and non-labour spend across SG&A. On 
+the non-labour side, we are re-architecting products and replacing long-tail 
+tools with custom agentic applications to lower third-party license cost. On 
+the labour side, we are bringing agentic system into SG&A and automating 
+workflows across IT, HR, finance, and procurement. Our clients are, in turn, 
+reinvesting these savings into new products and go -to-market so cost 
+efficiency becomes fuel for growth.  
+A strong validation of Software Reinvention Services is the large deal we 
+signed last quarter, a 6.5-year engagement worth more than $650 million 
+with one of the largest technology companies spanning product 
+development support and cloud operations across multiple SaaS products.  
+Our position in the market is built on long product engineering experience. 
+Over 36 years, we have engineered products for more than 300 software 
+companies, and today we are serving nine of the top 10 technology 
+companies. Through Accelerite, we have also operated our own software 
+product business, which gave us the direct experience in building, selling, 
+supporting, and sustaining enterprise software. We are now turning that 
+experience into a repeatable playbook that combines our platform, 
+partners' ecosystem, and accelerators.  
+Software Reinvention Services is drawing on the same platform and 
+capabilities that are powering our broader AI strategies, and the same 
+disciplined approach is continuing to deliver results across our three pillars. 
+The quarter gone by, we continue to expand our partnerships by becoming 
+a preferred partner in Anthropic's cloud partner network services track and 
+earning Microsoft's agentic business solution specialization. Our teams 
+today hold nearly 25,000 partner certifications across Microsoft, AWS, 
+Google Cloud, Salesforce, Databricks, and Snowflakes, and have earned 
+more than 58,000 AI certifications to date.  
+In summary, as models commoditize, enterprise software differentiation is 
+shifting to the context around them and to the economics of the product 
+the clients already run. We are helping clients build new products, fund 
+them from the products they run today, and bring them faster to the 
+market. We are turning that work into a durable, client-owned asset and 
+
+ Persistent Systems Limited 
+ 
+ Page 12 of 25 
+ 
+applying the same playbook across engagements. This is where Persistent 
+is continuing to invest and where we see long-term value for our clients 
+and our shareholders.  
+I will now invite Saurabh to share other key wins and awards for the 
+quarter.  
+Saurabh Dwivedi: Thank you, Nitish. Let me now talk about the most important deal wins for 
+the quarter by industry segments. 
+Starting off with Software High-Tech and Emerging Industry vertical. A 
+leading hyperscaler has selected Persistent as a preferred partner for its 
+newly formed forward-deployed engineering organization to scale legacy 
+modernization and transformation programs. Our dedicated, certified FDE 
+team will work alongside the hyperscalers' forward-deployed engineers as 
+an extension of its delivery capacity, embedding directly with customers to 
+modernize and platformize mainframe and legacy states across industries. 
+These engagements are anchored in business outcomes rather than effort, 
+providing customers with a faster, lower risk path from legacy systems to 
+AI-ready platforms.  
+Moving on to Banking, Financial Services and Insurance. A Fortune 500 US 
+insurer has selected Persistent as its AI-led modernization partner for its 
+personal lines policy administration. The business was running critical 
+underwriting, rating, and renewal processes on a legacy core platform, 
+which was leading to inefficiencies and higher costs. Our engagement with 
+the customer involves rebuilding a modern, cloud -native policy 
+administration platform.  
+The first phase of the programme, powered by our proprietary AI 
+accelerators, will demonstrate a repeatable, automated path from legacy 
+to modern architecture. Subsequent phases will reduce operating costs, 
+accelerate product and pricing rollouts, retire legacy spend, and expand 
+into adjacent lines of business. 
+Now, coming to our Healthcare and Lifesciences vertical. One of the largest 
+cancer research and treatment organisations in the US has chosen 
+Persistent to manage their technology that supports cancer care across its 
+national network. As part of the engagem ent, we will bring clinical 
+applications, enterprise systems, data and infrastructure under a single 
+delivery model, while providing on-site support at care locations. We will 
+leverage AI to capture critical knowledge, ensuring that patients and 
+clinicians experience minimal disruption during the transition. Our 
+
+ Persistent Systems Limited 
+ 
+ Page 13 of 25 
+ 
+oncology and revenue cycle expertise will help the client deliver more 
+consistent care across its locations.  
+Now coming to the key awards and recognitions we received during the 
+quarter. Persistent continued to receive multiple leadership recognitions 
+from ISG in this quarter and received 6 awards at the ISG (Information 
+Services Group) “Provider Lens Awards 2026”. The recognitions span 
+Digital Engineering, AI, Cloud ecosystems, Cyber Security and Industry 
+Services demonstrating the depth of expertise across Persistent. Persistent 
+was recognized as for the second year in a row achieve the growth honour 
+of the year in annual revenue more than USD 1 to 5 billion category at 
+“Everest Group Elevate 2026”. Persistent received multiple awards for its 
+commitment to ESG and people excellence. The most prominent amongst 
+them included “Persistent one Business World Sustainable World's Award 
+2026” in the climate action and carbon neutrality leadership category. 
+Persistent was also honoured across 7 categories at the “People Matters 
+Infinity Awards India 2026” for excellence in talent and employee 
+experience.  
+With this let me hand it back to Sandeep. 
+Sandeep Kalra: Thank you, Saurabh. Let me conclude the prepared remarks by saying that 
+we are happy with the consistent performance we have been able to 
+deliver this quarter. The consistency of execution quarter after quarter is 
+the testament to disciplined execution along with our clear strategy. We 
+are making good progress on our AI capability build, client engagements 
+as well as our Nagarro acquisition. I'd like to sincerely thank our 
+employees, clients, partners and shareholders for their strong support and 
+sustained confidence in us.  
+With this I would ask the operator to open the floor for questions. 
+Operator. 
+ 
+Q&A	Session	
+	
+Moderator: Thank you, sir. We will now open the call for Q&A session. We will wait for 
+a few minutes until the queue assembles. We request participants to 
+restrict to 2 questions and then return to the queue for more questions. 
+Please raise your hand from the participant tab on the screen to ask a 
+question. The first question is from Vibhor Singhal. 
+
+ Persistent Systems Limited 
+ 
+ Page 14 of 25 
+ 
+Vibhor Singhal:  Yeah. Hi, thanks for taking my question and congrats to the management 
+team for a very strong performance, yet again quarter after quarter. So, 
+Sandeep one question from my side to you and one I'll have for Vinit. We 
+saw a very strong growth performance this time both in Hitech and BFSI 
+vertical. Hitech vertical of course we know was driven by the large deal 
+that we had won last quarter. In the BFSI segment what is the kind of 
+basically traction that we are seeing, specifically in terms of the pockets 
+that we are seeing in growth, the AI adoption which Nitish talked about 
+and what is the outlook for this sector? Specifically, I mean, most of the 
+peers are also reporting decent growth I would say in the BFSI segment. 
+So, is it safe to say that BFSI being the most early adopter of the AI platform 
+is a segment which is kind of going the up curve and we could see more 
+and more growth coming from that vertical? 
+Sandeep Kalra: Yeah so, Vibhor the growth that we saw in the quarter, I'll first talk about 
+that and then come to the BFSI part. So, it was underpinned by two large 
+things that happened. One was a large deal that we did with one of the 
+largest tech customers we have. The second one is basically a vendor 
+consolidation exercise that happened in one of the largest financial 
+services customers that we have. So, both of the things combined were 
+large wins that we had over the last few quarters. Now if you look at the 
+themes that we are seeing in the financial services, vendor consolidation 
+in pockets is still a big thing. Second is the modernization side of it, whether 
+it is the data modernization play, getting the financial services institutions 
+ready for the AI part, that is one big set of themes that we are seeing. 
+Second is the modernization from the legacy platform side of it. Earlier the 
+legacy platforms etc. that people thought they could not modernize 
+whether they were mainframe based or otherwise are unlocks that AI is 
+providing us. So those are the things that we are seeing at a bigger level. 
+Now in terms of the outlook our pipeline is healthy, we don't give forward 
+looking guidance but we are relatively confident that all the segments will 
+kind of grow very well. One comment that you made that BFSI is an early 
+adopter of AI platforms. I would say in our mix it is the high-tech part which 
+is the most disruptive. They are the companies and within the high-tech 
+part as well, 20 % of the ISVs, I would say mid -market ISVs are on the 
+bleeding edge and that is where we are seeing the maximum adoption, the 
+maximum productivity demands from our customers. And since we work 
+with them, we are very comfortable taking the same to the BFSI and 
+Healthcare Life Sciences verticals, which are a little slower in adoption 
+
+ Persistent Systems Limited 
+ 
+ Page 15 of 25 
+ 
+given the regulatory nature of most of the constituents in those verticals. 
+Hopefully that answers. 
+Vibhor Singhal: Yes, yes, Sandeep that's really helpful. Just a small extension on that part. 
+As we are seeing this AI adoption as you mentioned, across maybe high-
+tech companies first and then maybe followed by the BFSI companies. Is a 
+high token cost also becoming a factor for these companies to approach 
+more and more IT services vendors, so that we can optimize the token cost 
+for them by maybe building an application layer or anything on that front. 
+Any color on that would be really helpful. 
+Sandeep Kalra: Yeah. So fair point. So, there are 2, 3 things, if we peel the onion a little 
+deeper. So, on one side the companies in these various sectors are 
+recognizing that there is a frontier model play and there's a play for 
+purpose-built small language models which may be open source models, 
+open weight models or even you know building algorithms and that's what 
+Nitish also referred about. In SASVA for example we have created 
+pathways, only a few things that need to go to the most expensive models 
+go there, the rest can be done on purpose-built models. So that is the place 
+where they are bringing in people like us to help them evolve what 
+technology, what model, what way to optimize this. And then even when 
+they are using any of these models, they are putting the t oken related 
+FinOps equivalent of the cloud world to control that token cost. So, there 
+are multiple things happening there. 
+Vibhor Singhal: Got it, got it. Just one quick question for Vinit, if I can. Vinit you mentioned 
+90 basis point impact of the large deal ramp up which happened in this 
+quarter. So, is it fair to assume that for the next two to three quarters also 
+that impact will be in the base, and gradually as our revenue base grows 
+that impact is going to gradually come down? 
+Vinit Teredesai: Yeah, that's right. As I mentioned in my comments also, that as we 
+optimize some of the cost as well as increase our revenue also increases, 
+this will gradually come down. 
+Vibhor Singhal: Got it. Perfect. Thank you so much for taking my questions and wish you 
+guys all the best. 
+Moderator:  Thank you. The next question is from Nitin Padmanabhan. 
+Nitin Padmanabhan: Yeah, hi, thank you for the opportunity and congrats on the quarter and  
+on Nagarro. 2 questions actually. Sandeep the software reinvention 
+services which we have launched, we had done this prior to 2019 as well, 
+I was just curious how is it different in terms of the shape and form this 
+
+ Persistent Systems Limited 
+ 
+ Page 16 of 25 
+ 
+time. And even in the context of what we have sort of absorbed from the 
+deal, let's say the intangibles are up like $ 100 odd million, and you did 
+mention that as revenue improves the margins will sort of normalize. But 
+is there a cap on the amount of revenue you can have in a deal like this or 
+it has to be through costs coming down. Just wanted to understand how 
+it's different from the last time? 
+Sandeep Kalra: Yeah. So, 2, 3 things. So, how is it different from the last time, there's a 
+difference on the technology side, there's a difference on the commercial 
+side. The difference on the technology side is, if you look at AI, what does 
+AI provide us as a big labour and what is more specifically when Nitish talks 
+about SASVA, the ability that today we have is, if you give us a mid to late 
+stage product using technology, we can very clearly map out what 
+happened in the product right from its release one to now, what were the 
+features that were delivered, what was the effort that was there, what is 
+the current hot spot in the product, what is the mapping of the product to 
+the current, so that these products are architected anywhere between 5 
+to 15 years back, how do they use the current cloud versus the capabilities 
+that the current cloud has to offer today. So, by re-architecting, how do 
+you kind of bring down the cloud consumption and hence improve the 
+overall profitability for the product.  
+Also, which are the third-party licenses are embedded in the product that 
+you can replace over a period of time, by using AI to build custom build 
+components and so on. So, from a technology perspective the landscape 
+has changed significantly over the year s and it continues to change 
+significantly by the quarters. So, that is the biggest difference that I would 
+say.  
+In terms of the commercials, the commercials are structured in a way, that 
+it is an outcome based deal where we have assured a certain cost saving 
+for the customer and it is a revenue share kind of a construct, where as the 
+customer sells them the product more, we get a certain percentage of 
+revenue with a certain backstop. So, from that perspective, it is learnings 
+from the past from business models, constructing an outcome based 
+model which is a win-win for the customer and for us and using our AI 
+progress to make sure that we are not just deflating the labour cost but 
+also the third party license cost and the cloud consumption cost, coming 
+together of which is hugely profitable for the customer and we gain a good 
+share of that as well.  
+
+ Persistent Systems Limited 
+ 
+ Page 17 of 25 
+ 
+Nitin Padmanabhan: Perfect. That's very helpful. The other thing was, in terms of deal wins this 
+quarter, my understanding was last time we didn't include the $ 650 
+million deal in the deal win. So, this time if it's adjusted for, that looks 
+relatively softer. So, I was just curious, is that a right interpretation or am 
+I missing out something? 
+Sandeep Kalra: No. So, I'm pretty sure if you go back and look at our financials, the deal 
+win was included, the TCV was at an all-time high for us and so I'll be pretty 
+amiss, if that was not included. So, please review the data, it is included in 
+the last quarter. And the revenue conversion partly had happened last 
+quarter and a bigger thing we had clearly said in the last earnings call that 
+75 to 80 % or more of the deal would have ramped up by this time. And 
+that's what you're seeing in our revenue realization.   
+Nitin Padmanabhan: Correct, correct. Perfect. This is very helpful. Thank you so much Sandeep. 
+Thanks, a ton. 
+Moderator: Thank you, Nitin. The next question is from Kumar Rakesh. 
+Kumar Rakesh: Hi. 
+Sandeep Kalra: Please check the fact sheet and the ACV-TCV bookings for the last quarter.  
+Kumar Rakesh: Hi, good evening. Am I audible?  
+Sandeep Kalra: Yes, please. 
+Kumar Rakesh: Yeah. Thank you. My first question was around the software licenses which 
+have been increasing over the last 2 quarters. So, is that related to the 
+large deal ramp up and hence could be lumpy, could come down in the 
+coming quarters or is that related to AI services picking pace and this could 
+be structural now, part of the business? 
+Sandeep Kalra: Yeah. So, it's a combination of both Rakesh. So, it's a software licenses, as 
+we have said, the deal encompasses the software licenses that are 
+embedded in the products as well. So, part of it is that and part of it is our 
+investment into tools that we are building. Some of them even are based 
+on third-party tools as well or software’s. So, it's a combination of both. 
+Kumar Rakesh:  So directionally, we should assume this to be steady at these levels? 
+Sandeep Kalra: Yeah and if we have more deal wins where we do these kind of software 
+reinvention, as a practice grows bigger, some of these may go bigger, but 
+you should look at overall profitability. And we sincerely believe that this 
+could be a significant moat for us and could also be a profitability enhancer 
+
+ Persistent Systems Limited 
+ 
+ Page 18 of 25 
+ 
+over the next several quarters, as we bring volume into this reinvention 
+practice for the enterprise software. 
+Kumar Rakesh: Absolutely. Great. And my second question was around margins. So, with 
+wage hike now behind us and amortization as Vinit was saying should start, 
+at least the optimization should start kicking in, so is it fair to expect the 
+margin should start recovering from here. And any year end margin target 
+you would want to share? 
+Sandeep Kalra: Yeah, so from our perspective we have said we want to be in the 16 to 17 
+% range, that is our aspiration. That will be our endeavour but we'll let the 
+quarters pan by. We don't give forward looking guidance. Please take this 
+as an aspirational goal. We want to be in that bracket. And we want to 
+make sure that we continuously grow. Growth comes, we win deals, we 
+can always optimize deals and increase profitability. So that is where it is. 
+Kumar Rakesh: Perfect. Thanks a lot Sandeep. 
+Moderator:  Thank you. The next question is from Sulabh Govila. 
+Sulabh Govila:  Yeah, hi. Am I audible? 
+Sandeep Kalra: Yes, please. 
+Sulabh Govila: Yeah. So, my first question is on the deal wins reported this quarter. So, on 
+a Y-o-Y basis, the deal wins, they appear relatively soft. So, I'm just trying 
+to understand, you know, getting more colour on this, whether one is this 
+reflective of a particular vertical, or it was broad based. And also, whether 
+this was related to a slower decision making in this quarter, or the 
+productivity benefits are also leading to lower deal sizes? 
+Sandeep Kalra: Yeah. So, multiple questions there. And let me clarify for Nitin as well, that 
+ACV reported in Q1 FY27 was $536.8 million, and the TCV was $1,146.2 
+million, so roughly about $1.15 billion. That definitely included the $650 
+million of the large deal that we talked about, and the ACV of $125 million 
+that we talked about from the large deal. Now, coming to this quarter. So, 
+this quarter, the ACV of $481 million and TCV of $633.5 million is a 
+reasonably good clip. We had a few deals that slipped over into this 
+quarter, no excuses, we could have done better. But yes, the macro does 
+impact us. The slowdown of decision making in the last few weeks was 
+pretty apparent. And it was not the productivity side of it. It is just the 
+nature of the deals. And some of these get impacted when the Middle East 
+dynamics kind of go up or down. 
+
+ Persistent Systems Limited 
+ 
+ Page 19 of 25 
+ 
+Sulabh Govila: Understood, Sandeep. That is very clear. My second question is on 
+Nagarro, on the acquisition that we are doing. So, we've mentioned in the 
+past, and today as well, the tailwinds that we can receive from this asset 
+over the longer period of time, and the rationale behind it. I'm just trying 
+to understand that what can be some of the quick wins that you internally 
+would target, and we should target from outside when you integrate this 
+asset over the coming months? 
+Sandeep Kalra: Yeah. So, let me first talk about where we are in the deal because some of 
+this is linked to that. So, we are awaiting RBI approvals and FDI approvals 
+in Austria and Spain. We expect in the next 4 to 6 weeks, max, let's say 8 
+weeks, that's our hope and expectation. Obviously, these approvals have 
+to come when they come. As they come, we pay the tendered shares 
+owners, and we close the deal. Once we close the deal, this is now since 
+we have more than 90% of the shares, our intent is to do a merger squeeze 
+out. And basically, if we do that, we will need about 5 to 6 months to 
+optimistically bring the 2 companies together. Even before that, we can 
+start working together, where we have signed a cooperation agreement, 
+we can try and take their services into our customers and vice versa. So, 
+that is the stage where we are.  
+Since the deal is not yet closed, we are 2 public companies working 
+independently. We have a limited ability to go in and build a synergy plan 
+and so on. So, we will wait for the closure. But from what we saw in 
+diligence and the post-diligence discussions at a high level, there is the real 
+estate of customers out there, they have more than 200 USD 1 million plus 
+customers, and the overlap with our 200 USD 1 million plus customers is 
+only 10. So, there is a significant real estate and the quality of customers is 
+impeccable. The quality of their capability is pretty good. They have certain 
+capabilities like SAP and even the investment that they have done in 
+consulting capabilities on AI, etc., are pretty good. So, there is a lot to be 
+done. But we will have to just be patient for the closure. And then once we 
+close and we have a synergy plan built out, we will talk to our investors on 
+that. But we do see significant potential both sides to leverage each other 
+and upscale our business. Hopefully you’ve understood. 
+Sulabh Govila:  Yeah, understood. Thanks for taking my question. 
+Moderator:  Thank you. The next question is from Ashwin Mehta. 
+Ashwin Mehta: Can you hear me?  
+Sandeep Kalra: Yes, please.  
+
+ Persistent Systems Limited 
+ 
+ Page 20 of 25 
+ 
+Ashwin Mehta: So, thanks for the opportunity. Two questions. First is in terms of 
+intangibles. There seems to be a 900 crore plus increase quarter on quarter 
+in terms of intangibles. So, what is the driver for that? Was there any 
+consideration payable in the deal?  
+The second is in terms of margins of this deal. Because if I look at your 
+segmental margins in high tech, they seem to be almost on the incremental 
+revenues, almost 20% lower than your segmental margins that you have 
+been doing in the past. So, what is the  kind of margins and how the 
+gradation moves as you go forward?  
+And the last one is in terms of Nagarro debt. Any sense in terms of what is 
+the cost of that debt and what is the duration that we are looking at? 
+Sandeep Kalra: So, Vinit, let me answer the intangibles and the margins. You take over the 
+Nagarro question. So, if you look at it, as we clearly articulated earlier in 
+this call as well, and we have said this when we announced the larger deal, 
+the thing that we are trying to do is this. We are trying to take the 
+ownership of end-to-end outcome for the profitability of a software 
+product across 20 different products. So, it is a portfolio of 20 different 
+products where we are basically not just responsible for the people side of 
+it. We are responsible for taking out the third-party licenses, which is one 
+big thing that AI is enabling people to do. 
+Third, by re-architecting the product, we intend to reduce the cloud spend 
+over the years. And that is a big margin lever for this entire set of products 
+for this customer. And that is the hypothesis why someone would engage 
+a company like us with the right capabilities to do this over years. With that 
+comes the onus of taking over the cloud spend, taking over the spend on 
+these licenses that we are basically going to reduce over a period of time. 
+And that is what is showing in the intangibles, etc.  
+As far as the margin in the high tech is concerned, part of the thing would 
+be because of this deal. Part of the thing could be because of other 
+productivity gains, etc. that we are giving. But please look at us as a sum 
+of parts. Within high tech, whether it is multiple deals, multiple customers, 
+within the company, multiple different, you know, customer segments and 
+service lines, etc., our endeavour is to deliver at any point in time, bringing 
+together a good growth, even if let us say Healthcare Life Sc iences 
+sometimes goes down in terms of growth, banking financial services, hi-
+tech come up, similarly for margins. So please look at that just as you would 
+look at it as investors at a portfolio of your own investments , not 
+everything pans out every month at the same clip. 
+
+ Persistent Systems Limited 
+ 
+ Page 21 of 25 
+ 
+So, we are reasonably assured in our minds about what we are signed up 
+for, our ability to optimize margins over a period of time and deliver to our 
+aspirational goals of 16 to 17% margins and the growth that we aspire. 
+Hopefully that answers.  
+And, you know, I can take more after Vinit has answered the Nagarro 
+question. Vinit, if you can please answer the Nagarro debt question. 
+Vinit Teredesai: Yeah, hi. Ashwin, see, it's a separate company, so I won't be able to 
+comment on their behalf specifically. But what I can tell you is that it's a 
+revolving credit by 5 banks. And at this point of time, it's pretty much 
+competitive linked to the SOFR rates. And at this point of time, we are in 
+the process of getting that debt refinanced with the existing bankers, as 
+well as with looking at alternatives with the bankers that Persistent is 
+working. 
+Ashwin Mehta: So Vinit, I was looking at what would be our cost of debt for the acquisition, 
+not the Nagarro? 
+Vinit Teredesai: Yeah, no, no, see that the debt is yet to be raised. So, for us at this point of 
+time, what I can call out is that it is pretty much in the range of doing 5 to 
+6%, but it will all depend upon the day we actually do the transaction. So, 
+you can right now assume between 5 to 6% on a net basis. 
+Ashwin Mehta: And thanks, Sandeep, for the clarification and all the best. 
+Moderator:  Thank you. The next question is from Suraj Malu. 
+Suraj Malu: Thank you for this opportunity. Sir, can you help me understand the broad 
+breakup of the 50 million, like the 5 million, 50 million acquisition costs 
+that you mentioned? 
+Sandeep Kalra: So, which 50 million acquisition cost are you talking about? 
+Suraj Malu:  Like the one-off acquisition cost would be involved, right, like 185 crore….. 
+Sandeep Kalra: Okay, understood. Vinit, please go ahead. 
+Vinit Teredesai: Yeah, so this 50 million is basically a combination of multiple. It is a 
+combination of the investment banking fees, the bridge loan commitment 
+costs, there are legal lawyer costs, we are doing application of regulatory 
+filings in various geographies, various travel involved with that. So, it is a 
+combination of all that put together that is being factored in at this point 
+of time, plus some amount of funding that we are at Persistent right now 
+planning to raise. So, all that put together. Right now, around 19 to 20 
+
+ Persistent Systems Limited 
+ 
+ Page 22 of 25 
+ 
+million is what basically is incurred in Q2. And as I said, 25 to 30 million will 
+be incurred over the next 3 to 4 quarters. 
+Suraj Malu: Got it, sir. Thank you very much. And sir, if I may ask one more question. I 
+know you answered on the TCV question, like a couple of deals got slipped 
+into this quarter. But if we look at the year on year growth, on TCV it was 
+just 4%, which typically is in the range of 15 to 16%. So how should one 
+look at that? 
+Sandeep Kalra: Yeah, so you should look at it in the context that last quarter, we had a TCV 
+of $1.14 billion. Now, if you look at the growth from that perspective, it is 
+fairly decent. So, I would tend to say look at that TTM to TTM comparisons, 
+rather than a comparison of a particular quarter. So, if you take a longer 
+range, that is what would give you a fair comparison. If I look at that TTM 
+year on year, the trailing 12 months, the TCV growth is 36.3%. If I look at 
+the ACV growth on a TTM basis, it is 21.9%. So, some quarters are going to 
+be fairly big, and some quarters are going to be average. But if you combine 
+all of this, the 36.3% and 21.9% is fairly good, TCV and ACV respectively. 
+Suraj Malu:  This is very helpful. Thank you. 
+Moderator:  Thank you. The next question is from Prateek Maheshwari. 
+Prateek Maheshwari: Hello. Thank you for the opportunity. My first question was around the 
+IBM deal. So, sorry, the other customer deal. So, I just wanted to 
+understand around the commercials and the cost part that you said around 
+the deal, which is basically, you've taken up some of the products and kind 
+of improved the cloud cost, the cost of people and the third-party cost. But 
+just for the revenue commercial, I just wanted to understand if there is any 
+contingency upon probably if the use of the products falls at the 
+customer's end. Is that also kind of involved, or it's only on the upside? 
+Sandeep Kalra: Yeah, so I would say it is an upside, because if you look at it, any of the 
+software vendors today, whether it is even the next generation tool 
+vendors like an Anthropic, OpenAI, Microsoft, Google, Amazon, anyone, all 
+of these people would love for companies like us to have partnerships and 
+adopt their tools and sell their software into our enterprise customers, 
+because we are a channel for all of them. And that has been the way tech 
+services has worked for long. So that is an upside for us that is not baked 
+into this financials. So, these financials are more to do with the services 
+that we are providing. 
+
+ Persistent Systems Limited 
+ 
+ Page 23 of 25 
+ 
+Prateek Maheshwari: Sir, on the ACV that is booked or the overall deal value of 650 million, is 
+there any contingency where it could drop for the period of 6 years in case 
+of any performance-based contingency of it to be lower than 650 million? 
+Sandeep Kalra: No. 
+Prateek Maheshwari: Okay. 
+Sandeep Kalra: This is what we have announced is on the lower end of the deal. 
+Prateek Maheshwari: Right. 
+Sandeep Kalra: There could be potential upsides. 
+Prateek Maheshwari: Okay, thanks. Sandeep, the other one that I wanted to check about was 
+the outlook for healthcare. So, I think this has been, while the other two 
+verticals are doing fantastically well for you guys, just wanted to check 
+where probably, I think you said that probably from next quarter onwards 
+all of the verticals will start growing, right? But just from a medium-term 
+perspective, I just wanted to have a certain colour on the outlook. 
+Sandeep Kalra: Yeah, so I stand by the comments I made earlier, healthcare should start 
+seeing growth. If you look at it, if I look at the Financial Year ‘25, there was 
+a time when it was growing more than 50%, even touching 70% year-on-
+year. So, if we look at it, again, we are a sum of parts, there are some 
+dynamics in Healthcare Life Sciences that made us step back a little bit, but 
+there's good pipeline and I'm pretty sure this will also grow. As of this point 
+in time, if you look at it, when in let's say, for example, in Q3, Q4 of ‘25, 
+healthcare grew at 52.6% and 33.6% respectively. That time, high -tech 
+grew at 3.2% and 9.7%. Financial services grew at 22% and 26.6%. I don't 
+think you should read too much into this. There are some dynamics which 
+were there with respect to a couple of customers. They are more or less 
+baked in. You should see the growth coming in.  
+Prateek Maheshwari: Right. Thank you so much for the answers. 
+Moderator:  Thank you. 
+Sandeep Kalra: I think operator, we are at the end of the call. We can take one last 
+question and then we should wrap up with the closing comments.  
+Moderator:  Sure, understood. The next question is from Sandeep Shah. 
+Sandeep Shah: Yeah, thanks. Thanks for the opportunity and congrats on the execution 
+despite the headwinds on the macro. I think most of the questions have 
+been answered. Just bookkeeping, in this quarter, there has been a concise 
+
+ Persistent Systems Limited 
+ 
+ Page 24 of 25 
+ 
+system which got closed effective 1st of July. So, Vinit, if you can provide 
+an incremental growth from this and second, the intangible assets under 
+development in balance sheet has further increased Q-o-Q which has been 
+0.6% of this quarter's revenue versus 0.5% of last quarter revenue. I am 
+talking about incremental increase. So, is it more a salary related cost of a 
+R&D team or this is beyond salary other expenses, if you can provide the 
+nature of the same? 
+Sandeep Kalra: Vinit, I will answer the 1st part, you can take the 2nd part. So, on the deal 
+that we did with the Estonia based company, now that is basically a part of 
+a vendor consolidation exercise at one of our larger customers. We 
+continue to grow with the larger customer that we have and it is not one 
+of our top 5 customers. It is beyond that, much beyond that. And so, we 
+are seeing a very healthy pipeline and we are relatively hopeful of growing 
+that customer much bigger. So, that is as far as the Estonia deal and growth 
+is concerned.  
+Now, Vinit, if you want to answer on the other part. 
+Vinit Teredesai: Yeah. So, Sandeep, this is with reference to all our internal IP tools, with 
+reference to AI that we are developing like SASVA, iAURA and Gen AI. It 
+includes significant amount of people cost but also includes certain 
+amount of tools and other expenses in  order to do the, look at the 
+application and sort of do this and provide the necessary services. 
+Sandeep Shah: So, on a Q-o-Q basis, it can go up, you believe, in the forthcoming quarter 
+as well? 
+Vinit Teredesai: It all depends upon, see, sometimes we are in the process of developing 
+the new features associated with, so sometimes that cost goes up. But I 
+think so this quarter, you should also factor in the part that we are also at 
+the wage increments that came in along with it. So, there is that 
+component also attached with it. 
+Sandeep Shah: Okay, thanks and all the best.  
+Sandeep Kalra: Perfect. So, with that we would like to close the call. Thank you everyone 
+for spending the time with us on the call today. We look forward to 
+connecting with you again in 3 months’ time to provide an update on our 
+ongoing process, the progress. With this, we will close the call today. Have 
+a good rest of the day. Thank you. 
+Moderator: Thank you very much to Persistent’s Management team. Ladies and 
+gentlemen, on behalf of Persistent Systems Limited, that concludes today's 
+
+ Persistent Systems Limited 
+ 
+ Page 25 of 25 
+ 
+conference. Thank you for joining us. You may now disconnect your lines 
+and exit the webinar. 
+(End of transcript) 
+ 
+ 
+ 
+ 

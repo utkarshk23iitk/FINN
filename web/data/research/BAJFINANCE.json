@@ -1,0 +1,235 @@
+{
+  "symbol": "BAJFINANCE",
+  "headline": "Management maintains consistent confidence in operational metrics like opex improvement and customer acquisition while achieving strong AUM and profit growth.",
+  "counts": {
+    "delivered": 0,
+    "partly": 0,
+    "missed": 0,
+    "pending": 8,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "AUM growth of 20% to 24% in FY27",
+      "quote": "In terms of AUM, we're confident of a 20% to 24% AUM growth, aided by new businesses that we've launched in the last few years as they begin to scale.",
+      "verdict": "pending",
+      "evidence": "Horizon FY27 ends in March 2027, so it remains pending as the latest reported data is for September 2026.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 24,
+      "target_low": 20,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Add 15 to 17 million new customers in FY27",
+      "quote": "In terms of customer franchise, we continue to be confident of adding 15 - 17 million new customers in FY27.",
+      "verdict": "pending",
+      "evidence": "Horizon FY27 ends in March 2027; full-year customer addition outcome is not yet reported by September 2026.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 17,
+      "target_low": 15,
+      "unit": "million"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Improvement of 25 to 40 bps in opex to NTI",
+      "quote": "On opex to NTI, we expect to see continued improvement of 25 to 40 basis points from current levels.",
+      "verdict": "pending",
+      "evidence": "Horizon is FY27; reported opex to NTI was 33.4% in Q1 FY27 and 33% in Q2 FY27, awaiting full year.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 40,
+      "target_low": 25,
+      "unit": "bps"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Guide for ROA of 4.4% to 4.6%",
+      "quote": "We continue to guide for 4.4% to 4.6%.",
+      "verdict": "pending",
+      "evidence": "ROA came in at 4.7% in Q1 FY27 and 4.6% in Q2 FY27, awaiting full year FY27 completion.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 4.6,
+      "target_low": 4.4,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Guide for ROE of 19% to 20%",
+      "quote": "Return on equity came in at 20% in the current quarter, we continue to guide for 19% to 20%.",
+      "verdict": "pending",
+      "evidence": "ROE was 20.4% in Q1 FY27 and 20.6% in Q2 FY27, awaiting full year FY27 completion.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 20,
+      "target_low": 19,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Deploy over 600 autonomous agents in FY27",
+      "quote": "In FY27, we expect to deploy 600-plus autonomous agents and across operations, DMS, HR, technology and risk.",
+      "verdict": "pending",
+      "evidence": "Horizon FY27 ends in March 2027.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "at_least",
+      "horizon": "FY27",
+      "target_high": null,
+      "target_low": 600,
+      "unit": "agents"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Disburse INR11,000 crores to INR12,000 crores via AI bots",
+      "quote": "On disbursements, AI, voice and text bots did INR2,500 crores, we will do INR11,000 crores INR12,000 in the full year this year.",
+      "verdict": "pending",
+      "evidence": "Horizon is full year FY27, pending final results.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 12000,
+      "target_low": 11000,
+      "unit": "INR crore"
+    },
+    {
+      "made_in": "Q2 FY27 call",
+      "promise": "Deliver 60 to 62 million new loans in FY27",
+      "quote": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+      "verdict": "pending",
+      "evidence": "Horizon is FY27, pending year-end.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "horizon": "FY27",
+      "target_high": 62,
+      "target_low": 60,
+      "unit": "million"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Customer Additions Guidance",
+      "change": "Target range for new customer additions was revised upwards from 15-17 million in Q4 FY26 to 18-20 million in Q2 FY27.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q2 FY27"
+    },
+    {
+      "topic": "AUM Growth Guidance",
+      "change": "Longer-term AUM growth guidance was specified as 23% to 25% in Q2 FY27 compared to medium-term 20% to 25% previously.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q2 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q4 FY26",
+      "period": "Apr 2026",
+      "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf",
+      "nse": false,
+      "guidance": 7,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Aug 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf",
+      "nse": false,
+      "guidance": 6,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+      "nse": false,
+      "guidance": 6,
+      "reported": 6,
+      "dropped_unverified": 1
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Revenue": [
+        18035.0,
+        18294.0,
+        19524.0,
+        19990.0,
+        21013.0,
+        21606.0,
+        23165.0,
+        24546.0
+      ],
+      "Financing Margin %": [
+        33.0,
+        32.0,
+        34.0,
+        34.0,
+        28.0,
+        35.0,
+        36.0,
+        36.0
+      ],
+      "Net Profit": [
+        4308.0,
+        4546.0,
+        4765.0,
+        4948.0,
+        4066.0,
+        5553.0,
+        6081.0,
+        6367.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6183,
+      "output_tokens": 1384
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4666,
+      "output_tokens": 1324
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5192,
+      "output_tokens": 1375
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3213,
+      "output_tokens": 1772
+    }
+  ]
+}

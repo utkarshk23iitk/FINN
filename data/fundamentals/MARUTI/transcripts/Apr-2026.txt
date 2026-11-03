@@ -1,0 +1,466 @@
+Page 1 of 13 
+ 
+ 
+ 
+ 
+Q4 FY26 Earnings Conference Call 
+ 
+April 28, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Page | 2  
+MSIL Conference Call Transcript April 28, 2026  
+Moderator: Ladies and gentlemen, good day, and welcome to the Maruti Suzuki India Limited Q4 FY '26 
+Earnings Conference Call. All participant lines will be in the listen-only mode and there will be 
+an opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during this conference, please signal an operator by pressing star then zero on your  
+touchtone phone.  
+ I now hand the conference over to Mr. Pranav. Thank you, and over to you, sir. 
+Pranav Ambaprasad: Thank you, Dorwin. Ladies and gentlemen, good afternoon once again. Welcome you all to Q4 
+FY '26 Earnings Call. May I introduce you to the management team from Maruti Suzuki. Today, 
+we have with us our Chief Investor Relations Officer, Mr. Rahul Bharti; and CFO, Mr. Arnab  
+Roy. Before we begin, may I remind you of the Safe Harbor. We may be making some forward-
+looking statements that have to be understood in conjunction with the uncertainty and the risks 
+that company faces. 
+ I'd also like to inform you that the call is being recorded, and the audio recording and the 
+transcript will be available at our website. Please note that in case of any inadvertent error during 
+this live audio call, the transcript will be provided with the corrected information. 
+ The con call will begin with a brief statement on the performance and outlook of our business 
+by CIRO and Senior Executive Officer, Corporate Affairs, Mr. Rahul Bharti, after which we'll 
+be happy to receive your questions. 
+ I would now like to invite our Chief Investor Relations Officer, Mr. Rahul Bharti. Over to you, 
+sir. 
+Rahul Bharti:  Thanks Pranav. Good afternoon, ladies and gentlemen, and thank you for joining us. Before I 
+come to the company's financial performance, I would like to briefly share our perspective on 
+the passenger vehicle industry during the financial year '25 -26 and Maruti Suzuki's  operating 
+performance in this environment. You would be aware, financial year '25 -26 was a year of 2 
+distinct halves for the Indian PV industry. 
+ In the first half of the fiscal, the passenger vehicle market declined by about 0.4% year-on-year, 
+reflecting affordability pressures, particularly in the small car segment. However, in the second 
+half of the year, led by the government's GST reform, the industry witnessed a sharp turnaround 
+with the passenger vehicle market growing by a whopping 16.7% year-on-year. This rebound 
+was clearly led by the small car segment, particularly vehicles in the 18% GST bracket, where 
+reduction in acquisition cost helped revive demand.  
+ For Maruti Suzuki, the rebound in the domestic market was even stronger than the industry. 
+While our domestic sales declined by 5.6% in the first half of the fiscal year, the sales volume 
+grew by 12.3% in the second half of the year, generating a swing of about 17.9%. 
+ Our domestic sales volume growth during the year was constrained by production capacity. As 
+of the end of the fiscal year, around 190,000 customer orders remained unserved, and we are 
+trying to service them fast, highlighting the strength of the underlying demand. Importantly, near 
+130,000 of these pending orders were in the small car segment, falling in the 18% GST bracket. 
+
+ 
+Page | 3  
+MSIL Conference Call Transcript April 28, 2026  
+ In addition, the dealer inventory was at a low of about 12 days’ stock. Notably, even in a market 
+largely driven by SUVs, the top-selling passenger vehicle in financial year ‘25-26 was the Dzire, 
+which is a sedan placed within the 18% GST bracket.  
+ During the second half, we observed higher showroom traction from two-wheeler upgraders, as 
+well as an increase in first-time buyers. While rural markets continue d to perform well during 
+the entire year, the urban markets also recovered and posted a growth post the GST reform.  
+Alongside the recovery in small cars, Maruti Suzuki also strengthened its performance in the 
+mid-SUV segment during the year. And towards this, the launch of the V ICTORIS played an 
+important role. The VICTORIS has seen strong customer acceptance and is the fastest model in 
+mid-SUV to cross 50,000 cumulative sales.  It is no wonder that the VICTORIS got the Indian 
+Car of the Year Award, where 19 prominent auto publications form a jury and jointly vote for 
+the best car in the country.  
+While GST reforms supported the revival of entry -level demand, the VICTORIS contributed 
+meaningfully to our volume growth in the mid -SUV segment, enabling us to participate more 
+competitively in one of the fastest-growing segments of industry. 
+ In addition, during the year, we also launched our first battery electric vehicle, the e VITARA. 
+The e VITARA represents Maruti Suzuki's first fully electric SUV developed on a fresh 
+dedicated platform and designed for Indian and about 100 global markets.  Happy to share that 
+the initial response has been quite encouraging, and the model strengthens our preparedness for 
+the gradual transition towards electric mobility, while we continue to follow a balanced multi -
+powertrain technology pathway for reducing fleet carbon emissions.  
+ Alongside the domestic market, exports remained an important growth driver during the year.  
+Exports volume grew strongly in the financial year ’25-26, reinforcing Maruti Suzuki's position 
+as the leading exporter of passenger vehicles supported by a diversified presence across global 
+markets. Investors will be very happy to note that your company, just one company among 18 
+car manufacturers in India, alone contributed 49% share of India's total passenger vehicle exports 
+in the financial year. 
+ At the same time, in financial year ’25-26, the operating environment for the automobile industry 
+remained complex. You are aware, during the year, geopolitical developments such as supply 
+issues in rare earth metals, the conflict involving the West Asia region, pose d risk to supply 
+chains, particularly energy, certain raw materials and logistics. These developments increased 
+uncertainty for the industry and required greater focus on business continuity. 
+ The company has been working very closely with its supply chain and logistic partners to ensure 
+continuity of operations and mitigate potential disruptions. We have strengthened coordination 
+across critical suppliers and enhanced contingency planning. However, the situation does remain 
+dynamic and cost pressures do persist. We continue to closely monitor devel opments and 
+respond as required. 
+Despite the uncertainties posed by the ongoing geopolitical tensions, the company maintain s 
+strong confidence in the resilience of India's economy. While acknowledging that war -related 
+
+ 
+Page | 4  
+MSIL Conference Call Transcript April 28, 2026  
+challenges may impact the business environment in the short term, the company believes these 
+disruptions are temporary and will likely subside as circumstances improve.  
+Importantly, the recent GST reduction is seen as a transformative factor for the passenger vehicle 
+sector in India. By lowering taxes, the reform has enhanced affordability, making passenger 
+vehicles accessible to a broader segment of customers. This, in t urn, has set the industry on a 
+path of sustained long-term structural growth by enlarging the potential customer base. 
+Consequently, the company is proactively accelerating its capacity expansion efforts to address 
+the strong demand and fulfill pending orders. The second plant at the Kharkhoda facility and the 
+fourth production line at the Hansalpur facility in Gujarat is set to become operational within 
+this financial year. Each of these new units will add an annual production capacity of 250,000 
+vehicles. To put this in perspective, increasing production capacity by about 0.5 million units in 
+a single year is virtually unheard of in the passenger vehicle industry, at least in India and many 
+countries abroad. This bold move is a clear testament to our unwavering confidence and 
+optimism in the immense growth potential that lies ahead.  Besides, the company has put plans 
+in place to increase the production capacity to 4 million units per annum in the medium term.  
+Before we move to the financial results, I would like to share the major business highlights for 
+the company. 
+In this financial year, the company achieved several significant milestones.  
+First, the company recorded its highest ever annual sales of 2.42 million vehicles, which includes 
+the highest ever export of 447,000 vehicles.  
+Maruti Suzuki has set a new benchmark in the industry by achieving cumulative sales of 3 crores 
+or 30 million units in the domestic market.  
+Coming to products, demonstrating its commitment to customer safety, the company is now 
+offering 6 airbags as standard in almost all of its passenger vehicle product lineup - volumes 
+going beyond 99% and advanced safety features like Electronic Stability Control, Anti-lock 
+Braking System with Electronic Brakeforce Distribution as a standard across the entire product 
+lineup. 
+On the same lines, the all-new Dzire, the VICTORIS, the e VITARA and the Invicto secured 5-
+star Bharat NCAP safety rating, while the Baleno secured a 4-star rating. 
+Further strengthening the company's robust network of 2,000 exclusive charging points across 
+our sales and service network spanning across 1,100 cities, we have collaborated with 13 charge 
+point operators to offer access to a vast charging infrastructure across the country.  
+Aligned with Suzuki's global vision, we plan to introduce multiple EVs and to support this, our 
+aim is to enable a network of over 1 lakh charging points across India by 2030, along with our 
+dealers and charge point operators. 
+
+ 
+Page | 5  
+MSIL Conference Call Transcript April 28, 2026  
+For promoting inclusive mobility in mass segment cars, the company launched the WagonR with 
+an option of a swivel seat.  Seemingly a small feature, but extremely customer -friendly, swivel 
+seat is especially designed to offer greater convenience to senior citizens and persons with 
+disabilities, bringing the ‘Joy of Mobility’ to them. Drawing inspiration from Suzuki Group's 
+corporate slogan ‘By Your Side ’, this initiative aligns with the United Nations ’ Sustainable 
+Development Goal that aims to reduce inequality.  
+The company continued to expand its sales and service footprint. During the year, the total sales 
+outlets increased to over 4,600 and service touch points increased to over 5,900 across the 
+country.  
+The company has also set a new benchmark in green logistics by dispatching over 600,000 
+vehicles through railways in the financial year  ’25-26, which is a growth of about 18.5% over 
+the previous year.  Interestingly, in the past decade, Maruti Suzuki's share of rail mode in 
+outbound logistics has grown exponentially, growing from 5.1% in 2016 to 26.5% in financial 
+year '25-'26, significantly reducing carbon emissions, the country's oil imports and easing  road 
+congestion.  
+Now I come to the financial results. 
+The company recorded its highest ever quarterly sales of 676,209 units, up 11.8% from quarter 
+4 of the previous financial year. Domestic sales were at 538,994 units and exports at an all-time 
+high of 137,215 units.  
+During this period, the company achieved record net sales of about INR 500.79 billion compared 
+to about INR388.39  billion in the same period a year ago. Operating profit, EBIT for quarter 4 
+of this year increased by 30.4% over quarter 4 of the previous financial year, reaching an all -
+time high of over INR44 billion.  Despite the growth in operating profit, net profit declined by 
+6.9% year-on-year to nearly INR36 billion, primarily due to mark-to-market impact, which my 
+colleague, Arnab, will explain in his part. 
+Before coming to explanation of results, I want to reiterate that Suzuki Motor Gujarat Private 
+Limited, which was our wholly owned subsidiary, in Gujarat got amalgamated with Maruti 
+Suzuki starting December 1, 2025. The appointed date as per the scheme of amalgamation is 1st 
+April 2025. And so the financial statements for the relevant periods have been restated for the 
+purpose of comparison. 
+Now I'll explain the broad reasons for the financial performance. Since investors look out for a 
+sequential comparison, I'll give you the analysis on a sequential basis. The overall sales volume 
+grew by 1.3% and the net sales grew by 5.4%.  Sequentially, the operating profit margin EBIT 
+has expanded to 8.8% of net sales compared to 8.1% in quarter 3 of the financial year.  
+There were several favourable factors.  Lower employee cost of about 100 bps. If you would 
+recall, in quarter 3, we had a one-time provision on account of new Labour Codes. So comparing 
+with that, quarter 4 was lower by 100 bps. The discounts were lower by about 50 bps, favourable 
+foreign exchange movement by 30 bps, favourable fixed cost incidence of about 50 bps due to 
+inventory accretion. 
+
+ 
+Page | 6  
+MSIL Conference Call Transcript April 28, 2026  
+These were the positive factors. They were partially offset by some adverse factors. The adverse 
+commodity prices of about 80 bps. higher new model expenses of about 60 bps. The other 
+expenses were higher by 20 bps, largely on account of some lumpiness and seasonality 
+associated with other expenses in CSR, R&D, etc. Furthermore, at the PAT level, at the net profit 
+level, the hardening of bond yields resulted in mark-to-market impact of approximately INR7.5 
+billion on our invested surplus. 
+I now come to the highlights of the full year '25-26. The company recorded highest ever annual 
+sales volume, net sales and net profit. The company sold a total of 2,422,713 units in financial 
+year '25-26, compared to 2,234,266 units in the previous year. T he company registered record 
+net sales of over INR1.74 trillion in financial year '25-26, a growth of 20.2% over the previous 
+year. The company achieved its all -time high net profit of over INR144.4 billion in financial 
+year '25-26 compared to net profit of about INR142.9 billion in the previous year. 
+Along with profits come dividends. The Board of Directors recommended its highest ever 
+dividend of INR 140 per share of the face value of INR 5 per share compared to INR135 per 
+share in the previous year.  
+With that, ladies and gentlemen, we are now ready to take your questions, your feedback and 
+any other observations that you may have. Thank you. 
+Moderator:  Our first question comes from the line of Gunjan Prithyani from Bank of America. 
+Gunjan Prithyani:  My first question is on the cost headwinds and thanks for giving that margin bridge. Can you 
+just give us more color on how do we think about incremental cost headwinds? You mentioned 
+it was 80 basis points in quarter 4. But looking at where the commodities are and the steel 
+repricing that is due, how should we think about the cost headwind s going into the next 1 or 2 
+quarters? And maybe what are the mitigating factors that we are working through to make sure 
+that the margins remain in a range? Or maybe you just give us some guidance on how do we 
+think about margins? 
+Rahul Bharti:  Thanks, Gunjan. So though you asked only about margin, but I'll speak about both demand 
+scenario and margins because just now we had a press conference along with our Chairman. One 
+thing that he mentioned was that fortunately, the impact does not seem to be much. The demand 
+sentiment seems to be good. Margins, of course, some prices like commodity, energy, gas prices 
+do go up in such times, which is possible to understand. 
+But we've been seeing commodity changes in the past also.  And we also believe that once the 
+West Asia crisis is over, many of these cost pressures would ease. So yes, there is some pressure, 
+but we are taking it as part of regular business. 
+Gunjan Prithyani:  Okay. Do we see a similar sort of cost headwind going into quarter 1 as well, 80 basis points 
+was what we took in quarter 4. So, I'm just trying to understand while these are temporary and 
+would get normalized, any sense that you can give? And is there a mitigating action like 
+discounts are coming down, any pricing move that can help you offset the commodity impact? 
+
+ 
+Page | 7  
+MSIL Conference Call Transcript April 28, 2026  
+Rahul Bharti:  A lot of mitigation actions are in progress. In fact, that management spends a lot of time on this. 
+First, we have to ensure that there is no disruption in our production operations. So , whether it 
+is gas supplies or alternate fuels, etc ., and arranging them from the lowest possible source, 
+diversifying our portfolio. Second, fortunately, the demand scenario is good. So, we have a focus 
+that our capacity utilization should also continue to be high. 
+We are fortunate today, we have pending orders, but we want that situation also to continue and 
+volume buoyancy should be good. That helps a lot. Of course, we are trying to arrange all the 
+commodities at the lowest possible cost, diversify our supply chai n. So all those mitigating 
+factors continue. It will be difficult to put a number. But yes, in such a situation some cost 
+headwinds do come and it's part of business. 
+Gunjan Prithyani:  Okay. Got it. My second question is on the emission regulations now. I'm assuming the CAFE 
+norms what we've seen are near final version. Some sense on how are we thinking about the 
+CAFE norms? What does it mean in terms of the powertrain mix, particularly interested in 
+understanding what is the EV salience that we need in the block of 3 years or 2 years, the way 
+CAFE norms define it. And recently, there's also a lot of noise around flex-fuels, E85. If you can 
+talk us through the readiness on this and what sort of portfolio cos t impact, we see because of 
+flex-fuel. A bit more on the emission regulations? 
+Rahul Bharti:  CAFE is an energy efficiency regulation. The final draft is yet to be notified. So it's not right to 
+make a premature commitment. But whatever we have seen till now seems to have a good 
+balance across multiple powertrain technologies to reduce CO2 emissions.  
+So they have encouraged all technologies, which is a positive. And it's showing in the current 
+war, where biofuels like Compressed Biogas or ethanol are coming to the rescue when crude oil 
+imports come under pressure. I should also tell you that Maruti Suzuki models are inherently far 
+more efficient than any in its peer group.  
+And if you compare any like-to-like model, we would be about 20% more efficient. So that way 
+the company is always positioned from a technology perspective positively for energy 
+efficiency. Your next question was on flex -fuel. We have the technology, whether it is for 
+ethanol blending increase or for flex -fuel vehicles. We have the technology and we'll support 
+the government whenever the need arises. 
+Gunjan Prithyani:  What can be the  cost increase because of flex -fuel for upgrading the engine or complement 
+change, any present idea around that? 
+Rahul Bharti:  First of all, let me tell you, there are two distinct movements happening in ethanol. One is all 
+cars on the road, which is something like we are talking about sales of about 5 million cars a 
+year or all the car parc, which is over 4 crore cars in the population. The government is thinking 
+of increasing the minimum blending from E20 to E21, E22 something like that or maybe till all 
+the way up to E25. That is one clear action.  
+The other clear action is launching models that can take any blend of ethanol and gasoline from 
+0 to 100. The se cond one won't be a meaningful volume by number as of now because of 
+unavailability of such models and also we need dispensing pumps in the country that will span 
+
+ 
+Page | 8  
+MSIL Conference Call Transcript April 28, 2026  
+the entire network. We need more models. We need parity between ethanol and petrol price. So 
+all those factors will take some time for flex-fuels to develop. So it is like a futuristic plan. The 
+volumes will be minimal at this stage. It will grow, say, 5 years to 10 years from now , it will 
+become a meaningful volume, nothing immediately. So it does not affect our cost structure. 
+Gunjan Prithyani: Okay. Got it. I will join back the queue. Thank you so much. 
+Moderator:  Thank you. O ur next question comes from the line of Chandramouli Muthiah from Goldman 
+Sachs. Please go ahead. 
+Chandramouli Muthiah:  Hi, good evening and thanks for taking my question. M y first question is around the growth 
+outlook for the domestic passenger vehicle industry and what you think could be the growth 
+outlook on exports just given how the macro seems to be evolving. I think in the SIAM Looking 
+Ahead Conclave, 3 months back, the industry had thought that passenger vehicles should be able 
+to grow between 5% to 7% in FY27, but the macro seems to have changed. But you did mention 
+that the demand remains to be pretty good. There's not been much impact. So I just want to 
+understand how you're thinking about industry growth, both domestic and export for FY27? 
+Rahul Bharti:  Our Chairman just mentioned that this time we would be thinking of utilizing our new plants. 
+Obviously, the two new plants that come up with a steady-state total capacity of 500,000 units, 
+will need a ramp-up. Effectively, one can expect that we'll have an additional volume of about 
+250,000 cars available th is year over the previous year.  The broad expectation , which our 
+Chairman also conveyed, is growth of over 10% this year as compared to the last year. And, of 
+course, the situation is dynamic. This is the initial expectation. 
+Chandramouli Muthiah:  Second question is around capacity. You mentioned that there will be 250,000 units of additional 
+capacity coming on board in Gujarat later this fiscal? 
+Rahul Bharti:  One in Haryana, the other in Gujarat. 
+Chandramouli Muthiah:  Yes. So just related to that, last year when you had put the first Greenfield in Kharkhoda, there 
+was, I think, cumulative 60 basis points of start-up costs because you had to build up utilization 
+over a period of time. But at this stage, it looks like you do have good visibility around demand. 
+So just want to understand if there will be any start-up costs to be expected in these brownfield 
+capacity additions that you're doing in Kharkhoda and in Gujarat. 
+Arnab Roy:  There will be some ramp -up definitely for the Kharkhoda Phase 2 plant, but we do not expect 
+anything significant because as Rahul explained, the demand outlook looks good, and economies 
+of scale should be able to broadly take care of th e start-up cost. So we don't expect anything 
+significant. If anything, the demand outlook stays positive . Of course , we'll  have to keep 
+monitoring the macro environment and the other variables factors. 
+Chandramouli Muthiah:  Got it. That's helpful. And last question, just bookkeeping questions around the other income 
+outlook. So it looks like you had a INR750 crores mark -to-market notional impact on other 
+income this quarter. If bond yields were to remain constant, do you think this completely reverses 
+next quarter? And also just the other bookkeeping questions are around export revenue and the 
+retail number, Maruti's retail number for the quarter? 
+
+ 
+Page | 9  
+MSIL Conference Call Transcript April 28, 2026  
+Arnab Roy:  Yes. First, let me answer your mark -to-market question. I think others will also have this 
+question. So overall, if you see because of the hardening of the interest rates and when we talk 
+about hardening of interest rates in our portfolio, there are severa l kind of benchmark rates, 
+which have a weighted average impact, whether it is the 1 -year G-Sec or the 1-year corporate 
+bond or the commercial paper. 
+But on a blended basis, if one looks at it, we had almost a 46 bps impact this quarter. And this 
+46 bps translates to about INR750 crores hit in the quarter sequentially. 
+If you compare on a Y -o-Y basis, there is INR 1,075 crores hit,  so which is quite significant.  
+That's the reason you see the other income quite significantly down when you are comparing the 
+PBT of this year versus last year on a full year basis. So, this is something which you have to 
+keep in mind. 
+As of yesterday, some amount of reversal has already happened. Roughly about 35% of this is 
+already reversed, and this is a n everyday moving number. So we'll have to keep monitoring it. 
+That's on the mark -to-market roughly. In terms of our overall credit quality, I think our credit 
+quality remains very robust. And I think we are at more than 99.5% AAA-rated security. So that 
+remains quite robust. 
+So the long term, it is completely secured. Short term, of course, we are exposed to the interest 
+rate changes because of the macroeconomic environment. Your second question was on exports, 
+right?  
+Rahul Bharti:   Exports revenue is about $1.24 billion for the quarter. 
+Chandramouli Muthiah:  Got it. And just the retail numbers, Maruti's retail volume number for the quarter. I think last 
+year, fourth quarter, we did 430,000 units, this year what the retail number is for fourth quarter? 
+Rahul Bharti:  Last year, which is the figure you have? 
+Chandramouli Muthiah:  430,000 units for fourth quarter, MSIL domestic retail. 
+Rahul Bharti:  It was 415,000 units. This was for last year fourth quarter. This year, fourth quarter was 468,700 
+units approximately. So, there's a 12.9% year-on-year growth in the quarter in retail sales. 
+Chandramouli Muthiah: Makes sense. Thank you very much and all the best. 
+Moderator:  Thank you. Our next question is from the line of Raghunandhan N L from Nuvama Research.  
+Please go ahead. 
+Raghunandhan NL: Good evening, team. Thank you for the opportunity. Sir, firstly, if you can indicate growth or 
+the share for rural urban in FY26? And also, if you can talk about the trends for first -time 
+replacement additional buyers for full year FY26? 
+Rahul Bharti:  It is a very hard to draw a line between urban and rural because the boundaries are blurring now. 
+And it's a very heartening thing that the rural India is integrating with the urban India. So the  
+consumption trends which were earlier associated with urban India are now being seen in rural 
+
+ 
+Page | 10  
+MSIL Conference Call Transcript April 28, 2026  
+India. So, we don't monitor that figure anymore. But of course, we keep the distribution network 
+as extensive as possible. 
+Raghunandhan NL: Noted, sir. And how are you seeing the trend in the first-time buyers and the share increase? 
+Rahul Bharti:  Happy to share that the first -time buyer is about 51% in Q4  FY26. 18% is about replacement 
+buyer and 31% are additional car buyers. 
+Raghunandhan NL: And how has the share increased, sir? How should we look at it? How has the share of first-time 
+buyers increased in comparison to pre-GST cut? 
+Rahul Bharti:  H1FY26 was about 42%. Q3FY26 was at 48% and Q4FY26 at 51%. It is a very clear signal that 
+the government's intended support to the first-time buyer is showing results. 
+Raghunandhan NL: Got it sir. Thanks for sharing this. And this also aligns with that 130,000 small car orders, which 
+you mentioned is pending. Just a bookkeeping question for Q4FY26. Can you share the blended 
+discounts number for Q4FY26? 
+Rahul Bharti:  What we can share with you is that EBIT margin has expanded by about 50 bps on account of 
+lower discounts in the quarter sequentially. 
+Raghunandhan NL: Got it sir. Thank you very much.  
+Moderator:  Thank you. Our next question is from the line of Kumar Rakesh from BNP Paribas.  Please go 
+ahead. 
+Kumar Rakesh: Hi. Good evening and thank you for taking my question. My first question was for fiscal year’26-
+27, the model launch plan that we have. I can understand that you are not speaking specifically 
+about the models. But if you can give some sense on how many new nameplate addition and 
+model refreshes you are targeting across ICE and separately for EV? 
+Rahul Bharti:  We have a healthy product line-up, and we'll keep our customers enthralled. We need to improve 
+our market share. But we'll keep the excitement also on. So, across categories, we will have new 
+models. We have spoken about 7 more SUVs all the way through the end of the decade. So let 
+the excitement continue. 
+Kumar Rakesh: Sure. But can we imply that going by that run rate, we should be having one new nameplate at 
+the end of the year? Is that a fair expectation? 
+Rahul Bharti: See, a model development is about 4 years lead time. So it's not necessary that we space it out 
+equally all the time. There may be lumpiness around it. But there are 7 SUVs and other models  
+planned till the end of the decade. 
+Kumar Rakesh: Got it. And on the EV side, e VITARA now is launched in the domestic market as well. I 
+understand earlier you had indicated the aspiration to become the largest EV manufacturer in the 
+country, which would include export as well. But how is the product doin g in the domestic 
+market? And what's your aspiration for the domestic market in the EV space? 
+
+ 
+Page | 11  
+MSIL Conference Call Transcript April 28, 2026  
+Rahul Bharti: Thanks for that question. In fact, in my opening message, I mentioned that we are happy that 
+wherever we have sold that car, the customers are very happy. This is both in India and in our 
+export markets. So that bodes well. Currently, we are constrained by production capacity. 
+ Soon this year, when our fourth plant in Gujarat comes up and there's a gradual ramp -up, we'll 
+keep increasing our supplies. We are also targeting that the customers to whom we deliver these 
+cars and we fit home chargers, etc., they should be totally satisfied and delighted customers. So, 
+till the time we have lower numbers, at least we should focus on 100% customer delight. 
+Kumar Rakesh: Got it. Just one final question on the margin side. I understand you spoke about that there are a 
+lot of moving parts to the margin and things are dynamic. But once we have passed through the 
+Middle East conflict and part of it getting reversed and we potentially taking some price increase 
+as well, in a quarter or 2, we should get back on a trajectory of margin expansion and potentially 
+in the direction of 10% EBIT margin, which we have targeted to reach by 2030. Is that a fair 
+expectation? 
+Rahul Bharti: So it's always difficult to give out a guidance on margins. But what I can tell you is the quarter 
+4 FY26 EBIT margin was in line with  estimate. As you rightly sai d, there are many moving 
+parts. 
+ And I would also add to that, that the market leader has the privilege of having multiple moving 
+parts, multiple levers to help margins. So we are very confident and optimistic that subject to 
+these headwinds of the war, the commodities and the energy prices, after that is over, we'll come 
+back to a healthy trajectory. 
+Kumar Rakesh: Thanks a lot. 
+Moderator: Thank you. The next question comes from the line of Arvind Sharma from Citi. Please go ahead. 
+Arvind Sharma: Thank you, sir, for taking my question. First would be on a Q-o-Q basis, ASPs have increased a 
+fair bit. How sustainable it is? And what are the drivers for this ASP increase quarter-on-quarter 
+basis? 
+Rahul Bharti: We do believe that there is still headroom for ASP because of the upper segment models. 
+Arvind Sharma: From the fourth quarter level as well? 
+Rahul Bharti: Yes. For example, EVs have to increase in the future. So that will help ASPs. 
+Arvind Sharma: Sure. And on the balance sheet, just 2 points. What is the capex plan for these 2 expansions for 
+FY '27? And also just saw that the inventory was fairly high at this year-end. Any specific reason 
+for that? 
+Arnab Roy: Overall, on the capex for FY  26-27, we are looking at a INR 14,000 crores capex for the full 
+year. On the inventory, no, I don't think we have a significant increase. If you look at the total  
+network stock, I think we are at a fairly good level. We are much lower than the industry in 
+terms of our overall network stock. 
+
+ 
+Page | 12  
+MSIL Conference Call Transcript April 28, 2026  
+Arvind Sharma: I meant the inventory in the balance sheet. 
+Arnab Roy: There will be always small timing issues, but let me just quickly see that once. 
+Rahul Bharti: So we'll come back on this while he has a look on the inventory. We can have the next question. 
+Arvind Sharma: Sure. Thanks so much. 
+Moderator: Thank you. The next question is from the line of Amit Hiranandani from PhillipCapital.  Please 
+go ahead. 
+Amit Hiranandani: Yes, thanks team for the opportunity and congrats for a reasonable set of numbers despite the 
+input cost pressures and other challenges. Sir, my first question, wanted to just to reconfirm that 
+you said the domestic PV industry to grow by 10%. So are we right in understanding this? 
+Rahul Bharti: No, no. We are speaking about Maruti , not the domestic  PV industry. We are talking about 
+Maruti Suzuki expectation. 
+Amit Hiranandani: Understood. That's clear. And sir, secondly, on the export situation. So what are our plans to 
+deal with the present export situation? 
+Rahul Bharti: If you can help me predict the war, I can predict the export number. So we are in a healthy 
+position. We have built a good franchise across countries. We are on a steep ramp-up path. And 
+we want to have at least the last year numbers. But then there is so much of uncertainty that it's 
+not responsible to give out a figure. 
+Amit Hiranandani: All right. Thank you, sir. All the best. 
+Moderator: Thank you. Ladies and gentlemen, we will take that as the last question for today. 
+Rahul Bharti: Sorry, there was one question which needs to be addressed. 
+Arnab Roy: So let me come back on the earlier inventory question before we close. It's a combination of 
+predominantly various raw material and work in progress, not too much on the finished good 
+side of it because I mean the production in the coming period has a quite steep outlook. 
+ So, there are a bunch of goods in transit  in there, kind of a stock which is needed for the 
+production for the coming period because as you know, we are ramping up the capacity in the 
+coming 2 quarters, a lot of preparatory work had to be done, so which is predominantly the 
+composition of the inventory. 
+Moderator: Thank you. With that, ladies and gentlemen, it brings our conference call to an end. On behalf 
+of Maruti Suzuki India Limited, we thank you all for joining us. You may now disconnect your 
+lines. 

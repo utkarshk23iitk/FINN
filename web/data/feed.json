@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03T01:13:01",
-  "generated_at": "2026-11-03T05:32:59",
+  "generated_at": "2026-11-03T18:57:52",
   "defaults": {
     "volume_multiple": 2.0,
     "volume_lookback_days": 20,
@@ -12,7 +12,8 @@
       "fund_raise",
       "litigation",
       "credit_rating",
-      "pledging"
+      "pledging",
+      "guidance_change"
     ]
   },
   "categories": [
@@ -43,7 +44,8 @@
     "pledging",
     "credit_rating",
     "insider_trading",
-    "capex"
+    "capex",
+    "guidance_change"
   ],
   "companies": [
     {
@@ -3524,6 +3526,25 @@
   "announcements": [
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 2,
+          "partly": 0,
+          "missed": 0,
+          "pending": 3,
+          "dropped": 0
+        },
+        "calls": 2,
+        "new": [
+          {
+            "topic": "Guidance frequency",
+            "change": "Management provided detailed guidance in Q4 FY26 but gave no guidance during the subsequent Q2 FY27 call."
+          }
+        ],
+        "missed": [],
+        "changed": true
+      },
       "id": "618a1bac60e0631c",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -3539,6 +3560,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "755a3b4953017f02",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -3554,6 +3576,20 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 3,
+          "partly": 1,
+          "missed": 0,
+          "pending": 5,
+          "dropped": 0
+        },
+        "calls": 4,
+        "new": [],
+        "missed": [],
+        "changed": false
+      },
       "id": "a99254649c04416f",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -3569,6 +3605,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9aa2fdbf69011e3d",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -3584,6 +3621,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "3089e6ccf58ebd0c",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -3599,6 +3637,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "768f0e4ef1c630a6",
       "symbol": "ITC",
       "company": "ITC Limited",
@@ -3614,6 +3653,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bfbcf0285fd349af",
       "symbol": "ITC",
       "company": "ITC Limited",
@@ -3674,6 +3714,7 @@
           "pat": 4229.0
         }
       },
+      "story": null,
       "id": "6b881dc4d6658875",
       "symbol": "ITC",
       "company": "ITC Limited",
@@ -3689,6 +3730,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e5810feca3770bb5",
       "symbol": "ITC",
       "company": "ITC Limited",
@@ -3704,6 +3746,20 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 2,
+          "partly": 1,
+          "missed": 1,
+          "pending": 1,
+          "dropped": 0
+        },
+        "calls": 4,
+        "new": [],
+        "missed": [],
+        "changed": false
+      },
       "id": "1940c1530bbbc8fb",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -3719,6 +3775,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e033a385b9bed34a",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -3734,6 +3791,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "614c3aacb21d51aa",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -3749,6 +3807,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f197812452136bc0",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -3764,6 +3823,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ad63d424a3d3d60b",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -3779,6 +3839,31 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 0,
+          "partly": 0,
+          "missed": 1,
+          "pending": 6,
+          "dropped": 0
+        },
+        "calls": 4,
+        "new": [
+          {
+            "topic": "Solar and New Energy Timeline",
+            "change": "Shifted from promising full giga scale commissioning in current year (Q3 FY26) to specific component goals for early next year and FY2028 revenue generation."
+          }
+        ],
+        "missed": [
+          {
+            "promise": "Organically improve ARPU by 5% to 6% a year",
+            "made_in": "Q3 FY26",
+            "verdict": "missed"
+          }
+        ],
+        "changed": true
+      },
       "id": "7a66d367355eebbf",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -3794,6 +3879,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8b56f4d0fda0c8a8",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -3809,6 +3895,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e4010b37eef4ab99",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -3824,6 +3911,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "6abccf674ada6c61",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -3839,6 +3927,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "743da0010c610d25",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -3854,6 +3943,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a36dc7248b64f98f",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -3869,6 +3959,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "aa085df209effedd",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -3884,6 +3975,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "037b243aea9a3319",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -3899,6 +3991,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e96d198a1c168152",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -3914,6 +4007,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7d7626b330904136",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -3929,6 +4023,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "181b39c7931ff30e",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -3944,6 +4039,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "3b62a7b4a5e693b3",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -3959,6 +4055,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "82e6f6940b634530",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -4019,6 +4116,7 @@
           "pat": 29550.0
         }
       },
+      "story": null,
       "id": "07083ee4e04249cb",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -4077,6 +4175,7 @@
           "pat": 29550.0
         }
       },
+      "story": null,
       "id": "fc426ea7df6149df",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -4135,6 +4234,7 @@
           "pat": 29550.0
         }
       },
+      "story": null,
       "id": "19828bac370c755a",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -4150,6 +4250,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8377feac02cc9e76",
       "symbol": "DEEPAKNTR",
       "company": "Deepak Nitrite Limited",
@@ -4165,6 +4266,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f043d55bb9c08cfe",
       "symbol": "TATASTEEL",
       "company": "Tata Steel Limited",
@@ -4180,6 +4282,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a55a8590ecedb1d6",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -4195,6 +4298,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "d532a6f51513058f",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -4253,6 +4357,7 @@
           "pat": 411.0
         }
       },
+      "story": null,
       "id": "ace29267cb47a343",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -4268,6 +4373,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9baf3ffc7364e812",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -4283,6 +4389,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "b24db2a5c486369b",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -4298,6 +4405,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "d50ada40f80e6b23",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -4356,6 +4464,7 @@
           "pat": 1995.0
         }
       },
+      "story": null,
       "id": "017c733c2ae5a49e",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -4371,6 +4480,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "227edec5ad843274",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -4386,6 +4496,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "106560c169fbf766",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -4401,6 +4512,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ce4e32986c501460",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -4416,6 +4528,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "390217c376c7dfb9",
       "symbol": "DEEPAKNTR",
       "company": "Deepak Nitrite Limited",
@@ -4474,6 +4587,7 @@
           "pat": 398.0
         }
       },
+      "story": null,
       "id": "1cc96fa3b416cf4c",
       "symbol": "DEEPAKNTR",
       "company": "Deepak Nitrite Limited",
@@ -4489,6 +4603,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "58a6108afc2f5312",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -4504,6 +4619,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "fe930685be0f5dc6",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -4519,6 +4635,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "0f0716ec8ca58347",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -4534,6 +4651,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ef765b6d21532f2c",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -4549,6 +4667,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "415b62a267a8ad69",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -4610,6 +4729,7 @@
           "pat": 468.0
         }
       },
+      "story": null,
       "id": "0c2ef9b0a7132d46",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -4625,6 +4745,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "c6f927f49eaecaf6",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -4640,6 +4761,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "2bfdf0ecb067b37d",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -4655,6 +4777,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8c76c850f28dfe15",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -4670,6 +4793,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9e3e6dbb7d4e85a4",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -4685,6 +4809,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "afcbb5b8e2be0e4f",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -4700,6 +4825,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ed56e32baeb40507",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -4715,6 +4841,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "01c39bcbd521bb7b",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -4730,6 +4857,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1fe61abd06803524",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -4745,6 +4873,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "4867316cd95507ef",
       "symbol": "HAL",
       "company": "Hindustan Aeronautics Limited",
@@ -4760,6 +4889,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ab7e0b3dad705ac5",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -4775,6 +4905,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1894720d8a3e7908",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -4790,6 +4921,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9de390c9b0da9c8f",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -4850,6 +4982,7 @@
           "pat": 3682.0
         }
       },
+      "story": null,
       "id": "792553c72b6bc200",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -4908,6 +5041,7 @@
           "pat": 3682.0
         }
       },
+      "story": null,
       "id": "181bbc5e3c0da2a6",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -4923,6 +5057,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "18658ea286be27bb",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -4938,6 +5073,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e1b3378cbeef0dbe",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -4953,6 +5089,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a35596cb52a24940",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -4968,6 +5105,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "dedaf9c982ee104b",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -4983,6 +5121,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "59c034ecc530fb41",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -4998,6 +5137,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f664f0128724af91",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -5013,6 +5153,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8361bc80ac86dda0",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -5028,6 +5169,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9dd094072493d2eb",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -5043,6 +5185,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "79efed10fe9c9ab2",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -5101,6 +5244,7 @@
           "pat": 5949.0
         }
       },
+      "story": null,
       "id": "7e6e19dacfbc7dfd",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -5116,6 +5260,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "32f3f290b1686062",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -5178,6 +5323,7 @@
           "pat": 2466.0
         }
       },
+      "story": null,
       "id": "c15640637ff05dac",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -5238,6 +5384,7 @@
           "pat": 2466.0
         }
       },
+      "story": null,
       "id": "5ee9d73b403c6fc3",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -5253,6 +5400,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ef6bcce5f8d87e8e",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -5268,6 +5416,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "6f3ef5d5b1d2c36c",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -5283,6 +5432,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ac95c91a43f5e00a",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -5298,6 +5448,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9db40a4c04da25f6",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -5313,6 +5464,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "81f7867e06024186",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5328,6 +5480,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "67b6b092d3388db3",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5343,6 +5496,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "917d7f8d909cb1f8",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5358,6 +5512,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "39d4702372858a14",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5373,6 +5528,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a7ec9b3d9f79deee",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -5388,6 +5544,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f4e082a498f097e1",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -5403,6 +5560,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "5f8115a8231f214e",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -5418,6 +5576,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "c71b0edc26c81f2f",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -5433,6 +5592,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "add3a44b52a392ac",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -5448,6 +5608,25 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 2,
+          "partly": 0,
+          "missed": 0,
+          "pending": 8,
+          "dropped": 0
+        },
+        "calls": 4,
+        "new": [
+          {
+            "topic": "Net Interest Margins",
+            "change": "Shifted from discussing past pressure and stable ROA to explicitly guiding that margins have hit the bottom and will trend upwards."
+          }
+        ],
+        "missed": [],
+        "changed": true
+      },
       "id": "bbc074636d64812d",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -5463,6 +5642,29 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 0,
+          "partly": 1,
+          "missed": 0,
+          "pending": 8,
+          "dropped": 1
+        },
+        "calls": 4,
+        "new": [
+          {
+            "topic": "Transaction closing timeframe",
+            "change": "Initially guided for Q4 CY2026 or early Q1 CY2027, then refined to the next 4 to 8 weeks in the subsequent call."
+          },
+          {
+            "topic": "EBIT margin",
+            "change": "Margins experienced pressure, dropping below the previously stated 16 to 17% aspiration range to 15% in Q2 FY27."
+          }
+        ],
+        "missed": [],
+        "changed": true
+      },
       "id": "dd52e4a577b63cfb",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5478,6 +5680,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "c28c508fe3d9aafa",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -5493,6 +5696,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ec177c0b836ce1e6",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -5508,6 +5712,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "32da4bb246d4b266",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -5523,6 +5728,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ba659763fdbc2bd7",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -5538,6 +5744,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bc9df1ac5ef70035",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -5553,6 +5760,29 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 0,
+          "partly": 0,
+          "missed": 0,
+          "pending": 8,
+          "dropped": 0
+        },
+        "calls": 3,
+        "new": [
+          {
+            "topic": "Customer Additions Guidance",
+            "change": "Target range for new customer additions was revised upwards from 15-17 million in Q4 FY26 to 18-20 million in Q2 FY27."
+          },
+          {
+            "topic": "AUM Growth Guidance",
+            "change": "Longer-term AUM growth guidance was specified as 23% to 25% in Q2 FY27 compared to medium-term 20% to 25% previously."
+          }
+        ],
+        "missed": [],
+        "changed": true
+      },
       "id": "ae179579ba270a9f",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5568,6 +5798,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "35520c12025e548d",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -5583,6 +5814,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "c865a259341710ff",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5598,6 +5830,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "4c47360a7fa90b1e",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -5613,6 +5846,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ea055614d1ab2338",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -5628,6 +5862,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "d28982423ca99b8e",
       "symbol": "HAL",
       "company": "Hindustan Aeronautics Limited",
@@ -5643,6 +5878,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9b0d79a1ab04a221",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -5658,6 +5894,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "76d8dd94a866706b",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -5673,6 +5910,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1cfd24781d13d721",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5688,6 +5926,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e0f9a27c920710f4",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -5703,6 +5942,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "dd273e47c77317c2",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5718,6 +5958,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1a49c77f5e8d3ec1",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5733,6 +5974,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7088eca9a6f240da",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -5748,6 +5990,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "feb4249255dc946f",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -5763,6 +6006,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ed97733b8286be14",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -5778,6 +6022,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "995e0cd8a9227b8a",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5793,6 +6038,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "592dab3ce75e9ecd",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -5808,6 +6054,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bbf29a64a8e9b3aa",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -5823,6 +6070,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e745c242c180eefe",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -5838,6 +6086,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "0db2e4b84b2aa260",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5853,6 +6102,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9d42cd7f9ee613f6",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5868,6 +6118,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "149310a6e0ac009d",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5883,6 +6134,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e8c7c25bfeccb8cf",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5898,6 +6150,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "190dfdd98b089999",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -5956,6 +6209,7 @@
           "pat": 6367.0
         }
       },
+      "story": null,
       "id": "a937ac7da0c1b185",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -5971,6 +6225,20 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 2,
+          "partly": 0,
+          "missed": 1,
+          "pending": 6,
+          "dropped": 0
+        },
+        "calls": 4,
+        "new": [],
+        "missed": [],
+        "changed": false
+      },
       "id": "fad9c324cffeb08d",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -5986,6 +6254,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a03a6888935c0a71",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6001,6 +6270,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "eb472daa804d3e91",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -6016,6 +6286,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "945a96873346b62f",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -6031,6 +6302,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "763f2a1d026ca202",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -6046,6 +6318,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "0b51f9ef172a85d4",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -6061,6 +6334,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bae46d752920a1b8",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -6076,6 +6350,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e771023fc38e421f",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -6091,6 +6366,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "5d9f36a246303212",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -6106,6 +6382,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "dde2313dd065cf6c",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -6121,6 +6398,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a39b6f62e2201148",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -6181,6 +6459,7 @@
           "pat": 21537.0
         }
       },
+      "story": null,
       "id": "e5932746c614c10b",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -6196,6 +6475,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "c41bcf8306fb89a5",
       "symbol": "DEEPAKNTR",
       "company": "Deepak Nitrite Limited",
@@ -6211,6 +6491,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "206069e91aa4917f",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6226,6 +6507,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "af4771c4353c60e3",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -6241,6 +6523,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f9d0920591cfafdf",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -6256,6 +6539,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7c43155934d231f0",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -6271,6 +6555,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "012cc147487034ec",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -6286,6 +6571,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "3099d1514da2af77",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -6301,6 +6587,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7d37f52e5a35ebcb",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -6316,6 +6603,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "0bcbfc9e23386fb7",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6331,6 +6619,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "5ecd5a1705959be9",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6346,6 +6635,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "163b043107f1079d",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6361,6 +6651,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8cc6c075cae07400",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6376,6 +6667,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "38946b9d1f5e85bd",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6391,6 +6683,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "0aa10a53781b62e8",
       "symbol": "TATASTEEL",
       "company": "Tata Steel Limited",
@@ -6406,6 +6699,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a5daa23c37bc885c",
       "symbol": "ITC",
       "company": "ITC Limited",
@@ -6421,6 +6715,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8eb371dc4730788c",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -6436,6 +6731,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "17d0acde04fcb3d0",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -6451,6 +6747,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "5a22c4c602f79c86",
       "symbol": "TATASTEEL",
       "company": "Tata Steel Limited",
@@ -6466,6 +6763,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "58165c06d873d7e5",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -6481,6 +6779,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "71e3a9c4015e56f4",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6542,6 +6841,7 @@
           "pat": 352.0
         }
       },
+      "story": null,
       "id": "486ecc709f91e862",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6557,6 +6857,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "29fc0a10e9cce00a",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6572,6 +6873,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "69faed6b10693599",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6587,6 +6889,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e99cd5e1b6b3a47f",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6645,6 +6948,7 @@
           "pat": 990.0
         }
       },
+      "story": null,
       "id": "33dbd817dadf3c6a",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6660,6 +6964,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "72106f59bc4afa8b",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -6675,6 +6980,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "56579ff32aa7354c",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6690,6 +6996,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7659e553a821cede",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6705,6 +7012,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e40b4de1bec068a5",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -6720,6 +7028,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "712316e0ac8c319c",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -6735,6 +7044,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "66801e0c7fa01ee8",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6750,6 +7060,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "d8405a350d43ca85",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -6765,6 +7076,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "eb2c06e4a08979df",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -6780,6 +7092,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "3c98df14016f61e4",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -6795,6 +7108,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a9ca68a9c603a913",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -6810,6 +7124,31 @@
     },
     {
       "results": null,
+      "story": {
+        "quarter": "Q2 FY27",
+        "counts": {
+          "delivered": 3,
+          "partly": 1,
+          "missed": 2,
+          "pending": 1,
+          "dropped": 1
+        },
+        "calls": 4,
+        "new": [
+          {
+            "topic": "Demand Recovery",
+            "change": "Management projected a demand turnaround in Q2 for manufacturing and life sciences, which translated to muted sequential growth."
+          }
+        ],
+        "missed": [
+          {
+            "promise": "Expect demand to improve in Q2",
+            "made_in": "Q1 FY27",
+            "verdict": "missed"
+          }
+        ],
+        "changed": true
+      },
       "id": "521d2c88c4e9debd",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -6825,6 +7164,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "fabcc44d42e12e2c",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -6840,6 +7180,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "738d1a00774cfc58",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6855,6 +7196,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e0afdb1e7d9be1e5",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -6870,6 +7212,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "32d9c6516e64f544",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -6885,6 +7228,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "c49802ded66e7930",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -6900,6 +7244,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8ae0a46f2fe2dce6",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -6915,6 +7260,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "86335a41c462983a",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -6930,6 +7276,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bd29dc9caf30a247",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -6945,6 +7292,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "da7470ac5e0aca65",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -6960,6 +7308,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "fc7fa73b11bf72c5",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -6975,6 +7324,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bcb6a96a749a2b88",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -6990,6 +7340,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8a6f4a49a3087c3a",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -7005,6 +7356,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1ba2de311ae7d1dc",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -7020,6 +7372,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7d68808544621228",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -7035,6 +7388,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8954955932b61d03",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -7050,6 +7404,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a81d60b6b75172b3",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7065,6 +7420,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "964bb2dcef9d0f7f",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7080,6 +7436,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "26027b3bc1b359af",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -7095,6 +7452,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f9b6c183a768c78e",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -7110,6 +7468,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "d61aa337b4989a64",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -7125,6 +7484,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "50a5b4b3c63e7325",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7140,6 +7500,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "2a54317ed11d28df",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7155,6 +7516,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1b6957d0086e2b37",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -7170,6 +7532,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "25adfcb0301fe2c6",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7185,6 +7548,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "56d75b8c6216a64f",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7200,6 +7564,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "563c299c37932b2e",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7215,6 +7580,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1bb2a796c46b8d66",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -7230,6 +7596,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7fb1eaeddcdd54ca",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7245,6 +7612,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a0a4172979ae68ed",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -7260,6 +7628,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "d973a2fb9d7a71b7",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7275,6 +7644,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "34884fb48fc9fb7f",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7290,6 +7660,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "143f381185ad744e",
       "symbol": "TATASTEEL",
       "company": "Tata Steel Limited",
@@ -7305,6 +7676,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f93266a140548f6f",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -7320,6 +7692,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ffe4320b381127dc",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -7335,6 +7708,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "530a33841f219e23",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7350,6 +7724,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a8f3d6b12b08ab94",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -7365,6 +7740,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "4a07b5f4d22de751",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7380,6 +7756,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "0d2b5bd38727746f",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7395,6 +7772,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "2f8f46bdee041293",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7453,6 +7831,7 @@
           "pat": 13934.0
         }
       },
+      "story": null,
       "id": "66fe1b2d7cf631b6",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -7468,6 +7847,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bd16b5415bf93e64",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -7483,6 +7863,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "cefca96e8312bab4",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7498,6 +7879,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "06349c76bde93fb1",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -7513,6 +7895,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a88d44e8c2662c01",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -7528,6 +7911,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "91d61a7d1521635b",
       "symbol": "TATASTEEL",
       "company": "Tata Steel Limited",
@@ -7543,6 +7927,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "1a5fb1ad6e92d902",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -7558,6 +7943,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f4bb546827d0fca0",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -7573,6 +7959,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "bb91e75f5947361e",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -7588,6 +7975,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "811b8c28e8106d0e",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -7603,6 +7991,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "d78e0e7ed0b6e5c7",
       "symbol": "HAL",
       "company": "Hindustan Aeronautics Limited",
@@ -7618,6 +8007,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "25d09f460dd574ca",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -7633,6 +8023,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7b0f4dc5c6c83c45",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -7648,6 +8039,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ab9bcacf499687a9",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -7663,6 +8055,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "444cc94559b29a7b",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7678,6 +8071,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "cb2e680b0d355824",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7693,6 +8087,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a11a5a2eb80d3699",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7708,6 +8103,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "14ec1479491225c8",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -7723,6 +8119,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "993100db9b3df25d",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -7738,6 +8135,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "00fc9709e6bffd2c",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -7753,6 +8151,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e0d8702047fef699",
       "symbol": "POLYCAB",
       "company": "Polycab India Limited",
@@ -7768,6 +8167,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a390a94e792492ae",
       "symbol": "DEEPAKNTR",
       "company": "Deepak Nitrite Limited",
@@ -7783,6 +8183,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "58d733b52768fd1f",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -7798,6 +8199,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f7985a1bdb549b5f",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7813,6 +8215,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "35ba0870a71a6b65",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -7828,6 +8231,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "67a7427c386998b3",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -7843,6 +8247,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "b07f74a1a7d04cfa",
       "symbol": "TRENT",
       "company": "Trent Limited",
@@ -7858,6 +8263,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "849dc04305124a5b",
       "symbol": "ITC",
       "company": "ITC Limited",
@@ -7873,6 +8279,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7efb73e8eb6f01b7",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -7888,6 +8295,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9802c111bacf8e1f",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -7903,6 +8311,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ed02216390ee2cff",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -7918,6 +8327,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "fa765cd02fcfdb91",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -7933,6 +8343,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "374a7e0aa1be994a",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -7948,6 +8359,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "fd64be7e9d784036",
       "symbol": "HAL",
       "company": "Hindustan Aeronautics Limited",
@@ -7963,6 +8375,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ecc610382b838752",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -7978,6 +8391,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "b3a1bbcc73439196",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -7993,6 +8407,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "39a3bed49eb7dff1",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -8008,6 +8423,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "5ec587d14dd1e399",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -8023,6 +8439,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "4eba4993d3842076",
       "symbol": "BAJFINANCE",
       "company": "Bajaj Finance Limited",
@@ -8038,6 +8455,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a7d3838aa858f339",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -8053,6 +8471,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "18636a0fd3be3271",
       "symbol": "TATASTEEL",
       "company": "Tata Steel Limited",
@@ -8068,6 +8487,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "b9b5d39dfec325d2",
       "symbol": "TATASTEEL",
       "company": "Tata Steel Limited",
@@ -8083,6 +8503,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "2683a2031189dabf",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -8098,6 +8519,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "5c72e43ee2623cf1",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -8113,6 +8535,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "a6e47f9d71e8e7db",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -8128,6 +8551,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "2bd4dc639b40ea9e",
       "symbol": "TCS",
       "company": "Tata Consultancy Services Limited",
@@ -8143,6 +8567,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "beb59472c14002b4",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -8158,6 +8583,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7c91f4fda01ed730",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -8173,6 +8599,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "efe7f9a1bcace837",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -8188,6 +8615,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "fc404464acf58b7c",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -8203,6 +8631,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "f907cf4a34bd08d2",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -8218,6 +8647,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "c8db5689d39835db",
       "symbol": "BHARTIARTL",
       "company": "Bharti Airtel Limited",
@@ -8233,6 +8663,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "fe99aab0105af196",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -8248,6 +8679,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "ef4efd83d63aef1c",
       "symbol": "ADANIPORTS",
       "company": "Adani Ports and Special Economic Zone Limited",
@@ -8263,6 +8695,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "e3d690cca46595b1",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -8278,6 +8711,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "4ff34731516819e5",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -8293,6 +8727,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7246b5e777ca2417",
       "symbol": "PERSISTENT",
       "company": "Persistent Systems Limited",
@@ -8308,6 +8743,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7ffdb42657070e5f",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -8323,6 +8759,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "b891ccfa81cf3204",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -8338,6 +8775,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "8147558bb94326f1",
       "symbol": "RELIANCE",
       "company": "Reliance Industries Limited",
@@ -8353,6 +8791,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "421ec784bcbdbf72",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",
@@ -8368,6 +8807,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "76bb61ed5dfa3e74",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -8383,6 +8823,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "7c549a9a1f875956",
       "symbol": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -8398,6 +8839,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "2264dd67a21a5944",
       "symbol": "LT",
       "company": "Larsen & Toubro Limited",
@@ -8413,6 +8855,7 @@
     },
     {
       "results": null,
+      "story": null,
       "id": "9caeaa6b9f619491",
       "symbol": "MARUTI",
       "company": "Maruti Suzuki India Limited",

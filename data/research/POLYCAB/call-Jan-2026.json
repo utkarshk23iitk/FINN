@@ -1,0 +1,125 @@
+{
+  "symbol": "POLYCAB",
+  "period": "Jan 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 52541,
+    "sent": 30610
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 7786,
+    "output_tokens": 1638
+  },
+  "guidance": [
+    {
+      "metric": "working capital cycle",
+      "claim": "Working capital cycle will normalize to 50 to 55 days in coming quarters.",
+      "quote": "We expect this to normalize to our long-term steady range of 50 to 55 days in the coming quarters.",
+      "quantified": true,
+      "horizon": "coming quarters",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "capex",
+      "claim": "Project Spring capex guidance is investing INR 12 billion to INR 16 billion annually through FY30.",
+      "quote": "Capital expenditure for the quarter was ₹ 3.4 billion, taking the 9M FY26 total to ₹ 10.9 billion, in-line with our Project Spring guidance of investing ₹ 12 billion to ₹ 16 billion annually through FY30.",
+      "quantified": true,
+      "horizon": "through FY30",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "FMEG margins",
+      "claim": "FMEG EBITDA margins are targeted at 8% to 10% by FY30.",
+      "quote": "Looking ahead, we are confident in the long -term potential of the FMEG segment and remain on track to achieve our Project Spring targets of 1.5x - 2x industry growth and EBITDA margins in the range of 8% to 10% by FY30, positioning the business for sustai ned growth and value creation.",
+      "quantified": true,
+      "horizon": "FY30",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "EPC margins",
+      "claim": "Annual sustainable operating margin in EPC is expected in high single digits over mid- to long term.",
+      "quote": "Looking ahead, the annual sustainable operating margin is expected to remain in the high single digits over mid- to long term.",
+      "quantified": true,
+      "horizon": "mid- to long term",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "FMEG A&P spend",
+      "claim": "A&P spends will be taken up to 3% to 5% of B2C top-line gradually.",
+      "quote": "But on a yearly level, going ahead, as we've been guiding, we want to take A&P spends up to 3% to 5% of B2C top -line, and that is something that we'll plan to do gradually.",
+      "quantified": true,
+      "horizon": "yearly",
+      "speaker": "Chirayu Upadhyaya"
+    },
+    {
+      "metric": "C&W EBITDA margin",
+      "claim": "Long-term EBITDA margin guidance for cables and wires is 11% to 13%.",
+      "quote": "And if I had to add to that, to refer to our Project Spring guidance, we've given a long-term guidance of 11% to 13%.",
+      "quantified": true,
+      "horizon": "long-term",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "FMEG price hike",
+      "claim": "BEE norms price hikes will be in the range of 2% to 4% in early calendar year.",
+      "quote": "I believe the price hikes would be in the range of 2% to 4% a nd which will be taken during the course of first 1 -1.5 months of this calendar year itself.",
+      "quantified": true,
+      "horizon": "first 1 -1.5 months of this calendar year",
+      "speaker": "Chirayu Upadhyaya"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "consolidated revenue growth",
+      "claim": "Consolidated revenues grew 46% YoY for the quarter ended December 31, 2025.",
+      "quote": "For the quarter ended 31st December 2025, we are pleased to report that our Company delivered 46% YoY growth in consolidated revenues, driven by strong execution in the Wires and Cables (W&C) segment and healthy growth in the Fast Moving Electrical Goods (FMEG) business.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "EBITDA margins for the quarter were 12.7% (or ~13% excluding gratuity provisioning).",
+      "quote": "Excluding the one- off impact of ~₹ 219 million on account of gratuity provisioning due to the implementation of the new labour code, the EBITDA margins would have been ~13%.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "PAT",
+      "claim": "Company delivered highest ever Q3 PAT at ₹ 6.3 billion, up 36% YoY.",
+      "quote": "At the PAT level, the Company delivered its highest ever Q3 PAT at ₹ 6.3 billion, reflecting 36% YoY growth.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "net cash",
+      "claim": "Closed the quarter with a net cash position of ₹ 30.3 billion.",
+      "quote": "We continue to maintain a strong balance sheet, closing the quarter with a net cash position of ₹ 30.3 billion.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "working capital cycle",
+      "claim": "Working capital cycle was at 27 days at the end of Q3 FY26.",
+      "quote": "And correspondingly, given the use of letters of credit for raw material procurement, payable days were also higher, resulting in the working capital cycle to be at 27 days at the end of Q3 FY26.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "domestic W&C volume growth",
+      "claim": "Domestic W&C business recorded nearly 40% volume growth during the quarter.",
+      "quote": "In volume, the domestic W&C business recorded nearly 40% growth, reflecting healthy underlying demand.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Shashank Yagnick"
+    }
+  ]
+}

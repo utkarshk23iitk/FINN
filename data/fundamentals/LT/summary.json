@@ -33,6 +33,21 @@
         67942.0,
         78750.0
       ],
+      "YoY Sales growth": [
+        19.0,
+        19.0,
+        15.0,
+        15.0,
+        21.0,
+        17.0,
+        11.0,
+        16.0,
+        10.0,
+        10.0,
+        11.0,
+        7.0,
+        16.0
+      ],
       "Expenses": [
         43984.0,
         47929.0,
@@ -678,5 +693,30 @@
       "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/5005100312.pdf"
     }
   ],
-  "transcripts_saved": []
+  "transcripts_saved": [
+    {
+      "period": "Jul 2026",
+      "pdf": "fundamentals/LT/transcripts/Jul-2026.pdf",
+      "text": "fundamentals/LT/transcripts/Jul-2026.txt",
+      "source_url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf"
+    },
+    {
+      "period": "May 2026",
+      "pdf": "fundamentals/LT/transcripts/May-2026.pdf",
+      "text": "fundamentals/LT/transcripts/May-2026.txt",
+      "source_url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf"
+    },
+    {
+      "period": "Jan 2026",
+      "pdf": "fundamentals/LT/transcripts/Jan-2026.pdf",
+      "text": "fundamentals/LT/transcripts/Jan-2026.txt",
+      "source_url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf"
+    },
+    {
+      "period": "Oct 2025",
+      "pdf": "fundamentals/LT/transcripts/Oct-2025.pdf",
+      "text": "fundamentals/LT/transcripts/Oct-2025.txt",
+      "source_url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+    }
+  ]
 }

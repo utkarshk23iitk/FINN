@@ -1,0 +1,85 @@
+{
+  "symbol": "LT",
+  "period": "Jul 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 72458,
+    "sent": 14419
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 3628,
+    "output_tokens": 772
+  },
+  "guidance": [
+    {
+      "metric": "order inflow growth",
+      "claim": "The company remains on track to achieve its 10% to 12% order inflow guidance.",
+      "quote": "And basis the conversion rate, it is fair for us to assume that we are on track to possibly do 10% to 12% order inflow guidance to meet.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Vinod Chari"
+    },
+    {
+      "metric": "Capex",
+      "claim": "Capex details for the Lakshya plan will be finalized and announced in Q2.",
+      "quote": "Hopefully in Q2, I think we will be able to finalize and let you know.",
+      "quantified": false,
+      "horizon": "Q2",
+      "speaker": "Sumit Kishore"
+    },
+    {
+      "metric": "project delivery",
+      "claim": "TenneT projects will be delivered over the next four to six months.",
+      "quote": "we need to focus on delivery of those in the next four to six months, unless TenneT themselves expand the scope.",
+      "quantified": true,
+      "horizon": "next four to six months",
+      "speaker": "Subramanian Sarma"
+    },
+    {
+      "metric": "margin",
+      "claim": "Management does not expect any erosion in project margins.",
+      "quote": "I don't expect that there will be any erosion in the margin.",
+      "quantified": false,
+      "horizon": null,
+      "speaker": "Subramanian Sarma"
+    },
+    {
+      "metric": "dispatch schedule",
+      "claim": "Large offshore megaprojects will be ready for dispatch from the Oman yard in Q1 of next calendar year.",
+      "quote": "Yes, the large megaprojects in Offshore, they will be ready for dispatch from our Oman yard sometime in first quarter of next calendar year.",
+      "quantified": true,
+      "horizon": "first quarter of next calendar year",
+      "speaker": "Subramanian Sarma"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "order book",
+      "claim": "The order book backlog has reached approximately Rs. 8 lakh crores.",
+      "quote": "8 lakh crores in terms of the backlog.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Subramanian Sarma"
+    },
+    {
+      "metric": "other income",
+      "claim": "Other income increased by 75% year-on-year to Rs. 23.7 billion.",
+      "quote": "23.7 billion on a year- on-year basis.",
+      "quantified": true,
+      "horizon": "year-on-year",
+      "speaker": "Sumit Kishore"
+    },
+    {
+      "metric": "order inflow",
+      "claim": "The company delivered very good order inflow in Quarter 1.",
+      "quote": "We have delivered very good order inflow in the Quarter 1, better than what anybody had expected.",
+      "quantified": false,
+      "horizon": "Q1",
+      "speaker": "Subramanian Sarma"
+    }
+  ]
+}

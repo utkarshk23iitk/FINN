@@ -1,0 +1,85 @@
+{
+  "symbol": "ADANIPORTS",
+  "period": "Jul 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 68360,
+    "sent": 22620
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5782,
+    "output_tokens": 955
+  },
+  "guidance": [
+    {
+      "metric": "CAGR",
+      "claim": "APSEZ positions itself to consistently deliver 18% to 19% CAGR over coming years.",
+      "quote": "Our scale and integrated Port, Logistics, Marine network with 95% of India hinterland coverage, driven by technology-led operations, lean organization and balance sheet capacity to fund the growth positions us to consistently to deliver 18% to 19% CAGR over coming years.",
+      "quantified": true,
+      "horizon": "coming years",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "marine margins",
+      "claim": "Steady-state margins for Marine tend to be around 55%.",
+      "quote": "But steady-state margins for us in Marine, given the operations that we have had in India and Middle East and Africa, tend to be around that 55% type of a number.",
+      "quantified": true,
+      "horizon": "steady-state",
+      "speaker": "Rahul Agarwal"
+    },
+    {
+      "metric": "capacity expansion",
+      "claim": "Expanding domestic port capacity to 1 billion metric tons under Ambition 2031.",
+      "quote": "And as outlined in our Ambition 2031, we are rapidly expanding our domestic port capacity to 1 billion metric tons with major projects underway across ports, including Mundra, Dhamra, Vizhinjam, Ennore, Kattupalli.",
+      "quantified": true,
+      "horizon": "Ambition 2031",
+      "speaker": "Ashwani Gupta"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue and EBITDA growth",
+      "claim": "Q1 FY27 revenue and EBITDA both grew 19% year-on-year.",
+      "quote": "Quarter 1 FY27, revenue and EBITDA both grew 19% year-on-year to INR 10,821 crores and INR6,541 crores, respectively.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "domestic ports performance",
+      "claim": "Domestic ports delivered 12% revenue and 11% EBITDA jump with 74% margin.",
+      "quote": "The domestic ports business remained a strong growth engine, delivering 12% revenue, 11% EBITDA jump, while maintaining an industry- leading EBITDA margin of 74%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "international ports revenue",
+      "claim": "International ports delivered record revenue of INR 1,747 crores, up 80%.",
+      "quote": "But this quarter, they delivered record revenue of INR 1,747 crores, up 80% year-on- year, while EBITDA surged 256%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "net debt-to-EBITDA",
+      "claim": "Net debt-to-EBITDA remains healthy at 1.9x.",
+      "quote": "Despite sustaining a high-growth trajectory, net debt-to-EBITDA remains healthy at 1.9x.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "marine revenue",
+      "claim": "Marine revenue increased 67% to INR 901 crores.",
+      "quote": "The Marine revenue increased 67% to INR 901 crores driven by diverse global fleet of 135 vessels.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Ashwani Gupta"
+    }
+  ]
+}

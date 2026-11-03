@@ -1,0 +1,117 @@
+{
+  "symbol": "RELIANCE",
+  "period": "Jul 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 100514,
+    "sent": 39684
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 9212,
+    "output_tokens": 1201
+  },
+  "guidance": [
+    {
+      "metric": "FMCG revenue",
+      "claim": "Targeting Rs.1 lakh Crores in FMCG revenue by FY2030.",
+      "quote": "the target is to kind of take this to Rs.1 lakh Crores on FY2030.",
+      "quantified": true,
+      "horizon": "FY2030",
+      "speaker": "Ketan Mody"
+    },
+    {
+      "metric": "retail international expansion",
+      "claim": "Planning to enter Australia and African markets next quarter.",
+      "quote": "For the next quarter, we plan to kind of enter into Australia and African markets.",
+      "quantified": true,
+      "horizon": "next quarter",
+      "speaker": "Ketan Mody"
+    },
+    {
+      "metric": "gas prices",
+      "claim": "Expects KG-D6 ceiling price to increase by at least a dollar.",
+      "quote": "In KGD6, we have a ceiling price, but again, the ceiling price is expected to go up by at least a dollar.",
+      "quantified": true,
+      "horizon": "second half",
+      "speaker": "V Srikanth"
+    },
+    {
+      "metric": "gas prices",
+      "claim": "Expects gas prices to trend upwards and go towards $9.9 in H2.",
+      "quote": "we expect this to trend upwards and go towards $9.9 in the second half.",
+      "quantified": true,
+      "horizon": "second half",
+      "speaker": "V Srikanth"
+    },
+    {
+      "metric": "retail online expansion",
+      "claim": "Will continue expansion of the dark store network for at least 12 months.",
+      "quote": "At least next 12 months, I think in the next nine to 10 months it will continue.",
+      "quantified": true,
+      "horizon": "next 12 months",
+      "speaker": "Dinesh Taluja"
+    },
+    {
+      "metric": "solar manufacturing",
+      "claim": "Moving to gigascale manufacturing and commissioning in the next few quarters.",
+      "quote": "Starting with our wafer pilot plant which is fully executed and now we have moved to gigascale manufacturing and commissioning in the next few quarters",
+      "quantified": false,
+      "horizon": "next few quarters",
+      "speaker": "V Srikanth"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "topline revenue",
+      "claim": "Topline revenue was up 25% primarily because of oil prices.",
+      "quote": "topline up 25% primarily because of oil prices, but it is also a fact that Jio topline was also up 12%",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "V Srikanth"
+    },
+    {
+      "metric": "overall EBITDA",
+      "claim": "Overall EBITDA was more than Rs.54,000 Crores, up 10%.",
+      "quote": "our overall EBITDA is more than Rs.54,000 Crores, so we are up 10%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "V Srikanth"
+    },
+    {
+      "metric": "net profit",
+      "claim": "Net profit was close to Rs.23,200 Crores, up 6%.",
+      "quote": "Net profit at almost close to 23,200, again up 6%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "V Srikanth"
+    },
+    {
+      "metric": "Jio subscribers",
+      "claim": "Reached 533 million customers with about 285 million on 5G.",
+      "quote": "we have 533 million customers and with about 285 on the 5G network.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "V Srikanth"
+    },
+    {
+      "metric": "retail revenue",
+      "claim": "Retail revenue was Rs.90,000 Crores, 12% higher.",
+      "quote": "On moving to retail side, Rs.90,000 Crores, so it is 12% higher.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "V Srikanth"
+    },
+    {
+      "metric": "grocery digital orders",
+      "claim": "Grocery digital orders were up 116% year-on-year.",
+      "quote": "Grocery digital orders are up 116% on a Y- o-Y basis.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Dinesh Taluja"
+    }
+  ]
+}

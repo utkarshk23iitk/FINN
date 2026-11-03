@@ -1,0 +1,1062 @@
+ Persistent Systems Limited 
+ 
+ Page 1 of 26 
+ 
+ 
+“PERSISTENT SYSTEMS EARNINGS CONFERENCE CALL, 
+FOURTH QUARTER, FY26 ENDED MARCH 31, 2026” 
+6:00 PM IST, Tuesday, April 21, 2026 
+ 
+MANAGEMENT: 
+ 
+ 
+Dr. Anand Deshpande 
+Chairman and Managing Director 
+ 
+Mr. Sandeep Kalra 
+Executive Director and Chief Executive Officer 
+ 
+Mr. Vinit Teredesai 
+Executive Director and Chief Financial Officer 
+ 
+Mr. Nitish Shrivastava 
+Chief Technology Officer - Engineering Hyper-Productivity 
+ 
+Mr. Barath Narayanan 
+Executive Vice President – Global BFSI and Europe Geo Head 
+ 
+Mr. Saurabh Dwivedi 
+Corporate Vice President, Finance and Strategy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Persistent Systems Limited 
+ 
+ Page 2 of 26 
+ 
+ 
+ 
+Moderator: Ladies and gentlemen, good day and welcome to Persistent Systems 
+Earning Conference Call for the fourth quarter of FY26, ended March 31, 
+2026. We have with us on the call today,  
+- Dr. Anand Deshpande - Chairman and Managing Director,  
+- Mr. Sandeep Kalra - Executive Director and Chief Executive Officer, 
+- Mr. Vinit Teredesai - Executive Director and Chief Financial Officer, 
+- Mr. Nitish Shrivastava – Chief Technology Officer - Engineering Hyper-
+Productivity,  
+- Mr. Barath Narayanan – Executive Vice President – Global BFSI and 
+Europe Geo Head, and  
+- Mr. Saurabh Dwivedi - Corporate Vice President, Finance and 
+Strategy. 
+Please note, all participants' line will be in listen-only mode and there will 
+be an opportunity for you to ask questions after management's opening 
+remarks. Should you need any assistance during the conference call, 
+please raise your hand from the ‘Participant’ tab on the screen. While 
+asking questions, request you to please identify yourself and your 
+company. Please note, this conference is being recorded. 
+I now hand over the conference to Mr. Saurabh Dwivedi. Thank you and 
+over to you, Sir.  
+Saurabh Dwivedi: Thank you, Vandit. A very good day, good evening to all. We sincerely 
+appreciate your presence and participation in today's call. I will quickly 
+outline the agenda for today's call. 
+• Sandeep will begin with an overview of our results and commentary 
+on the business. 
+• Vinit will take you through the financial details and key operational 
+metrics for this quarter. 
+• Nitish, our CTO, Engineering Hyper-Productivity Business, will provide 
+details on expansion of our AI capabilities and offerings in the quarter 
+gone by. 
+• Barath, our Head of BFSI Vertical and Europe Region, will take you 
+through the details of our BFSI Vertical and our recent customer wins. 
+
+ Persistent Systems Limited 
+ 
+ Page 3 of 26 
+ 
+• I will then provide an overview of our key deal wins and awards and 
+recognitions for this quarter. 
+• Sandeep will then come back for a quick summary of the prepared 
+remarks, post which we will open the conference for questions. 
+ 
+Let me also remind you that as part of our prepared remarks and during 
+Q&A we may make certain statements which are forward-looking and 
+may involve significant uncertainty. Persistent does not take any 
+responsibility to update such forward looking statements and your 
+discretion is warranted while making any investment decisions. 
+With this, let me hand over to Sandeep for his prepared remarks. 
+Sandeep Kalra: Thank you, Saurabh. Good evening, good morning and good afternoon to 
+all the folks depending on where you are joining from. I hope all of you 
+are doing well. 
+Let me start with a quick financial summary of the quarter gone by. 
+• We achieved a healthy revenue growth of 3.2% quarter-on-quarter 
+and 16.2% year-on-year, delivering USD 436 million in Q4 FY26. This 
+marks our 24th sequential quarter of revenue growth. 
+• In rupee terms, the growth for the quarter came in at 7.4% quarter-
+on-quarter and 25.1% year-on-year. 
+• In constant currency terms, the growth for the quarter was 3.4% 
+quarter-on-quarter. 
+• The EBIT margin for the quarter came in at 16.3%, translating to an 
+EBIT growth of 21.4% and 30.4% QoQ and YoY respectively. 
+• The Profit After Tax for the quarter came in at 13.1%, translating to a 
+PAT growth of 20.4% QoQ and 33.7% YoY. 
+Coming to the full FY26. 
+• FY26 revenue came in at USD 1.65 billion, translating into 17.4% YoY.  
+• In rupee terms, this translates to 23.5% YoY growth. 
+• The EBIT margin for FY26 came in at 15.6%, a 31.1% YoY growth. 
+• Profit After Tax for the full year came in at 12.6%, an increase of 
+33.2% YoY in absolute terms. 
+Vinit, our CFO, will provide a detailed color on the financials and margin 
+movement later in this call. 
+
+ Persistent Systems Limited 
+ 
+ Page 4 of 26 
+ 
+Coming to the order book for the quarter. 
+• The Total Contract Value for the quarter stood at USD 600.8 million, 
+with Total Contract Value of the new bookings coming in at USD 428.9 
+million. 
+• The Annual Contract Value of bookings for this quarter is USD 445.1 
+million, out of which Annual Contract Value from new bookings 
+contributed to a healthy USD 272.7 million. 
+• The Total Contract Value for the year came in at USD 2.4 billion, while 
+the corresponding annual contract value came in at USD 1.8 billion.  
+Given that 80% of our revenue comes from the US, we normally see peak 
+renewals and hence overall bookings in the December quarter, which 
+coincides with our customers' fiscal year. The sequential moderation in 
+bookings this quarter is consistent with this normal seasonality seen in 
+prior years as well. 
+To remind everyone, both TCV and ACV numbers include all bookings, 
+small and large, renewals as well as new bookings across existing and 
+new customers. Also, as highlighted in our earlier calls, our revenue 
+conversion on a quarterly basis is a function of ACV bookings closed in 
+previous quarters as well as the conversion from multi-year deals booked 
+in previous years, which are included in our Total Contract Value or TCV 
+bookings that we announce on a quarterly basis. 
+Now, let me give you a color on our client movements across various 
+reported categories. 
+• This quarter we witnessed healthy year-on-year growth among our 
+various client buckets with our  
+• Top 5 customer revenue growing by 20.7%,  
+• Top 10 by 19.4%,  
+• Top 20 by 20.0%,  
+• Top 50 by 20.9% and  
+• Top 100 by 19.5%. 
+Coming to the year-on-year movement of customers across various 
+reported buckets. 
+• Customers with annual revenues greater than US$75 million 
+remained stable at 4 on a year-on-year basis. 
+• Those with US$50 million plus annual revenue remained stable at 4. 
+
+ Persistent Systems Limited 
+ 
+ Page 5 of 26 
+ 
+• US$20 million plus increased from 10 to 12. 
+• US$10 million plus increased from 21 to 29. 
+• Those in US$5 million plus category saw a significant increase from 55 
+to 62 over the last one year. 
+• The customers on US$1 million plus category increased from 191 to 
+201. 
+This demonstrates our consistent success in cultivating deeper, more 
+resilient partnerships with our customers over time. 
+Now, coming to the details of our performance across geographies. 
+• In terms of year-on-year growth this quarter in dollar terms, North 
+America revenue grew by 17.4%, Europe grew by 12.3%, India by 
+4.2%, and the rest of the world grew by 41.4%, although on a smaller 
+base. 
+• For the full year, North America grew 17.2%, Europe grew 26.7%, 
+India 9.5%, and the rest of the world by 27.5%. 
+Coming to the industry segment. 
+• This quarter's growth was led by Banking Financial Services vertical 
+with 24.3% growth year-on-year followed by Healthcare, Life Sciences 
+and Software, High-tech and Emerging verticals, which grew by 14.1% 
+and 11.2% respectively on a year-on-year basis. 
+• For the full year FY26, Banking Financial Services vertical led the 
+growth by 28.4% followed by High-tech and Emerging verticals, which 
+grew by 13.8%, and Healthcare, Life sciences, which grew by 10.1%. 
+Coming to an update on the interim dividend and the final dividend. 
+• I am pleased to share with you that the Board of Directors has 
+recommended a final dividend of ₹18 per share on face value of ₹5 
+per share. This brings the total dividend for FY26 at ₹40, including the 
+interim dividend, and this compares to ₹35 in FY25. 
+• The dividend recommended by the Board is subject to approval at the 
+ensuing Annual General Meeting. 
+Coming to the AI updates. 
+
+ Persistent Systems Limited 
+ 
+ Page 6 of 26 
+ 
+• In the quarter gone by we saw significant announcements on the AI 
+roadmap by various ecosystem players such as Anthropic, OpenAI, 
+NVIDIA, Microsoft, Google, Snowflake, Databricks and others. 
+• We do expect the pace of adoption in both the tech companies and 
+enterprises to accelerate significantly in the coming quarters, with 
+tech companies leading the way. 
+• We are steadily making progress on our AI journey and as a part of 
+our capability build and workforce transformation, we recently 
+concluded our Persistent AI huddle in Pune. As a part of our huddle, 
+1700 plus of our team members, including business leaders, delivery 
+heads, delivery partners, technical architects and senior engineers 
+participated. During this event, we did a deep dive into our AI 
+offerings across the three pillars of our AI-led platform approach - 
+engineering hyperproductivity, business hyperproductivity and 
+enterprise data readiness. All the participants underwent hands-on 
+experience of executing end-to-end real-world use cases using 
+various AI stacks such as OpenAI, Anthropic, Copilot, and SASVA. 
+• The end goal of the huddle was to strengthen execution for our 
+expanded AI platform and offerings and enable GTM readiness across 
+the organization. 
+My colleague Nitish will be detailing our overall progress on the AI front a 
+little later in this call. 
+Further to a successful huddle, we are now conducting our annual 
+flagship hackathon, Semicolons, involving our entire employee base. The 
+focus of this would be on building AI-native solutions and to continue the 
+momentum in bringing our workforce up to the latest in terms of the 
+latest technology stacks and our platforms. 
+We also intend to host our AI Investor Day in early June timeframe at our 
+offices in Pune to showcase our AI capabilities, our AI partnerships as well 
+as some of the marquee customer case studies. We aim to make this 
+Investor Day comprehensive for our investor community by including a 
+hands-on AI hackathon involving our investors in collaboration with our 
+technical and business teams. We are excited about the event and we 
+look forward to active participation from our investor community. 
+Coming to other organizational updates. 
+
+ Persistent Systems Limited 
+ 
+ Page 7 of 26 
+ 
+• I am pleased to share that we have further strengthened our 
+leadership team with the addition of two leaders, Ruchi Kulhari and 
+Hari Abhayankar. 
+• Ruchi joined us as an Executive Vice President, Enterprise Strategy 
+and Execution. In her role, she will be partnering closely with me and 
+our executive leadership team to drive critical priorities working 
+across business units and functions to translate these priorities into 
+clearly defined initiatives with measurable outcomes. She has a rich 
+work experience working across firms such as Infosys, EXL, Unisys, 
+etc. 
+• Hari joined us as Executive Vice President and Global Head of Private 
+Equity and Professional Services spearheading our company's global 
+strategy and growth across private equity investors, their portfolio 
+companies and professional services organizations. Prior to joining us, 
+Hari has spent significant time at McKinsey consulting with enterprise 
+software companies. 
+With this, I would like to invite Vinit to provide more details on our 
+financials. Vinit, over to you.  
+Vinit Teredesai:  Thank you, Sandeep. Good evening and good day to all. Thank you for 
+taking the time to join us today. 
+Let me now take you through the financial highlight for the quarter as 
+well as for the full year gone by. 
+• Q4 FY26 revenue stood at USD 436 million, registering a year-on-year 
+growth of 16.2%. 
+• In rupee terms, it translates into ₹40,559.4 million, a growth of 25.1% 
+year-on-year. 
+• EBIT for this quarter was ₹6,591.6 million, translating to a growth of 
+30.5% year-on-year. 
+• EBIT margin for Q4 FY26 came in at 16.3%, a 70 basis point increase 
+year-on-year. 
+I will now share the highlights for the full year FY26. 
+• Revenue came in at USD 1,654.4 million, a year-on-year growth of 
+17.4%.  
+• In rupee terms, this translates to ₹1,47,484.5 million, a growth of 
+23.5% year-on-year. 
+
+ Persistent Systems Limited 
+ 
+ Page 8 of 26 
+ 
+• EBIT for FY26 was ₹23,034.7 million, translating to a growth of 31.5% 
+year-on-year. 
+• EBIT margin for FY26 came in at 15.6%, an improvement of 90 basis 
+points year-on-year. 
+Let me now give you a quarter-on-quarter EBIT margin walkthrough. 
+In terms of headwinds,  
+• Increase in consulting and advisory expenses related to 
+corporate development initiatives resulted in a margin impact 
+of 60 basis points this quarter. 
+• Increase in sub-con cost expenses, purchase of software 
+licenses and travel related to annual planning exercise 
+cumulatively led to an impact of 70 basis points on our 
+margins this quarter. 
+In terms of tailwinds,  
+• Q4 margins benefited by 220 basis points due to absence of 
+one-time cost impact of the new wage code which was 
+incurred in the previous quarter. 
+• Operational efficiencies resulted in an improvement of 40 
+basis points in margins. 
+• Favourable currency helped the margin by 60 basis points. 
+All these headwinds and tailwinds put together have resulted in an 
+improvement of 190 basis points in our EBIT margin on a quarter-on-
+quarter basis. 
+• Other income, net of finance costs, stood at ₹136.3 million as against 
+₹153.5 million in Q3 of FY26. This dip is primarily on account of mark-
+to-market losses on our mutual fund investments. 
+• We had a foreign exchange gain of ₹11.9 million this quarter as 
+against a loss of ₹154.3 million in Q3 of FY26. 
+• Effective tax rate for the quarter came in at 21.5% versus 22.2% last 
+quarter. 
+• Effective tax rate for FY26 stood at 22.6%. 
+• Profit After Tax was at ₹5,292.6 million, a growth of 33.7% year-on-
+year. This translates to a PAT margin of 13.1%. 
+
+ Persistent Systems Limited 
+ 
+ Page 9 of 26 
+ 
+• Earnings Per Share was ₹33.80 per share in Q4 of FY26 compared to 
+₹28.20 per share in the previous quarter. 
+• Year-on-year growth in EPS was ₹31.9%. 
+• Excluding cash from capital employed, the Return on Capital 
+Employed for Q4 FY26 came in at 45.2% versus 43.8% in the previous 
+quarter. 
+• Total cash and investments stood at ₹27,622.1 million as of 31st 
+March, 2026. 
+• In this quarter, the billed DSO came in at 53 days while the unbilled 
+DSO came in at 27 days. Billed DSO decreased by 4 days and unbilled 
+DSO increased by 3 days compared to Q3 of FY26. 
+• OCF to PAT came in at 77% in Q4 of FY26 compared to 91% in the 
+previous quarter. This decline in Operational Cash Flow to PAT was 
+primarily on account of higher proportion of unbilled revenue in this 
+quarter, which we expect to normalize in the next quarter. 
+• Additional delays in the receipt of tax refunds and annual payment 
+towards insurance premium have contributed to this decline in OCF 
+to PAT. 
+• For the full year FY26, our Operational Cash Flow to PAT came in at 
+93.6% compared to 82.6% for FY25. 
+• Forward contracts outstanding as of 31st March, 2026 were USD 500 
+million at an average rate of ₹90.70 per dollar. 
+Let me now give you some operational updates. 
+• At the end of Q4 of FY26, our total headcount stood at 27,502, an 
+increase of 791 from the previous quarter. 
+• Utilization in this quarter remained flattish at 88%. 
+• Trailing 12 months attrition for this quarter came in at 13% compared 
+to 13.5% in the previous quarter. 
+Coming to updates on ESG. 
+• Our ESG performance continues to translate into risk resilience, long-
+term value creation and strong external validation. 
+• We are positioned in the Top 10% of the S&P Sustainability Yearbook 
+with a score of 86 out of 100. 
+• Our CDP Climate Change rating improved from B to A, placing us 
+amongst the top 4% of the companies globally. 
+
+ Persistent Systems Limited 
+ 
+ Page 10 of 26 
+ 
+• Further, we ranked 3rd overall and 2nd in the IT sector in the Business 
+World's India's Most Sustainable Companies, reinforcing our sector 
+leadership. 
+• In the Perpetual Capital Hurun India Impact 50 – 2026, we were 
+ranked 13th, reflecting a measurable impact at scale. 
+• Notably, we achieved carbon neutrality 2 years ahead of target 
+resulting in the Number 1 rank amongst the companies targeting 
+carbon neutrality by 2030 and Number 3 amongst the sustainable 
+software and services companies, a strong indicator of execution 
+credibility rather than intent-based commitments. 
+• We were featured in the Dun & Bradstreet’s India’s Leading ESG 
+Entities Report, strengthening our overall ESG risk and opportunity 
+profile. 
+• On the social dimension, being named amongst the ET Edge Best 
+Organization for Women 2026, reinforces talent sustainability, 
+leadership depth and inclusion, critical factors for long-term 
+performance in knowledge-led businesses. 
+• Collectively, these outcomes reflect a disciplined ESG strategy 
+embedded into governance and operations, supporting business 
+resilience, stakeholder trust and sustained shareholder value. 
+With this, let me now invite Nitish to share updates on our AI journey.  
+Nitish Shrivastava: Thank you, Vinit. Let me update you all on the progress of our AI journey 
+as we continue to help our clients adopt and scale AI with measurable 
+outcomes. As you know, our AI strategy is anchored on three key pillars - 
+engineering hyperproductivity, business hyperproductivity and enterprise 
+data readiness along with responsible AI. 
+• Engineering hyperproductivity is about embedding AI across the 
+software development lifecycle so engineering teams can deliver 
+faster, improve code quality and do more with less. 
+• Business hyper-productivity is about applying AI to automate and 
+optimize business processes, workflows and decision-making across 
+enterprise functions so organizations can drive efficiency and faster 
+outcomes. 
+• Enterprise data readiness is about preparing an enterprise data 
+foundation with the right structure, governance and accessibility so AI 
+can deliver accurate, contextual and trusted outcomes at scale. 
+
+ Persistent Systems Limited 
+ 
+ Page 11 of 26 
+ 
+Together, these three pillars define the path enterprises must take to 
+realize the full value of AI. While AI can take enterprises a long way on 
+their transformation journey, the true challenges lie in overcoming the 
+last mile. Achieving this requires making AI-driven outcomes repeatable, 
+transparent and governed at scale so that the success is sustained and 
+trusted throughout the enterprise. Delivering enterprise AI value requires 
+contextualized intelligence and repeatable, reliable execution. This needs 
+a structured approach across three enterprise-wide layers. 
+• The core foundation layer ensures a secure, governed, interoperable 
+and cost-controlled foundation for enterprise AI operation. It is vital 
+for scalability, compliance and trust. 
+• The governed grounding layer contextualizes and provides reliable, 
+traceable access to enterprise-wide data, processes, knowledge and 
+history. It builds trusted enterprise memory with domain awareness, 
+lineage, business rules and compliance. 
+• The work orchestration layer coordinates and integrates people, 
+agents, applications, resources and systems in process-driven 
+workflows with clear control, accountability and governance. 
+Our platforms, SASVA, iAURA, and GenAI Hub bring all these things 
+together. Our methodologies and accelerators extend this into partners' 
+ecosystem. This helps our customers realize AI value through a 
+combination of our own IP and the best of what our partners offer. 
+We continue to invest in our innovations to help our clients get the real 
+values through their AI initiatives. We have filed over 120 patents and 
+published research to strengthen the depth of our platforms and deliver 
+enterprise-grade results. 
+In engineering hyperproductivity, SASVA continues to be the central 
+driver for our clients. Over the last several quarters we have seen 
+progression from individual productivity to team intelligence and 
+execution at enterprise scale through the SASVA platform bridging the 
+last-mile gap of AI adoption. This approach is now repeatable across 
+verticals converting enterprise technologies and AI assessment into a 90-
+day actionable roadmap including for private equity due diligence and 
+transformation at scale. 
+Let me share an example of where we were selected to transform the 
+SDLC for a public safety system used by law enforcement. This client 
+provides the law enforcement agencies and public officials with the 
+
+ Persistent Systems Limited 
+ 
+ Page 12 of 26 
+ 
+technology and tools they need to manage local, state and federal 
+offender registry processes effectively. SASVA brought organization 
+context together from sources like code repositories, ticket 
+communication channels and planning tools, used this engineering data 
+to create purpose-built SLMs alongside Anthropic and unified agents and 
+humans into a single execution loop. It mapped dependencies and risks, 
+modernized the stack into a Cloud-native architecture without disrupting 
+operation, embedded continuous security and privacy controls and 
+accelerated engineering through governed releases and full observability. 
+The result is a secure, scalable platform with continuous delivery and 
+zero customer impact.  
+We also expanded SASVA to run as a native layer on the core foundation 
+that integrates with partners' platforms like Claude, GitHub Copilot and 
+OpenAI Codex. This gives clients more choice in their models and tool 
+ecosystem while SASVA adds its enterprise value on top of any platform 
+they select. 
+Building on our partnership with DigitalOcean, clients can now access 
+Anthropic and OpenAI among other models and tools and build or 
+consume agentic solutions through AI. They also get private Cloud and 
+sovereign deployment options. All of this comes layered with our 
+enterprise value on top. 
+On business hyperproductivity, we continue to reimagine end-to-end 
+workflow as self-operating ecosystem of AI teams powered by our 
+domain-driven reasoning engine and a robust core architecture that 
+helps our customers achieve more accurate outcomes at production 
+scale. We upgraded the GenAI Hub and Agent Studio with agent runtime, 
+orchestration, evaluation and knowledge management abilities and 
+expanded the Agent Processing Unit for agent collaboration. Our agent 
+portfolio now exceeds 500 agents built inhouse and across partners' 
+ecosystems including Google, Microsoft, Salesforce and NVIDIA. 
+Let me share an example. We are working with a leading pharma 
+company focused on diabetes and metabolic disorders. We are helping 
+them tackle a core challenge in early-stage drug discovery on how to 
+unify fragmented clinical and research data and make it actionable using 
+AI. The client wanted to move beyond siloed datasets and manual 
+processes towards a predictive, AI-driven discovery model. We built a 
+disease-specific knowledge graph from proprietary dataset creating a 
+structured intelligence layer for downstream AI use cases within a fine-
+
+ Persistent Systems Limited 
+ 
+ Page 13 of 26 
+ 
+tuned, open-weight foundation model using clinical data to develop 
+domain-specific LLMs for drug discovery. The solution now runs on 
+Google Cloud Platform with Google's healthcare AI models like 
+MedGemma and TxGemma enabling scalable model training and 
+experimentation. What makes this unique is the combination of deep 
+domain data, hyperscaler native AI models and platform engineering. We 
+are effectively moving from data aggregation to LLM-driven discovery 
+workflows embedded directly into research and development. 
+Let me highlight another example where we worked with a leading global 
+pharmaceutical company to accelerate drug discovery and innovation. 
+This is based on a joint solution that we built together with NVIDIA's 
+BioNeMo toolkit. This solution empowers computational biology 
+scientists to predict protein structure, generate novel molecules, design 
+new proteins and simulate molecular interaction between target proteins 
+and ligands. It is built on a core NVIDIA stack. It is contextualized by our 
+deep expertise in protein structure and coordinated through plug-and-
+play microservices with industry-standard APIs. This enables rapid 
+workflow customization and scalability. 
+Enterprise data readiness remains the single most important driver for 
+scaled AI adoption. We expanded enterprise context, semantic layer and 
+knowledge graph within iAURA to make enterprise data not just AI-
+available but AI-consumable. We industrialized modernization using 
+agentic accelerator to mitigate legacy data stack into Cloud-native 
+platform. This delivered real outcomes including modernizing thousands 
+of reports with significant automation and establishing data lineage for 
+regulatory alignment. 
+To share one example, a leading U.S. bank faced significant technical debt 
+from multiple acquisitions with legacy systems reaching end-of-life and 
+increasing risk exposure. Using our iAURA Migrate accelerators, we 
+modernized their legacy BI and reporting landscape to Cloud-native 
+platforms covering over 3,500 reports with more than 50% automation 
+reducing risk and making the environment AI-ready.  
+In summary, our AI strategy has moved from foundational framework to 
+platform-led execution and operating model that clients can adopt at 
+scale. We continue to invest in deep research, in patent-backed 
+innovation, in our platforms and in our partners' ecosystem while 
+bridging the last mile of AI adoption and delivering measurable impact to 
+our clients. 
+
+ Persistent Systems Limited 
+ 
+ Page 14 of 26 
+ 
+With this, I would now ask Barath to take over to talk about our BFSI 
+vertical details.  
+Barath Narayanan: Thank you, Nitish. Warm greetings to everyone participating in today's 
+call. I am Barath Narayanan, I head BFSI vertical and Europe Region at 
+Persistent. I will address three primary topics today in this call –  
+• Performance of BFSI vertical 
+• Key drivers of the market demand and 
+• Our execution strategy. 
+Coming to performance, BFSI vertical demonstrated a robust growth of 
+24.4% year-on-year from Q4 perspective with an annualized run rate of 
+USD 600 million. With respect to full FY26 financial year, the revenue 
+growth came at 28.4% year-on-year, a result of expanding relationships 
+with our existing customers and new client wins across North America, 
+Europe and Australia. Our BFSI vertical depth is underpinned by a strong 
+customer base that includes Top 4 out of 5 banks in the US as well as 
+India, Top 3 out of 5 large global fintechs and Top 3 out of 5 brokerage, 
+wealth managers and retirement service providers. Our growth in BFSI is 
+attributable to our deliberate focus on three pillars of execution –  
+• First pillar is specialized sub-vertical, allowing us to focus on retail and 
+commercial banks, capital markets, insurers, payment providers and 
+fintechs. 
+• Second pillar is doubling down our investment on what we do the 
+best, that is, product engineering, data modernization and cloud 
+transformation. 
+• And the third pillar is sharper focus on top 30 existing clients and 
+winning new strategic clients for future growth across the region. 
+Our strong engineering DNA, deep domain knowledge in financial 
+services and AI platforms like SASVA, iAURA, GenAI Hub has created a 
+differentiated positioning for us with our clients. We are increasingly 
+being brought in as a credible challenger to Tier -1 outsourcing firms by 
+our customers and prospects.  
+Now let me cover what we are observing as a broad theme across BFSI 
+market segments and how we are engaging with clients to address them. 
+The BFSI sector is transforming to increase margins, strengthen 
+operations and enhance capital efficiency. Clients are optimizing run 
+costs by modernizing platforms like their core banking, policy 
+
+ Persistent Systems Limited 
+ 
+ Page 15 of 26 
+ 
+administration and brokerage platforms with cloud native architectures. 
+Concurrently, upgrading enterprise data infrastructure has become a 
+critical enabler for AI adoption, while facilitating the compliance mandate 
+necessary to mitigate operational risk and navigate stringent regulatory 
+frameworks like DORA, BCBS 239 and ESG reporting. 
+Capitalizing on this modernized foundation, the institutions are 
+integrating traditional payments and digital assets via real time network, 
+blockchain settlements and tokenized real -world assets, aiming to 
+improve liquidity and minimize counterparty friction. We see real shift in 
+the spend from business as usual programmes to transformation 
+initiatives that are preparing the clients to adopt AI at enterprise level. 
+We are involved in accelerating client’s transformation journey in 
+following areas: 
+• Improve time to market for new product rollout. 
+• Transform complex legacy landscape. 
+• End to end modernization of data. 
+• And reimagine customer experience. 
+There are 4 principal focus areas where we support our clients to realize 
+their business growth. Let me share each one of them now. 
+• First one being AI led software engineering. The way software gets 
+built is changing fundamentally. While Nitish called this out earlier, let 
+me focus on sharing an example where we have adopted AI solutions 
+to help our client. Earlier in the year, for a large US insurer operating 
+decades-old COBOL -based policy administration platform supporting 
+millions of policyholders, legacy infrastructure had become a 
+significant barrier to modernisation. We applied AI augmented 
+engineering approach to migrate the core policy life cycle directly 
+onto Duck Creek, a leading insurance platform.  
+ 
+• The second focus area is associated with payments and digital assets. 
+Real time settlement has evolved from innovation initiative to 
+competitive baseline. To give an example, for a large financial 
+technology provider, enabling real time payments on the Federal 
+Reserve's FedNow network, delivering a compliant production ready 
+capability was a critical milestone. Towards this goal, Persistent 
+designed and built a cloud native FedNow payment solution 
+supporting customer credit transfers and merchant disbursement use 
+cases. The scope was to lead the programme end to end from system 
+architecture through integration and certification readiness. On 
+similar lines, we were selected by one of the largest banks in Nordic 
+
+ Persistent Systems Limited 
+ 
+ Page 16 of 26 
+ 
+region to modernise its payments platform, implement regulatory 
+changes and augment core transaction capabilit ies. We were chosen 
+against established incumbent service providers owing to our strong 
+payment’s domain capability.  
+ 
+• The third focus area that I want to highlight in the data infrastructure: 
+One common challenge most of the clients are facing across BFSI 
+segment is modernising and improving quality of data prior to driving 
+overall AI adoption for various business use cases. Underlying data 
+remains the focal point in every client engagement. To share an 
+example, for a large European bank, where hundreds of siloed 
+systems were creating direct regulatory exposure across B ASEL, AML 
+and KYC, we deployed iAURA , our Agentic AI solution for enterprise 
+data management. The result delivered is documentation cycle 
+reduced by roughly 70% with AI decoding and validating over 25,000 
+lines of legacy code. 
+ 
+• The fourth pillar of focus area is nonlinear cost transformation. 
+Banking, capital markets and insurance clients are pursuing what we 
+would describe as nonlinear cost transformation through digiti zation 
+of business processes using Agentic solutions. The objective is not 
+incremental efficiency, but fundamentally restructure end -to-end 
+business processes. To give you an example, Persistent was selected 
+by one of the largest life insurance providers in Australia to co -build 
+its digital underwriting platform to replace fragmented manual 
+insurance processes with fully digital workflow -driven system. The 
+transformation focusses on automating underwriting, improving 
+compliance and auditability, and enabling end -to-end customer and 
+advisor journeys. The customer will benefit from significant efficiency 
+gains, thereby reducing cost, accelerating policy issuance, and 
+improving risk management in a regulated environment. 
+ 
+Now, let me close with a view of our execution strategy. Our strategy 
+continues to stay anchored on 4 priorities.  
+• Embedding AI into existing engagements to drive customer 
+satisfaction. 
+• Proactively solving high-value problems for our current clients. 
+• Winning strategic new relationships through our differentiated 
+offerings. 
+• And continuing to build deep engineering and domain talent for 
+our clients. 
+ 
+
+ Persistent Systems Limited 
+ 
+ Page 17 of 26 
+ 
+We are committed to partnering with financial institutions as they 
+navigate their modernization journey and deploying AI solutions. Our 
+focus remains delivering tangible value during this pivotal period. With 
+this, I will now hand over the proceedings to Saurabh. 
+Saurabh Dwivedi: Thank you, Barath. In the interest of time, I will be brief in mentioning 
+one key customer case study from our hi -tech vertical, and I'll briefly 
+cover the awards and recognitions as well. A lot of these details are 
+mentioned in our investor deck, which is uploaded on our website. 
+Persistent was selected by Japan -headquartered global B2B industrial 
+technology leader as a long -term transformation partner to help shift 
+from hardware-centric products to software -led platforms. The progra m 
+spans end -to-end engineering carve -out and offshore -led operations 
+across SAP, IT, and data analytics. The benefit to the customer includes 
+faster time to market through a scaled global engineering organization 
+and reinvestment of productivity benefits into innovation and growth. 
+This deal is special since it is more than $50 million in TC V with a 
+marquee net new customer and is one of the largest SAP services deals 
+for us.  
+Coming to key awards and recognitions for the quarter. Persistent was 
+named as the fastest-growing IT services brand globally in the 2026 Brand 
+Finance IT Services 25 report. We received multiple recognitions from the 
+Everest Group, including being named a leader in Everest Group Private 
+Equity Services PEAK Matrix ® Assessment 2026, as well as a leader in 
+Everest Group Software Product Engineering PEAK Matrix ® Assessment 
+2026. 
+We are proud to share two domain -specific solutions which we have co -
+innovated with our partners.  
+• First, leveraging the full -stack NVIDIA AI platform, they are 
+empowering biopharma companies with production -grade, 
+Agentic systems for molecular simulation and virtual screening.  
+• And second, with Databricks, we have launched Merchant Risk 
+Management Solution to help financial institutions and payment 
+providers gain real-time visibility across the merchant life cycle. 
+ 
+Lastly, our MD and Chairman, Dr. Anand Deshpande, received two 
+Lifetime Achievement Awards during the quarter. The CNBC TV18 Award 
+at the India Business Leaders Awards 2025 and at the STAR Awards 2026 
+
+ Persistent Systems Limited 
+ 
+ Page 18 of 26 
+ 
+event organized by Software Exports Association of Pune. With this, let 
+me hand it back to Sandeep.  
+Sandeep Kalra: Operator, let's open for Q&A. 
+Moderator: Thank you so much. We will now open the call for Q&A session. We will 
+wait for a few minutes until the queue assembles. 
+We request participants to restrict to 2 questions and then return to the 
+queue for more questions. Please raise your hand from the participant 
+tab on the screen and ask the question.  
+   The first question is from Mehta Bhavik. 
+Bhavik Mehta: Hi, thank you. So, couple of questions. Firstly, Sandeep, can you talk 
+about how are you seeing the demand environment currently versus, 
+let's say, 3 months ago, given the headwinds from geopolitics as well as 
+how enterprises are adopting to Generative AI. Any color on the demand 
+environment will be useful. 
+And secondly, just from a next year perspective, you had this target of 
+reaching $2 billion by FY27 along with some margin expansion. So, are 
+you sticking to that or do you want to make some changes to it given how 
+the macro is playing out right now? 
+Sandeep Kalra: Yeah. So, as far as the macro is concerned, look, this war situation in the 
+Middle East, there are two parts to it. One, it does not directly affect us 
+from the Middle East perspective because we have zero to very little 
+exposure in Middle East. But as far as the bigger thing is concerned, if it 
+goes on for more time, then obviously, you know, it is an issue because 
+oil prices remaining higher for long will have an impact on inflation, etc. 
+But that will affect the entire sector, not just us. And within that, we are 
+confident with our progress in AI, with the investments that we are 
+doing, we'll continue to gain market share. But we will be cautiously 
+optimistic as far as that is concerned.  
+In terms of your last question, and then I'll come back to the enterprises 
+side, the $2 billion by FY27, that's a run rate. We are marching towards it 
+steadily. And again, look, if the macro goes in a different direction going 
+ahead, we'll tackle it as it comes. But otherwise, the run rate wise, we are 
+confident, we are marching towards it steadily and we'll get there plus 
+minus a quarter at worst.  
+Now, as far as the enterprise adoption is concerned, my colleagues, 
+Nitish, as well as Barath, talked about the different case studies. Nitish 
+
+ Persistent Systems Limited 
+ 
+ Page 19 of 26 
+ 
+talked about how we are taking it in the healthcare sector, in some cases, 
+and in the engineering side where the tech companies, they are the 
+fastest one to adopt. The demand that we are seeing from them in terms 
+of AI -led software development lifecycle is the highest. Healthcare Life 
+Sciences, BFSI, which are the other two segments for us, are regulated 
+industries. It is picking up. Although I will say the POC or pilot to the 
+enterprise-wide adoption, it is going slower than what would be there in 
+a tech sector. So hopefully that answers. 
+Bhavik Mehta: Yeah, thank you. 
+Moderator:  Thank you. The next question is from Abhishek Pathak. 
+Abhishek Pathak: Yeah, hi. Am I audible? Hello. 
+Sandeep Kalra: Yeah, you are audible. Please go ahead. 
+Abhishek Pathak: Yeah, yeah. Hi. Hi, Sandeep. Thanks for the opportunity. Sandeep, a 
+couple of questions. 
+Firstly, on the top 5 accounts, they were just slightly soft this quarter. If 
+you could just guide us which vertical sort of contributed to the softness 
+amongst the top 5 clients and sort of what's the outlook, whether it's 
+BFSI or healthcare or hi-tech, that would be quite helpful? 
+And the second question, just a clarification on the 2 billion run rate. So 
+essentially, we are talking about a quarterly annualized rate and not 
+necessarily FY’27, $2 billion in revenues. Is that correct?  
+Sandeep Kalra: Correct. So, on the last part, FY’27, Q4 exit is where we are looking at the 
+run rate being in the range of $500 million or so.  
+And now coming to your other question in terms of the top 5 accounts, 
+our top 5 accounts have 2 financial services accounts, 1 tech, 1 
+healthcare life sciences. Now, obviously, you know, these accounts have 
+been ramping up fairly nicely for the last several quarters, if I may say 
+several years. Now, when you do larger deals, when you work with larger 
+customers, you also promise them cost savings. And as a part of that, 
+there is offshoring that we do over a period of time. So, I would not be 
+reading anything much into it. And from a company perspective, we have 
+fairly strong relationships with each of these and they have scaled very 
+nicely. So, nothing to worry about.   
+Abhishek Pathak: Understood, Sandeep. And just lastly, wanted to get your thoughts on 
+Salesforce Headless 360. Considering we are actually quite ti ed with 
+
+ Persistent Systems Limited 
+ 
+ Page 20 of 26 
+ 
+Salesforce, they've kind of come up with this whole sort of Headless 360 
+framework where the API is the interface, right? Just trying to understand 
+how are we looking at this? And does this kind of mean that over the 
+long-term value accrues away from, let's say, system integrators or IT 
+services companies towards just the OEMs? Or is there a different 
+perspective which allows us to retain some value in this whole Agentic 
+era as well? 
+Sandeep Kalra: Yeah, so I'll be short given we have only 15 minutes in this call. But if you 
+look at the overall situation, the Headless 360, while it gives the 
+customers the options to use the agents from anywhere through the APIs 
+and so on, it also increases the work. And not every customer is that tech 
+savvy to be able to take advantage of these without having the help from 
+an SI. So, we are pretty closely working with Salesforce. We look forward 
+to the increased time because of that as well, in the current installed 
+base and in the newer customers as well. But happy to have an offline 
+conversation to go into much more details. 
+Abhishek Pathak: Thank you so much, Sandeep. All the best. 
+Moderator:  Thank you. The next question is from Prateek Maheshwari. 
+Prateek Maheshwari: Hi, Sandeep. Thank you for the opportunity. So, again, my question is 
+regarding the verticals. 
+So just on your healthcare vertical, this quarter it's grown very strongly 
+quarter on quarter. But see, some of your larger peers have seen some 
+weakness, especially in their top pa yor accounts. And so just wanted to 
+understand some of that exposure is also to you guys. I just wanted to 
+understand if you guys would have seen any of such business reductions 
+or is there any risk going on ahead? 
+Sandeep Kalra: So, look we play in the same ecosystem and some of our larger customers 
+are where we share the customers with a few other strategic Tier ones as 
+well. Now, as far as we are concerned, we have been able to grow in the 
+same set of accounts despite the headwinds that all of us have faced. And 
+so, to that extent, you know, that also shows the strength of the offering, 
+the strength of the relationship. I won't read too much into that from our 
+perspective. 
+Prateek Maheshwari: Okay. And just the second question was on just your Geo outlook. This 
+quarter, we have seen India growing very strongly, probably North 
+America grew at the company growth rate. But Europe we had seen 
+
+ Persistent Systems Limited 
+ 
+ Page 21 of 26 
+ 
+decline for the last 2 quarters. So just if you could share your thoughts 
+right now, what you're looking at? 
+Sandeep Kalra: Yeah. The India part is an aberration. The thing that happened there is 
+one of our IT customers in our erstwhile Accelerite business, the renewal 
+happened in rupee (INR) terms through their GCC. So that basically had 
+to be since it was b illed in GCC and rupee (INR) terms that had to be 
+classified as India revenue. Otherwise, the North America revenue would 
+have been even higher and the India revenue would not be where it is. 
+So, nothing, nothing to read there in terms of an India. The thing is that it 
+will get corrected in the next quarter and we will see it. As far as Europe 
+is concerned, that's an area where we want to double down. And there 
+are some customer puts and takes that happen. And that is what it is. So 
+that was a decline of 1.8% sequentially. But the India part and the North 
+America part are adjustments. 
+Prateek Maheshwari: Okay. Thank you so much. 
+Moderator:  Thank you. The next question is from Girish Pai. 
+Girish Pai:  Yeah. Am I audible? 
+Sandeep Kalra: Yes, please. 
+Girish Pai: Yeah. Thanks for the opportunity. So, PE channel has been one critical 
+channel for you. What is the company's exposure to this channel? Now, 
+with all this talk of SaaS apocalypse, how does this impact demand 
+outlook from this channel for FY’27 and beyond? That's my first question. 
+Sandeep Kalra: Yeah. So, the company exposure to PE and again, you know, PE channel 
+gets the business in some cases. And the other part which we classify in 
+PE is the customer is owned by it. And the fact is that there are more PE 
+owned companies in the US today than public companies. And if you look 
+historically, especially in the enterprise software space, in the last 4 or 5 
+years, many companies have been taken from public to private by private 
+equity. So that doesn't mean that they are small or they are financially 
+weak or anything like that. 
+Now, as far as SaaS -pocalypse is concerned, there is, that's an 
+opportunity for people like us. If we can partner with the PEs and their 
+portfolio companies and improve their margins by using our platforms 
+like SASVA, whether we use our open source LLMs tuned by us or we use 
+Anthropics of this world and otherwise, it's a very big opportunity. And 
+that's the reason we have invested in bringing a senior leader to lead that 
+
+ Persistent Systems Limited 
+ 
+ Page 22 of 26 
+ 
+who has dealt with enterprise software at scale in the past. So, we are 
+actually looking at this as a positive for us, helping our customers reduce 
+cost while delivering more and using technology to do that. Lesser of 
+headcount, more of technology. So that's where it is. And in our mind is a 
+good growth market for us. 
+Girish Pai: My second and last question, how much was the license fee booked in 
+the 4th quarter and how much has been the incremental capitalization of 
+spending on building platforms in the current quarter, in the 4 th quarter 
+of FY’26? This is a question for Vinit. 
+Vinit Teredesai: Yeah. So, license fee, we have called, we don't specifically call it out, you 
+know, in terms of because it is a combination of both our own internal IP 
+as well as the external IP that has been routed as part of the larger 
+services contract. So, but we can tell you that our own developed IP does 
+definitely get a lot of attention and momentum in terms of the benefits 
+that it provides to our client. So, it is definitely on track. And as far as the 
+intangible sort of spend that we do on an annual basis, it's in the range of 
+around $8 to $9 million a year. 
+Girish Pai:  Okay. Thank you. 
+Moderator:  Thank you. The next question is from Kumar Rakesh. 
+Kumar Rakesh: Hi. Good evening. And thank you for taking my question. 
+Sandeep, my first question was on the revenue mix or revenue model for 
+your billing to clients. I understand it would be a combination of your 
+own IP SASVA platform and other platforms, some of the third -party 
+platforms and the employees. How does the mix between our own 
+platform and third-party platform moves quarter on quarter? The reason 
+I'm asking this is that for the last couple of years, we hadn't seen much of 
+seasonality in the revenue growth of the company. But should we expect, 
+given the base where we have reached, that there could be some 
+seasonality which may start coming in, especially when I'm looking at 
+third party software in this quarter was higher than the last quarter. And 
+should we start preparing for some of the seasonality, especially how the 
+mix between third party platform and our platform moves from one 
+quarter to another? 
+Sandeep Kalra: Yeah. So, look, you know, Persistent historically, our seasonality was also 
+due to some of the outcome -based pricing that we had with one of our 
+top customers. And that top customer today, from that perspective, has 
+come down in percentage revenue and we work very hard to get out of 
+
+ Persistent Systems Limited 
+ 
+ Page 23 of 26 
+ 
+that seasonality. Now, as far as the forward-looking things are concerned, 
+whether it is SASVA or our other IP like iAURA, GenAI Hub or using, let's 
+say, an Anthropic under the hood for delivering programmes or Open AI 
+or something else, you know, those will be part of services engagement. 
+So, we do not expect much of a seasonality because of that. It will be 
+basically a part of our scaling up the AI initiative. So, I wouldn't read too 
+much into this. 
+Kumar Rakesh: Got that. And from the third -party platform, which you referred to, say 
+from Anthropic, if we start using some of their platform, how does that 
+changes our growth profile and more importantly, the margin profile for 
+the business? Are we largely neutral from that perspective or we are 
+confident that our own platform would be good enough and that mix 
+doesn't dramatically changes between own platform versus third party 
+platform? 
+Sandeep Kalra: Yeah. So, see, the reason you have your own platform and you partner 
+with third parties and adopt the third -party platforms, whether for 
+software development lifecycle, that could be Anthropic, that could be an 
+OpenAI (Codex), that could be Gemini, that could be Copilot, etc., etc. It's 
+to basically work with customers who choose these platforms. And we as 
+a software services or tech services provider have to be able to offer 
+those choices, work with customers who have already invested or have 
+other reasons for using these platforms. So, from that perspective, if we 
+get a free hand, we work with, let's say, an enterprise software company, 
+we are allowed to use whatever we use. We may use open source. In 
+other cases, we may use these. We pay for the tokens for what we 
+consume. At times, they may be given by the customers. At times, we 
+may be paying for that. Depends on what the business model is. And 
+most of these things should be margin neutral or accretive because if we 
+use technology, we should be able to do more work with lesser people 
+and more technology. That's the entire promise of AI. And with that, it 
+should not be margin decretive. So, don't worry about the margin going 
+down. It will be the same or better as we use more of this technology to 
+deliver to others. 
+Kumar Rakesh: Got it. Thank you. 
+Moderator:  Thank you. The next question is from Nitin Padmanabhan. 
+Nitin Padmanabhan: Hi, good evening. 
+Moderator:  Hi, Nitin. 
+
+ Persistent Systems Limited 
+ 
+ Page 24 of 26 
+ 
+Nitin Padmanabhan: Yeah, yeah. Good evening. Thank you for the opportunity. Two questions. 
+So one is, I think last year, as we entered the year, we basically called out 
+that growth will be led by BFSI, followed by hi -tech, followed by 
+healthcare. How are you seeing the shape of growth as we get into the 
+next year?  
+The second is, when we look at the OPD business overall, considering 
+SDLC has come down, the life cycles have come down, how should we 
+think about cannibalization rates there and what are the nuances and 
+how are you thinking about that? 
+Sandeep Kalra: So as far as the next year is concerned, the pecking order would be 
+between healthcare life sciences and BFSI at the top. One of these two, 
+they are very close neck to neck from what we see today and things can 
+change. But the other one will be…. so, between one and two will be 
+healthcare life sciences, BFSI followed by tech. And again, this is what we 
+see today. This is no guidance, etc. Please don't read too much into it. We 
+don't give forward looking guidance. This is just directionally what we are 
+seeing.  
+Now, the OPD part, it's an interesting play. The best part here is we are 
+pretty strong in tech and tech is the one which is adopting these 
+technologies because they are also creators of these technologies. And 
+they are not regulated, so they are more amenable to taking these into 
+production and so on. And the learnings from there should be very, very 
+valuable for us. 
+We may see compression in the tech world. And even if that happens to 
+the extent that we will also go and cannibalize our own business, there's 
+enough and more business that is there from a time perspective and we 
+are a very, very small company. At $1.7 billion, roughly we are very, very 
+small in this and there is enough new outsourcing that may happen from 
+these tech companies. And much more than that, there will be market 
+share rotation between people and hopefully we'll be leading the pack. 
+Nitin Padmanabhan: So just quickly. So, in your experience, while these are very early 
+adopters, despite the fact that there's a cannibalization on the SDLC side, 
+you're still seeing a higher net. Is that your experience? 
+Sandeep Kalra: So, look, I don't want to give you forward -looking guidance. All I can say 
+is… 
+Nitin Padmanabhan: No, no. So far. 
+
+ Persistent Systems Limited 
+ 
+ Page 25 of 26 
+ 
+Sandeep Kalra: Yeah. So far. So far, yes. We have been able to deliver more value and get 
+more in return. 
+Nitin Padmanabhan: Got it. 
+Sandeep Kalra: But there may be a time when tech for a quarter, 2, 3., and I'm not sure 
+how this will pan out because Anthropic and other people announced so 
+many things so fast. And these are really powerful tools in our hands 
+today. So, it may happen that tech may be compressed. But again, you 
+know, with that compression, if we are able to win more business, given 
+that we are very closely working with many of them, we should be able 
+to come up perhaps. But I don't want to give you any forward -looking 
+guidance more than that. 
+Nitin Padmanabhan: No, that's fair. Thank you so much and all the best. 
+Moderator:  Thank you. The last question is from the Vibhor Singhal. 
+Vibhor Singhal: Yeah. Hi. Thanks for taking my question. And congrats on a great quarter 
+yet again to the team. Sandeep and Vinit just one quick question from 
+each of you.  
+Sandeep, from a growth point of view, if I look at FY’26, we probably had 
+3 challenges this year in terms of a weak US macro, the tariff uncertainty 
+as well as GenAI. Now, standing as we are, when FY’27 is about to start, I 
+think there is an additional overhang of the war that we are seeing at this 
+point of time. So how are we looking at FY’27 versus FY’26? Are there 
+more challenges than we had probably seen last year? Or some of the 
+headwinds that we had seen, let's say, in terms of US macro being weak 
+or the GenAI deflation, those have kind of come down to be able to 
+maybe, let's say, give us some headroom to expand this year.  
+And Vinit, a quick question on the margins front.  
+The margins that we have delivered for this year at around 15.6%. Going 
+forward, do we feel comfortable with the earlier margin guidance that we 
+had said that we will probably look at around 16% margins itself? And 
+over and beyond that, how are we looking at the trajectory from a next 2-
+year point of view, not just the quarterly, but next 2 years, how are we 
+looking at that directionally in terms of margins? 
+Sandeep Kalra: So, from a market perspective, these things like the war, etc., are not in 
+our control. But one hopes that these things settle down soon. And that 
+is good for everyone. And hopefully, this overhang should be behind us in 
+the next few weeks, if things go right from whatever we see in the 
+
+ Persistent Systems Limited 
+ 
+ Page 26 of 26 
+ 
+market. Now, the rest of the things, look, last 5, 6 years or more, we have 
+seen COVID. We have seen bad macro, good macro, and so on. And we as 
+a company have always tried to build capabilities and be closer to our 
+customers to be able to sail through this in a decent manner. From what 
+we see today, we should be able to have a decent growth in the coming 
+year. We are building and investing in capabilities on the AI front and 
+otherwise. We are working very closely with partners, whether it is the 
+NVIDIAs of this world, whether it is the Anthropics, Open AIs, and the 
+partners that matter in the data space like Databricks, Snowflakes, and so 
+on. So, from that perspective, heads down, building capabilities, 
+differentiated, respected in the market, and hopeful that the growth 
+journey will continue with it. 
+Vinit Teredesai: Yeah. So, Vibhor we have called out our margin trajectory. I think so, right 
+now, we have achieved whatever we ha d said. Again, that is not a 
+guidance, it’s an aspiration. Our aspiration continues to be in the 16 to 
+17% range. But remember in this environment our first priority is growth, 
+our first priority is investing back into business and developing 
+capabilities. That’s more important. On the way if we can maintain or 
+improve our margins, we will do that.  
+Vibhor Singhal: Got it, got it. Thank you so much for taking my questions and wish you all 
+the best.  
+Sandeep Kalra: With that, we will end the call with a message that the obvious thing is 
+with all these technology changes there is an excitement in the market. 
+And hopefully we will build the relevant capabilities and keep the growth 
+going. Thank you.  
+Moderator: Thank you very much to Persistent management team. Ladies and 
+gentlemen on behalf of Persistent Systems Limited that concludes today’s 
+conference. Thank you for joining us and you may now disconnect your 
+line and exit the webinar.  
+ 
+ 
+(End of transcript) 
+ 
+Please note that this transcript has been edited for readabililty. 
+ 

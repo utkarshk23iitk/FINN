@@ -1,0 +1,101 @@
+{
+  "symbol": "RELIANCE",
+  "period": "Nov 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 96039,
+    "sent": 40000
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 9275,
+    "output_tokens": 1108
+  },
+  "guidance": [
+    {
+      "metric": "Jio growth",
+      "claim": "Management sees visibility of high teen growth for Jio.",
+      "quote": "We are able to, in our minds at least, we see visibility of hi gh teen growth for Jio, and those are the points that Akash was talking about.",
+      "quantified": false,
+      "horizon": null,
+      "speaker": "Transcript"
+    },
+    {
+      "metric": "Solar cell capacity",
+      "claim": "Solar cell capacity will reach 20 gigawatts sometime in first half next year.",
+      "quote": "Similarly, solar cell is now nearing around 5-gigawatt and we will be achieving again 20-gigawatt capacity sometime first half next year.",
+      "quantified": true,
+      "horizon": "first half next year",
+      "speaker": "Company Speaker (Sh Karan Suri)"
+    },
+    {
+      "metric": "New energy revenue",
+      "claim": "Revenues for FY2028 will come from the new energy complex.",
+      "quote": "I think we have already given the indication that we will see the revenues for FY2028 from the new energy complex.",
+      "quantified": true,
+      "horizon": "FY2028",
+      "speaker": "Company Speaker (Sh Karan Suri)"
+    },
+    {
+      "metric": "Solar module capacity",
+      "claim": "Solar module capacity will achieve up to 20 gigawatt early next year.",
+      "quote": "When it comes to the solar value chain, as indicated, I think our module capacity is now six plus gigawatt, and we will be achieving up to 20 gigawatt early next year.",
+      "quantified": true,
+      "horizon": "early next year",
+      "speaker": "Company Speaker (Sh Karan Suri)"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "EBITDA",
+      "claim": "Consolidated EBITDA was Rs. 62,409 Crores, up 24% year-on-year.",
+      "quote": "It was an EBITDA of Rs.62,409 Crores, which is 24% up on a year-on- year basis.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Transcript"
+    },
+    {
+      "metric": "PAT",
+      "claim": "PAT came in close to Rs. 30,000 Crores, up 34%.",
+      "quote": "This is the highest EBITDA that we have declared for consol and simultaneously, the PAT also at close to Rs.30,000 Crores, up 34%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Transcript"
+    },
+    {
+      "metric": "Subscriber base",
+      "claim": "Total subscriber base reached 542 million with 36 million net adds.",
+      "quote": "In terms of the business, the total subscriber base at 542 million, 36 million net adds over the last 12 months.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Transcript"
+    },
+    {
+      "metric": "ARPU",
+      "claim": "ARPU grew 3.5% year-on-year to Rs. 218.8 without tariff increases.",
+      "quote": "Rs.218.8 as ARPU that is a 3.5% growth year -on-year in ARPU without any tariff increases.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Transcript"
+    },
+    {
+      "metric": "Retail revenue",
+      "claim": "Retail revenue increased about 6% while EBITDA was 10% lower.",
+      "quote": "Retail performance has been, you would have seen the numbers, about 6% revenue increase, about 10% lower on the EBITDA side.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Transcript"
+    },
+    {
+      "metric": "Grocery B2C online revenue",
+      "claim": "Grocery B2C online revenue is up 42%.",
+      "quote": "What is good is that we are seeing the early signs of progress are pretty good when you look at online scale, especially on grocery B2C, that number is up 42%, very impressive set of numbers.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Transcript"
+    }
+  ]
+}

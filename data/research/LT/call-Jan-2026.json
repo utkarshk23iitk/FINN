@@ -1,0 +1,101 @@
+{
+  "symbol": "LT",
+  "period": "Jan 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 61201,
+    "sent": 28432
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6982,
+    "output_tokens": 1138
+  },
+  "guidance": [
+    {
+      "metric": "order inflow growth",
+      "claim": "We will exceed the 10% order inflow guidance for FY26.",
+      "quote": "Basis the 9-month performance and the healthy prospects pipeline for the near term, we will be exceeding the 10% order inflow guidance for FY26.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Sensitivity"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "We retain our full year revenue growth guidance of 15%.",
+      "quote": "So we continue to retain our guidance of 15% for the full year, and we are reasonably confident that Q4, the way we have planned, the execution momentum will be at a",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Mohit Kumar"
+    },
+    {
+      "metric": "P&M EBITDA margin",
+      "claim": "Our Projects & Manufacturing margin target is 8.5% for the full year.",
+      "quote": "Our Projects & Manufacturing EBITDA at 7.9% for 9 months of the current year is in line with the target that we have set ourselves at 8.5% for the full year FY '26.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Sensitivity"
+    },
+    {
+      "metric": "net working capital",
+      "claim": "We expect to close the year with an NWC to revenue ratio around 10%.",
+      "quote": "However, with stronger collection intensity and improved contractual terms, our Net Working Capital to Revenue has improved sharply to 8.2% as of December '25, and we expect to close the year with a revised target of around 10%.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Sensitivity"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "order inflow",
+      "claim": "Q3 FY26 order inflows reached Rs 1,356 billion, up 17% year-on-year.",
+      "quote": "We witnessed our highest ever quarterly order inflows in Q3 FY '26 of Rs 1,356 billion, recording a 17% growth year-on-year, led by a strong ordering momentum witnessed across both India and overseas markets.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sensitivity"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "Group revenues grew 10% year-on-year in Q3.",
+      "quote": "The group revenues grew 10% Y -on-Y, led by steady progress across most of the businesses.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sensitivity"
+    },
+    {
+      "metric": "P&M margin",
+      "claim": "Projects & Manufacturing portfolio margin improved 50 bps to 8.1%.",
+      "quote": "The Projects & Manufacturing portfolio margin improved by 50 basis points y-on-y to 8.1%.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sensitivity"
+    },
+    {
+      "metric": "net working capital",
+      "claim": "Net Working Capital to Revenue ratio improved to 8.2% in December 2025.",
+      "quote": "As of December 2025, the Net Working Capital to Revenue ratio improved to 8.2%, reflecting an improvement of 450 basis points on a Y-on-Y basis.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sensitivity"
+    },
+    {
+      "metric": "recurring PAT",
+      "claim": "Recurring PAT reported strong growth of 31% year-on-year at Rs 44 billion.",
+      "quote": "Our Recurring PAT at Rs 44 billion reported a strong growth of 31% Y-on-Y.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sensitivity"
+    },
+    {
+      "metric": "return on equity",
+      "claim": "Trailing 12-month Return on Equity stood at 16.5%.",
+      "quote": "Our Return on Equity as on 31st December 2025 is at 16.5% and is up 40 basis points Y-o-Y.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sensitivity"
+    }
+  ]
+}

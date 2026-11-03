@@ -1,0 +1,101 @@
+{
+  "symbol": "ADANIPORTS",
+  "period": "Feb 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q3--9M-FY26-earnings-call-transcript-UPDATED.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 55301,
+    "sent": 24500
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6396,
+    "output_tokens": 1002
+  },
+  "guidance": [
+    {
+      "metric": "revenue and EBITDA",
+      "claim": "Targeting INR65,500 crores of revenue and INR36,500 crores of EBITDA by FY29.",
+      "quote": "where we said we will be doing INR65,500 crores of revenue and INR36,500 crores of EBITDA",
+      "quantified": true,
+      "horizon": "FY29",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "guidance revision",
+      "claim": "We have revised our full year guidance upwards by INR800 crores.",
+      "quote": "we have revised our guidance by INR800 crores.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "capacity",
+      "claim": "Vizhinjam expansion will increase total capacity to 5.7 million TEUs.",
+      "quote": "And so therefore, in total, we will go up to 5.7 million TEUs of total capacity.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "rail container growth",
+      "claim": "Adani Logistics is targeting double-digit growth, roughly at 11%.",
+      "quote": "we are targeting double-digit growth as we have done even in this year, if you look at my year -on-year numbers, we are in double digits, roughly at 11%.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Divij Taneja"
+    },
+    {
+      "metric": "amortizations",
+      "claim": "In FY27 we have routine amortizations for repayments of INR3,500 crores.",
+      "quote": "So in FY 27, we have only routine amortizations coming up for repayments, which is in the order of INR3,500 crores.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Vasudha Khurana"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "domestic container share",
+      "claim": "Domestic ports delivered highest ever 9-month container share at 45.6%.",
+      "quote": "The domestic ports delivered the highest ever 9 -month container share at 4 5.6%, which is our main pillar of growth.",
+      "quantified": true,
+      "horizon": "9M",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "logistics revenue",
+      "claim": "Logistics revenue reached INR1,121 crores, up 62% year on year.",
+      "quote": "we have delivered the revenue INR1,121 crores, which is 62% higher year on year",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "leverage",
+      "claim": "Leverage remains kept under a check of 1.8x despite debt.",
+      "quote": "We are still able to keep our leverage under a check of 1.8x, which means moving forward",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "domestic realization",
+      "claim": "Domestic realization is up 9% year-on-year in this quarter.",
+      "quote": "Our domestic realization is up 9% year-on-year in this quarter.",
+      "quantified": true,
+      "horizon": "Q3",
+      "speaker": "Ketan Jain"
+    },
+    {
+      "metric": "EBITDA",
+      "claim": "EBITDA for 9 months is INR16,830 crores.",
+      "quote": "Your EBITDA for 9 months is INR16,830 crores.",
+      "quantified": true,
+      "horizon": "9M",
+      "speaker": "Sumit Kishore"
+    }
+  ]
+}

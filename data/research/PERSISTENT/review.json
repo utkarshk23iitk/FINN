@@ -1,0 +1,244 @@
+{
+  "symbol": "PERSISTENT",
+  "headline": "Persistent maintained ambitious long-term revenue aspirations and steady margin goals, while actively pursuing large strategic transactions and keeping consistent growth.",
+  "counts": {
+    "delivered": 0,
+    "partly": 1,
+    "missed": 0,
+    "pending": 8,
+    "dropped": 1
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Reach $2 billion by March 2027",
+      "quote": "I am also happy to share that we remain firmly on track, advancing confidently towards our aspiration of $2 billion by March 2027 and laying the foundation of $5 billion by March 2031.",
+      "verdict": "pending",
+      "evidence": "Horizon ends in March 2027, which is after the latest reported quarter of September 2026.",
+      "evidence_from": "Q3 FY26 call",
+      "actual": null,
+      "direction": "none"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Reach $5 billion by March 2031",
+      "quote": "Over the course of this intensive offsite, we not only charted our priorities and focus areas for FY27 but also assessed our progress towards our long-term aspiration of reaching $5 billion in annual revenue by FY31 and did intensive trainings on the AI side for our entire leadership.",
+      "verdict": "pending",
+      "evidence": "Horizon ends in March 2031, which is after the latest reported quarter.",
+      "evidence_from": "Q3 FY26 call",
+      "actual": null,
+      "direction": "none"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "ETR for FY26 in the range of 20% to 24%",
+      "quote": "ETR for FY26 will be in the range of 20%-24%.",
+      "verdict": "dropped",
+      "evidence": "Management did not mention ETR outcomes in subsequent calls after the FY26 horizon concluded.",
+      "evidence_from": "Q4 FY26 call"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Achieve $2 billion run rate by FY27 Q4 exit",
+      "quote": "So, on the last part, FY’27, Q4 exit is where we are looking at the run rate being in the range of $500 million or so.",
+      "verdict": "pending",
+      "evidence": "Target horizon is Q4 FY27, which is beyond the latest reported quarter of September 2026.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": null,
+      "direction": "none"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "EBIT margin aspiration in 16 to 17% range",
+      "quote": "Our aspiration continues to be in the 16 to 17% range.",
+      "verdict": "partly",
+      "evidence": "Q2 FY27 EBIT margin was reported at 15%, falling below the guided range.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": 15,
+      "direction": "within",
+      "target_high": 17,
+      "target_low": 16,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Transaction is Cash EPS and Reported EPS accretive in Year 1",
+      "quote": "• The transaction is expected to be Cash EPS accretive as well as Reported EPS accretive in Year 1 if you remove the transaction expenses that will be incurred in the first year.",
+      "verdict": "pending",
+      "evidence": "Year 1 horizon has not ended as of the Q2 FY27 call.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": null,
+      "direction": "none"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Net new deal will add $125 million plus annually",
+      "quote": "So, from this deal perspective, this is a net new deal which will add roughly about $125 million plus on an annual basis and overall for the period of the contract it will be roughly about $650 million plus over 6.5 years.",
+      "verdict": "pending",
+      "evidence": "Annual deal contribution horizon is ongoing and has not completed a full year.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": null,
+      "direction": "at_least",
+      "target_low": 125,
+      "unit": "USD million"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Leverage expected to reduce down to 1X by FY2030",
+      "quote": "So, at 50% plus 1 share to 100%, it is expected to reduce down to 1X by FY2030.",
+      "verdict": "pending",
+      "evidence": "Horizon ends in FY2030, which is far beyond the latest reported quarter.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": null,
+      "direction": "none"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Transaction close in Q4 CY2026 or early Q1 CY2027",
+      "quote": "And based on the current anticipation of various regulatory approvals that are expected, we expect this transaction to close sometime towards the Q4 of Calendar Year 2026 or early Q1 of Calendar Year 2027.",
+      "verdict": "pending",
+      "evidence": "Targeted closing period is Q4 CY2026 or early Q1 CY2027, which is yet to conclude.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": null,
+      "direction": "none"
+    },
+    {
+      "made_in": "Q2 FY27 call",
+      "promise": "Incremental transaction expenses of USD 25 to 30 million",
+      "quote": "Over the next two quarters, we expect an incremental amount ranging between USD 25 to 30 million to be incurred towards the Nagarro transaction.",
+      "verdict": "pending",
+      "evidence": "Horizon spans the next two quarters and has not ended.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "within",
+      "target_high": 30,
+      "target_low": 25,
+      "unit": "USD million"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Transaction closing timeframe",
+      "change": "Initially guided for Q4 CY2026 or early Q1 CY2027, then refined to the next 4 to 8 weeks in the subsequent call.",
+      "from_quarter": "Q1 FY27 call",
+      "to_quarter": "Q2 FY27 call"
+    },
+    {
+      "topic": "EBIT margin",
+      "change": "Margins experienced pressure, dropping below the previously stated 16 to 17% aspiration range to 15% in Q2 FY27.",
+      "from_quarter": "Q4 FY26 call",
+      "to_quarter": "Q2 FY27 call"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Jan 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+      "nse": false,
+      "guidance": 3,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Apr 2026",
+      "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+      "nse": false,
+      "guidance": 6,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Aug 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+      "nse": false,
+      "guidance": 5,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+      "nse": false,
+      "guidance": 5,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        3062.0,
+        3242.0,
+        3334.0,
+        3581.0,
+        3778.0,
+        4056.0,
+        4303.0,
+        4664.0
+      ],
+      "OPM %": [
+        18.0,
+        18.0,
+        18.0,
+        19.0,
+        19.0,
+        19.0,
+        16.0,
+        14.0
+      ],
+      "Net Profit": [
+        373.0,
+        396.0,
+        425.0,
+        471.0,
+        439.0,
+        529.0,
+        483.0,
+        352.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5618,
+      "output_tokens": 1109
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5554,
+      "output_tokens": 1350
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6394,
+      "output_tokens": 1214
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6485,
+      "output_tokens": 1228
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3787,
+      "output_tokens": 1796
+    }
+  ]
+}

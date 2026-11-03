@@ -1,0 +1,93 @@
+{
+  "symbol": "HDFCBANK",
+  "period": "Oct 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 54503,
+    "sent": 21159
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5603,
+    "output_tokens": 989
+  },
+  "guidance": [
+    {
+      "metric": "margin",
+      "claim": "Net interest margins are at the bottom and will trend upward next quarter.",
+      "quote": "The trajectory will be upward from the next quarter onwards.",
+      "quantified": false,
+      "horizon": "next quarter",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "margin",
+      "claim": "Net interest margin is expected to be neutral to positive going forward.",
+      "quote": "So, net of that, we still think that there can be neutral to positive on the margin as we go forward.",
+      "quantified": false,
+      "horizon": "going forward",
+      "speaker": "Srinivasan Vaidyanathan"
+    },
+    {
+      "metric": "retail and MSME growth",
+      "claim": "Retail and MSME growth will continue across the next two quarters.",
+      "quote": "And therefore, I think going forward, across the next 2 quarters, you will see that change coming through as we also grow the volumes in retail and MSME.",
+      "quantified": false,
+      "horizon": "next 2 quarters",
+      "speaker": "Kaizad Bharucha"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "deposit growth",
+      "claim": "Deposits increased 18.8% year-on-year on a reported basis.",
+      "quote": "Deposits increased 18.8% year-on-year on a reported basis, including a 4 percentage point lift from special FCNR (B) window.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "CASA growth",
+      "claim": "CASA grew at about 10.8% on an overall basis.",
+      "quote": "As you will see in our published deck, CASA grew at about 10.8% on an overall basis.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "AUM growth",
+      "claim": "Total AUM grew 15.3% year-on-year.",
+      "quote": "Total AUM grew 15.3% year - on-year, including a 1.9% impact of FCNR (B) leverage, with SME and retail assets leading the charge.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "asset quality",
+      "claim": "GNPA was at 1.11%, which is lower year-on-year.",
+      "quote": "Our asset quality remains pristine, with GNPA at 1.11%, 13 basis points lower than year- on-year.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "return on assets",
+      "claim": "The bank delivered an ROA of 1.8%.",
+      "quote": "The bank's well-balanced performance translated to ROA of 1.8%, which has been the range that we've been th ere for a very long time, and quarterly PAT of Rs 19.5 billion, which is a growth of 12.7% approximately if you exclude the trading gains.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "credit costs",
+      "claim": "Credit costs remained low at 44 basis points.",
+      "quote": "Credit costs remain low at 44 basis points, the risk weights to total assets at 69%.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sashidhar Jagdishan"
+    }
+  ]
+}

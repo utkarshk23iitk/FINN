@@ -1,0 +1,36 @@
+{
+  "symbol": "HDFCBANK",
+  "period": "Mar 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 39481,
+    "sent": 4798
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 1269,
+    "output_tokens": 184
+  },
+  "guidance": [
+    {
+      "metric": "tenure",
+      "claim": "Keki Mistry will remain interim Chairman for 3 months.",
+      "quote": "For 3 months, I will remain the interim Chairman.",
+      "quantified": true,
+      "horizon": "3 months",
+      "speaker": "Keki Mistry"
+    },
+    {
+      "metric": "growth",
+      "claim": "Pre-merger growth rates will return.",
+      "quote": "I think you will see the kind of growth that we have used to pre-merger coming back.",
+      "quantified": false,
+      "horizon": null,
+      "speaker": "Sashidhar Jagdishan"
+    }
+  ],
+  "reported": []
+}

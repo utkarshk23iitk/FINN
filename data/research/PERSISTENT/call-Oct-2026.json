@@ -1,0 +1,109 @@
+{
+  "symbol": "PERSISTENT",
+  "period": "Oct 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 60225,
+    "sent": 24240
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6485,
+    "output_tokens": 1228
+  },
+  "guidance": [
+    {
+      "metric": "EBIT margin",
+      "claim": "Management stated an aspirational EBIT margin goal of 16 to 17 percent range.",
+      "quote": "from our perspective we have said we want to be in the 16 to 17 % range, that is our aspiration",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Nagarro deal closure",
+      "claim": "Expected deal closure by Q4-CY26 or Q1-CY27.",
+      "quote": "We expect the deal closure by Q4-CY26 or Q1-CY27.",
+      "quantified": true,
+      "horizon": "Q4-CY26 or Q1-CY27",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Nagarro transaction expenses",
+      "claim": "Expect incremental amount between USD 25 to 30 million over the next two quarters.",
+      "quote": "Over the next two quarters, we expect an incremental amount ranging between USD 25 to 30 million to be incurred towards the Nagarro transaction.",
+      "quantified": true,
+      "horizon": "next two quarters",
+      "speaker": "Tailwinds"
+    },
+    {
+      "metric": "Nagarro regulatory approvals",
+      "claim": "Confident of getting approvals in over the next several weeks.",
+      "quote": "We are confident of getting these approvals in over the next several weeks.",
+      "quantified": false,
+      "horizon": "next several weeks",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Nagarro deal closing timeframe",
+      "claim": "Expect to close the deal in the next 4 to 6 weeks, max 8 weeks.",
+      "quote": "We expect in the next 4 to 6 weeks, max, let's say 8 weeks, that's our hope and expectation.",
+      "quantified": true,
+      "horizon": "4 to 8 weeks",
+      "speaker": "Sandeep Kalra"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Q2 FY27 revenue grew 7.8% quarter-on-quarter and 20% year-on-year to USD 487.6 million.",
+      "quote": "We achieved a healthy revenue growth of 7.8% quarter-on-quarter and 20% year-on-year delivering USD 487.6 million in Q2 FY27.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "EBIT margin",
+      "claim": "Q2 FY27 EBIT margin was 15%, declining 130 basis points year-on-year.",
+      "quote": "EBIT margins for Q2 FY27 came in at 15%, 130 basis points declined year-on-year.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Vinit Teredesai"
+    },
+    {
+      "metric": "order book TCV",
+      "claim": "Total contract value for the quarter stood at USD 633.5 million.",
+      "quote": "Coming to the order book for the quarter, the total contract value for the quarter stood at USD 633.5 million, with total contract value of new bookings coming in at USD 367.1 million.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "headcount",
+      "claim": "Total headcount at the end of Q2 FY27 stood at 29,598.",
+      "quote": "At the end of Q2 FY27, our total headcount stood at 29,598, an increase of 958 from previous the quarter.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Vinit Teredesai"
+    },
+    {
+      "metric": "utilization",
+      "claim": "Utilization stood at 85.8% for the quarter.",
+      "quote": "Utilization stood at 85.8%, down 70 basis sequentially, primarily reflecting proactive hiring to support the ramp-up of large deals.",
+      "quantified": true,
+      "horizon": "Q2 FY27",
+      "speaker": "Vinit Teredesai"
+    },
+    {
+      "metric": "attrition",
+      "claim": "Trailing 12-months attrition stood at 11.9%.",
+      "quote": "Trailing 12-months attrition stood at 11.9% compared to 12.3% in the previous quarter.",
+      "quantified": true,
+      "horizon": "trailing 12-months",
+      "speaker": "Vinit Teredesai"
+    }
+  ]
+}

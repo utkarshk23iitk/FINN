@@ -1,0 +1,77 @@
+{
+  "symbol": "HDFCBANK",
+  "period": "Apr 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 50907,
+    "sent": 19339
+  },
+  "dropped_unverified": 1,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5323,
+    "output_tokens": 900
+  },
+  "guidance": [
+    {
+      "metric": "LCR",
+      "claim": "Endeavor for LCR is to be between 110% and 120%",
+      "quote": "Kunal, in the past, we have mentioned that our endeavor for LCR is to be between 110% and 120%.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Srinivasan Vaidyanathan"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "credit growth",
+      "claim": "System credit growth was 12%, up from 5.5% last year",
+      "quote": "We did 12%, up from 5.5% last year.",
+      "quantified": true,
+      "horizon": "FY 26",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "deposit growth",
+      "claim": "Deposit growth rate at 14.4% continues to grow faster than credit growth",
+      "quote": "Deposit growth rate at 14.4% continues to grow faster than the credit growth, which is what we've always been doing.",
+      "quantified": true,
+      "horizon": "FY 26",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "net income growth",
+      "claim": "Net income growth clocked at 11%",
+      "quote": "Net income growth clocked at 11%, similar to the last financial year, whilst EPS growth of 10% versus 3% last year.",
+      "quantified": true,
+      "horizon": "FY 26",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "return on assets",
+      "claim": "Return on assets continues to be stable at 1.9%",
+      "quote": "Despite the drop in NIMs, the return on assets continue to be stable at 1.9% due to cost efficiencies with cost -to-income declining from 40.5% to 39.5% on a core basis and focus on quality growth reflecting in lower credit costs.",
+      "quantified": true,
+      "horizon": "FY 26",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "gross NPAs",
+      "claim": "Asset quality is extremely healthy at 1.15% gross NPAs",
+      "quote": "Our asset quality is extreme ly healthy at 1.15% gross NPAs.",
+      "quantified": true,
+      "horizon": "FY 26",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "capital position",
+      "claim": "Capital position is strong at 19.7%",
+      "quote": "We have a strong capital position at 19.7%.",
+      "quantified": true,
+      "horizon": "FY 26",
+      "speaker": "Sashidhar Jagdishan"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "symbol": "HDFCBANK",
+  "headline": "Management provided qualitative guidance focusing on long-term growth, asset quality, and margin trajectories, while short-term targets remained largely pending or subject to evolving conditions.",
+  "counts": {
+    "delivered": 2,
+    "partly": 0,
+    "missed": 0,
+    "pending": 8,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Keki Mistry will remain interim Chairman for 3 months.",
+      "quote": "For 3 months, I will remain the interim Chairman.",
+      "verdict": "delivered",
+      "evidence": "Management transitioned to subsequent quarters without any reported extension, fulfilling the three-month interim tenure.",
+      "evidence_from": "Q4 FY26 call",
+      "horizon": "3 months",
+      "target_low": 3,
+      "unit": "months"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Pre-merger growth rates will return.",
+      "quote": "I think you will see the kind of growth that we have used to pre-merger coming back.",
+      "verdict": "pending",
+      "evidence": "Long-term trend is still unfolding across subsequent periods.",
+      "evidence_from": "Q4 FY26 call"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Endeavor for LCR is between 110% and 120%",
+      "quote": "Kunal, in the past, we have mentioned that our endeavor for LCR is to be between 110% and 120%.",
+      "verdict": "pending",
+      "evidence": "No explicit LCR reported figures in subsequent calls to verify the range.",
+      "evidence_from": "Q1 FY27 call"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Profit growth should be at or above balance sheet growth in longer term.",
+      "quote": "We do think that in the longer term that the profit growth should be at or above the balance sheet growth.",
+      "verdict": "pending",
+      "evidence": "Long-term horizon has not yet concluded.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Cost of funds can change by 40 to 50 bps over time.",
+      "quote": "there can be 40, 50 basis points change, but it is not going to change in a hurry.",
+      "verdict": "pending",
+      "evidence": "Longer-term change is still in progress.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Reasonably healthy savings account growth expected over 1 to 3 years.",
+      "quote": "So my hunch tells me that I think you should see reasonably healthy growth over a one, two, three-year period in the savings account as well.",
+      "verdict": "pending",
+      "evidence": "Horizon spans multiple years and has not ended.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Credit costs will see some impact from floor changes but nothing material.",
+      "quote": "so because of the floor there will be enhancement, but then the way we look today and look forward from here, it would be some impact but nothing material in terms of the impact.",
+      "verdict": "delivered",
+      "evidence": "Credit costs remained low at 44 basis points in Q2 FY27, confirming no material impact.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q2 FY27",
+      "promise": "Net interest margins are at the bottom and will trend upward next quarter.",
+      "quote": "The trajectory will be upward from the next quarter onwards.",
+      "verdict": "pending",
+      "evidence": "Next quarter data beyond Sep 2026 is not yet available.",
+      "evidence_from": "reported numbers"
+    },
+    {
+      "made_in": "Q2 FY27",
+      "promise": "Net interest margin is expected to be neutral to positive going forward.",
+      "quote": "So, net of that, we still think that there can be neutral to positive on the margin as we go forward.",
+      "verdict": "pending",
+      "evidence": "Horizon is ongoing.",
+      "evidence_from": "reported numbers"
+    },
+    {
+      "made_in": "Q2 FY27",
+      "promise": "Retail and MSME growth will continue across the next two quarters.",
+      "quote": "And therefore, I think going forward, across the next 2 quarters, you will see that change coming through as we also grow the volumes in retail and MSME.",
+      "verdict": "pending",
+      "evidence": "The horizon of two quarters has not yet fully elapsed.",
+      "evidence_from": "reported numbers"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Net Interest Margins",
+      "change": "Shifted from discussing past pressure and stable ROA to explicitly guiding that margins have hit the bottom and will trend upwards.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q2 FY27"
+    },
+    {
+      "topic": "Credit Costs",
+      "change": "Moved from general asset quality health statements to addressing specific floor changes and reassuring that the impact would be immaterial.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q1 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Mar 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf",
+      "nse": false,
+      "guidance": 2,
+      "reported": 0,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Apr 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf",
+      "nse": false,
+      "guidance": 1,
+      "reported": 6,
+      "dropped_unverified": 1
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Jul 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
+      "nse": false,
+      "guidance": 3,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Revenue": [
+        85040.0,
+        86779.0,
+        87372.0,
+        86994.0,
+        87067.0,
+        87182.0,
+        90575.0,
+        95132.0
+      ],
+      "Financing Margin %": [
+        -4.0,
+        -9.0,
+        -28.0,
+        -6.0,
+        -15.0,
+        -2.0,
+        -17.0,
+        -6.0
+      ],
+      "Net Profit": [
+        18340.0,
+        19285.0,
+        17090.0,
+        20364.0,
+        20691.0,
+        21074.0,
+        20383.0,
+        21537.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1269,
+      "output_tokens": 184
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5323,
+      "output_tokens": 900
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5776,
+      "output_tokens": 1086
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5603,
+      "output_tokens": 989
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2549,
+      "output_tokens": 1351
+    }
+  ]
+}

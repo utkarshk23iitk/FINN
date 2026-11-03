@@ -1,0 +1,1474 @@
+ 
+ 
+ 
+ 
+Regd. Office: 3rd Floor, Maker Chambers IV, 222, Nariman Point, Mumbai- 400 021, India 
+Phone #: +91-22-3555 5000, Telefax: +91-22-2204 2268. E-mail: investor.relations@ril.com, Website: www.ril.com 
+CIN- L17110MH1973PLC019786 
+ 
+ 
+November 1, 2026 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai 400 001 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, 
+G Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai 400 051 
+ 
+Scrip Code: 500325  
+ 
+Trading Symbol: RELIANCE 
+Dear Sirs, 
+ 
+Sub:   Disclosure under Regulation 30 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 - 
+Transcript 
+ 
+Transcript of the discussion on the Unaudited Financial Results (Consolidated and 
+Standalone) of the Company for the quarter and half year ended September 30, 2026, at the 
+analyst meet held on October 30, 2026, is attached and also available on the website of the 
+Company at https://www.ril.com/investors/events-presentations#webcast-sec. 
+ 
+The analyst meet, conducted physically, concluded at 10.35 p.m. (IST) on October 30, 2026. 
+ 
+This is for information and records.  
+ 
+Thanking you 
+ 
+Yours faithfully, 
+ 
+For Reliance Industries Limited 
+ 
+ 
+ 
+Savithri Parekh 
+Company Secretary and 
+Compliance Officer 
+ 
+Encl.: as above 
+ 
+Copy to: 
+ 
+Luxembourg Stock Exchange 
+35A Boulevard Joseph II, 
+L-1840 Luxembourg 
+Singapore Exchange Limited  
+2 Shenton Way, #02- 02 SGX Centre 1,  
+Singapore 068804 
+ 
+
+ 
+ 
+ 
+ 
+1 © Reliance Industries Limited 2020 
+RIL Q2 FY2026 - 2027  
+Media & Analyst Meet Transcript  
+ 
+30 October 2026  20:30 IST  
+ 
+ 
+ 
+Call Participants:  
+• Sh V Srikanth, CFO, Reliance Industries Limited 
+• Sh Anshuman Thakur, Head of Strategy, Jio Platforms Limited 
+• Sh Dinesh Taluja, CFO & Head of Corporate Development, Reliance Retail 
+• Sh Ashutosh Goyal, CFO - FMCG Business, Reliance Consumer Products Limited 
+• Sh Ishan Chatterjee, CEO - Sports, JioStar 
+• Sh Srinivas Tuttagunta, COO - Refining & Marketing, Reliance Industries Limited 
+• Sh Amit Chaturvedi, President - Petrochemicals, Reliance Industries Limited 
+• Sh Sanjay Barman Roy, President - E&P, Reliance Industries Limited 
+            
+Duration: 01:45:05 minutes 
+ 
+Presentation Link: https://www.ril.com/sites/default/files/2026-10/RIL-
+2Q_FY27_Analyst_Presentation_30Oct26.pdf 
+ 
+Meeting Audio: https://www.ril.com/investors/events-presentations#webcast-sec  
+ 
+• Sh V Srikanth 00:00:01 – 00:09:00 (Group Performance) 
+• Sh Anshuman Thakur 00:09:07 – 00:15:37 (Jio Platforms) 
+• Sh Dinesh Taluja 00:15:42 – 00:41:00 (Reliance Retail) 
+• Sh Ashutosh Goyal 00:41:08 - 00:45:01 (FMCG) 
+• Sh Ishan Chatterjee 00:45:13 – 00:50:08 (JioStar) 
+• Sh Srinivas Tuttagunta 00:50:20 – 01:06:49 (Refining & Marketing, O2C) 
+• Sh Amit Chaturvedi 01:07:02 - 01:17:25 (Petrochemicals, O2C) 
+• Sh Sanjay Barman Roy 01:17:35 – 01:21:05 (Exploration & Production) 
+• Q&A Session 01:21:10 - 01:45:05 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2 © Reliance Industries Limited 2020 
+Transcript:  
+  
+PRESENTATION 
+ 
+Sh V Srikanth 00:00:01 – 00:09:00 (Group Performance) 
+ 
+Starting with the consol presentation. Quick highlights. One was, of course, it is an 
+exceptionally strong quarter in a turbulent world and turbulence in macro, turbulence because 
+of energy disruption. It was an EBITDA of Rs.62,409 Crores, which is 24% up on a year-on-
+year basis. This is the highest EBITDA that we have declared for consol and simultaneously, 
+the PAT also at close to Rs.30,000 Crores, up 34%. Again, all time high, and with this, we 
+crossed the Rs.50,000 Crores mark as far as PAT is concerned. So, O2C led the charge with 
+EBITDA up 68%. Of course, we benefited from the unprecedented tightness that we saw in 
+energy markets, downstream cracks, fuel cracks, all of them, that is the markets were there, 
+but the operational excellence is something th at Srini and Amit will cover. The IPO was 
+absolutely a defining moment, making Jio the second most valuable company. It is 
+particularly nice that it follows Reliance, which is the largest market cap company, and first 
+day listing of almost $137 billion in terms of valu e. A lot of firsts, which Akash talked about. 
+Largest from size or subscription, QIB portion, retail, those records were pretty good. 
+ 
+On O2C, as you recall, we have been always talking about, we have been having this very 
+structurally positive view about this business. And when you see our results, it really 
+vindicates, validates what we have been saying in terms of what the market has b een and 
+what are the opportunities in this market. And what is particularly impressive is that it came 
+on the back of significantly elevated OpEx, the kind of crude premiums that we saw, the kind 
+of surge in freight rates, insurance costs. So, it is all coming on the back of despite all these. 
+And we have talked about flexibility and again coming in useful when you see the kind of 
+grades of crude that we were able to switch from the Americas and from the Meds, being 
+able to offset the impact of Gulf and the premium ethane advantage is something Amit keeps 
+talking about. This time it is among the widest that I have seen ever between naphtha and 
+ethane. And when you think about that, and in the context of the new ship that we have, it 
+came in. So downstream has been enormously valuable for us. Of course, the price 
+realization is good. Important that you have to be able to run the assets in full capacity. Asset 
+is good, but if you cannot get the crude, it is a problem. If you cannot sell the products, it is a 
+problem. So, to overcome  and run  it from an operational excellence, that has been 
+particularly impressive. When you look forward and look at the tight global balance, if you 
+look at the structural supply issues that we have, so we are very, very constructive. So, when 
+you look at the first half of FY 2027 performance, it is in our minds tracking annualized 
+EBITDA well over Rs.80,000 Crores and I think this is something, it just tells you how the 
+markets are. 
+ 
+And on new energy, I just wanted to say that it is accelerating and we see the benefit, 
+earnings contribution definitely starting in FY 2028. So, we will talk through I do not have a 
+presentation this time, but we will take it as part of the Q&A in terms of the progress in each 
+of these categories. Just the updates on the consumer side, this we have spent a lot of time, 
+
+ 
+ 
+ 
+ 
+3 © Reliance Industries Limited 2020 
+but so I do not want to go back in Jio, but just two, three points here with number of subs, 
+but 300 million 5G customers, 30 million fixed, and that is half of it is FWA. What is important 
+is. We are able to, in our minds at least, we see visibility of hi gh teen growth for Jio, and 
+those are the points that Akash was talking about. In essence, it is about customer base, be 
+it home, be it mobility, be it enterprises, then the ability to layer a digital service on top of it, 
+and then, of course, because of o wnership of technology, IP, the ability to access 
+international markets. 
+ 
+Retail performance has been, you would have seen the numbers, about 6% revenue 
+increase, about 10% lower on the EBITDA side. But this is something that we have been 
+consistently flagging, and definitely last quarter we spent a lot of time. So, the strategy has 
+remained unchanged from what we said in the last quarter. We have been building online 
+presence. It has been coming on the back of a lot of discipline. We have been trading off 
+short term earnings growth to build a very scalable digital commerce platform. And the cash 
+flow from our store business, in a way, is funding digital commerce growth. And the benefit 
+of all this will be seen through FY 2028 and FY 2029 when this conversion of this scale will 
+translate in terms of value. What is good is that we are seeing the early signs of progress are 
+pretty good when you look at online scale, especially on grocery B2C, that number is up 42%, 
+very impressive set of numbers. Also, the online share of digital, both in grocery and apparel 
+and footwear, there have been also very sharp increases. We like that kind of percentage 
+increase. And we will see this transition happening over the next few quarters. 
+ 
+In RCPL, the focus remains on building the manufacturing capability and the distribution 
+there. And media, as you know, we have the widest reach when you look at it from both linear 
+and digital. And we have a very, very disciplined content strategy. You would have seen it in 
+a lot of media about terms of how we have been approaching this opportunity. And so, these 
+are the numbers. I will not spend too much time except you can see that revenues up 28%, 
+EBITDA up 24%, PAT up 34% and even when you see it and all of them on revenues really 
+driven by O2C and Jio. And when you look at PAT, standalone PAT is higher and JPL PAT 
+is up 14%. RRVL PAT is Rs. 2,611 crores, that is lower on the back of the transition that I 
+talked about and this is the individual numbers. Rs.25,203 Crores in terms of O2C EBITDA. 
+As I mentioned, 69% higher, one of the strongest that we have seen, benefiting from the tight 
+fuel markets and the advantage of fuel sourcing. Oil and gas, almost flat, 2% lower.  Digital 
+services, we talked about 18% higher at about Rs.22,200 Crores. Retail at Rs.6,120 crores, 
+overall 24% that we talked about. And the debt numbers are, if you analyze this kind of 
+numbers, which is what the column on September 2026 shows, that is about 250, but it is 
+about 0.47. So, the capex has been very much almost flat, similar looking capex that we have 
+seen over the last quarters. But overall, I just wanted to say that we are mighty pleased with 
+the performance that we have seen in terms of earnings. And importantly, in busines s like 
+O2C that is something that we do not think it is something that happens in this quarter. I think 
+the markets are fundamentally structurally changed, and therefore we are well positioned for 
+that. Let us see, as time evolves, that is why the visibili ty is getting better on that. With this, 
+I'm going to Jio platform just maybe because that was a separate listed company, we have 
+done it. So, as part of RIL, we just need to do a few slides, Anshuman. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+4 © Reliance Industries Limited 2020 
+Sh Anshuman Thakur 00:09:07 – 00:15:37 (Jio Platforms) 
+ 
+So, I will try and be very quick. You all are aware of the largest IPO that we completed earlier 
+this week. Actually, the listing happened. We became the second largest company by market 
+cap on the first day of the listing, listed at 26.7% premium. In terms of the business, the total 
+subscriber base at 542 million, 36 million net adds over the last 12 months. Our 5G subscriber 
+base has now touched 300 million. Very strong mobility net adds that has been the trend 
+almost 2x of the industry in Q2. And in additio n, we have been launching premium digital 
+add-ons, something that you asked about. Some of these are already in the market and which 
+are helping us to increase our realizations from customers beyond just ARPU. In the home 
+segment as well, we have very clea rly established the market leadership, both with 
+continuing our fiber deployments, but more importantly, UBR, something that you all are very 
+familiar with now. Our fixed wireless has been contributing quite significantly to the overall 
+net additions in ho mes. We have been the world's largest fixed wireless service with 15.1 
+million connections and with over 78% fixed wireless market share. And we do expect that 
+to ramp up in the coming quarters. And enterprise as well, the differentiated strategy, which 
+is to go beyond just being a connectivity provider to being a full-service provider, becoming 
+the digital gateway for businesses. On connectivity alone with UBR, we have been able to 
+add significantly to the offering that we can give to the larger enterprises. But in addition to 
+connectivity, giving a whole bunch of AI -led solutions and SaaS solutions, which will help 
+smaller businesses improve their operations, improve efficiencies, and that we see as a good 
+opportunity in front of us and is an area of focus for the company. 
+ 
+Quick highlight on the numbers 542 million subscribers at the end of the quarter, 300 million 
+5G based, 30 million homes we have now connected with our broadband offering. The 
+average data consumption has gone up to 44.2 GB per user per month. That is a 14% growth 
+year-on-year that continues to show very healthy growth. Rs.218.8 as ARPU that is a 3.5% 
+growth year -on-year in ARPU without any tariff increases. So, this is the organic ARPU 
+increment which we have seen somewhere in this zip code of 3.5% to 4.5% that we continue 
+to benefit from just because our customers are consuming more, the customer mix is 
+improving. Revenue from operations of Rs.40,475 Crores, EBITDA 21,879 Crores, and 
+EBITDA less capex is Rs.32,130 Crores. With the bulk of the capex really behind us, having 
+completed 5G deployment more or less across the country, and even the UBR core network 
+is deployed across the country. So, the capex has started tapering down. 
+ 
+RJIL Financials. Rs.35,307 Crores for the quarter ending September. That was a 10.8% 
+growth year-on-year and EBITDA of Rs.20,505 Crores. EBITDA margin improved, showed a 
+fairly healthy margin expansion over almost 200 basis points to 58.1%. And these are the 
+JPL operating and financial KPIs for the quarter. Total customer base, we spoke about net 
+addition of 9.1 million during the quarter, ARPU of 218. The data traffic continues to grow 
+healthily, 71.3 billion GB on the network. On the financial KPIs, I will jus t shift to the next 
+slide, which has the P&L for your reference. Operating revenues of Rs.40,475 Crores, 11.4% 
+year-on-year increase. EBITDA showed 16.6% year -on-year increase at Rs.21,879 Crores 
+and a good increase in profit after tax as well at Rs.8,387 Crores. With that, I am just going 
+to summarize our unbeatable competitive advantage. 
+ 
+
+ 
+ 
+ 
+ 
+5 © Reliance Industries Limited 2020 
+Full stack tech company. We have spoken with you about our technology stack in the past. 
+And for those of you who missed out, you can go back and see the JPL transcript, which, 
+again, we have spoken about this. We are serving customers, homes, and business es at 
+nation scale. And that proves to be very important when we are scaling up our technologies. 
+The fact that we have been able to operate them at such a big scale case in point, UBR, 
+where we believe we are at least two to three years ahead of anybody e lse working on that 
+technology, just by the sheer number of homes that we are serving or premises that we are 
+serving and learning with every new premise. And that is a technology that needs a lot of 
+evolution. We have already done four generations of that technology in the last two years. 
+ 
+Unmatched distribution capabilities. This is something that we have, of course, had from the 
+beginning and we have been very focused on. We touch almost the entire population of the 
+country. We serve over 99% or cover over 99% of the population with our se rvices and we 
+are distributing a whole bunch of products and services beyond just connectivity. Culture of 
+innovation and now we have demonstrated several proof points of that, not the least of which 
+is the UBR stack itself, but our 4G, 5G core, the fact t hat we have the full 5G stack, the full 
+OSS, BSS stack that we can run, we have device OS, set -top box, and all of these are 
+innovations that we have done, technology development that we have done. And then 
+multiple growth engines across these tech products and services. That we are offering to our 
+customers both in India and global markets, and of course, the core connectivity business 
+will continue to grow with tremendous growth still ahead in terms of the market size. Proven 
+scale, profitability, and strong balance sheet. And that is something that you have observed 
+over a period of time. It has been fairly planned. We have now completed our capex and you 
+can see very healthy cash flow generation over the next several quarters. With that, I am 
+going to hand over to Dinesh to present about the retail business. 
+ 
+ 
+Sh Dinesh Taluja 00:15:42 – 00:41:00 (Reliance Retail) 
+ 
+Good evening, everyone. So, if you look at the quarter, what we spoke about earlier, revenue 
+grew at a rate of 6.4% on a Y -o-Y basis. This is when the festive season, as you know, has 
+shifted entirely to Q3. So, one should look at when you look at Q2, Q3, depending on when 
+the festivals are, one should look at Q2 and Q3 together. So, a lot of impact of the sales with 
+September, the festival season shifted to Q3. We see strong growth in Q3 there. Registered 
+customer base was up 10% on a Y -o-Y basis. It is crossed 400 mil lion. Transactions have 
+grown in line with revenue growth of 7%. All our consumption baskets have grown, so growth 
+is quite broad based. We opened 303 new stores. Net adds is 200 lower because we also 
+shut down 500 stores. So, we have shut down some of the unviable stores. We are looking 
+at a transition where we will open those under some of the formats that we are opening 
+because real estate is difficult to get in India. But that will take two, three quarters to transition 
+them to the newer formats. 
+ 
+EBITDA margin, when you look at it, is 7.8%. EBITDA of Rs. 6,228 Crores. This is before a 
+one-time exceptional charge on account of 7-eleven of Rs.108 Crores because as you might 
+have seen in the news, we have shut down the 7 -eleven format. If you look at the margin 
+trajectory, it is consistent with last few quarters o f the operating EBITDA as well as the 
+
+ 
+ 
+ 
+ 
+6 © Reliance Industries Limited 2020 
+reported EBITDA is down just 10 basis points and that is more the festive impact because 
+the pull in the festival season you see most of the full price sales. So, the margin trajectory 
+is consistent with last couple of quarters. And what we have seen as we have grown our 
+online business, margins have come down, and that is the nature of the online business. We 
+are going very strong on growing our digital commerce b usiness. The online scale up is 
+happening as planned. We had discussed last time that we are setting up a lot of 
+infrastructure. We made a conscious call. To significantly grow our online business, invest in 
+the infrastructure and the technology there and the benefits of that scale will come in the next 
+couple of years. So, this year is the year of investment. So, if you look at how we are 
+progressing on that, I think that progress is happening quite well. 
+ 
+Online while we are doing with discipline with the right unit economics. If you look at the early 
+shots grocery, online revenue has grown 42% on a Y-o-Y basis. The share of online in both 
+grocery and electronics is growing pretty steadily. So, I think the progress is quite good. And 
+next couple of years, as the business scales up and starts contributing meaningfully to our 
+overall scale, while individually the businesses are meaningful, but in the context of our 
+overall revenue of Rs.90,000 Cro res, they are still small. As they grow, the benefits of the 
+scale will start reflecting in the absolute EBITDA numbers. 
+ 
+A few macro trends. I guess most of you are aware. Inflation is on a two year high, which is 
+impacting the purchasing power for people. Currency has depreciated significantly. That is 
+impacting, especially, some of the imported products. The landed product s have gone up. 
+Monsoon deficit. So that has caused some demand pressure across some of the key agri 
+dependent states, as well as the food prices are moving up. So that is also eating into the 
+discretionary demand. And then the festive calendar we spoke about compared to last year, 
+this time. The festivals have started purely in October, so October is reflecting that. And Q3 
+you will see the full impact of the festival. Just to recap our scale, we have the largest retail 
+platform in the country, spanning 400 million plus subscribers, close to 20,000 stores. Retail 
+area is 77.5 million square feet, so it is roughly a million square feet lower because of closure 
+of the stores. But as LFL is positive, so we are getting more productivity from the existing 
+space and we are pruning some of the unproductive space to make it more productive to 
+convert it to formats which will make more money. Warehousing space has more or less 
+remained constant because we had built a front loaded on building the supply chain capacity 
+and some of the investments in dark stores and all continue. Transactions have grown in line 
+with revenues at 7%. On the B2B side, we have a base of almost 4 million customers. We 
+continue to make investments in dark stores and some of our online digital platforms to grow 
+the digital commerce business pretty aggressively. 
+ 
+Just to summarize some of the numbers revenue growth of 6.4% on a Y-o-Y basis. EBITDA 
+from operations is down 11% Y-o-Y. It is flat on a Q-o-Q basis. The margin is down 140 basis 
+points on a Y-o-Y and 10 basis points on a Q-o-Q. So, if you look at the margin trajectory, if 
+you have tracked the margins as we started scaling up our quick commerce business and 
+some of the other online businesses from Q3 last year, margins have come down and the 
+margin trajectory is now more or less consistent. Depreciation and finance costs were higher 
+because of the increase in asset base and increases in debt, which is reflecting in the higher 
+profit after tax decline of 24%. So, against an EBITDA decline of 10% to 11%. This is the 
+
+ 
+ 
+ 
+ 
+7 © Reliance Industries Limited 2020 
+framework we had laid last time where we had clearly said and that is consistent with the 
+strategy that we have, which is we are investing right now to build scale in online businesses. 
+Some of the online businesses, we are a challenger because we started late. So, we are 
+increasing infrastructure and increasing capacity there. We are investing in capabilities to 
+improve our availability, improve the speed of delivery, improve reliability, but we were also 
+very clear that we will prove scale, but we will also do ver y balanced unit economics. The 
+focus will be on unit economics and not just the number of orders, vanity, or the reach vanity 
+metrics. The growth will be disciplined with the economics making sense. Wherever the 
+economics do not make sense, we will not gro w, and we will continue to expand our dark 
+store network. This will give the benefits while we touch the right levers. It takes time for the 
+infrastructure to start reaching a threshold level of utilization. As the utilization improves and 
+as some of the operational KPIs improve, and we are in the right trajectory, so our average 
+order values have gone up meaningfully, our fully fulfilled orders have, the percentage has 
+gone up, the average delivery time has gone down substantially over the last four quarte rs. 
+So, it is all moving in the right direction, and with the investments scaling up, we are quite 
+confident these will start giving us results next year where they will start being accretive to 
+the bottom line as well. 
+ 
+So, just to against the priorities that we laid out for FY 2027, what progress we have made. 
+So, if you look at growing our JioMart and omni channel, we operate the largest omni channel 
+network in the country, and that is reflecting in the numbers 42% growth in the online grocery 
+business. B2C grocery, the market, the share contribution of online has grown 270 basis 
+points; in Apparel and  Footwear again, where anyways, we had a pretty meaningful 
+presence, the growth, the share has grown up by 100 basis points. And we operate the 
+largest network of store. See, if you look at our competition, the next guy is somewhere 
+around two-and-a-half thousand after dark stores, we look at as an omni channel network, 
+right? We have presence across 5000 plus stores. So, we are more than double our next 
+biggest competition on number of stores. We operate in 1000 plus cities, where most of the 
+other people are focused on top 100 even their most of their revenues come from the top 20-
+30 cities. We are growing pretty rapidly in the smaller cities as well. There is no competition, 
+their consumer demand is there, right? And for us, the incremental costs are much lower. 
+The big competitive moat that we have is we're able to leverage our existing infrastructure 
+which others cannot do. Every dark store people set up, any other players set up, they have 
+to incur cost in setting that up. For us it is incremental because I am anyways paying for that 
+fixed cost and it is getting recovered from the walk-in business. 
+ 
+If you look at on the improvement on quality of service, reliability, our delivery times have 
+gone down pretty meaningfully and there is scope for further reduction. resQ - the TAT of 48 
+hours, 97% of the services are getting completed within that. If you look at, there has been a 
+memory shortage in the industry on the electronic side. We are the largest player in 
+electronics through our brand partnerships. We have been able to secure supply and in spite 
+of supply chain disruptions, which other people have other players have faced. On the fashion 
+side while we are running fast fashion, even on our mainstream business, we are doing 
+almost 250 plus new options every week. There is freshness every week in the store because 
+the idea is when a customer comes, he should always see fresh, fresh, merchandise in the 
+store, right? That will help improve customer footfalls because customer finds something 
+
+ 
+ 
+ 
+ 
+8 © Reliance Industries Limited 2020 
+new. And we are doing it a lot more scientifically where you know what we put in the stores 
+is based on the rate of sale, right? How each of those things, test and scale how each of 
+those things are doing and scientifically, take those up, expand those to more stores, and do 
+reordering based on how those are selling. 
+ 
+Proving the unit economics market by market, we look at every dark store that has to make 
+sense. The market has to make sense. There has to be enough density for the cost per order. 
+Whichever meets that threshold, we continue and we will be quite disciplined. Where beyond 
+a certain point, if the economics do not improve for whatever reason, the market is not ready 
+or for any other reason, we will exit that. A good point is if you look at the units per order, 
+average bill value is the biggest driver of unit economics. Average units per order has gone 
+up 24%, which has materially increased the average bill values. As I talked about, we 
+continue to expand our dark store network, and that is where a lot of investment is going, 
+both in acquiring customers, giving  them margin investments on quick commerce quite 
+competitive with six players in the market right now. So, some of the margin investment that 
+that we are making the good part is compared to other players who are actually making a 
+loss, we have a profitable core and we are using that to fund the growth engines, which is 
+growth engine, which is online, and we are still making money. I think that is a big advantage 
+we have, which most of our competitors, at least on the online side, do not have, and the 
+offline side, they do not have the online capabilities that we have. 
+ 
+We talked about this last quarter as well, so I would not spend much time on it. They are very 
+specific, customer, commercial, operational and financial KPIs that we are monitoring. The 
+execution will be very disciplined, right? We will not do business which does not make sense. 
+The unit economics has to be right. And as we do that, while we are funding the investment 
+right now, from next year onwards, we start seeing that it is being accretive because of the 
+discipline with which we are growing. We are not  following, we are not targeting any vanity 
+metric. Whether it is number of orders or GMV, for us, the business has to make sense. 
+ 
+Moving on to update by consumption basket. So, if we look at grocery, 3% like for like growth 
+across our stores. And just to emphasize, the box growth is much higher because online is 
+also growing. This is just the pure walk in sales where the billing is h appening in the store, 
+right? Share of digital commerce we spoke about has grown 270 basis points on a Y -o-Y 
+basis. Now, this is a segment where the competition is the most intense from quick 
+commerce. There is a lot of discounting which is happening. So, we are choosing. There are 
+some margin pressures here because, especially in the metros and bigger cities where quick 
+commerce competition is high, we are going for price parity. We do not want to lose out on 
+the customers and lose out on market share. So, we are going for market share. Customers 
+find the value proposition strong. In a store you can have much wider assortment that you 
+can get and the replenishments are also weekly, monthly. People buy much bigger linked to 
+their salary cycles and all. We ju st want to make sure that we continue to hang hold on to 
+those customers and not lose that. And that is where we made some margin investments in 
+this segment, even on the offline side. 
+ 
+If you look at across categories, performance continues to be quite strong. So, the business 
+has quite broad-based levers on which it is growing. Going forward, also, margin recovery 
+
+ 
+ 
+ 
+ 
+9 © Reliance Industries Limited 2020 
+we see coming from space productivity. So, we will get higher productivity out of the same 
+space. And how we will do that is have targeted assortment, right? Where the customer 
+demand is there, get better margins from vendors work with a fewer set of vendors, do joint 
+business plannings with them, work with them on very strategically so that they see us as a 
+strategic partner. And that is how we will drive the margins, not by increasing prices. Prices 
+where the market determines where the competition is, but we will sweat the assets more 
+and leverage our scale to improve the margins on the business. 
+ 
+JioMart, this is our primary growth driver. This is where we are doing quick commerce. We 
+also have a marketplace platform here. We spoke about the 42% growth that we saw in this 
+quarter in this business. The units per order, which is again another metric we track, it is up 
+24% on a Y-o-Y basis, which is driving the growth in average order values for the business. 
+We have the widest network through which we are servicing, especially many of the locations. 
+The competition is not present and will not be prese nt for a very long time beyond the top 
+100, 200 cities. So that gives us enough time to establish ourselves pretty strongly. Other 
+benefit we have is we have almost half of this electronics and fashion stores, right? The entire 
+big box electronics store assortment is available, grab and go assortment is available, versus 
+for competition in a dark store, you can only keep very small assortment, right? So, that is a 
+big advantage for us. There, we do a two-hour delivery because the density is not as much, 
+which is quite acceptable for a customer that counts as quick commerce and that gives a big 
+advantage for us. 
+ 
+Same thing for fashion, right? We are doing Ajio Rush. Ajio Rush has a number of orders 
+have grown again pretty strongly at 36% on a Y -o-Y basis. Every dark store, as I said, we 
+are pretty disciplined, it gets measured on profitability, number of new custo mers acquired, 
+repeats per order, cost per order, there has to be sufficient density. As I said, deeper 
+penetrations across smaller towns and cities, that is something that gives us the ability to 
+establish ourselves. While we will compete hard for market share, we are not ceding ground 
+to anyone in the bigger cities, we will do whatever it takes to get market share. But these are 
+the markets where we can grow much faster. The markets are ready. There is very limited 
+competition and they will take a long ti me to reach there. So that is again something which 
+will give us a good moat compared to other people. 
+ 
+On the B2B side, steady growth of 10% on a Y-o-Y basis. Customers, we have almost 4 plus 
+million customers, which includes Kirana, HoReCa, and institutions. We are looking at 
+increasing the customer engagement here as well. Customer who walks into a store is 
+definitely more profitable. But at the same time, we are also pushing online because that is 
+where the ordering frequency is. A customer may come once or twice a month to your store, 
+but he orders 3, 5, 7 times. So, you are trying to maximize the wallet share, right? That is 
+where we are kind of trying to get and even here when we look at the share of online right 
+app-based ordering is going up because that shows that the engagement with the customers 
+is growing. We are leveraging our sourcing efficiencies. We are the largest player if you look 
+at B2C, B2B, we are the largest player by a big margin in the grocery B2C business. And we 
+are leveraging that scale to maximize margins, but at the same time we are looking at own 
+brands to improve the availability, value proposition and price value proposit ion for the 
+customers as well as the margins for us. 
+
+ 
+ 
+ 
+ 
+10 © Reliance Industries Limited 2020 
+Consumer electronics. We are the market leader by a big margin in this business. The like 
+for like growth was pretty strong at 8%. Even here, the distribution business had a pretty 
+strong 20% growth. The growth is driven by product availability because of the memory 
+shortage. Other players have faced supply chain disruptions, but because of our brand 
+relationship, we were able to secure the partnerships, we were able to secure the product. 
+In India with premiumization happening, right? If you look at the number of premium phones 
+selling is growing, right? We are now the largest retailer in this quarter of premium products, 
+including mobile phones, which is the largest category there from the leading brands like 
+Apple and Samsung. We are a strategic partner f or them and we have been able to secure 
+supply. While margins on some of these are lower, but we look at it as a strategic investment 
+we are making in acquiring the high value customers because they have a very high lifetime 
+value, right? If I am able to g et that, I have so many other levers. I have RBL, we have our 
+fashion business. There is so much more we can do with these customers to maximize the 
+value, right? And compared to significant customer acquisition costs which other players 
+have to incur in acquiring these customers, we are actually acquiring them profitably, right? 
+While we are sacrificing some margin because of the inherent lower margin in some of these 
+categories, but we are able to acquire those customers and monetize those customers. So 
+that is a pretty powerful lever. We are expanding our omni channel reach across tier 2 and 
+tier 3 cities. We talked about doing the entire grab and go delivery for the entire assortment 
+of the big box stores within a 2-hour timeline. 
+ 
+Distribution business again continues to grow well. Mobile is the mainstay category there, 
+but even laptops and some of the consumer durable categories are growing well. Festive 
+season has just started in Q3. So, our target is to win the festive season quite big. We have 
+made some aggressive bets on securing supply here and quite optimistic that we will further 
+enhance our lead as well as look at some of the cross sell around warranty, around finance 
+to improve our margins there. This is a very big quarter for the electronics business. On the 
+fashion and lifestyle business, 3% like for like growth. This is also the segment which gets 
+impacted most by the festive, right? Fashion is where a lot of sales happen during the festive 
+season and October has started quite well. Q2, we had a 3% like for like growth. Again, here 
+the share of digital commerce is increasing. We have Ajio, we have Shein. They are growing 
+quite much faster, which is leading to increasing contribution from them. 
+ 
+On the margin side, we are looking at our own brands. Their market share, the share of own 
+brands has gone up to 710 basis points. The advantage there is we design, we control the 
+supply chain. So we have, with Project Impetus that we built, right, we have  a lot of insights 
+on what is selling, what are the designs, what are the trends, and then being able to mind to 
+shelf, right, having the inventory always fresh because we are able to, from conceptualization 
+to the store, we are able to get that very quick ly test and scale, and then we buy further 
+replenish based on what is the rate of sale, right? So, that we have a lot more control on our 
+own brands, plus it gets better margins for us. Our Jio again, we are pretty aggressively 
+expanding our catalog. We are already at 3.3 million, 20% growth over 23% growth over last 
+year, and this is again target is to get to 4 to 5 million options pretty quickly. We talked about 
+250 plus new options that we are launching every week. So, we are ensuring that there is 
+freshness in the store. Whenever the customer comes into the store, they always find fresh 
+fashion. 
+
+ 
+ 
+ 
+ 
+11 © Reliance Industries Limited 2020 
+Tira and Beauty, again, they are scaling up pretty nicely. We have Tira online platform, we 
+have Tira stores. We have also launched Tira and the overall beauty category on Ajio to 
+premium the widened funnel. We are selling the premium beauty products there . On our 
+premium and luxury brands business, RBL, we have crossed the milestone of 1000 plus 
+stores. So, we are by far the market leader with a big margin, with the biggest collection of 
+international brands as well as a store footprint. We are also present online. We have Ajio 
+and Ajio LUXE. Ajio LUXE has almost 1,040 brands, right? There is nobody who come s 
+anywhere close to competition on that, right? Even on the offline side, every quarter we are 
+adding new brands, bringing global marquee brands into India. It is a portfolio play. Brands 
+know, we have the premium customers, we have the talent, we have the real estate. So, it is 
+an ecosystem where new brands come in, it is plug and play. There is a very strong 
+proposition for the brands as well when they are looking to enter India. And with the premium 
+and luxury, while it is still small, it is growing faster than the overall fashion market. And over 
+the next 5 to 10 years, it will become a pretty significant component of the overall fashion 
+market. So those are the bets that brands are, taking to come to India, and we are the partner 
+of choice for them. 
+ 
+We launched Fabletics during this quarter, which was the first store. We also signed exclusive 
+brand partnership with SKIMS. We have launched some couple of interesting like Hugo Boss. 
+We have the franchise. We have launched a sub-brand called Hugo. We have Steve Madden 
+brand. We have launched Madden NYC. So interesting, specific for specific cohorts, sub -
+brands, that is something some of these are being done for India and then being taken global. 
+So, brands are quite happy and willing to experiment with us because they trust us. They 
+know that we have the skill set to run their brands and what they care about most is their 
+brand image. So that is a quick update on the quarter. Just to summarize, revenues grow in 
+spite of no major festivals, which is entirely in Q3. Every consumption basket is growing. So, 
+the growth is quite broad based. Digital commerce, that is something that we have said very 
+clearly we are focusing on, and that is something we are making focusing all our investments. 
+And that is where we are seeing growth, which is much higher growth t han our overall 
+business. And that trend will continue as we make more investments. 
+ 
+Margins what you see is a conscious choice we have made. This is a planned investment in 
+digital commerce that we are doing. Also, inflation has been high, we have not passed on 
+some of that inflation, we have eaten some of that inflation for on the consum er side, but 
+hopefully that is more of a temporary phenomena. And we are funding that from our, we have 
+a very profitable core and we are leveraging that to build long -term value. Store network is 
+being reshaped for productivity. We will be pruning, we hav e done for stores which were 
+unviable and we will look at newer formats and expand, use that real estate to get into other 
+formats which are profitable and which we want to expand and Q2 to Q2 and Q3 when you 
+look at the overall festive quarter when we tal k about the performance next quarter. I think 
+you will see the full impact of the like for like performance for the two quarters. Thank you. 
+With that, I will hand over to Ashutosh to cover FMCG. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+12 © Reliance Industries Limited 2020 
+Sh Ashutosh Goyal 00:41:08 - 00:45:01 (FMCG) 
+ 
+Good evening, everyone. So, in Q2, we delivered a revenue of Rs.8,266 Crores, which is 1.6 
+times year-on-year growth right now. For the first half, our revenue was Rs.16,900 Crores, 
+again, 1.8 times of the last year's first half. In the first six months we  have achieved almost 
+80% of the revenue of the last year's sales. In terms of the categories, daily essentials 
+delivered a revenue of Rs.7,000 Crores, again 1.7 times the year -on-year number. 
+Beverages continue to grow and led by brand Campa and delivered  a revenue of Rs.5,250 
+Crores in H1. This is again 90% of full year sales of 2026 in the six months. Home and 
+personal care category is showing exponential growth, primarily on account of range 
+extension and national scale up. Packaged foods is again showi ng positive traction due to 
+expanded portfolio, and we have certain consumer centric innovations. 
+ 
+In Q2, we entered into the dairy segment with the launch of ice creams under the brand 
+Bombay Creamery. In terms of beverages, again, we continue to be the number three NRTD 
+player with sustained double digit market share in several states across India. Daily essential 
+growth has been led by products of dry fruits, edible oil, and pulses under the brands 
+Independence, Good Life, and Udhayam. Home and personal care growth, again, as I 
+mentioned, showing exponential growth with positive traction under the bra nd Glimmer. 
+Biscuits is a focus category for the group right now, and we have launched a unique range 
+of products with both mass and premium segments. As we are scaling up in terms of the 
+revenues, we are investing in terms of building our manufacturing ca pabilities. We have 
+commissioned several high -speed beverage lines across states in the H1. We are also 
+working in terms of setting up integrated food and beverage parks across the country right 
+now. 
+ 
+Internationally, we are now present in Australia in major supermarkets like Coles and 
+Woolworths. This is again backed by the local production in the Australian market itself. We 
+have launched products in Kenya and African markets, along with the existing markets of 
+Ghana and Nigeria. We are expanding our presence in GCC and Southeast Asia markets 
+like UAE, Oman, and Malaysia. In terms of our marketing activations, as I mentioned that we 
+have entered into the dairy segment through the launch of ice creams u nder the brand 
+Bombay Creamery. This is India's first accessible premium dairy brand, and it is made from 
+the real dairy cream. So, we are investing in terms of activations for this particular category. 
+During festive season, we have invested in terms of on -ground activations for events like 
+Navratri, and Ganesh Chaturthi. Campa is again a proud partner of BCCI for the match 
+events. So, all in all, from the company's perspective, we continue to invest in terms of brand 
+building activities right now through distribution depth, building the manufacturing capabilities 
+across the segments and the categories right now. Thank you. 
+ 
+ 
+Sh Ishan Chatterjee 00:45:13 – 00:50:08 (JioStar) 
+ 
+Good evening, everyone. I will talk you through the performance of JioStar. And let me start 
+with the digital platform. So, the way to think about this slide and the numbers you see over 
+here are all related to the JioHotstar app across both our sports bus iness as well as our 
+
+ 
+ 
+ 
+ 
+13 © Reliance Industries Limited 2020 
+entertainment business. In this quarter, we exited the quarter with a total MAU of 440 million, 
+comparable to 400 million in the same quarter last year. So, that is a 10% year -on-year 
+growth. And what is encouraging to us is that we have hit this 400 million number now across 
+multiple quarters. And this happened in a quarter where there was no marquee cricket that 
+usually drives a lot of our top of funnel engagement. The second highlight is the 
+conversational discovery feature that we launched on the app. This is our integration that we 
+have done with OpenAI's ChatGPT, which is now available on the app itself. We have been 
+consistently investing in the product experience, so now you can actually engage much more 
+deeply with the content that you are watching without ever leaving the screen. And that has 
+led to engagement with this particular feature growing by 75% quarter-on-quarter. 
+ 
+The third highlight for the digital business, I spoke about this in our last meeting last quarter, 
+was our work on the commerce revenue stream that we are aiming to build out for the media 
+business. During IPL this year, we launched a deep partnership with  Swiggy. We have now 
+extended that partnership to entertainment as well. So, as you can see from the screenshot 
+that is on the screen, that is a Koffee with Karan episode where now you are able to integrate 
+this across. So, this has now become a platform f eature that we are going to continue to 
+invest in. And finally, for the digital business, this is a very exciting quarter because we 
+launched JioHotstar in three international markets, which is now available in UK, Canada, 
+and Singapore. 
+ 
+I will now move on to the sports business. So, the way to think about this slide is. This is the 
+sports business performance across both digital as well as linear TV. This was not a marquee 
+quarter, or it followed the IPL. So, we had a number of different sports properties. I have just 
+put up here the biggest ones that we had. So, we kicked off the quarter with the India-England 
+series. We then had the English Premier League kicking off. And finally, we just ended the 
+quarter with the India-West Indies series, which was very closely fought. As you can see, the 
+viewership across both digital, especially on CTV, was very strong across all three. However, 
+when it comes to monetization, we had quite a bit of overhang of the Middle East situation 
+that kicked off during IPL that we saw during the first part o f the quarter, especially with 
+England and India, but we ended India -West Indies with very strong monetization. So, we 
+did see that turn through the quarter and we hope that this will continue. Beyond the festive 
+season as we look to the rest of the year. 
+ 
+Now a quick snapshot of our entertainment business. This is also across all our channels, 
+digital and TV. On the unscripted segment, where we have tremendous strength, we 
+launched Bigg Boss for the first time at the same time in six different languages. An d that 
+drove watch time on a very large base by over 12%. We had another long running show, 
+Khatron Ke Khiladi, which is now in season 15, which delivered its best ever season with 
+almost double the growth that we saw from the previous season. If you look at some of the 
+original shows that JioStar is creating, Pritam and Pedro turned out to be the highest 
+performing streaming original on Jio HotStar ever. And finally, if you move to the box office, 
+Drishyam 3 crossed Rs.500 Crores in global net box office receipts. As of two weeks ago, 
+making it the top three Hindi opening weekend of all time, this is the second big hit that has 
+come out from Jio Studios following Dhurandhar earlier in the year. I think I have covered 
+most of these. 
+
+ 
+ 
+ 
+ 
+14 © Reliance Industries Limited 2020 
+So, moving finally to the financial performance, we ended the quarter with a 10% year -on-
+year revenue growth that was driven primarily by very strong subscription growth, especially 
+on our D2C side and across linear TV. We saw a very strong increase in monetization on our 
+digital entertainment ad revenue business. And finally, as I mentioned earlier, we did see 
+festive also contribute to sports revenue growth across the ads business. And finally, at the 
+EBITDA level, our margins continue to be industry leading. And so, we are very bullish about 
+the rest of the financial year as well. So, with that, I will pass on to the O2C team. 
+ 
+ 
+Sh Srinivas Tuttagunta 00:50:20 - 01:06:49 (Refining & Marketing, O2C) 
+ 
+Good evening to all of you. I think Srikanth has already highlighted the performance of O2C. 
+So, the margin environment, I think, has been pretty strong with the tightness in the product 
+markets. Structural supply constraints, of course, these continue. On the crude oil side, there 
+is a lot of disruption that has happened very recently, I think last month. Saudi Arabia had 
+the east west pipeline hit. So, on the crude side, there is a lot of dislocation happening. 
+Having said that, actually, the cargos coming out of the Strait of Hormuz have actually 
+improved. So, on the one hand you had this attack, but then you also had some improvement 
+with the vessels, more and more vessels coming out from the Strait of Hormuz. And refining 
+capacity both in the Middle East and Russia has been impacted badly. And the loss of 
+capacity actually is adding to the tightness of the product balances. Now the margin remains 
+elevated because of the factors like the outages in refining capacity and over the last five to 
+six months of the crisis, we have had the inventories drawn down. So that is also supporting 
+the margins. 
+ 
+On the chemical side, also, Amit Chaturvedi will cover it later after I finish. So, there also, the 
+operating rates are quite low and margins are quite significant as compared to the pre-conflict 
+level. We look at the volatility in the market, Brent crude oil price, it actually ranged from 70 
+to 130. That is the kind of range of physical crude movement that we have seen. And besides 
+the flat price of the crude, there is a substantial premium also that is prevailing on the crude. 
+So, we look at the benchmark, we do not look at the premium. But when you physically buy 
+the oil, there's a lot of premium and freight. That is also causing an elevated OpEx because 
+of the logistics and the high energy, because we consume a lot of energy. The se are the 
+headwinds, one can say. 
+ 
+Financial performance, strongest ever quarterly performance and like Srikanth said, we are 
+well on the course to do exceedingly well in this year, Rs.80,000 Crores on the O2C basis. 
+So, earnings, of course, I mentioned about the tight fuel balances. This i s certainly helping 
+us. The cracks actually of gasoline were about 3x year-on-year, and diesel about 3.5, and jet 
+at 3.7. That is the level of crack increase year -on-year. One important point is that we have 
+had a reasonably large amount of TC vessels in excess of about crude and products together 
+in excess of 20 or close to 25 vessels, which helped us mitigate the freight rate risk because 
+the rates of freight have gone up significantly. Polyester chain margins are also up 
+significantly 33% led by PX and PTA. Ethane also was highlighted earlier at the beginning of 
+the presentation that at a substantial difference to the naphtha favorably position. Domestic 
+demand also is quite strong in India. Diesel at 7.5 and gasoline at 8.5. Of course, all of us 
+
+ 
+ 
+ 
+ 
+15 © Reliance Industries Limited 2020 
+are aware that the prices have not really been passed on in line with the international market. 
+And what is dragging the margin down is the SAED levy that is contributed to the negative 
+margins. I already mentioned about the high crude premiums, elevated freight and insurance 
+and there is under recovery because the prices are not aligned with the international market. 
+Also to meet the domestic market demand of LPG, we had to increase our production from 
+the normal levels, almost double the normal levels of LPG had to be produced and that 
+curtailed the production of alkylate and a little bit of PetChem. So, these are the ones which 
+have dampened the market. 
+ 
+On the left-hand side, we have here the agility of moving in and buying the crude, so during 
+the Q2 between months we have seen a significant change in the crude basket. We have 
+gone to the America, sometimes we have imported from the Middle East, so we have kept 
+changing it month to derive the benefit of the advantageous crude, so those are the highlights 
+of this quarter. 
+ 
+From an operational excellence point of view, record crude runs despite the disruptions in 
+Strait of Hormuz. I mentioned about how the crude sourcing has kind of changed between 
+different regions, so the America, the Middle East, and mid regions is where we have kind of 
+swung the crude import from. In addition to the crude on the product side to get the best 
+netback, we have switched the product placement also, so we have increased to the East, 
+West, and South African region our exports, also to the LATAM a nd EU markets we did 
+supply products because of the higher netback. We also supplied the first ever low-sulfur jet 
+fuel into South Africa so that probably opens up more revenues for us in the future. 
+ 
+LPG, I did mention that we have supplied twice the normal LPG production that we do. So, 
+the significant flexibility in operations through feed mix and product optimization. I will just 
+mention one more thing here. When I am mentioning about throughput, no t only the crude 
+unit but looking at the coker, the platformer, and FCC, all were operating at very high level, 
+so we could derive the benefit of the margin. Again, continuing on the volatility part, Brent 
+was 97 versus 69 earlier before the conflict. Strait of Hormuz transit 7.1 versus 16, there is 
+an improvement and everything is not official but there are actually the movement through 
+Strait of Hormuz is improving  every day. Refinery outages have been about 11.8, currently 
+standing at about 4 million to 5 million barrels a day, which actually is likely to support the 
+margin going into the future that is what all the commentators and analysts are saying and 
+global refinery runs also a little lower at 79 because of the frequent disruptions and outages 
+that we are seeing and product inventories again diesel and gasoline they are down as 
+compared to the five year average. So low inventories, risk of sanctions always remains there 
+and the refineries being affected, so all these point to a favorable refining margin. What has 
+happened to the demand initially? In Q1 we have seen the demand come off from about 
+105.9 to 99.1, it has recovered smartly to 102.5 and going into th e winter we should see 
+growth in demand by another million or so that is what is the forecast of IEA. 
+ 
+If you look at gasoline, diesel and ATF shown at the bottom, between year -on-year from 28 
+it is down to 27.7, slightly down 29.6 to 29.3 for diesel and jet from 8.2 to 8.1, but what is 
+important is if you look at the previous quarter versus current quarter  the demand has gone 
+up everywhere, so things are looking up in terms of the global demand. 
+
+ 
+ 
+ 
+ 
+16 © Reliance Industries Limited 2020 
+Gasoline cracks, of course, these are what drive the refining margin, so if you look at the 
+gasoline crack from 8.4 what we averaged in the previous year Q2 we are at close to $25 a 
+barrel and what did we do to take advantage of this is we supplied into East and South African 
+markets when we were supplying to the Middle East that got affected, so we started moving 
+it to Africa, and our market share actually rose up to 50% of these markets. Same way, there 
+were some premium gasoline grades, which we could se ll into Australia as well as South 
+Africa and Kenya and Tanzania, so this helped us. 
+ 
+Now, looking at the near -term dynamics of the market based on various commentators, 
+inventories are pretty low so cracks are expected to remain elevated and Russian refineries 
+have been affected, so typically gasoline they have kind of banned exports of ga soline and 
+also diesel they are a very large producer of diesel and they have to export it if the refineries 
+are running, even in the case of diesel exports they have done periodic bans, so we expect 
+both the gasoline and I will cover in the next slide about the slates. 
+ 
+Recovery of the refineries, like the drones are hitting maybe 40% to 50% of the Russian 
+refinery at some point of the time was affected because of these attacks. While some of it is 
+recovering, it is really not fully getting recovered, so we believe that t he recovery is going to 
+be a gradual process and the Chinese export quota system, they have actually released 
+something recently, but otherwise that is also pretty uncertain because the talk is that they 
+want to be very secure with the uncertainty in the i nternational market. So, with that 
+uncertainty of Chinese exports, also it supports the refining margins. This is the distillate 
+cracks, again gas and oil from about 18.7  moved up to 65.8 that is year -on-year and ATF 
+from 16 to 59.3, so this represents about 3.7 times the kind of crack that was there in Q2 of 
+FY2026. 
+ 
+On diesel, the Strait of Hormuz, there is a lot of diesel which comes out from Kuwait and 
+other UAE, so all that got blocked because of the Strait of Hormuz or rather the flows are 
+very, very low, so that has kind of supported the diesel cracks and we have  also seen the 
+Houthis attack Saudi refineries. In the last few days also, we have seen some attack on the 
+Red Sea refineries particularly that has reduced the diesel supply and that is supporting the 
+action. So, what did we do in the case of diesel and je t fuel is we found opportunities in the 
+Mediterranean market because of the loss of supply. So, we have increased our supplies 
+into the Mediterranean markets, which were high netback markets. I mentioned about the 
+low-sulfur jet export already to South Africa. Now, what again is the market seeing about the 
+cracks of distillates? Russian diesel exports, they will probably remain subdued while 
+probably almost every day there is some attack or the other on the Russian refineries, so 
+that is kind of very suppor tive for the diesel cracks and we are going into the winter so that 
+is also a high demand period for diesel, the heating oil, so all these are supportive of the 
+cracks. 
+ 
+Domestic market pretty strong demand, oil demand is at 57 million tonnes and if you look at 
+motor spirit or gasoline, sustained personal mobility and steady automotive sales, this is 
+supporting the cracks of MS, which is up by 8.5% year -on-year, very, very  strong growth. 
+Diesel growth is 7.5%, again we have had a deficient monsoon that is kind of helped support 
+the diesel demand in the country because the prices are not really passed on to the 
+
+ 
+ 
+ 
+ 
+17 © Reliance Industries Limited 2020 
+customers, probably the demand also is remaining strong like in the rest of the world there 
+has been some impact and demand fell, but in India because the prices have really not been 
+increased in line with international prices, it is strong. 
+ 
+On Jio-bp, our retailing arm, I think we are continuing to grow. If you look at all the scoreboard 
+here, almost all the elements, there is a growth in terms of the MS and HSD sale and if you 
+look at the market share effectiveness, retail outlets added abou t 85 to 90, retail outlets are 
+added, charge points have been added, e-mobility and CBG of course significant growth on 
+a low base. So everywhere, even the CBG, CNG stations, and convenience stores, 
+everything has been increased. So, we have the active technology, which is a fuel efficient, 
+an additive which improves the fuel quality and gives better mileage, so that is adding to the 
+gain in our fuel sales. So that is briefly on the refining and marketing piece. What we see is 
+excluding China refining capacity additions will be pretty flat. Global oil demand, while it is 
+declining by 2.6 that is the projection of IEA in 2026, next, of course, three months to go and 
+then it is expected to rebound by almost 2 million barrels in next year  that is the projection 
+from IEA. 
+ 
+Middle East uncertainty continues. I do not think there is any resolution we are seeing in the 
+geopolitics, be it Russia, Ukraine, or be it the Middle East. So, all these point to supported 
+refining margins and for us the actions that we take and business priorities for us are how to 
+remain agile so that we capture the opportunities, be it feedstock or be it products that is 
+what is our focus area. High asset uti lization is something which we have always been 
+focused on, and that will continue to be a priority for us. Margin maximization, of course, 
+through end -to-end value chain optimization and then on LNG capacity, also, lower 
+inventories and continuing product  supply tightness. I mentioned about this throughout the 
+presentation. That is going to be supporting the refining margins. That is what is the general 
+commentary in the market and we believe that that is likely to play out. Thank you. 
+ 
+ 
+Sh Amit Chaturvedi 01:07:02 - 01:17:25 (Petrochemicals, O2C) 
+ 
+So, this was quite a volatile quarter, one of the most volatile ones that we have seen in recent 
+history. Things were changing almost on a day-to-day basis. Two things, the whole industry 
+in Southeast Asia, Far East Asia, was struggling to get the feed and mo st of the crackers, 
+even if they were getting feed they were getting it at exorbitant prices I will cover later in the 
+presentation. Not only the prices were higher, but the freight rates were also astronomical. 
+There was a serious shortage of tankers, oil  tankers, a whole lot of them were stuck in 
+Hormuz, and whatever were available were paying a huge amount of insurance charges, 
+etc., so the cost of freight skyrocketed to some unheard of numbers. In this situation we had 
+two blessings one was that Sriniva s running his refineries well, which he mentioned in the 
+previous part, so we were getting our naphtha feedstock part decently and adequately from 
+them and second one was that, as I have been saying in the last many quarters a good 
+amount of feed was coming from US, which was coming steady, not impacted in any case 
+by this Middle East crisis and it was comi ng at a steady price as well. So, two things this 
+significantly while the product benchmark prices, which were driven by the increased cost of 
+naphtha in the whole of Southeast Asia, Far East Asia region, the product prices went up, 
+
+ 
+ 
+ 
+ 
+18 © Reliance Industries Limited 2020 
+but our cost levels remained the same. So, we had an absolutely fantastic quarter actually 
+the half year, and we are still in the midst of that sweet spot if I can say that. naphtha flows 
+from Middle East as I said, dropped from almost 12.5 million tonnes to 6.5 million tonnes in 
+the quarter, which meant that there was a serious shortage of material all across the region. 
+In the previous quarter, we had seen a lot of Russian material coming here, but as Srini 
+mentioned there has been a lot of damage to Russian refineries of late by the Ukrainian 
+drones and that has resulted in a situation where even the Russian material has disappeared 
+from the Asian markets. So, which meant that there  was a serious challenge of getting the 
+material. Ethane prices, as I said, were quite steady during the quarter 24.3 versus 23.2 in 
+the last one. Lot of capacity global capacity was impacted because of the war, two wars 
+actually: Middle East war and the Russia Ukraine. 
+ 
+Polyethylene almost 41 million tonnes, which is roughly about 30% of the global capacity. 
+MEG 12.8 million tonnes, again 30% of the global capacity and PTA 32 million tonnes, which 
+is about 25% of the global capacity was impacted in this oil turmoil. Cracker utilization rates, 
+global rates dropped from 81 to 71, now 71 is a very pretty low level, mainly because a whole 
+lot of them were either struggling for feed or were in a war zone and therefore down. Primarily, 
+the biggest impact was coming from the Middle East, where the operating rates dropped from 
+80% last year to 50% this year in this quarter and primarily because this region was just 
+simply not able to evacuate their product out. 
+ 
+We saw, Srini talked about it sharp escalation in crude and naphtha prices year -on-year. 
+Availability of naphtha I talked about it, it remained a huge concern, almost dropped to half 
+compared to the same quarter previous year. The third point I mentioned a bout it, the 
+absolute numbers are naphtha AG to Japan freight increased from $86 in July to $186 a 
+tonne in September of this year almost like 100% increase during the quarter and our 
+quarterly average number was $122 a tonne, which was like three times higher compared to 
+the same quarter last year. Now this increased the cost of naphtha in the region absolutely 
+significantly. As such the base price was higher, there was a premium on the shortage, there 
+was a premium of significantly higher premium numbers also and on top of this, this 
+significant freight and as the cost of naphtha for the Southeast Asi an and Far East Asian 
+producers. Ethane prizes were steady as I said, and ethane and naphtha cracking differential 
+therefore widened to $557 in Q2, and this was up 2.3 times from a year-on-year basis. There 
+are cracker operating rates in different parts of the world, and as I said, Middle East was the 
+biggest impacted region, dropped almost like 30% lower compared to the same time last 
+year, and which resulted in global numbers going down by almost 10% and the reason was, 
+of course the Middle East was just not able to evacuate their products so t hey had to cut 
+down their operating rates. Feedstock margin in this half year as Srikanth also mentioned 
+earlier we have not seen this kind of deltas on ethane 708 and 439. Naphtha margins were 
+of course -117 in last quarter and primarily because naphtha c ost itself as shot through the 
+roof. 
+ 
+Talking about downstream margin environment, naphtha numbers the cost was up 43% year-
+on-year, US ethane prices were almost flat 5% increase. Polyethylene to naphtha delta was 
+higher by only 5% and PP was higher by about 8%. PVC had a different story. PVC,  a lot of 
+PVC comes in the region from coal origin and there was no impact on the coal prices, 
+
+ 
+ 
+ 
+ 
+19 © Reliance Industries Limited 2020 
+therefore, PVC prices remained under pressure thanks to supplies from China. However, the 
+EDC prices went up and therefore PVC to EDC delta went down by 19%. Polyester chain, 
+this primarily China is the headquarter for this, and of course they were also st ruggling with 
+the availability of crude and therefore naphtha and feed stocks for it. So, paraxylene prices 
+went up by 33%, PTA 15%, and the whole chain delta was up by about 33%. In terms of 
+domestic demand, polymer demand was down by 3% because primarily supply constrained 
+demand, the availability of material itself was restricted, the imports were completely blocked, 
+and even the domestic supplies were impacted because of the raw material availability. 
+ 
+On the polyester side except PET, which was driven primarily from the beverage sector 
+demand, as delayed monsoon resulted in good demand from that sector. The filament and 
+staple demand was weaker, and it was because of the volatility and very cautious buy ing, 
+the prices in this sector ultimately sailed into the textiles and garments and there was a 
+weakness seen in that particular sector. Talking about dynamics, geopolitical disruptions kept 
+on rocking us all through the quarter we are still very much in the turmoil, not out of the woods 
+and domestic demand has been fortunately resilient. There was a lot of inventory 
+replenishment in the quarter because the previous quarter we had seen a lot of slowdown 
+because of again supply driven constraints. There was LPG control order in the previous 
+quarter which had restricted the availability of all the polymers and this quarter it got relaxed 
+so there was an inventory replenishment and there was of course festive season demand 
+and agriculture and infrastructure demand was also pretty healthy in this quarter. Textile and 
+polyester export opportunities we believe like the new FTAs, which Government of India is 
+signing with UK, with US and things are on the anvil and others also we believe that we will 
+have significant advantage in terms of textile exports and which will give a fillip to the 
+polyester demand. Overcapacity in China is likely to emerge as more and more ethylene 
+capacities get started in about next two years, quite a lot of plants are scheduled to start. 
+However, the markets today, these markets have become very local compared to global 
+which they used to be earlier because of supply chain constraints and therefore, we believe 
+that a lot of these new capacity challenges will get mitigated or partly softened down because 
+of that. Our priorities of course will be to keep optimizing our raw materials, our product 
+portfolio, our distribution channels, all through that as we have been doing all along running 
+a very extensive elaborate complex linear programming model to optimize this. Also we have 
+out of the three new ethane vessels that we had ordered we have got delivery of one which 
+has started operating, the second delivery has also happened, the second vessel is now on 
+its way to US for the first load and very shortly we will be getting the delivery of the third 
+vessel also and considering the amount of arbitrage which is there today between naphtha 
+and ethane, these three vessels will significantly add to our bottomline and of course keep 
+working on having a differentiated product portfolio and customer relationships because 
+these are times when the customers need support, there is a shortage of materia l, imports 
+are not there and domestic supplies are also restricted. So, working closely with customers 
+is of paramount importance in these times. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+20 © Reliance Industries Limited 2020 
+Sh Sanjay Barman Roy 01:17:35 - 01:21:05 (Exploration & Production) 
+ 
+Good evening, everyone. Let us do a recap of the quarter gone by. So, this has been a steady 
+quarter. The natural decline in KG-D6 has been offset by the elevated oil and gas prices. We 
+obviously continue to see an uptrend in CBM, and that should continue. Also, the exchange 
+rate has been good. The one development that we have during this quarter is we have got a 
+deepwater rig back in our block in KG-D6, which means it is going to undertake a campaign 
+for workovers and additional development wells, this is all to augment and sustain the 
+production from KG-D6. If we look at the overall performance, compared to Q1 it has been 
+flat practically. Yes, compared to the last fiscal quarter on quarter, yes, you see the impact 
+of the production. Overall, we continue to sustain the production better than what we had 
+expected, obviously at the time of the field development plan, but again, we are now trying 
+to see how we can maximize the recovery. So, we stand at about 25 million standard cubic 
+meters. We will continue to see an uptrend in CBM production. We are trying to manage the 
+decline in D6 and sustain the production as far as possible. Just an overview or recap of the 
+global market. We all know the state in the Strait of Hormuz and consequently that has 
+impacted the offtake of LNG nearly about 32 million tonnes. On the converse side, we have 
+also seen more LNG capacity come in from North America, and we can see about 25 million 
+tonnes, but overall prices remain quite elevated. We are looking at something like $29 even 
+as we speak. However, we know that ceiling prices that prevailed until the end of this quarter 
+was set in March of this year, so that prevailed and that was capping of the prices. So , 
+however, what we are now seeing is in India, again, the demand has been quite robust, even 
+though the prices have been elevated, which is a good sign it means there is a lot of demand 
+for gas. However, there still is a distortion from what the market pricing is as well as what we 
+are realizing because of the ceiling price. Our own sense is with the onset of Samudra 
+Manthan and the government taking such positive reforms and a lot of investments coming 
+in, particularly targeting deep water, we are looking forward to them taking positive steps 
+towards giving more pricing freedom and marketing freedom going forward. As such, the 
+price for this half is going to go up by a dollar so that is nearly $9.9 ceiling price. So that 
+should give us some upside. Thank you. 
+ 
+ 
+Q&A Session 01:21:10 - 01:45:05 
+ 
+Questioner (Probal Sen – ICICI Securities) 
+ 
+Just on the refinery business, you mentioned one number of 11.8 million barrels a day that 
+was impacted during Q2, and you mentioned that 4 million to 5 million barrels still remains 
+affected more or less, now this is obviously the combined capacity split between what is 
+impacted in Russia, as well as what is still not online in the Middle East, I would believe and 
+you also did mention that you do not expect the geopolitics to change much, at least in your 
+assumptions going forward, so is it fair to assume this 5 million barrels is probably six to nine 
+months away from normalization in a best case scenario, and worst case it could be it could 
+stretch for even longer? 
+ 
+ 
+
+ 
+ 
+ 
+ 
+21 © Reliance Industries Limited 2020 
+Company Speaker (Sh Srinivas Tuttagunta) 
+ 
+Yes. I think, what you said, I agree with that. See, firstly, when we talk about the 11.8 if you 
+look at the Middle East refineries, the refinery in Kuwait, the refinery in Bahrain and Qatar 
+and Ruwais and UAE and Saudi Arabia is all together, I am saying at different points of time 
+were impacted and they have started coming up. So today when we talk about 5 million, we 
+talk about the ones which are yet to come up in the Middle East and Russia, where maybe 
+40% of the capacity is concerned. So, I agree with what you have summed up based on what 
+I have mentioned. On the resolution, I think nobody knows, but what we have seen in the last 
+five to six months, their talks and everything is announced that it is all done and they have 
+agreed. This part y has agreed to that. That party is agreed to that. Finally, five days later, 
+you find that no one has agreed to anything. So, it does not seem to be a resolution the way 
+attacks are happening. Even today, if you see the number of vessels, though, people are 
+taking the risk and bringing out the vessels through Strait of Hormuz, the attacks are 
+continuing. So, the uncertainty is very high and we expect with such uncertainty, low 
+inventories and this is what almost all leaders are saying that we do not see an immediate 
+change in the situation it is going to continue. 
+ 
+Questioner (Probal Sen – ICICI Securities) 
+ 
+Thank you, Sir. Let me ask one more follow up. Yes. Just to stay on that same point, what 
+you mentioned about the increased risk. Now, obviously in the Q3, we have seen that the 
+flows, particularly from Saudi Arabia have obviously improved quite a bit and the overall 
+Middle East flows are, as per some estimates, were even back to close to pre -war levels at 
+certain points of time, but with the kind of risk that is inherent in terms of both the actual cost 
+delivered of crude and the kind of uncertainty of supplies. How are  you positioning the 
+sourcing mix, is there a realignment back to Middle East flows because the product deal 
+obviously is fairly different for Middle Eastern based crude for your refinery versus let us say 
+a US-based or an Africa-based crude, so how are you looking at it? That was my question. 
+ 
+Company Speaker (Sh Srinivas Tuttagunta) 
+ 
+I think during the presentation I mentioned that we swung between East of Suez and West 
+of Suez quite dramatically in Q2 itself from month-to-month. So that to be a constant feature 
+we will be looking at all opportunities kind of swing between what gives u s the most 
+opportunistic crude so that we are doing even for the next quarter. That is October -
+December. 
+ 
+Questioner (Jal Irani – Nuvama) 
+ 
+Excellent performance by the O2C business. Good to see that. I am just wondering if we can 
+try and maybe bifurcate where the profit growth, the significant profit growth has come from, 
+has it come from the refineries on a sequential quarter -on-quarter basis, has it come from 
+petrochemicals or has it come due to the additional ethane carriers that you have added from 
+the US? The reason I ask this question is because if you look at the refinery crack spreads 
+quarter-on-quarter other than gasoline I do not think they are dramatically up and in fact the 
+
+ 
+ 
+ 
+ 
+22 © Reliance Industries Limited 2020 
+freight cost was significantly higher, of course, the production of the refinery was higher given 
+that, there was a shut down the last quarter. So, there are those elements there, but 
+petrochemicals seem to have done a lot better in terms of margins and of course, there is 
+the ethane new carrier. So, I am just wondering among the three which was the main pivotal 
+can you give us a more in-depth sense? 
+ 
+Company Speaker (Sh Srinivas Tuttagunta) 
+ 
+I kind of, will say two or three things. I think it is a combined effect, but if you have to put a 
+number, petrochemicals definitely have contributed, but refining also if you look at diesel, I 
+think it is almost $2.8 a barrel higher sequentially. So even diesel, which is a large production 
+from a refinery has been quite significant. While the freight trade has gone up, I mentioned 
+to you that we have a significant TC fleet, so that helped us mitigate the freight impact, so 
+that has not been significant as compared to refinery, which depends on the spot market a 
+lot. So that was one contributing factor in favor of the refining and of course, I mentioned 
+about the refine ry, various secondary unit utilization. So, there I did not mention about the 
+gasifier. The gasifier also gave a huge uplift in terms of the margin because the gas prices 
+are 30 bucks BTU nowadays, but let us say even say last quarter, if you look at JKM or 
+something is a little more than $20 a barrel against, if you look at the coke and all that, it is 
+maybe just in high single digit. So that differential also contributed to the refining m argin. I 
+would say it is a combined effort and then there is another element, which is the product 
+premiums which you do not see again. We mentioned about the headline where there is a 
+headline price for crude and there is a premium. Same way on the produc t also, there is a 
+headline price for let us say Arab Gulf or Singapore, but then there is a premium and you sell 
+because Europe, Asia Pacific, Australia, and Africa everyone is buying also at a premium 
+because of the uncertainty, though, the uncertainties  on the crude, the products also are 
+reacting to that. 
+ 
+Questioner (Jal Irani – Nuvama) 
+ 
+If I may ask, second part of the question, there seems to be a significant amount of demand 
+destruction especially in China they are moving to EVs very rapidly and to LNG as a fuel, 
+now I am just wondering is there a structural destruction of demand and if  we go back to a 
+normalized level will we actually see refining margins lower than the previous normalized 
+levels, so are we seeing high right now and then a plunge which is going to be more 
+permanent? 
+ 
+Company Speaker (Sh Srinivas Tuttagunta) 
+ 
+I think China you are right that it is a structural thing they have consciously moved to more 
+EVs and same way on trucks also trying to use more gas -based LNG type of trucks that is 
+something structurally they are doing. In the rest of the world, the demand is expected to rise, 
+so it will more than offset the Chinese demand going out if you look at this particular reduction 
+of about 2.5 million barrels to 2.6 million barrels in 2026. In 2027, we are saying that we 
+strongly rebound to 2 million or maybe even  2.2 to 2.3 million barrels a day, so most of it is 
+going to come back. If you look at margins particularly, my take would be what happened? 
+
+ 
+ 
+ 
+ 
+23 © Reliance Industries Limited 2020 
+We will just go back in history 1970 to 1973, when we had the Arab embargo on exports to 
+the US and Europe because of the support to Israel at that time. That has been in the market 
+memory for even, let us say some skirmish between Israel and Lebanon or so mething like 
+this, or the Palestine problem coming up suddenly the market reacts, both not produce any 
+crude or hardly impact the supply demand, but the memory of sanctions or some action by 
+the Arab countries, though probably it never happened after that,  but that memory in the 
+market takes some time to go away and that is like more than three or four decades or more 
+than five decades it has continued. This is very, very fresh in memory there, so it hits that are 
+happening, so I think for the market to for get these events and say that insurance will be 
+normal freight is going to be normal, today many people go into if you look at the far Eastern 
+players, most of the people do not want to go into the Middle East. It is only the countries 
+because they are suffering are trying to bring the product out. So, I think this is not going to 
+normalize is a view that we think. 
+ 
+Questioner (Sanjay Mookim – J.P. Morgan) 
+ 
+Yes. Can we get a quick update on the commissioning of the various new energy lines, 
+please? 
+ 
+Company Speaker (Sh Karan Suri) 
+ 
+I think we are well on target as what we had earlier indicated with the  commissioning. The 
+new energy lines are split into the solar value chain and the battery. When it comes to the 
+solar value chain, as indicated, I think our module capacity is now six plus gigawatt, and we 
+will be achieving up to 20 gigawatt early next year. Similarly, solar cell is now nearing around 
+5-gigawatt and we will be achieving again 20-gigawatt capacity sometime first half next year. 
+We are well progressing on ingot, wafer, polysilicon and glass manufacturing. On the battery 
+side, in next half year we will commission our BESS facility, which is a pack and container 
+up to 40-gigawatt hour and cell will come sometime I would say late next year, which is again 
+around 35-gigawatt to 40-gigawatt hour. 
+ 
+Questioner (Sanjay Mookim – J.P. Morgan) 
+ 
+Sorry. When you say next half year, do you mean 1H FY2028? 
+ 
+Company Speaker (Sh Karan Suri) 
+ 
+This is calendar year next half. 
+ 
+Questioner (Sanjay Mookim – J.P. Morgan)  
+ 
+By June? 
+ 
+Company Speaker (Sh Karan Suri) 
+ 
+June to December is when we will start ramping up cell. 
+
+ 
+ 
+ 
+ 
+24 © Reliance Industries Limited 2020 
+ 
+Questioner (Sanjay Mookim – J.P. Morgan)  
+ 
+Lastly, you suggested that you start the installation of modules post monsoon has that 
+started? 
+ 
+Company Speaker (Sh Karan Suri) 
+ 
+It is still on track. I will not say that the first module has gone, but the project development 
+work is now picked up the pace. The transmission capacity we will start seeing the 
+connectivity by first half or actually Q1 of next year and we will have the necessary modules 
+installed for that. I think we have already given the indication that we will see the revenues 
+for FY2028 from the new energy complex. 
+ 
+Questioner (Sanjay Mookim – J.P. Morgan)  
+ 
+Thank you. 
+ 
+Questioner (Sachin Salgaonkar – Bank of America) 
+ 
+First question, Dinesh, on retail. You said there is a conscious decision to sort of invest, and 
+hence margins are getting impacted. Directionally, we do see competition from quick 
+commerce coming down, so do want to understand is there a specific timefram e or any 
+particular milestones we are looking till we realize that most of the investments will be largely 
+done and is there a flow in terms EBITDA margin where we could look and let me also say I 
+say the second question? Second question I wanted to unders tand on when we look at the 
+next 12 months from Reliance Industries point of view where are some of the incremental 
+capex investments will go, one perhaps is data center, IPL is coming up for renewal early 
+2027, so I would like to understand how you guys are looking at these investments? 
+ 
+Company Speaker (Sh Dinesh Taluja) 
+ 
+See on the retail side, the competition, I would say still  quite intense on the online side. We 
+also started much later than most of the other people. So, we are investing in infrastructure. 
+We are also investing in margin in customer acquisition. The discounts are pretty steep. So, 
+the discounting is today pretty steep. Everyone hopes that competition should go down. Over 
+a period of time things should normalize we would also hope that that happens. Inherently 
+remember, as the share of online grows, online has lesser margins one there is discounting, 
+second you have to incur the incremental cost of delivery, so inherently margin is lower. The 
+good thing is incremental. Beyond the dark stores if we look at it, a large part of our orders 
+in the infrastructure is the walk-in stores where my incremental costs are not that high, but I 
+still need dark stores to fill the gaps because my walk-in stores are designed for the network 
+is designed to cover a certain area. Dark stores, you have to have, in the metros you need 
+to have 15 to 20 minutes delivery metro bigger cities. You can go to 30 minutes in the smaller 
+cities. So that network is still required and that network scaling up, scaling the orders takes 
+that much more time, which is getting reflected in the numbers. It will be margin accretive. 
+
+ 
+ 
+ 
+ 
+25 © Reliance Industries Limited 2020 
+When I say margin accretive absolute and we expect we have outlined in the framework that 
+we have put in from next year onwards we expect the benefits to start accruing in absolute 
+EBITDA. I would say margin flow, it depends on what is the share because in herently it is 
+lower margin, if it is 20:80 versus 30:70 the margins will look very different, but remember 
+from an ROCE perspective it is okay because of online has lower capital investment required 
+to an offline business where you have to set up the full store and everything. So, it depends 
+on how the mix evolves and secondly how the competitive dynamics really plays out is how 
+long the margin investments continue because not just as other people are players are also 
+investing in margins and customer acquisition. 
+ 
+Questioner (Sachin Salgaonkar – Bank of America)  
+ 
+Follow up when you talk about your dark stores, is it mainly into urban areas or also going 
+into Tier-2 and Tier-3 cities? 
+ 
+Company Speaker (Sh Dinesh Taluja) 
+ 
+See it depends. It is a network that we look at it. I would say more in the bigger cities because 
+that is where I have to meet the 15 to 20 minutes as I said that is the competition is the most 
+intense. From a customer perspective, he does not care, he gets delivery from a dark store 
+or a walk-in store. He looks at is he is getting the assortment and is he getting the assortment 
+on time? Dark store is more for us to fill the gaps. Bigger cities are where you need to have 
+much more density is where a lot of that investment goes in, but it is not necessary that it is 
+only in the bigger cities. 
+ 
+Questioner (Sachin Salgaonkar – Bank of America) 
+ 
+Sorry, the capex question? 
+ 
+Company Speaker (Sh V Srikanth) 
+ 
+So, on capex 44 megawatt is something that we are in the process of getting it done, so I 
+think the next four to six months that will be done. Plan wise, we are thinking about another 
+120-megawatt, but that will take some time and in addition, the one that we are doing for one 
+of the hyperscalers that is more building the infra part. So, GPU is to the hyperscalers 
+account, but we will build the infra part of it and then the electricity part of it and the telecom, 
+so that is really the breakup. 
+ 
+Questioner (Sachin Salgaonkar – Bank of America)  
+ 
+IPL bidding is this something you guys are keen? 
+ 
+Company Speaker (Sh V Srikanth) 
+ 
+The answer is absolutely yes. At what price? That is a different one. 
+ 
+
+ 
+ 
+ 
+ 
+26 © Reliance Industries Limited 2020 
+ 
+Company Speaker (Sh Ishan Chatterjee) 
+ 
+I think Srikanth answered it, but IPL and marquee properties like this are a very core part of 
+our strategic agenda, but we will address this objectively once the tender comes out, keeping 
+the group’s philosophy in mind of profitable growth. So, to Srikanth's point, it depends on 
+what the tender is. 
+ 
+Company Speaker (Sh V Srikanth) 
+ 
+The only line I put for Jio was the disciplined bidding or something to that effect. You must 
+have seen it in the presentation absolutely. We have seen it. It is also seen the way we have 
+been bidding in some of the other ones too. 
+ 
+Questioner (Vikash Jain – CLSA)  
+ 
+So, on retail, the revenue growth number for online grocery that has been given about 46% 
+or something this if we compare it to the biggest quick commerce players also, it is still 
+underwhelming, to say the least. Given that we are maybe two quarters away fro m ending 
+the year of consolidation and moving to the high growth years of next year, do you think that 
+we are getting to that point that you can still be confident of doubling your EBITDA practically 
+in two years because nothing is going to happen this year? 
+ 
+Company Speaker (Sh Dinesh Taluja) 
+ 
+We are not changing ours that is the target that we are going for. There is no reason, at least 
+as of now, for us to change that target. That is what we have given directional guidance, what 
+we are targeting to achieve. We are making the investments. You have to put on the ground 
+infrastructure. You have to get customers. All of that is happening this year. The economics 
+will start improving from next year that is the expectation that we have that customer 
+acquisitions is a one time, once you acquire a cust omer you acquire a customer. Once you 
+set up infrastructure every incremental order is accretive. So as of now, I do not see any 
+reason to change that is the target that we have taken for ourselves to which we are 
+executing, now it could be one year here or there who knows. But as per the plan that is what 
+we have. 
+ 
+Company Speaker (Sh Jeyandran Venugopal) 
+ 
+Yes, I can add a bit more on  that. To kind of like step back a little bit and answer your 
+question. While yes, you may say that like the 42% growth that we called out in terms of our 
+YoY numbers on our online platform and how it compares with other QC players. I think, we 
+even while we consciously decide to invest in a channel and grow it, we want to make sure 
+that we are doing it in a mindful way, and we leverage our existing assets to do  it, so what 
+kind of growth you can do on online platform is purely a function of how much you are willing 
+to burn and how much couponing money, how much discounts you are willing to throw on 
+the table. So as a philosophy, we want actually, while we will invest in customer acquisition, 
+
+ 
+ 
+ 
+ 
+27 © Reliance Industries Limited 2020 
+we will do it in a much more measured way and a meaningful way and that is reflected in the 
+growth numbers that you see. So that is how I would answer it. So, we do not want to see 
+growth to anyone and at the same time we want to be meaningfully cautious about how we 
+spend the money that we are investing so that we can get the right kind of LTV over CAC 
+over a period of time . So, we unlike other players, we already have a large consumer 
+franchise. So, we have 400 million customers who we have already acquired through the 
+largest retail business today in the country. So, it is more about how we cross acquire them 
+intelligently and do it in a sensible fashion, which is cost efficient. So, it is not about acquiring 
+them at one go and suddenly showing high OPD numbers, but doing it in a way that is 
+sustainable. So that is why our pace may look a bit different, but it is built on a strong existing 
+base, and as long as the investments we are m aking in terms of the capex investments, 
+growing capacity and a lot of our warehousing supply chain infrastructure, which is today 
+geared to feed, which is one of the largest in the country today, is geared to feed the 20,000 
+stores that we have in our network. So, it is a store delivery-based network. We are retooling 
+a lot of it, modernizing our warehousing systems to make sure that it is equally capable and 
+efficient in both primary transport, middle mile and everything right to feed even our B2C 
+network, so all of these things take time to do it right. It is a platform investment, but once we 
+do it, the pressing the pedal on it, once we make the right investment on top of existing large 
+infrastructure base, customer base that we have will give us accelerating an d exponential 
+return. So that is why we are confident that the operating EBITDA growth that we are all 
+pushing to achieve once we go past the investment phase, is still a realistic one, even though 
+it may look very, very aggressive it is not starting from zero. It is not a bootstrapping story. It 
+is about how do we leverage the existing large asset base that we already have by doing 
+these incremental investments, which are significant, but we get the high leverage effect once 
+we do the investments on the existing base. So, I hope that answered the question. 
+ 
+Questioner (Vikash Jain – CLSA)  
+ 
+Thank you. Just one on O2C please. I think the one although spreads did not show that they 
+changed so much last quarter versus this quarter, but I think what you complained of last 
+quarter was the difficulty of capturing the spreads. That seems to have pos sibly improved 
+this quarter, so do you think that it will be an improving trend of being able to capture those 
+spreads also because the advantage, if anything, will only expand from here given the two 
+new vessels, so is it correct to imagine that although I have to say that it is a great growth 
+that you have shown, but if someone was to just work on the spreads that one can see on 
+the screen, then of course your numbers can be much bigger. So, is it that as the capture 
+improves better, the numbers will continue to improve, of course the environment can change 
+that is a different story? 
+ 
+Company Speaker (Sh Amit Chaturvedi) 
+ 
+I will speak from the petrochemicals perspective. So, you mentioned ethane benefit is here 
+to stay, and it will only go up as we absorb the incremental vessels. The other piece is 
+comparing the previous quarter to this quarter. In the previous quarter, we also had an issue 
+of LPG control order, which meant that a lot of our feedstock actually got diverted to LPG for 
+supporting the nation. That was not completely out, but it was relaxed in this particular quarter 
+
+ 
+ 
+ 
+ 
+28 © Reliance Industries Limited 2020 
+much more milder version was there. So that helped us increasing the volumes. On the 
+refinery product side would you like to comment something? 
+ 
+Company Speaker (Sh Srinivas Tuttagunta) 
+ 
+I think fairly you have covered it on the petrochemical side. On refining also, there has been 
+a significant improvement in terms of the feedstock capture like the landed price and all that. 
+This time I was mentioning, I think a few times that we swung bet ween different regions, so 
+that has also given us some benefit and capture. So that was how we achieved a better 
+capture. 
+ 

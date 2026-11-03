@@ -1,5 +1,16 @@
 [
   {
+    "symbol": "ADANIPORTS",
+    "headline": "Adani Ports shows consistent performance with strong revenue growth and disciplined leverage, though some long-term targets remain pending.",
+    "counts": {
+      "delivered": 3,
+      "partly": 1,
+      "missed": 0,
+      "pending": 5,
+      "dropped": 0
+    }
+  },
+  {
     "symbol": "ASIANPAINT",
     "headline": "Management consistently guided for mid-to-high single digit volume growth and steady 18-20% margins, mostly delivering on targets.",
     "counts": {
@@ -7,6 +18,28 @@
       "partly": 0,
       "missed": 0,
       "pending": 2,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "headline": "Management maintains consistent confidence in operational metrics like opex improvement and customer acquisition while achieving strong AUM and profit growth.",
+    "counts": {
+      "delivered": 0,
+      "partly": 0,
+      "missed": 0,
+      "pending": 8,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "HDFCBANK",
+    "headline": "Management provided qualitative guidance focusing on long-term growth, asset quality, and margin trajectories, while short-term targets remained largely pending or subject to evolving conditions.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 0,
+      "pending": 8,
       "dropped": 0
     }
   },
@@ -41,6 +74,61 @@
       "missed": 0,
       "pending": 4,
       "dropped": 3
+    }
+  },
+  {
+    "symbol": "LT",
+    "headline": "Management maintained steady operational performance with minor adjustments to revenue and margin guidance across quarters.",
+    "counts": {
+      "delivered": 2,
+      "partly": 1,
+      "missed": 1,
+      "pending": 1,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "MARUTI",
+    "headline": "Maruti delivered its volume growth and capex targets during the period, while medium-term capacity and charging network goals remain pending.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 0,
+      "pending": 3,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "PERSISTENT",
+    "headline": "Persistent maintained ambitious long-term revenue aspirations and steady margin goals, while actively pursuing large strategic transactions and keeping consistent growth.",
+    "counts": {
+      "delivered": 0,
+      "partly": 1,
+      "missed": 0,
+      "pending": 8,
+      "dropped": 1
+    }
+  },
+  {
+    "symbol": "POLYCAB",
+    "headline": "Polycab consistently grew revenues above 25% while maintaining margins and expanding its cash reserves across the reported quarters.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 1,
+      "pending": 6,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "RELIANCE",
+    "headline": "Management regularly guides on future operational capacities and segment milestones with mostly pending or long-term horizons, while reporting steady financial metrics.",
+    "counts": {
+      "delivered": 0,
+      "partly": 0,
+      "missed": 1,
+      "pending": 6,
+      "dropped": 0
     }
   },
   {

@@ -1,0 +1,19 @@
+{
+  "symbol": "ADANIPORTS",
+  "period": "Nov 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://nsearchives.nseindia.com/corporate/rkbhagia_02112026193059_TranscriptofEarningsCall.pdf",
+  "nse": true,
+  "chars": {
+    "transcript": 1441,
+    "sent": 362
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 299,
+    "output_tokens": 16
+  },
+  "guidance": [],
+  "reported": []
+}

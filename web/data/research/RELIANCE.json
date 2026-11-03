@@ -1,0 +1,217 @@
+{
+  "symbol": "RELIANCE",
+  "headline": "Management regularly guides on future operational capacities and segment milestones with mostly pending or long-term horizons, while reporting steady financial metrics.",
+  "counts": {
+    "delivered": 0,
+    "partly": 0,
+    "missed": 1,
+    "pending": 6,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26",
+      "promise": "More than double beverage capacity this year",
+      "quote": "We will be more than doubling our capacity on beverages this year.",
+      "verdict": "pending",
+      "evidence": "No explicit update on beverage capacity doubling was reported by Q2 FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "none",
+      "horizon": "this year"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Have ingot and wafer facilities at giga scale in next few quarters",
+      "quote": "in next few quarters, we will have ingot and wafer both these facilities at the giga scale commissioned and fully ramped up to 10-gigawatt peak during the current year.",
+      "verdict": "pending",
+      "evidence": "Solar manufacturing moved to gigascale with ongoing commissioning as of Q1 and Q2 FY27 calls.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "none",
+      "horizon": "current year"
+    },
+    {
+      "made_in": "Q3 FY26",
+      "promise": "Organically improve ARPU by 5% to 6% a year",
+      "quote": "Organically, if we can improve our ARPU by 5% to 6% a year, I think that is a good number, good place to be in",
+      "verdict": "missed",
+      "evidence": "Reported ARPU grew 4% YoY in Q4 FY26 and 3.5% YoY in Q2 FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": 3.5,
+      "direction": "within",
+      "target_low": 5.0,
+      "unit": "%",
+      "verdict_by": "numbers",
+      "model_verdict": "partly"
+    },
+    {
+      "made_in": "Q4 FY26",
+      "promise": "Aim to commission solar factories in next few quarters",
+      "quote": "and the work on commissioning of polysilicon, ingot, wafer, solar cell and glass continue to progress well and we aim to commission these factories in next few quarters.",
+      "verdict": "pending",
+      "evidence": "Solar cell and module capacities are targeted for early next year and first half next year.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "none",
+      "horizon": "next few quarters"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Targeting Rs 1 lakh Crores in FMCG revenue by FY2030",
+      "quote": "the target is to kind of take this to Rs.1 lakh Crores on FY2030.",
+      "verdict": "pending",
+      "evidence": "Horizon is FY2030; not yet due.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": null,
+      "direction": "none",
+      "horizon": "FY2030"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Enter Australia and African markets next quarter",
+      "quote": "For the next quarter, we plan to kind of enter into Australia and African markets.",
+      "verdict": "pending",
+      "evidence": "No confirmation of the entry was mentioned in Q2 FY27.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "none",
+      "horizon": "next quarter"
+    },
+    {
+      "made_in": "Q1 FY27",
+      "promise": "Continue dark store network expansion for at least 12 months",
+      "quote": "At least next 12 months, I think in the next nine to 10 months it will continue.",
+      "verdict": "pending",
+      "evidence": "Horizon of 12 months is still ongoing.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": null,
+      "direction": "none",
+      "horizon": "next 12 months"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Solar and New Energy Timeline",
+      "change": "Shifted from promising full giga scale commissioning in current year (Q3 FY26) to specific component goals for early next year and FY2028 revenue generation.",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q2 FY27"
+    },
+    {
+      "topic": "Gas Price Expectations",
+      "change": "Refined the expected impact from global gas prices and specific ceiling price increases in later halves across consecutive quarters.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q1 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Jan 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+      "nse": false,
+      "guidance": 3,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Apr 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 1
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Jul 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
+      "nse": false,
+      "guidance": 6,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Nov 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        239986.0,
+        261388.0,
+        243632.0,
+        254623.0,
+        264905.0,
+        294059.0,
+        309468.0,
+        330601.0
+      ],
+      "OPM %": [
+        18.0,
+        17.0,
+        18.0,
+        18.0,
+        17.0,
+        15.0,
+        15.0,
+        17.0
+      ],
+      "Net Profit": [
+        21930.0,
+        22611.0,
+        30783.0,
+        22092.0,
+        22290.0,
+        20589.0,
+        23196.0,
+        29550.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 9366,
+      "output_tokens": 905
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 9227,
+      "output_tokens": 1437
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 9212,
+      "output_tokens": 1201
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 9275,
+      "output_tokens": 1108
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3618,
+      "output_tokens": 1225
+    }
+  ]
+}

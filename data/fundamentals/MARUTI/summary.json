@@ -33,6 +33,21 @@
         52470.0,
         53356.0
       ],
+      "YoY Sales growth": [
+        25.0,
+        15.0,
+        19.0,
+        10.0,
+        0.0,
+        16.0,
+        6.0,
+        8.0,
+        13.0,
+        29.0,
+        28.0,
+        36.0,
+        26.0
+      ],
       "Expenses": [
         32028.0,
         29073.0,
@@ -528,5 +543,12 @@
       "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/5325000313.pdf"
     }
   ],
-  "transcripts_saved": []
+  "transcripts_saved": [
+    {
+      "period": "Apr 2026",
+      "pdf": "fundamentals/MARUTI/transcripts/Apr-2026.pdf",
+      "text": "fundamentals/MARUTI/transcripts/Apr-2026.txt",
+      "source_url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+    }
+  ]
 }

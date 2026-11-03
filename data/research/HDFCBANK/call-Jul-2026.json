@@ -1,0 +1,101 @@
+{
+  "symbol": "HDFCBANK",
+  "period": "Jul 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 54153,
+    "sent": 22076
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5776,
+    "output_tokens": 1086
+  },
+  "guidance": [
+    {
+      "metric": "profit growth",
+      "claim": "Profit growth should be at or above balance sheet growth in the longer term",
+      "quote": "We do think that in the longer term that the profit growth should be at or above the balance sheet growth.",
+      "quantified": false,
+      "horizon": "longer term",
+      "speaker": "Srinivasan Vaidyanathan"
+    },
+    {
+      "metric": "cost of funds",
+      "claim": "Cost of funds can change by 40 to 50 basis points over time",
+      "quote": "there can be 40, 50 basis points change, but it is not going to change in a hurry.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Srinivasan Vaidyanathan"
+    },
+    {
+      "metric": "savings account growth",
+      "claim": "Reasonably healthy savings account growth expected over a one to three year period",
+      "quote": "So my hunch tells me that I think you should see reasonably healthy growth over a one, two, three-year period in the savings account as well.",
+      "quantified": false,
+      "horizon": "one, two, three-year period",
+      "speaker": "Sashidhar Jagdishan"
+    },
+    {
+      "metric": "credit cost",
+      "claim": "Credit costs will see some impact from floor changes but nothing material",
+      "quote": "so because of the floor there will be enhancement, but then the way we look today and look forward from here, it would be some impact but nothing material in terms of the impact.",
+      "quantified": false,
+      "horizon": null,
+      "speaker": "Srinivasan Vaidyanathan"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "branch productivity",
+      "claim": "Per branch metric currently stands at INR 330 crores",
+      "quote": "If you look at the per branch metrics, we are about INR 330 crores per branch currently.",
+      "quantified": true,
+      "horizon": "current",
+      "speaker": "Srinivasan Vaidyanathan"
+    },
+    {
+      "metric": "retail mix",
+      "claim": "Retail mix currently stands at 52%",
+      "quote": "Today we are at a 52% retail mix.",
+      "quantified": true,
+      "horizon": "current",
+      "speaker": "Srinivasan Vaidyanathan"
+    },
+    {
+      "metric": "profit growth",
+      "claim": "Adjusted profit growth showed 9.8%",
+      "quote": "adjusted for that, I think in one of our reports that we filed, it shows 9.8% profit growth, yes.",
+      "quantified": true,
+      "horizon": "previous year",
+      "speaker": "Srinivasan Vaidyanathan"
+    },
+    {
+      "metric": "MSME growth",
+      "claim": "Business banking component of MSME grew at 22.3% this year",
+      "quote": "We've seen that grow at about 18% and this is continuing from the growth that we had seen in the previous quarter as well, which was around those levels. HDFC Bank Limited July 18, 2026 We've also continued to see very good growth come in our MSME segment and out over there, we have seen a business banking which is the largest component of our MSME segment grow at 22.3% this year.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Kaizad Bharucha"
+    },
+    {
+      "metric": "ECLGS disbursements",
+      "claim": "Disbursements under ECLGS 5.0 reached close to INR 14,000 crores by June 30",
+      "quote": "we have already as of 30th of June had a disbursement in that scheme of close to INR14,000 crores under the ECLGS scheme.",
+      "quantified": true,
+      "horizon": "as of 30th of June",
+      "speaker": "Kaizad Bharucha"
+    },
+    {
+      "metric": "provision coverage",
+      "claim": "Overall provision coverage currently stands at 66%",
+      "quote": "See, the overall coverage that you see now is 66%, right?",
+      "quantified": true,
+      "horizon": "current",
+      "speaker": "Srinivasan Vaidyanathan"
+    }
+  ]
+}

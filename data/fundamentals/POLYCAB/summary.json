@@ -33,6 +33,21 @@
         8210.0,
         9899.0
       ],
+      "YoY Sales growth": [
+        27.0,
+        17.0,
+        29.0,
+        21.0,
+        30.0,
+        20.0,
+        25.0,
+        26.0,
+        18.0,
+        46.0,
+        27.0,
+        39.0,
+        53.0
+      ],
       "Expenses": [
         3609.0,
         3771.0,
@@ -542,5 +557,30 @@
       "url": "https://www.sebi.gov.in/filings/public-issues/apr-2019/polycab-india-limited_42750.html"
     }
   ],
-  "transcripts_saved": []
+  "transcripts_saved": [
+    {
+      "period": "Oct 2026",
+      "pdf": "fundamentals/POLYCAB/transcripts/Oct-2026.pdf",
+      "text": "fundamentals/POLYCAB/transcripts/Oct-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf"
+    },
+    {
+      "period": "Jul 2026",
+      "pdf": "fundamentals/POLYCAB/transcripts/Jul-2026.pdf",
+      "text": "fundamentals/POLYCAB/transcripts/Jul-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf"
+    },
+    {
+      "period": "May 2026",
+      "pdf": "fundamentals/POLYCAB/transcripts/May-2026.pdf",
+      "text": "fundamentals/POLYCAB/transcripts/May-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf"
+    },
+    {
+      "period": "Jan 2026",
+      "pdf": "fundamentals/POLYCAB/transcripts/Jan-2026.pdf",
+      "text": "fundamentals/POLYCAB/transcripts/Jan-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf"
+    }
+  ]
 }

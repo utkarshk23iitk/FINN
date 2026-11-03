@@ -33,6 +33,21 @@
         10821.0,
         11340.0
       ],
+      "YoY Sales growth": [
+        28.0,
+        45.0,
+        19.0,
+        21.0,
+        6.0,
+        15.0,
+        23.0,
+        21.0,
+        30.0,
+        22.0,
+        26.0,
+        19.0,
+        24.0
+      ],
       "Expenses": [
         2982.0,
         2724.0,
@@ -592,5 +607,30 @@
       "url": "https://www.sebi.gov.in/filings/public-issues/jun-2013/adani-ports-and-special-economic-zone-limited_24876.html"
     }
   ],
-  "transcripts_saved": []
+  "transcripts_saved": [
+    {
+      "period": "Jul 2026",
+      "pdf": "fundamentals/ADANIPORTS/transcripts/Jul-2026.pdf",
+      "text": "fundamentals/ADANIPORTS/transcripts/Jul-2026.txt",
+      "source_url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf"
+    },
+    {
+      "period": "May 2026",
+      "pdf": "fundamentals/ADANIPORTS/transcripts/May-2026.pdf",
+      "text": "fundamentals/ADANIPORTS/transcripts/May-2026.txt",
+      "source_url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/apsez-q4fy26-earnings-conference-call_transcript.pdf"
+    },
+    {
+      "period": "Feb 2026",
+      "pdf": "fundamentals/ADANIPORTS/transcripts/Feb-2026.pdf",
+      "text": "fundamentals/ADANIPORTS/transcripts/Feb-2026.txt",
+      "source_url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q3--9M-FY26-earnings-call-transcript-UPDATED.pdf"
+    },
+    {
+      "period": "Nov 2025",
+      "pdf": "fundamentals/ADANIPORTS/transcripts/Nov-2025.pdf",
+      "text": "fundamentals/ADANIPORTS/transcripts/Nov-2025.txt",
+      "source_url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf"
+    }
+  ]
 }

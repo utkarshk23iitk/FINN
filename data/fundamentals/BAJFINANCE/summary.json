@@ -33,6 +33,21 @@
         23165.0,
         24546.0
       ],
+      "YoY Revenue growth": [
+        34.0,
+        31.0,
+        31.0,
+        29.0,
+        28.0,
+        27.0,
+        23.0,
+        21.0,
+        17.0,
+        17.0,
+        18.0,
+        19.0,
+        23.0
+      ],
       "Interest": [
         4537.0,
         4868.0,
@@ -628,5 +643,30 @@
       "url": "https://www.sebi.gov.in/filings/rights-issues/jan-2013/bajaj-finance-limited_24198.html"
     }
   ],
-  "transcripts_saved": []
+  "transcripts_saved": [
+    {
+      "period": "Oct 2026",
+      "pdf": "fundamentals/BAJFINANCE/transcripts/Oct-2026.pdf",
+      "text": "fundamentals/BAJFINANCE/transcripts/Oct-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf"
+    },
+    {
+      "period": "Aug 2026",
+      "pdf": "fundamentals/BAJFINANCE/transcripts/Aug-2026.pdf",
+      "text": "fundamentals/BAJFINANCE/transcripts/Aug-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf"
+    },
+    {
+      "period": "May 2026",
+      "pdf": "fundamentals/BAJFINANCE/transcripts/May-2026.pdf",
+      "text": "fundamentals/BAJFINANCE/transcripts/May-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf"
+    },
+    {
+      "period": "Apr 2026",
+      "pdf": "fundamentals/BAJFINANCE/transcripts/Apr-2026.pdf",
+      "text": "fundamentals/BAJFINANCE/transcripts/Apr-2026.txt",
+      "source_url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+    }
+  ]
 }

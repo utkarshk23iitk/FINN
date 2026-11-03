@@ -1,0 +1,117 @@
+{
+  "symbol": "PERSISTENT",
+  "period": "Apr 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 57339,
+    "sent": 20667
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5554,
+    "output_tokens": 1350
+  },
+  "guidance": [
+    {
+      "metric": "run rate",
+      "claim": "The $2 billion run rate target by FY27 Q4 exit is achievable.",
+      "quote": "So, on the last part, FY’27, Q4 exit is where we are looking at the run rate being in the range of $500 million or so.",
+      "quantified": true,
+      "horizon": "FY27 Q4 exit",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "EBIT margin",
+      "claim": "Margin aspiration continues to be in the 16 to 17% range.",
+      "quote": "Our aspiration continues to be in the 16 to 17% range.",
+      "quantified": true,
+      "horizon": "next 2 years",
+      "speaker": "Vinit Teredesai"
+    },
+    {
+      "metric": "demand adoption pace",
+      "claim": "Pace of adoption in tech companies and enterprises will accelerate significantly.",
+      "quote": "We do expect the pace of adoption in both the tech companies and enterprises to accelerate significantly in the coming quarters, with tech companies leading the way.",
+      "quantified": false,
+      "horizon": "coming quarters",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "growth pecking order",
+      "claim": "Healthcare life sciences and BFSI will be at the top for next year.",
+      "quote": "So as far as the next year is concerned, the pecking order would be between healthcare life sciences and BFSI at the top.",
+      "quantified": false,
+      "horizon": "next year",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "margin impact",
+      "claim": "Third-party platform technology usage should be margin neutral or accretive.",
+      "quote": "And most of these things should be margin neutral or accretive because if we use technology, we should be able to do more work with lesser people and more technology.",
+      "quantified": false,
+      "horizon": "future",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "unbilled revenue",
+      "claim": "Higher proportion of unbilled revenue is expected to normalize in the next quarter.",
+      "quote": "This decline in Operational Cash Flow to PAT was primarily on account of higher proportion of unbilled revenue in this quarter, which we expect to normalize in the next quarter.",
+      "quantified": false,
+      "horizon": "next quarter",
+      "speaker": "Vinit Teredesai"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "Q4 FY26 revenue grew 3.2% QoQ and 16.2% YoY, delivering USD 436 million.",
+      "quote": "We achieved a healthy revenue growth of 3.2% quarter-on-quarter and 16.2% year-on-year, delivering USD 436 million in Q4 FY26.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "EBIT margin",
+      "claim": "Q4 FY26 EBIT margin came in at 16.3%, translating to an EBIT growth of 21.4% QoQ.",
+      "quote": "The EBIT margin for the quarter came in at 16.3%, translating to an EBIT growth of 21.4% and 30.4% QoQ and YoY respectively.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "profit after tax",
+      "claim": "Q4 FY26 Profit After Tax margin came in at 13.1%.",
+      "quote": "The Profit After Tax for the quarter came in at 13.1%, translating to a PAT growth of 20.4% QoQ and 33.7% YoY.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "annual revenue",
+      "claim": "FY26 revenue came in at USD 1.65 billion, translating into 17.4% YoY.",
+      "quote": "FY26 revenue came in at USD 1.65 billion, translating into 17.4% YoY.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "total contract value",
+      "claim": "Total Contract Value for Q4 FY26 stood at USD 600.8 million.",
+      "quote": "The Total Contract Value for the quarter stood at USD 600.8 million, with Total Contract Value of the new bookings coming in at USD 428.9 million.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "headcount",
+      "claim": "Total headcount stood at 27,502 at the end of Q4 FY26.",
+      "quote": "At the end of Q4 of FY26, our total headcount stood at 27,502, an increase of 791 from the previous quarter.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Vinit Teredesai"
+    }
+  ]
+}

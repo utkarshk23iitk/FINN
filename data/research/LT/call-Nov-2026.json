@@ -1,0 +1,19 @@
+{
+  "symbol": "LT",
+  "period": "Nov 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://nsearchives.nseindia.com/corporate/PAM_02112026175603_TranscriptSep2026.pdf",
+  "nse": true,
+  "chars": {
+    "transcript": 1653,
+    "sent": 789
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 410,
+    "output_tokens": 16
+  },
+  "guidance": [],
+  "reported": []
+}

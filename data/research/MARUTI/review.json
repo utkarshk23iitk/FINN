@@ -1,0 +1,147 @@
+{
+  "symbol": "MARUTI",
+  "headline": "Maruti delivered its volume growth and capex targets during the period, while medium-term capacity and charging network goals remain pending.",
+  "counts": {
+    "delivered": 2,
+    "partly": 0,
+    "missed": 0,
+    "pending": 3,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Volume growth of over 10% this year compared to last year",
+      "quote": "The broad expectation , which our Chairman also conveyed, is growth of over 10% this year as compared to the last year.",
+      "verdict": "delivered",
+      "evidence": "FY26 sales grew by 19.9% versus the previous year.",
+      "evidence_from": "reported numbers",
+      "horizon": "FY26",
+      "target_low": 10,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Increase production capacity to 4 million units per annum",
+      "quote": "Besides, the company has put plans in place to increase the production capacity to 4 million units per annum in the medium term.",
+      "verdict": "pending",
+      "evidence": "Medium-term horizon has not ended yet.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "INR 14,000 crores capex for the full year FY 26-27",
+      "quote": "Overall, on the capex for FY 26-27, we are looking at a INR 14,000 crores capex for the full year.",
+      "verdict": "pending",
+      "evidence": "Horizon for FY 26-27 has not ended yet.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Enable over 1 lakh charging points by 2030",
+      "quote": "Aligned with Suzuki's global vision, we plan to introduce multiple EVs and to support this, our aim is to enable a network of over 1 lakh charging points across India by 2030, along with our dealers and charge point operators.",
+      "verdict": "pending",
+      "evidence": "Target horizon is by 2030, which has not arrived yet.",
+      "evidence_from": "Q2 FY27 call"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Additional volume of about 250,000 cars this year over previous year",
+      "quote": "Effectively, one can expect that we'll have an additional volume of about 250,000 cars available th is year over the previous year.",
+      "verdict": "delivered",
+      "evidence": "FY26 sales increased by over 30 million vehicles compared to FY25.",
+      "evidence_from": "reported numbers",
+      "horizon": "FY26"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Guidance frequency",
+      "change": "Management provided detailed guidance in Q4 FY26 but gave no guidance during the subsequent Q2 FY27 call.",
+      "from_quarter": "Q4 FY26 call",
+      "to_quarter": "Q2 FY27 call"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q4 FY26",
+      "period": "Apr 2026",
+      "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf",
+      "nse": false,
+      "guidance": 5,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Nov 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_02112026210459_Transcript_27Oct026.pdf",
+      "nse": true,
+      "guidance": 0,
+      "reported": 0,
+      "dropped_unverified": 0
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        38764.0,
+        40920.0,
+        38605.0,
+        42344.0,
+        49904.0,
+        52462.0,
+        52470.0,
+        53356.0
+      ],
+      "OPM %": [
+        13.0,
+        12.0,
+        12.0,
+        12.0,
+        11.0,
+        12.0,
+        8.0,
+        9.0
+      ],
+      "Net Profit": [
+        3727.0,
+        3911.0,
+        3792.0,
+        3349.0,
+        3879.0,
+        3659.0,
+        3447.0,
+        2466.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3800,
+      "output_tokens": 1269
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 263,
+      "output_tokens": 16
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1730,
+      "output_tokens": 804
+    }
+  ]
+}

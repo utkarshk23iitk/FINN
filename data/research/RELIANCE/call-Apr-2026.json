@@ -1,0 +1,101 @@
+{
+  "symbol": "RELIANCE",
+  "period": "Apr 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 97901,
+    "sent": 39052
+  },
+  "dropped_unverified": 1,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 9227,
+    "output_tokens": 1437
+  },
+  "guidance": [
+    {
+      "metric": "solar factories commissioning",
+      "claim": "We aim to commission polysilicon, ingot, wafer, solar cell and glass factories in next few quarters.",
+      "quote": "and the work on commissioning of polysilicon, ingot, wafer, solar cell and glass continue to progress well and we aim to commission these factories in next few quarters.",
+      "quantified": false,
+      "horizon": "next few quarters",
+      "speaker": "Sh V Srikanth"
+    },
+    {
+      "metric": "digital services AI results",
+      "claim": "We should see good results from AI automations and energy optimization on our network in next few quarters.",
+      "quote": "AI-first network being used, on our network we have been implementing a whole bunch of intelligence, AI 4 © Reliance Industries Limited 2020 automations, energy optimization, for example, is being done on our network and we should see good results coming out of these in the next few quarters.",
+      "quantified": false,
+      "horizon": "next few quarters",
+      "speaker": "Sh V Srikanth"
+    },
+    {
+      "metric": "compute solutions demand",
+      "claim": "In the next few quarters you will see a lot of need for AI ready compute solutions from smaller businesses.",
+      "quote": "These are AI ready kind of compute solutions, which are going to be needed increasingly, in the next few quarters you will see a lot of need coming up for these even with smaller businesses.",
+      "quantified": false,
+      "horizon": "next few quarters",
+      "speaker": "Sh V Srikanth"
+    },
+    {
+      "metric": "natural gas prices",
+      "claim": "We expect to see the impact of higher global prices on gas in the later half year.",
+      "quote": "Now we have revised the price at this time around but overall, we see that with the changes that are in the global scenario that we are seeing, the prices if not in this half but the half later we will see the impact.",
+      "quantified": false,
+      "horizon": "later half year",
+      "speaker": "Sh V Srikanth"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "retail revenue",
+      "claim": "Retail achieved highest ever quarterly revenue of Rs 98000 Crores in Q4.",
+      "quote": "For the quarter, we had the highest ever revenues of Rs.98,000 Crores. In fact, normally Q3 is the strongest quarter for any retailer , but this time Q4 our revenue was even marginally higher than Q3, so overall, very good performance, 11% growth on a Y-o-Y basis for the full quarter.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Dinesh Taluja"
+    },
+    {
+      "metric": "telecom subscribers",
+      "claim": "RJIL ended the year with 524.4 million subscribers after a net add of 9.1 million.",
+      "quote": "Coming to the key operating matrices for the quarter on the connectivity, for the connectivity business RJIL, we ended the quarter ended the year at 524.4 million subscribers that was a net add of 9.1 million subscribers",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Sh V Srikanth"
+    },
+    {
+      "metric": "retail EBITDA",
+      "claim": "Retail EBITDA came in at Rs 6900 Crores with an EBITDA margin of 7.9%.",
+      "quote": "EBITDA came in at Rs.6,900 Crores, EBITDA margin is at 7.9%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Dinesh Taluja"
+    },
+    {
+      "metric": "Jio ARPU",
+      "claim": "ARPU reached Rs 214, representing a 4% year-on-year growth.",
+      "quote": "Rs.214 ARPU most of you got it right I saw some of the reports 4% year -on-year growth in ARPU, but as you all know this year there was no tariff action , this is mostly coming in from organic routes.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Sh V Srikanth"
+    },
+    {
+      "metric": "FMCG revenue",
+      "claim": "FMCG business closed the year with revenue of Rs 22000 Crores.",
+      "quote": "From an FMCG business perspective, we closed our revenue of Rs.22,000 Crores in 2026 and for the Q4 alone, we delivered a revenue of Rs.7350 Crores, both these are two times growth on the similar period for the last year.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Dinesh Taluja"
+    },
+    {
+      "metric": "streaming concurrency",
+      "claim": "JioStar broke a world record with 72.5 million concurrent streams during the T20 World Cup.",
+      "quote": "We also, in the T20 World Cup, broke a world record for the maximum number of concurrent streams at the same time, at 72.5 million, the previous record was held by a global company that the record was 65 million across the globe, across multiple markets.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Sh V Srikanth"
+    }
+  ]
+}

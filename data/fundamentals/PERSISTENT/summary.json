@@ -33,6 +33,21 @@
         4303.0,
         4664.0
       ],
+      "YoY Sales growth": [
+        18.0,
+        15.0,
+        15.0,
+        18.0,
+        20.0,
+        23.0,
+        25.0,
+        22.0,
+        24.0,
+        23.0,
+        25.0,
+        29.0,
+        30.0
+      ],
       "Expenses": [
         2007.0,
         2056.0,
@@ -550,5 +565,30 @@
       "url": "https://www.sebi.gov.in/filings/public-issues/mar-2010/persistent-systems-limited_2401.html"
     }
   ],
-  "transcripts_saved": []
+  "transcripts_saved": [
+    {
+      "period": "Oct 2026",
+      "pdf": "fundamentals/PERSISTENT/transcripts/Oct-2026.pdf",
+      "text": "fundamentals/PERSISTENT/transcripts/Oct-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf"
+    },
+    {
+      "period": "Aug 2026",
+      "pdf": "fundamentals/PERSISTENT/transcripts/Aug-2026.pdf",
+      "text": "fundamentals/PERSISTENT/transcripts/Aug-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf"
+    },
+    {
+      "period": "Apr 2026",
+      "pdf": "fundamentals/PERSISTENT/transcripts/Apr-2026.pdf",
+      "text": "fundamentals/PERSISTENT/transcripts/Apr-2026.txt",
+      "source_url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf"
+    },
+    {
+      "period": "Jan 2026",
+      "pdf": "fundamentals/PERSISTENT/transcripts/Jan-2026.pdf",
+      "text": "fundamentals/PERSISTENT/transcripts/Jan-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf"
+    }
+  ]
 }

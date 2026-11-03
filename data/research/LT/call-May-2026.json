@@ -1,0 +1,93 @@
+{
+  "symbol": "LT",
+  "period": "May 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 87257,
+    "sent": 20280
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5059,
+    "output_tokens": 912
+  },
+  "guidance": [
+    {
+      "metric": "revenue growth",
+      "claim": "We have given the revenue guidance of 10% to 12% for FY27.",
+      "quote": "we have given the revenue guidance of 10% to 12% for FY27, basis the fact that the first six months will be subdued",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Ramakrishnan"
+    },
+    {
+      "metric": "Revenue CAGR",
+      "claim": "Targeting 12% to 15% Revenue CAGR over the L31 plan.",
+      "quote": "we are taking ourselves a target of 12% to 15% Revenue CAGR over the L31 plan",
+      "quantified": true,
+      "horizon": "L31 plan",
+      "speaker": "Mohit Kumar"
+    },
+    {
+      "metric": "PPM margin",
+      "claim": "Guiding for stable margins for FY27.",
+      "quote": "I am only giving you guidance for stable margins for FY’27.",
+      "quantified": false,
+      "horizon": "FY27",
+      "speaker": "Ramakrishnan"
+    },
+    {
+      "metric": "Return on Equity",
+      "claim": "ROE target is 16% to 17% for the plan.",
+      "quote": "So, we have factored all of this while giving the ROE targets of 16 to 17%.",
+      "quantified": true,
+      "horizon": "plan period",
+      "speaker": "Puneet Gulati"
+    },
+    {
+      "metric": "capex",
+      "claim": "Setting Rs 50 billion as the capex for the electronics business.",
+      "quote": "So I did indicate that we are setting Rs 50 billion as the capex for this particular business.",
+      "quantified": true,
+      "horizon": "over a period of time",
+      "speaker": "Atul Tiwari"
+    },
+    {
+      "metric": "capex",
+      "claim": "FY27 capex includes Rs 25 billion for core PP&M and other spends.",
+      "quote": "normal projects part of our capex we can take around Rs 25 billion for the core PP&M business.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Ramakrishnan"
+    },
+    {
+      "metric": "pre-sales CAGR",
+      "claim": "Realty pre-sales CAGR is assumed to be around 25%.",
+      "quote": "Just to add one more, that CAGR growth in pre-sales is over the Lakshya 31 is around 25% is assumed in Realty.",
+      "quantified": true,
+      "horizon": "Lakshya 31",
+      "speaker": "Ramakrishnan"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue slippages",
+      "claim": "Lost almost Rs 50 billion in Q4 due to supply chain issues.",
+      "quote": "we would have lost in terms of revenue almost Rs 50 billion in Q4 just on the course of supply chain issues",
+      "quantified": true,
+      "horizon": "Q4",
+      "speaker": "Ramakrishnan"
+    },
+    {
+      "metric": "PPM margin",
+      "claim": "Projects, Products and Manufacturing margin has been range-bound between 7.7% and 7.8%.",
+      "quote": "Projects, Products and Manufacturing margin have been range-bound between 7.7% to 7.8% for the last three years.",
+      "quantified": true,
+      "horizon": "last three years",
+      "speaker": "Sumit Kishore"
+    }
+  ]
+}

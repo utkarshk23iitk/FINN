@@ -1,0 +1,117 @@
+{
+  "symbol": "BAJFINANCE",
+  "period": "Aug 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 49028,
+    "sent": 16731
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 4666,
+    "output_tokens": 1324
+  },
+  "guidance": [
+    {
+      "metric": "branches and AUM",
+      "claim": "Expecting 2,700 to 3,000 branches and INR29,000 crores to INR31,000 crores organic AUM by year-end.",
+      "quote": "By year -end we foresee 2,700 to 2,800 branches, all goes well, maybe 3,000 branches and AUM of between INR29,000 crores and INR31,000 crores, all organic.",
+      "quantified": true,
+      "horizon": "year-end",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "opex to NTI improvement",
+      "claim": "Delivering 25 to 40 basis points improvement in opex to NTI for FY '27.",
+      "quote": "Overall, we are confident of delivering 25 to 40 basis points improvement for FY '27 in opex to NTI.",
+      "quantified": true,
+      "horizon": "FY '27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "digital platform volume",
+      "claim": "Digital platform will deliver INR100,000 crores next year.",
+      "quote": "I am targeting that next year we should be delivering INR100,000 crores volume between customer centricity, AI and tech transformation and digital transformation",
+      "quantified": true,
+      "horizon": "next year",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "disbursements AI",
+      "claim": "Expect to do INR11,000 crores to INR12,000 crores via AI voice and text bots this year.",
+      "quote": "On disbursements, AI, voice and text bots did INR2,500 crores, we will do INR11,000 crores INR12,000 in the full year this year.",
+      "quantified": true,
+      "horizon": "full year this year",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "net interest margin moderation",
+      "claim": "Foresee a moderation of 10-15 basis points in margins.",
+      "quote": "Whatever Sandeep has guided for or what we've said, I think that moderation 10 - 15 basis points is what we foresee at this juncture, give us a quarter.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "distribution expansion",
+      "claim": "Will continue 4% to 5% distribution expansion.",
+      "quote": "We are very clear 4% to 5% distribution expansion we'll continue to do.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Rajeev Jain"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "profit growth and ROE",
+      "claim": "Profit growth was strong at 28% and ROE crossed 20%.",
+      "quote": "Profit growth was strong at 28% and ROE crossed 20% despite the overhang still there on account of BHFL dilution.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "ROA and ROE",
+      "claim": "ROA came in at 4.7% and ROE at 20.4%.",
+      "quote": "ROA came in at 4.7% and ROE at 20.4%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "opex to NTI",
+      "claim": "Opex to NTI came in at 33.4%.",
+      "quote": "Opex to NTI came in at 33.4%, marginally higher than last year.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "gold loan growth",
+      "claim": "Gold loan business sustained strong momentum and grew by 112%.",
+      "quote": "Gold loan business sustained its strong momentum, grew by 112%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "deposit book",
+      "claim": "Deposit book came in at INR68,500 crores, forming 15% of the balance sheet.",
+      "quote": "Deposit book came in at INR68,500 crores. It's now 15% of the balance sheet.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "GNPA and NNPA",
+      "claim": "GNPA and NNPA came in at 0.96% and 0.39%.",
+      "quote": "GNPA and NNPA came in line, 0.96% and 0.39%.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Rajeev Jain"
+    }
+  ]
+}

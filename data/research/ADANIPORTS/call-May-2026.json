@@ -1,0 +1,125 @@
+{
+  "symbol": "ADANIPORTS",
+  "period": "May 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/apsez-q4fy26-earnings-conference-call_transcript.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 75868,
+    "sent": 26529
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6805,
+    "output_tokens": 1255
+  },
+  "guidance": [
+    {
+      "metric": "CAGR growth",
+      "claim": "We target a CAGR growth of 18% to 19% moving forward.",
+      "quote": "So with that story in mind, we keep the target of growing at CAGR of 18% to 19%.",
+      "quantified": true,
+      "horizon": "next 5 years",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "return on capital employed",
+      "claim": "Our objective is to give 20% ROCE at the APSEZ level.",
+      "quote": "Now moving forward, once again, our objective is to give you 20% return on capital employed as APSEZ level.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "cargo volume",
+      "claim": "We have a guidance of 1 billion ton of cargo volume handled.",
+      "quote": "Now we have given a guidance of 1 billion ton of cargo volume handled, which includes 850 million tons of domestic.",
+      "quantified": true,
+      "horizon": "2030",
+      "speaker": "Alok Deora"
+    },
+    {
+      "metric": "revenue growth",
+      "claim": "We will deliver 1.5x of India growth whatever happens.",
+      "quote": "That we do believe whatever happens, we will deliver you 1.5x of India growth.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "net debt to EBITDA",
+      "claim": "From a guidance perspective, we stay with 2.5x.",
+      "quote": "And from a guidance perspective, we stay with 2.5x.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Krishna Menon"
+    },
+    {
+      "metric": "return on capital employed",
+      "claim": "We look at 100 basis point increase in our ROCE every year.",
+      "quote": "essentially, we are looking at almost about 1 percentage point or 100 basis point increase in our ROCE every year all through the next 5-year time frame.",
+      "quantified": true,
+      "horizon": "next 5-year time frame",
+      "speaker": "Krishna Menon"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "We will keep 70% and above the EBITDA margin.",
+      "quote": "And that's why we are saying that we are very comfortable even with the inflation that we will keep 70% and above the EBITDA margin and the end goal is to give better return on capital.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ashwani Gupta"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "revenue growth",
+      "claim": "FY '26 revenue grew by 25%.",
+      "quote": "FY '26 revenue grew by 25%, EBITDA grew by 20% and PAT grew by 16%.",
+      "quantified": true,
+      "horizon": "FY '26",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "EBITDA growth",
+      "claim": "FY '26 EBITDA grew by 20%.",
+      "quote": "FY '26 revenue grew by 25%, EBITDA grew by 20% and PAT grew by 16%.",
+      "quantified": true,
+      "horizon": "FY '26",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "PAT growth",
+      "claim": "FY '26 PAT grew by 16%.",
+      "quote": "FY '26 revenue grew by 25%, EBITDA grew by 20% and PAT grew by 16%.",
+      "quantified": true,
+      "horizon": "FY '26",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "cargo volume",
+      "claim": "Domestic ports handled 451 million metric tons.",
+      "quote": "Domestic ports handled 451 million metric tons.",
+      "quantified": true,
+      "horizon": "FY '26",
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "return on capital employed",
+      "claim": "The return on capital employed increased to 23% from 21%.",
+      "quote": "The return on capital employed increased to 23% from 21%.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Ashwani Gupta"
+    },
+    {
+      "metric": "Logistics revenue growth",
+      "claim": "The Logistics revenue grew by 55% in FY '26.",
+      "quote": "The second business, Logistics revenue grew by 55% in FY '26.",
+      "quantified": true,
+      "horizon": "FY '26",
+      "speaker": "Ashwani Gupta"
+    }
+  ]
+}

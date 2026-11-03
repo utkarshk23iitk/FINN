@@ -1,0 +1,93 @@
+{
+  "symbol": "PERSISTENT",
+  "period": "Jan 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 58922,
+    "sent": 20681
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5618,
+    "output_tokens": 1109
+  },
+  "guidance": [
+    {
+      "metric": "Revenue",
+      "claim": "We remain on track to reach $2 billion by March 2027.",
+      "quote": "I am also happy to share that we remain firmly on track, advancing confidently towards our aspiration of $2 billion by March 2027 and laying the foundation of $5 billion by March 2031.",
+      "quantified": true,
+      "horizon": "March 2027",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Revenue",
+      "claim": "We are laying the foundation to reach $5 billion by March 2031.",
+      "quote": "Over the course of this intensive offsite, we not only charted our priorities and focus areas for FY27 but also assessed our progress towards our long-term aspiration of reaching $5 billion in annual revenue by FY31 and did intensive trainings on the AI side for our entire leadership.",
+      "quantified": true,
+      "horizon": "March 2031",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Effective Tax Rate",
+      "claim": "ETR for FY26 will be in the range of 20% to 24%.",
+      "quote": "ETR for FY26 will be in the range of 20%-24%.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Vinit Teredesai"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "Revenue",
+      "claim": "Q3 FY26 revenue reached $422.5 million, up 17.3% year-on-year.",
+      "quote": "We achieved a healthy revenue growth of 4.0% quarter-on-quarter and 17.3% year-on-year, delivering $422.5 million in Q3 of fiscal 2026.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "EBIT margin",
+      "claim": "Q3 FY26 EBIT margin came in at 14.4%.",
+      "quote": "After accounting for this impact, the EBIT for the quarter came in at 14.4%, which translates into a decline of 7.0% quarter-on-quarter and an increase of 19.1% year-on-year in absolute terms.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Profit After Tax margin",
+      "claim": "Q3 FY26 Profit After Tax margin came in at 11.6%.",
+      "quote": "Profit After Tax for the quarter came in at 11.6%, a decline of 6.8% quarter-on-quarter and an increase of 17.8% year-on-year in absolute terms.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Total Contract Value",
+      "claim": "Total Contract Value for the quarter stood at USD 674.5 million.",
+      "quote": "The Total Contract Value for the quarter stood at USD 674.5 million with the Total Contract Value of new bookings coming in at USD 369.1 million.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Annual Contract Value",
+      "claim": "Annual Contract Value of bookings for the quarter was USD 501.9 million.",
+      "quote": "The Annual Contract Value of bookings for the quarter is USD 501.9 million out of which the ACV from new bookings contributed USD 255.8 million.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Sandeep Kalra"
+    },
+    {
+      "metric": "Headcount",
+      "claim": "Total headcount stood at 26,711 at the end of Q3 FY26.",
+      "quote": "At the end of Q3 FY26, our total headcount stood at 26,711, an increase of 487 from the previous quarter.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Vinit Teredesai"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "symbol": "BAJFINANCE",
+  "period": "Apr 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 47841,
+    "sent": 22282
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 6183,
+    "output_tokens": 1384
+  },
+  "guidance": [
+    {
+      "metric": "AUM growth",
+      "claim": "We are confident of a 20% to 24% AUM growth in FY27.",
+      "quote": "In terms of AUM, we're confident of a 20% to 24% AUM growth, aided by new businesses that we've launched in the last few years as they begin to scale.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "Customer additions",
+      "claim": "We expect to add 15 to 17 million new customers in FY27.",
+      "quote": "In terms of customer franchise, we continue to be confident of adding 15 - 17 million new customers in FY27.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "Opex to NTI",
+      "claim": "We expect continued improvement of 25 to 40 basis points in opex to NTI.",
+      "quote": "On opex to NTI, we expect to see continued improvement of 25 to 40 basis points from current levels.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "ROA",
+      "claim": "We continue to guide for an ROA of 4.4% to 4.6%.",
+      "quote": "We continue to guide for 4.4% to 4.6%.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "ROE",
+      "claim": "We continue to guide for an ROE of 19% to 20%.",
+      "quote": "Return on equity came in at 20% in the current quarter, we continue to guide for 19% to 20%.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "MSME growth",
+      "claim": "MSME growth should return to double digits between Q2 and Q3 FY27.",
+      "quote": "We expect that it should come back to double -digit growth or the company growth momentum between Q2 and Q3 of FY'27.",
+      "quantified": true,
+      "horizon": "Q2-Q3 FY27",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "Autonomous agents",
+      "claim": "We expect to deploy over 600 autonomous agents in FY27.",
+      "quote": "In FY27, we expect to deploy 600-plus autonomous agents and across operations, DMS, HR, technology and risk.",
+      "quantified": true,
+      "horizon": "FY27",
+      "speaker": "Rajeev Jain"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "AUM",
+      "claim": "AUM crossed INR 5 lakh crores, ending at approximately INR 510,000 crores.",
+      "quote": "During the quarter, the company crossed the milestone of INR 5 lakh crores AUM. It's a proud moment for us as a company to end the quarter at approximately INR 510,000 crores.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "AUM growth",
+      "claim": "In Q4, AUM grew by 22.4%.",
+      "quote": "In Q4, AUM grew by 22.4% and PAT grew by 26.7%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "PAT growth",
+      "claim": "In Q4, PAT grew by 26.7%.",
+      "quote": "In Q4, AUM grew by 22.4% and PAT grew by 26.7%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "Loans booked",
+      "claim": "We booked 12.9 million loans and added 3.93 million new customers.",
+      "quote": "We booked 12.9 million loans and added 3.93 million new customers to the franchise.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "Cost of funds",
+      "claim": "Cost of funds improved by 4 bps in Q4 to 7.41%.",
+      "quote": "Cost of funds improved by 4 basis points in Q4 and came in at 7.41%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Rajeev Jain"
+    },
+    {
+      "metric": "GNPA and NNPA",
+      "claim": "GNPA and NNPA came in at 1.01% and 41 basis points.",
+      "quote": "GNPA, NNPA came in at 1.01% and NNPA came in at 41 basis points.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Rajeev Jain"
+    }
+  ]
+}

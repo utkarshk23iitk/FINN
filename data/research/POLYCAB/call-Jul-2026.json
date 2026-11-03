@@ -1,0 +1,133 @@
+{
+  "symbol": "POLYCAB",
+  "period": "Jul 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 53996,
+    "sent": 28224
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 7493,
+    "output_tokens": 1618
+  },
+  "guidance": [
+    {
+      "metric": "margin guidance",
+      "claim": "Maintain medium to long term margin guidance of 11% to 13% for Wires & Cables.",
+      "quote": "Consistent with our Project Spring roadmap, we continue to maintain our medium- to long-term margin guidance of 11% to 13% for this business.",
+      "quantified": true,
+      "horizon": "medium to long term",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "FMEG EBITDA margin target",
+      "claim": "Target EBITDA margins of 8% to 10% by FY 2030 in FMEG.",
+      "quote": "EBIT margins for the quarter were 8%, very much in line with the milestones laid out under Project Spring, where we target EBITDA margins of 8% to 10% by FY 2030.",
+      "quantified": true,
+      "horizon": "FY 2030",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "strategic growth target",
+      "claim": "Grow at 1.5x to 2x of industry growth while enhancing profitability.",
+      "quote": "Our strategic priorities remain unchanged to grow at 1.5x to 2x of the industry growth while progressively enhancing profitability.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "working capital cycle",
+      "claim": "Expect working capital cycle to settle within 45 to 50 days.",
+      "quote": "As these effects normalize, we expect the working capital cycle to settle within our long-term operating range of 45 to 50 days.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "EPC margins",
+      "claim": "Expect sustainable operating margins for EPC business in high single digits.",
+      "quote": "Over the medium to long term, we continue to expect sustainable operating margins for the EPC business to remain in the high single-digit range.",
+      "quantified": false,
+      "horizon": "medium to long term",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "volume growth",
+      "claim": "Expect to do 1.5x of market growth over the next 2-3 quarters.",
+      "quote": "Over maybe 2-3 next quarters, you will see a trend, and you should definitely see 1.5x of market growth.",
+      "quantified": true,
+      "horizon": "next 2-3 quarters",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "Bharat Net revenue",
+      "claim": "Expect INR 800 crores to INR 1,000 crores to come from Bharat Net alone.",
+      "quote": "So we can safely say maybe 1/3rd of that should translate into revenue, maybe INR 800 crores to INR 1,000 crores may come from Bharat Net alone.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "export revenue",
+      "claim": "Export growth target of going north of 10% of overall top line by 2030.",
+      "quote": "We have given our guidance of going north of 10% of our overall top line by 2030.",
+      "quantified": true,
+      "horizon": "2030",
+      "speaker": "Shashank Yagnick"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "consolidated revenue growth",
+      "claim": "Consolidated revenues grew by 39% year-on-year.",
+      "quote": "Consolidated revenues grew by 39% year-on-year, supported by sustained momentum across both our wires and cables and FMEG businesses.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "EBITDA growth",
+      "claim": "EBITDA increased by 32% year-on-year with margins at 13.8%.",
+      "quote": "EBITDA increased by 32% year- on-year and the margins stood at 13.8%, reflecting an improvement of approximately 70 basis points sequentially over the previous quarter.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "Profit After Tax",
+      "claim": "Achieved highest ever quarterly PAT of INR 7,967 million, up 33% year-on-year.",
+      "quote": "At the bottom line, we achieved our highest ever quarterly Profit After Tax of INR 7,967 million, representing a growth of 33% year-on-year.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "Wires & Cables growth",
+      "claim": "Wires & Cables segment registered 39% year-on-year growth.",
+      "quote": "The Wires & Cables segment registered a healthy 39% year-on-year growth during the quarter.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "FMEG segment growth",
+      "claim": "FMEG segment recorded 71% year-on-year growth.",
+      "quote": "The FMEG segment delivered another outstanding quarter, recording 71% year-on-year growth with strong contributions across all product categories.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "EPC business revenue",
+      "claim": "EPC business reported revenues of INR 3,077 million, down 11% year-on-year.",
+      "quote": "The EPC business reported revenues of INR 3,077 million during the Quarter 1 Financial Year 2027, reflecting a year-on-year decline of 11%, primarily due to the timing and execution cycle of projects.",
+      "quantified": true,
+      "horizon": "Q1 FY27",
+      "speaker": "Shashank Yagnick"
+    }
+  ]
+}

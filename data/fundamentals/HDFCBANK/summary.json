@@ -33,6 +33,21 @@
         90575.0,
         95132.0
       ],
+      "YoY Revenue growth": [
+        83.0,
+        73.0,
+        67.0,
+        59.0,
+        11.0,
+        9.0,
+        9.0,
+        7.0,
+        5.0,
+        2.0,
+        0.0,
+        4.0,
+        9.0
+      ],
       "Interest": [
         41250.0,
         43242.0,
@@ -474,5 +489,30 @@
       "url": "https://www.bseindia.com/bseplus/AnnualReport/500180/5001800312.pdf"
     }
   ],
-  "transcripts_saved": []
+  "transcripts_saved": [
+    {
+      "period": "Oct 2026",
+      "pdf": "fundamentals/HDFCBANK/transcripts/Oct-2026.pdf",
+      "text": "fundamentals/HDFCBANK/transcripts/Oct-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
+    },
+    {
+      "period": "Jul 2026",
+      "pdf": "fundamentals/HDFCBANK/transcripts/Jul-2026.pdf",
+      "text": "fundamentals/HDFCBANK/transcripts/Jul-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+    },
+    {
+      "period": "Apr 2026",
+      "pdf": "fundamentals/HDFCBANK/transcripts/Apr-2026.pdf",
+      "text": "fundamentals/HDFCBANK/transcripts/Apr-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
+    },
+    {
+      "period": "Mar 2026",
+      "pdf": "fundamentals/HDFCBANK/transcripts/Mar-2026.pdf",
+      "text": "fundamentals/HDFCBANK/transcripts/Mar-2026.txt",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf"
+    }
+  ]
 }

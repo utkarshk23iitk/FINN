@@ -1,0 +1,93 @@
+{
+  "symbol": "RELIANCE",
+  "period": "Jan 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 110677,
+    "sent": 40000
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 9366,
+    "output_tokens": 905
+  },
+  "guidance": [
+    {
+      "metric": "capacity",
+      "claim": "We will be more than doubling our capacity on beverages this year.",
+      "quote": "We will be more than doubling our capacity on beverages this year.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Company Speaker"
+    },
+    {
+      "metric": "capacity",
+      "claim": "In next few quarters, we will have ingot and wafer facilities at giga scale.",
+      "quote": "in next few quarters, we will have ingot and wafer both these facilities at the giga scale commissioned and fully ramped up to 10-gigawatt peak during the current year.",
+      "quantified": true,
+      "horizon": "current year",
+      "speaker": "Company Speaker"
+    },
+    {
+      "metric": "ARPU growth",
+      "claim": "Organically improve ARPU by 5% to 6% a year.",
+      "quote": "Organically, if we can improve our ARPU by 5% to 6% a year, I think that is a good number, good place to be in",
+      "quantified": true,
+      "horizon": "a year",
+      "speaker": "Anshuman Thakur"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "retail revenue growth",
+      "claim": "Retail revenue growth was about 8% for the quarter.",
+      "quote": "And on the retail side, revenue growth has been about 8%, and overall EBITDA growth has been 1.3%",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Company Speaker"
+    },
+    {
+      "metric": "PAT",
+      "claim": "PAT came in at 22,290 crores, up about 1.6%.",
+      "quote": "And overall, PAT at 22,290 crores, which was also up about 1.6%.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Company Speaker"
+    },
+    {
+      "metric": "subscriber base",
+      "claim": "Ended the quarter with 515 million plus subscribers.",
+      "quote": "Getting on to some of the key numbers for the quarter, we ended the quarter with 515 million plus subscribers, 8.9 million net adds during the quarter.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Company Speaker"
+    },
+    {
+      "metric": "operating revenues",
+      "claim": "Reported operating revenues of 37,262 Crores, 12.7% higher year-on-year.",
+      "quote": "We reported operating revenues of 37,262 Crores, that is 12.7% year-on-year increase.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Company Speaker"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "Consolidated EBITDA margin was 51.8% for the quarter.",
+      "quote": "EBITDA of 19,303 Crores and consol EBITDA margin at 51.8%.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Company Speaker"
+    },
+    {
+      "metric": "retail revenue",
+      "claim": "Retail business recorded highest ever quarterly revenue at 97,600 Crores.",
+      "quote": "In the retail business, this quarter we had the highest ever revenue at 97,600 Crores.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Company Speaker"
+    }
+  ]
+}

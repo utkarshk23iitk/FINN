@@ -1,0 +1,133 @@
+{
+  "symbol": "POLYCAB",
+  "period": "May 2026",
+  "quarter": "Q4 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 53725,
+    "sent": 34231
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 8884,
+    "output_tokens": 1688
+  },
+  "guidance": [
+    {
+      "metric": "capex",
+      "claim": "We remain on track to execute INR 60 billion to INR 80 billion capex over 5 years.",
+      "quote": "We remain on track to execute our planned capex program of INR 60 billion to INR 80 billion over the next 5 years, which will further enhance our capabilities, scale and innovation.",
+      "quantified": true,
+      "horizon": "next 5 years",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "dividend payout",
+      "claim": "Targeting a 30% dividend payout ratio by financial year 2030.",
+      "quote": "This represents a step forward towards our Project Spring Polycab India Limited May 06, 2026 goal of achieving a 30% payout ratio by financial year 2030.",
+      "quantified": true,
+      "horizon": "FY2030",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "export contribution",
+      "claim": "Aiming for greater than 10% revenue contribution from exports by FY 2030.",
+      "quote": "We remain firm on track to achieve our target of greater than 10% contribution from exports by financial year 2030.",
+      "quantified": true,
+      "horizon": "financial year 2030",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "FMEG margin",
+      "claim": "Targeting 8% to 10% EBITDA margins in FMEG by FY2030.",
+      "quote": "In FMEG, we are also progressing well consistently, outpacing industry growth in line with our target of growing at 1.5x to 2x of market rate, while maintaining a clear focus on margin expansion and progressing towards our EBITDA margin goal of 8% to 10% by FY2030.",
+      "quantified": true,
+      "horizon": "FY2030",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "working capital cycle",
+      "claim": "Working capital cycle expected to revert to steady-state range of 45 to 50 days.",
+      "quote": "On a normalized basis, we expect the working capital cycle to revert to our steady-state range of 45 to 50 days.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "Long-term EBITDA margin expected at 11% to 13%, and near- to mid-term at 12% to 14%.",
+      "quote": "So again, that's a very calibrated guidance which we have given that over long term, we should expect 11% to 13% EBITDA margin. and in the near to mid term, we may expect 12% to 14% EBITDA.",
+      "quantified": true,
+      "horizon": "near to mid term and long term",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "growth vs industry",
+      "claim": "Committed in Cables & Wires to grow at 1.5x of market growth.",
+      "quote": "So again, Sonali, if you refer the Project Spring guidance, which also I referred during my speech, is that we've committed in Cables & Wires, we will grow at 1.5x of market growth.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "capex",
+      "claim": "Annual capex expected around INR 12 billion to INR 16 billion.",
+      "quote": "During FY26, we incurred capex of INR 14.8 billion, in line with our annual guidance of INR 12 billion to INR 16 billion per annum.",
+      "quantified": true,
+      "horizon": "per annum",
+      "speaker": "Shashank Yagnick"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "consolidated revenue growth",
+      "claim": "Consolidated revenue grew 27% year-on-year for the quarter ended March 31, 2026.",
+      "quote": "For the quarter ended March 31, 2026, we are pleased to report a strong performance with consolidated revenue growing 27% year-on-year, driven by robust momentum in both cables and wires as well as FMEG segments.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "EBITDA margin",
+      "claim": "EBITDA margins for the quarter stood at 13.1%.",
+      "quote": "EBITDA for the quarter increased by 13% year-on-year with margins at 13.1% despite multiple industry headwinds and softer trade sentiment amid the ongoing Middle East escalation.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "PAT",
+      "claim": "Company delivered highest ever quarterly PAT of INR7.9 billion, up 7% year-on-year.",
+      "quote": "At the profit level, the company delivered its highest ever quarterly PAT of INR7.9 billion, reflecting a growth of 7% year -on-year.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "PAT margin",
+      "claim": "PAT margins for the quarter stood at 8.9%.",
+      "quote": "PAT margins for the quarter stood at 8.9%.",
+      "quantified": true,
+      "horizon": "Q4 FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "full year revenue",
+      "claim": "Full year revenue crossed INR 285 billion, growing 29% year-on-year.",
+      "quote": "Revenue crossed INR 285 billion milestone, growing 29% year -on-year.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Shashank Yagnick"
+    },
+    {
+      "metric": "full year volume growth",
+      "claim": "Full year volume growth reached 18%.",
+      "quote": "So I think today also, our volume growth for the full year is 18% which is again industry leading.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Shashank Yagnick"
+    }
+  ]
+}
