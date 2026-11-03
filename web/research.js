@@ -117,7 +117,7 @@ function picker(current) {
 
 export async function renderResearch(app, symbol) {
   try {
-    index = index || await getJSON("data/research/index.json");
+    index = index || await getJSON("data/research/companies.json");
   } catch {
     index = [];
   }

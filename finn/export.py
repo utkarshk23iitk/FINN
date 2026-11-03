@@ -112,5 +112,5 @@ def write_research(folder) -> list:
         r = read_json(path)
         write_json(folder / f"{r['symbol']}.json", r)
         index.append({"symbol": r["symbol"], "headline": r["headline"], "counts": r["counts"]})
-    write_json(folder / "index.json", index)
+    write_json(folder / "companies.json", index)
     return index
