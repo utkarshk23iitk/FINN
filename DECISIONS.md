@@ -101,3 +101,8 @@ Short record of choices that shape FINN, and why. Newest last.
     (within 1 pt, or 10% for amounts) / missed. Real case: IRCTC guided
     "15% sustainable growth this year", FY26 sales grew 11.5%, Flash-Lite
     said "delivered". Code says missed, and the page shows both.
+23. **Known limit, stated not hidden: verdicts vary between runs.** With
+    only Flash-Lite available on the free tier, the same company can get a
+    different count on a fresh run (PIDILITIND: 3 of 4, then 5 of 5). Code
+    pins what it can (quotes, sums, numeric verdicts); the rest needs the
+    stronger model and a longer cache.

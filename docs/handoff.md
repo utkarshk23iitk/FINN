@@ -70,8 +70,18 @@ Deadline: Tuesday 3 November 2026 (extended from Sunday 1 Nov in the brief).
 - Results card done (item 2): `finn/results.py`, `python fetch_all.py
   --only results`, then `python export_web.py` and redeploy from `web/`.
   13 companies; 11 pass all checks. Gemini key is in `.env`.
-- Next: promised-vs-delivered (item 3). Transcript label bug below is
-  still open.
+- Promised vs delivered done (item 3): `finn/research.py`, CLI
+  `python research.py SYMBOL`, live `/api/research?symbol=X` (Vercel
+  Python function, GEMINI_API_KEY set in Vercel production env, CDN cache
+  1 day). Prepared: TCS, INFY, ASIANPAINT, IRCTC, KAYNES. Transcript label
+  bug fixed.
+- Deploy now runs from the repo root (`vercel deploy --prod`); `vercel.json`
+  serves `web/` and the function. `.vercelignore` patterns must be anchored
+  with `/` (an unanchored `data/` once hid `web/data/`).
+- Known limits: free tier gives 20 Flash requests/day and no Pro, so the
+  judge ran on Flash-Lite; its verdicts can differ run to run (PIDILITIND:
+  3 delivered + 1 missed, then 5 of 5); horizons are sometimes misread.
+- Next: writeup + `/export` of the sessions.
 
 ## Status as of Mon 2 Nov (checked in Claude Code)
 
