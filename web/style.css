@@ -81,6 +81,11 @@ time, .num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
 
 .verdict { font-size: 22px; line-height: 1.25; margin: 18px 0 12px; letter-spacing: -0.01em; }
 .verdict b { font-weight: 600; }
+.listen {
+  vertical-align: 4px; margin-left: 6px; border: 1px solid var(--line); background: var(--card);
+  border-radius: 999px; padding: 4px 11px; font: 500 13px var(--sans); color: var(--ink);
+}
+.card.reading { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
 .verdict span { display: block; font-size: 13px; color: var(--ink-2); margin-top: 4px; letter-spacing: 0; }
 
 /* company strip: scrolls sideways, active companies first */

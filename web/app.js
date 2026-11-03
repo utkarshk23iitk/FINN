@@ -165,7 +165,7 @@ function moveCard(m, done) {
   const why = m.context
     ? `<p class="why"><span>Likely why</span> ${tag(m.context.category)} ${esc(clip(m.context.headline, 90))} <time>${shortDate(parse(m.context.time))}</time></p>`
     : `<p class="why muted">No filing around this date. Worth asking why.</p>`;
-  return `<article class="card move ${done ? "done" : ""}">
+  return `<article class="card move ${done ? "done" : ""}" data-key="${esc(m.key)}">
     <header>${m.price ? tag("price", true, "Price move") : tag("volume", true, "Volume spike")}${who(c.symbol)}
       <time>${shortDate(parse(s.date))} close</time></header>
     <div class="move-body">
@@ -239,7 +239,7 @@ function filingCard(g, done) {
   const rest = g.rest.length
     ? `<details class="rest"><summary>+${g.rest.length} related filing${g.rest.length > 1 ? "s" : ""}</summary>
         ${g.rest.map((r) => `<p>${esc(r.headline)} ${filingLink(r.url)}</p>`).join("")}</details>` : "";
-  return `<article class="card ${done ? "done" : ""}">
+  return `<article class="card ${done ? "done" : ""}" data-key="${esc(g.key)}">
     <header>${g.story?.changed ? tag("guidance_change", true) : tag(a.category, true)}${who(a.symbol)}<time>${when(a.time)}</time></header>
     <p class="headline">${esc((withNumbers && resultsLine(withNumbers.results)) || (g.story ? `${g.story.quarter} earnings call transcript` : a.headline))}</p>
     ${withNumbers ? resultsTable(withNumbers.results) : ""}
@@ -308,6 +308,7 @@ function portfolio() {
 
 function render() {
   const v = compute();
+  lastView = v;
   const asOf = parse(feed.as_of);
   const n = v.open.length;
   const verdict = n
@@ -325,7 +326,8 @@ function render() {
     </header>
     <nav class="windows" aria-label="Time window">${WINDOWS.map((w) =>
       `<button class="${w.key === state.win ? "on" : ""}" data-action="win" data-win="${w.key}">${w.label}</button>`).join("")}</nav>
-    <p class="verdict">${verdict} <span>${v.worth.length} worth a look · ${v.routine.length} routine, folded · ${v.total} filings in all</span></p>
+    <p class="verdict">${verdict}${"speechSynthesis" in window && n
+      ? ` <button class="listen" data-action="listen" aria-label="Listen to the brief">${speaking ? "■ Stop" : "▶ Listen"}</button>` : ""} <span>${v.worth.length} worth a look · ${v.routine.length} routine, folded · ${v.total} filings in all</span></p>
     ${pulse(v)}
     ${focus}
     <section class="needs">
@@ -339,6 +341,75 @@ function render() {
     <section>${routineBlock(v.routine)}</section>
     ${portfolio()}
     <footer class="foot">Filings: NSE. Prices: Yahoo Finance end-of-day. Ranking is rule-based and runs free; no model reads your feed.</footer>`;
+}
+
+// ---------- spoken brief ----------
+// The first check of the day often happens on the move. The brief is the
+// same queue, read aloud by the phone's own voice: no model, no network.
+
+let speaking = false;
+let lastView = null;
+
+const spokenName = (sym) => (feed.companies.find((c) => c.symbol === sym)?.name || sym)
+  .replace(/\s+(Limited|Ltd\.?)$/i, "").replace(/&/g, " and ");
+const SPOKEN = {
+  results: "results", "M&A": "a merger or acquisition", management_change: "a management change",
+  fund_raise: "a fund raise", litigation: "a legal or regulatory matter", credit_rating: "a credit rating action",
+  pledging: "a change in promoter pledges", insider_trading: "an insider trade", capex: "a capex plan",
+};
+const times = (r) => (r >= 10 ? r.toFixed(0) : r.toFixed(1).replace(/\.0$/, ""));
+const say = (v, what) => `${what} ${v < 0 ? "down" : "up"} ${Math.abs(v).toFixed(1).replace(/\.0$/, "")} percent`;
+
+function lineFor(item) {
+  if (item.kind === "move") {
+    const { s, company: c } = item;
+    const parts = [item.price ? `${s.change_pct < 0 ? "fell" : "rose"} ${Math.abs(s.change_pct).toFixed(1)} percent` : "",
+      item.vol ? `on ${times(s.volume_ratio)} times its usual volume` : ""].filter(Boolean).join(" ");
+    const why = item.context ? `, likely on its ${(LABEL[item.context.category] || "filing").toLowerCase()}` : ", with no filing to explain it";
+    return `${spokenName(c.symbol)} ${item.price ? parts : `traded ${parts.replace(/^on /, "")}`}${why}.`;
+  }
+  const a = item.lead, name = spokenName(a.symbol);
+  const withNumbers = [a, ...item.rest].find((x) => x.results?.ok);
+  if (withNumbers) {
+    const row = Object.fromEntries(withNumbers.results.rows.map((x) => [x.metric, x]));
+    return `${name} results: ${say(row.pat.yoy, "profit")} from a year ago, on ${say(row.revenue.yoy, "revenue")}.`;
+  }
+  if (item.story?.changed) {
+    const first = item.story.new[0] || item.story.missed[0];
+    return `${name}'s earnings call changed the story${first ? ` on ${(first.topic || first.promise).toLowerCase()}` : ""}.`;
+  }
+  // Short headlines are just the exchange's label ("Change in Management"): skip them.
+  const detail = a.headline.length > 40 ? `: ${a.headline.split(/[.;]/)[0]}` : "";
+  return `${name} filed ${SPOKEN[a.category] || "an update"}${detail}.`;
+}
+
+function highlight(key) {
+  document.querySelectorAll(".card.reading").forEach((el) => el.classList.remove("reading"));
+  const el = key && document.querySelector(`[data-key="${CSS.escape(key)}"]`);
+  if (el) { el.classList.add("reading"); el.scrollIntoView({ behavior: "smooth", block: "center" }); }
+}
+
+function listen() {
+  const synth = window.speechSynthesis;
+  if (speaking) { synth.cancel(); speaking = false; highlight(null); render(); return; }
+  const v = lastView, n = v.open.length;
+  const voice = synth.getVoices().find((x) => x.lang === "en-IN") || synth.getVoices().find((x) => x.lang.startsWith("en"));
+  const parts = [
+    { text: `${n} ${n === 1 ? "thing needs" : "things need"} you.` },
+    ...v.open.slice(0, 6).map((item) => ({ text: lineFor(item), key: item.key })),
+    { text: `${n > 6 ? `${n - 6} more in the app. ` : ""}${v.worth.length} more worth a look, ${v.routine.length} routine filings folded. That's all.` },
+  ];
+  synth.cancel();
+  speaking = true;
+  render();
+  parts.forEach((p, i) => {
+    const u = new SpeechSynthesisUtterance(p.text);
+    if (voice) u.voice = voice;
+    u.rate = 1.05;
+    u.onstart = () => highlight(p.key);
+    if (i === parts.length - 1) u.onend = () => { speaking = false; highlight(null); if (!onResearch()) render(); };
+    synth.speak(u);
+  });
 }
 
 // ---------- rules sheet ----------
@@ -384,6 +455,7 @@ document.addEventListener("click", (e) => {
     store.set("done", [...state.done]); render();
   } else if (act === "rules") { renderSheet(); sheet.hidden = false; }
   else if (act === "close") { sheet.hidden = true; }
+  else if (act === "listen") { listen(); }
   else if (act === "cat") {
     const set = new Set(state.rules.alert_categories);
     set.has(el.dataset.cat) ? set.delete(el.dataset.cat) : set.add(el.dataset.cat);
@@ -411,8 +483,11 @@ document.addEventListener("submit", (e) => {
   if (sym) location.hash = `#research/${sym}`;
 });
 
+const onResearch = () => location.hash.startsWith("#research");
+
 // Two places, one app: Today (push) and Research (pull).
 function route() {
+  if (speaking) { window.speechSynthesis.cancel(); speaking = false; }
   const [tab, sym] = location.hash.replace(/^#/, "").split("/");
   const research = tab === "research";
   document.querySelectorAll(".tabbar a").forEach((a) =>
