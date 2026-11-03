@@ -29,8 +29,9 @@ which filing types alert) are set by the user and applied instantly.
   one line, with the company's track record. When the new call changes the
   story (a revised target, a pushed-out timeline, an earlier promise now
   shown missed), it becomes a "Guidance change" alert that says what
-  changed. 13 companies have this check; the newest call is read from the
-  NSE filing itself, because screener.in lagged by days.
+  changed. 9 portfolio companies' latest calls carry this check; the newest
+  call is read from the NSE filing itself, because screener.in lagged by
+  days.
 - **"▶ Listen"** reads the queue aloud with the phone's own voice and
   outlines each card as it goes. It is built by code from the same data: no
   model, no cost, nothing invented.
@@ -55,16 +56,16 @@ in about 20 seconds.
      says 5186.55, so the card is flagged.
    - Maruti reports in ₹ million; the model said crore. A cross-check with
      screener.in caught the 100x slip.
-   - Every quote from a transcript is matched word for word; 5 invented
+   - Every quote from a transcript is matched word for word; 8 invented
      quotes were dropped.
    - IRCTC guided "15% growth this year" and delivered 11.5%; the model said
      "delivered". The numbers now decide, and the page shows that the model
-     disagreed (4 such overrides).
+     disagreed (6 such overrides).
 3. **Rules first, models for the rest.** 274 filings are classified and
    ranked by rules at zero cost. Priority is separate from category: a CFO
    resignation is promoted, an auditor appointment buried.
-4. **Cheap model by default, stronger only when needed.** 49 model calls,
-   about 250k tokens in total, all on Gemini's free tier. Flash-Lite does the
+4. **Cheap model by default, stronger only when needed.** 86 model calls,
+   about 480k tokens in total, all on Gemini's free tier. Flash-Lite does the
    reading; a stronger model is used only when a check fails. Everything is
    cached, so nothing is paid for twice.
 5. **The demo never depends on a live scrape.** The Today tab is a static site
