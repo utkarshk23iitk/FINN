@@ -197,6 +197,21 @@ class TestResearch(unittest.TestCase):
         self.assertEqual(call_quarter("May 2026"), ("Q4 FY26", "2026-03"))
         self.assertEqual(call_quarter("Aug 2026"), ("Q1 FY27", "2026-06"))
 
+    def test_newer_nse_transcript_joins_screener_list(self):
+        # Real case (2 Nov 2026): LT filed its Q2 FY27 transcript with NSE;
+        # screener.in listed the call but had no transcript yet.
+        from unittest import mock
+        from finn import research
+        nse = [{"period": "Nov 2026", "source_url": "nse.pdf", "announcement_id": "x", "nse": True}]
+        saved = [{"period": p, "source_url": p} for p in ("Jul 2026", "May 2026", "Feb 2026", "Nov 2025")]
+        with mock.patch.object(research, "nse_transcripts", return_value=nse):
+            got = research.latest_calls("LT", saved)
+        self.assertEqual([t["period"] for t in got], ["Nov 2026", "Jul 2026", "May 2026", "Feb 2026"])
+        # When screener has the same quarter, its copy is used.
+        with mock.patch.object(research, "nse_transcripts", return_value=nse):
+            got = research.latest_calls("LT", [{"period": "Oct 2026", "source_url": "s"}] + saved)
+        self.assertEqual(got[0]["source_url"], "s")
+
     def test_fiscal_totals_use_april_to_march(self):
         from finn.research import fiscal_totals
         periods = ["Jun 2025", "Sep 2025", "Dec 2025", "Mar 2026", "Jun 2026", "Sep 2026"]

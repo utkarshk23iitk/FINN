@@ -174,7 +174,9 @@ def download_transcripts(symbol: str, concalls: list, n: int = config.TRANSCRIPT
     you'll send to the model; extracting once and caching keeps LLM costs down).
     A failed download moves on to the next quarter, so n are saved if possible."""
     saved = []
-    for c in pick_transcripts(concalls):
+    # Some companies link web pages, not PDFs (MARUTI). Stop after 2n tries
+    # instead of walking ten years of links.
+    for c in pick_transcripts(concalls)[:2 * n]:
         if len(saved) >= n:
             break
         slug = _slug(c["period"])

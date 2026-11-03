@@ -133,6 +133,7 @@ def extract_call(symbol: str, t: dict) -> dict:
         kept[kind] = [i for i in out.get(kind, []) if quote_found(i["quote"], squashed)]
         dropped += len(out.get(kind, [])) - len(kept[kind])
     result = {"symbol": symbol, "period": t["period"], "quarter": quarter, "source_url": t["source_url"],
+              "nse": t.get("nse", False),
               "chars": {"transcript": len(source), "sent": len(trimmed[:40000])},
               "dropped_unverified": dropped, "usage": usage, **kept}
     write_json(path, result)
@@ -307,6 +308,51 @@ def rescore(symbol: str) -> dict:
     return r
 
 
+TRANSCRIPT_FILING = re.compile(r"transcript", re.I)
+MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+
+def nse_transcripts(symbol: str) -> list:
+    """Call transcripts the company filed with NSE (cached announcements).
+    screener.in can lag the exchange by days; the filing is the primary
+    source and is what the Today tab sees first."""
+    from finn import announcements
+    out = []
+    for a in announcements.load_announcements(symbol):
+        body = f"{a['subject']} {a['text']}"
+        if a.get("time") and a.get("url", "").lower().endswith(".pdf") and TRANSCRIPT_FILING.search(body) \
+                and not re.search(r"audio|video|recording", a["text"][:80], re.I):
+            month = int(a["time"][5:7])
+            out.append({"period": f"{MONTHS[month - 1]} {a['time'][:4]}", "source_url": a["url"],
+                        "announcement_id": a["id"], "nse": True})
+    return out
+
+
+def _with_text(symbol: str, t: dict) -> dict:
+    """Download an NSE transcript once and keep its text, like screener's."""
+    if t.get("text"):
+        return t
+    from finn.announcements import HEADERS
+    import requests
+    pdf_path = data_path("fundamentals", symbol, "transcripts", f"NSE-{t['announcement_id']}.pdf")
+    txt_path = pdf_path.with_suffix(".txt")
+    if not txt_path.exists():
+        resp = requests.get(t["source_url"], headers={**HEADERS, "Accept": "application/pdf,*/*"}, timeout=90)
+        resp.raise_for_status()
+        pdf_path.write_bytes(resp.content)
+        txt_path.write_text(fundamentals._pdf_to_text(pdf_path), encoding="utf-8")
+    return {**t, "text": txt_path.relative_to(data_path("x").parent).as_posix()}
+
+
+def latest_calls(symbol: str, saved: list, n: int = 4) -> list:
+    """The last n calls by quarter: screener's transcripts plus any newer one
+    filed with NSE. One per quarter; screener's copy wins when both exist."""
+    by_quarter = {}
+    for t in nse_transcripts(symbol) + saved:  # later entries (screener) overwrite
+        by_quarter[call_quarter(t["period"])[1]] = t
+    return [by_quarter[k] for k in sorted(by_quarter, reverse=True)[:n]]
+
+
 def review(symbol: str, refresh: bool = False, transcripts: int = 4) -> dict:
     """Promised vs delivered for any NSE symbol screener.in covers."""
     path = data_path("research", symbol, "review.json")
@@ -316,7 +362,7 @@ def review(symbol: str, refresh: bool = False, transcripts: int = 4) -> dict:
     summary = read_json(data_path("fundamentals", symbol, "summary.json"))
     if not summary or len(summary.get("transcripts_saved", [])) < transcripts:
         summary = fundamentals.fetch_fundamentals(symbol, transcripts)
-    saved = summary["transcripts_saved"][:transcripts]
+    saved = [_with_text(symbol, t) for t in latest_calls(symbol, summary["transcripts_saved"], transcripts)]
     if not saved:
         raise ValueError(f"no concall transcripts found for {symbol}")
     # The four calls are independent: read them in parallel (an on-demand
@@ -343,7 +389,7 @@ def review(symbol: str, refresh: bool = False, transcripts: int = 4) -> dict:
     result = {
         "symbol": symbol, "headline": out.get("headline", ""), "counts": counts,
         "promises": promises, "shifts": out.get("shifts", [])[:3],
-        "calls": [{"quarter": c["quarter"], "period": c["period"], "url": c["source_url"],
+        "calls": [{"quarter": c["quarter"], "period": c["period"], "url": c["source_url"], "nse": c.get("nse", False),
                    "guidance": len(c["guidance"]), "reported": len(c["reported"]),
                    "dropped_unverified": c["dropped_unverified"]} for c in calls],
         "numbers": {"periods": summary["quarters"]["periods"][-8:],
