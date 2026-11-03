@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03T01:13:01",
-  "generated_at": "2026-11-03T04:57:22",
+  "generated_at": "2026-11-03T05:32:59",
   "defaults": {
     "volume_multiple": 2.0,
     "volume_lookback_days": 20,
